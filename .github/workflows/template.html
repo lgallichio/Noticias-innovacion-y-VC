@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Digest VC — Club de Venture Capital e Innovación · UdeSA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800&family=Spline+Sans+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #16141a;
+    --paper: #fdfdfb;
+    --muted: #6e6a75;
+    --accent: #7a1e2b;       /* oxblood: tinta de term sheet */
+    --accent-soft: #f6ecee;
+    --rule: #e4e1e6;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Archivo", system-ui, sans-serif;
+    line-height: 1.55;
+    padding: 0 20px 80px;
+  }
+  .wrap { max-width: 700px; margin: 0 auto; }
+
+  header { padding: 48px 0 32px; }
+  .masthead {
+    font-family: "Spline Sans Mono", monospace;
+    font-size: 13px; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--muted);
+    display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap;
+  }
+  .masthead b { color: var(--accent); font-weight: 500; }
+  h1.titular {
+    margin-top: 28px;
+    font-weight: 800; font-size: clamp(28px, 5.5vw, 42px);
+    line-height: 1.12; letter-spacing: -0.015em;
+  }
+  .fecha {
+    margin-top: 14px;
+    font-family: "Spline Sans Mono", monospace;
+    font-size: 13px; color: var(--muted);
+  }
+
+  .item { padding: 36px 0 0; margin-top: 36px; border-top: 1px solid var(--rule); }
+  .item-meta {
+    display: flex; align-items: baseline; gap: 14px;
+    font-family: "Spline Sans Mono", monospace; font-size: 12px;
+  }
+  .num { color: var(--accent); font-weight: 500; }
+  .cat {
+    background: var(--accent-soft); color: var(--accent);
+    padding: 2px 8px; letter-spacing: .05em; text-transform: uppercase;
+  }
+  .src { color: var(--muted); margin-left: auto; }
+  .item h2 { margin-top: 12px; font-size: 21px; font-weight: 700; line-height: 1.25; }
+  .item h2 a { color: inherit; text-decoration: none; }
+  .item h2 a:hover { color: var(--accent); }
+  .item h2 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+  .resumen { margin-top: 10px; font-size: 16px; }
+
+  /* firma de la página: la nota al margen "por qué importa" */
+  .importa {
+    margin-top: 14px; padding: 10px 0 10px 16px;
+    border-left: 3px solid var(--accent);
+    font-size: 14.5px; color: #3d3942;
+  }
+  .importa span {
+    display: block;
+    font-family: "Spline Sans Mono", monospace;
+    font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 3px;
+  }
+
+  footer {
+    margin-top: 64px; padding-top: 20px; border-top: 1px solid var(--rule);
+    font-family: "Spline Sans Mono", monospace; font-size: 12px; color: var(--muted);
+    display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px;
+  }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="masthead">
+        <span><b>Digest VC</b> · Club de VC e Innovación · UdeSA</span>
+        <span>Edición diaria</span>
+      </div>
+      <h1 class="titular">{{TITULAR}}</h1>
+      <p class="fecha">{{FECHA}} · curado a las {{TIMESTAMP}}</p>
+    </header>
+
+    <main>
+{{ITEMS}}
+    </main>
+
+    <footer>
+      <span>Curado con IA · fuentes verificables en cada nota</span>
+      <span><a href="archive/">Archivo de ediciones</a></span>
+    </footer>
+  </div>
+</body>
+</html>

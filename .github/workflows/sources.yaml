@@ -1,0 +1,47 @@
+# Fuentes del digest. Agregar/quitar es editar este archivo, nada más.
+# rss: URL del feed. Si una fuente no tiene RSS, ver README (sección "Fuentes sin RSS").
+# peso: 1-3, sube la prioridad de la fuente en la curaduría (3 = núcleo del club).
+
+fuentes:
+  # --- LatAm / Argentina (núcleo) ---
+  - nombre: Contxto
+    rss: https://contxto.com/en/feed/
+    idioma: en
+    peso: 3
+  - nombre: LAVCA
+    rss: https://www.lavca.org/feed/
+    idioma: en
+    peso: 3
+  - nombre: Endeavor Argentina
+    rss: https://www.endeavor.org.ar/feed/
+    idioma: es
+    peso: 3
+  - nombre: iProUP
+    rss: https://www.iproup.com/rss
+    idioma: es
+    peso: 2
+  - nombre: Forbes Argentina
+    rss: https://www.forbesargentina.com/rss/negocios.xml
+    idioma: es
+    peso: 2
+
+  # --- Global VC / PE / startups ---
+  - nombre: TechCrunch
+    rss: https://techcrunch.com/feed/
+    idioma: en
+    peso: 2
+  - nombre: TechCrunch Venture
+    rss: https://techcrunch.com/category/venture/feed/
+    idioma: en
+    peso: 3
+  - nombre: Crunchbase News
+    rss: https://news.crunchbase.com/feed/
+    idioma: en
+    peso: 2
+  - nombre: PitchBook News
+    rss: https://pitchbook.com/news/rss
+    idioma: en
+    peso: 2
+
+# Nota: verificar cada URL de RSS al hacer el setup inicial (algunas cambian).
+# ARCAP no tiene RSS público; ver README para alternativas.
