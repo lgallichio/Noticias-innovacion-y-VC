@@ -1,0 +1,36 @@
+name: Digest diario
+
+on:
+  schedule:
+    # 10:00 UTC = 07:00 ART, todos los días (cron de GitHub usa UTC)
+    - cron: "0 10 * * *"
+  workflow_dispatch: {}   # permite correrlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Generar digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python curate.py
+
+      - name: Publicar (commit a docs/)
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "actions@github.com"
+          git add docs/
+          git diff --cached --quiet || git commit -m "Digest $(date +%F)"
+          git push
