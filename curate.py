@@ -207,6 +207,7 @@ def main() -> None:
     ahora = datetime.now(TZ)
     html = render_html(digest, ahora)
     docs = ROOT / "docs"
+    (docs / "archive").mkdir(parents=True, exist_ok=True)
     (docs / "index.html").write_text(html, encoding="utf-8")
     (docs / "archive" / f"{ahora:%Y-%m-%d}.html").write_text(html, encoding="utf-8")
     (docs / "digest.json").write_text(
