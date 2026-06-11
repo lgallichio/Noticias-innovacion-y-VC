@@ -1,0 +1,95 @@
+{
+  "titular_del_dia": "Clip recibe USD 500M y Plata asegura línea de crédito de USD 300M: el financiamiento fintech en LatAm no se detiene",
+  "items": [
+    {
+      "indice": 0,
+      "categoria": "LatAm",
+      "titulo_es": "Clip levanta USD 500M, Plata obtiene línea de crédito de USD 300M y Benchmark respaldo a Pax",
+      "resumen": "LAVCA reporta tres movimientos relevantes en el ecosistema fintech latinoamericano: Clip, la procesadora de pagos mexicana, recibió un cheque de USD 500M; Plata aseguró una línea de crédito de USD 300M; y la firma Benchmark Capital respaldó a Pax. Las tres operaciones refuerzan el dinamismo del sector fintech en México y la región.",
+      "por_que_importa": "Muestra que el capital de riesgo sigue fluyendo hacia fintechs latinas en rondas de gran tamaño, un caso de estudio directo para entender cómo se estructuran deals en la región.",
+      "link": "https://www.lavca.org/clips-usd500m-check-platas-usd300m-credit-line-benchmark-backs-pax/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 1,
+      "categoria": "LatAm",
+      "titulo_es": "LAVCA anuncia los Deal Awards 2026: los mejores deals de inversión en América Latina del año",
+      "resumen": "LAVCA, la principal asociación de capital privado y venture capital de América Latina, presentó los ganadores de sus Deal Awards 2026, que reconocen las operaciones más destacadas de VC, PE y deuda privada en la región durante el año. Es el benchmark anual más importante para medir la actividad del ecosistema inversor latinoamericano.",
+      "por_que_importa": "Los LAVCA Deal Awards son una referencia clave para conocer qué tipo de operaciones, sectores e inversores están liderando el mercado latinoamericano, información esencial para cualquier estudiante de VC.",
+      "link": "https://www.lavca.org/2026-lavca-deal-awards/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 18,
+      "categoria": "Global",
+      "titulo_es": "Las tres apuestas tecnológicas detrás del IPO histórico de SpaceX",
+      "resumen": "TechCrunch analiza que gran parte de la valuación del IPO de SpaceX descansa en tres proyectos de deep tech: data centers espaciales, Starlink y el programa Starship. El artículo argumenta que el valor de la empresa es esencialmente una opción de compra sobre el futuro de la infraestructura espacial de datos.",
+      "por_que_importa": "El IPO de SpaceX es uno de los eventos más importantes del mercado de capitales en años, y entender cómo se valúan apuestas de largo plazo en hard tech es fundamental para cualquier analista de VC o PE.",
+      "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 2,
+      "categoria": "Fondos",
+      "titulo_es": "Cómo un fundador invirtió USD 500M en startups top sin un fondo de VC tradicional",
+      "resumen": "Justin Ernest, fundador de Sabertooth VC, construyó una red cautiva de LPs para co-invertir en compañías como Anthropic, Anduril y SpaceX sin levantar un fondo formal, evitando el ciclo tradicional de fundraising de 12 meses. El modelo le permitió actuar con mayor velocidad y flexibilidad que un vehículo institucional convencional.",
+      "por_que_importa": "Ilustra cómo están evolucionando los modelos alternativos de vehículos de inversión, un tema muy relevante para entender la industria VC más allá de los fondos tradicionales.",
+      "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "fuente": "TechCrunch Venture"
+    },
+    {
+      "indice": 11,
+      "categoria": "Tendencias",
+      "titulo_es": "Las empresas más 'adictas' a la IA gastan USD 7.500 por empleado al mes en herramientas de inteligencia artificial",
+      "resumen": "Según el Ramp AI Index, las compañías con mayor adopción de IA destinan aproximadamente USD 7.500 mensuales por empleado en herramientas de inteligencia artificial. El dato muestra una aceleración significativa en el gasto corporativo en IA, aunque todavía por debajo del costo salarial de un ingeniero.",
+      "por_que_importa": "Cuantifica la magnitud real de la ola de inversión en IA a nivel empresarial, dato clave para evaluar oportunidades y valuaciones en el sector.",
+      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 24,
+      "categoria": "Tendencias",
+      "titulo_es": "El financiamiento a startups de semiconductores supera los USD 10.000M en lo que va de 2026",
+      "resumen": "Crunchbase reporta que las inversiones en startups de semiconductores acumularon cerca de USD 10.000M en rondas desde semilla hasta pre-IPO en los primeros meses de 2026, con compañías como Cerebras, MatX y Ayar Labs liderando la actividad. El sector se mantiene como uno de los más activos a nivel global, impulsado por la demanda de chips para IA.",
+      "por_que_importa": "Entender el ciclo de inversión en semiconductores es clave para comprender la cadena de valor de la IA y los sectores donde el capital de riesgo está apostando fuerte a nivel global.",
+      "link": "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "Amazon toma prestados USD 17.500M de bancos para sostener su carrera de inversión en IA",
+      "resumen": "Amazon tomó una línea de crédito bancaria de USD 17.500M apenas días después de una emisión de bonos, con el objetivo de financiar su agresiva expansión en infraestructura de inteligencia artificial. El movimiento refleja cómo las grandes tecnológicas están recurriendo a deuda para sostener niveles de capex sin precedentes en la carrera por la IA.",
+      "por_que_importa": "Muestra cómo el financiamiento de la infraestructura de IA está redefiniendo las estructuras de capital de las big tech, con implicancias directas para el ecosistema de startups y fondos que orbitan ese sector.",
+      "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 20,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Warner Music adquiere la startup de atribución de IA Sureel AI",
+      "resumen": "Warner Music Group (WMG) anunció la adquisición de Sureel AI, una startup especializada en rastrear el uso de obras de artistas en contenido generado por IA y en el entrenamiento de modelos. Con la compra, WMG busca proteger los derechos de sus artistas en el contexto de la proliferación de IA generativa.",
+      "por_que_importa": "Es un ejemplo concreto de exit por adquisición estratégica en el espacio de AI x contenido, un segmento emergente con creciente actividad de M&A.",
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 17,
+      "categoria": "Rondas",
+      "titulo_es": "Ex ejecutivos de Datadog lanzan Niteshift y levantan USD 7M seed para agentes de código sin dependencia de grandes modelos",
+      "resumen": "Niteshift, una startup de agentes de codificación fundada por veteranos de Datadog, cerró una ronda seed de USD 7M con participación de un grupo destacado de angels. La compañía apuesta a que las empresas preferirán soluciones de IA para código que no generen dependencia (lock-in) con los grandes proveedores de modelos como OpenAI o Anthropic.",
+      "por_que_importa": "Refleja una tesis de inversión emergente en el espacio de AI dev tools: la apuesta por soberanía tecnológica frente al lock-in de los grandes modelos, relevante para entender hacia dónde va el capital en el ecosistema de IA aplicada.",
+      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 22,
+      "categoria": "Rondas",
+      "titulo_es": "Jedify recauda USD 24M para dotar a agentes de IA con contexto específico de cada empresa",
+      "resumen": "Jedify cerró una ronda de USD 24M liderada por Norwest Venture Partners, con participación de S Capital VC, Cerca Partners, Oceans Ventures y Snowflake Ventures como inversor estratégico. La startup desarrolla infraestructura para que los agentes de IA corporativos accedan al conocimiento interno y contexto específico de cada organización.",
+      "por_que_importa": "La ronda ejemplifica el creciente interés inversor en la capa de infraestructura para agentes de IA empresarial, uno de los segmentos con mayor flujo de capital en el ecosistema global de VC en 2026.",
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "fuente": "TechCrunch"
+    }
+  ]
+}
