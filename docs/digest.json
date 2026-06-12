@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "Clip recibe un cheque de USD 500M y Plata una línea de crédito de USD 300M: el fintech latinoamericano sigue atrayendo capital a escala",
+  "titular_del_dia": "El IPO de SpaceX marca un hito histórico y redefine el mercado de capitales global: ¿qué significa para el ecosistema VC?",
   "items": [
     {
-      "indice": 0,
-      "categoria": "Rondas | LatAm",
-      "titulo_es": "Clip levanta USD 500M, Plata obtiene línea de crédito de USD 300M y Benchmark respalda a Pax en LatAm",
-      "resumen": "El mexicano Clip cerró un cheque de USD 500M en una de las rondas más grandes del año para fintech latinoamericano. Plata, también de México, aseguró una línea de crédito de USD 300M para escalar su oferta de servicios financieros. Además, Benchmark Capital respaldó a Pax, sumando presencia de un top-tier VC global en la región.",
-      "por_que_importa": "Tres movimientos de capital significativos en LatAm en simultáneo confirman que el ecosistema fintech regional sigue siendo uno de los destinos más activos para inversores globales en 2026.",
-      "link": "https://www.lavca.org/clips-usd500m-check-platas-usd300m-credit-line-benchmark-backs-pax/",
-      "fuente": "LAVCA"
+      "indice": 5,
+      "categoria": "Exits/M&A",
+      "titulo_es": "SpaceX fija precio de salida a bolsa en u$s135 por acción en el mayor IPO de la historia",
+      "resumen": "SpaceX oficializó el precio de su IPO en u$s135 por acción, convirtiéndose en la mayor oferta pública inicial de la historia. La compañía de Elon Musk llevará años de retornos acumulados por inversores privados al mercado público. El evento marca un punto de inflexión para el mercado de capitales de riesgo a nivel global.",
+      "por_que_importa": "El IPO de SpaceX es el caso de estudio definitivo sobre cómo una empresa respaldada por VC puede transformarse en el mayor evento de liquidez de la historia, con implicancias directas sobre cómo se valoran activos privados en etapas tempranas.",
+      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 1,
-      "categoria": "Ecosistema AR | LatAm",
-      "titulo_es": "LAVCA anuncia los Deal Awards 2026: los mejores deals de venture y private equity en América Latina",
-      "resumen": "LAVCA presentó su edición 2026 de los Deal Awards, que reconocen las transacciones más destacadas de VC y PE en América Latina durante el último año. El premio es un termómetro clave del ecosistema regional, ya que refleja qué sectores, geografías e inversores lideraron la actividad. Los ganadores representan un benchmark de referencia para entender hacia dónde fluye el capital en la región.",
-      "por_que_importa": "Conocer los deals premiados por LAVCA permite a estudiantes del club mapear los inversores más activos, los sectores con mayor tracción y los estándares de calidad que definen una transacción exitosa en LatAm.",
-      "link": "https://www.lavca.org/2026-lavca-deal-awards/",
-      "fuente": "LAVCA"
+      "indice": 20,
+      "categoria": "Tendencias",
+      "titulo_es": "Antes de celebrar la apertura del mercado de IPOs, hay que analizar hacia dónde irá el dinero",
+      "resumen": "Marc Schröder de MGV advierte que SpaceX, OpenAI y Anthropic cotizando en bolsa se convertirán en adquirentes con capacidad financiera sin precedentes, lo que podría redirigir capital que antes fluía hacia startups hacia operaciones de M&A. El análisis plantea que el impacto real para el ecosistema emprendedor será estructural, no solo un aumento de liquidez.",
+      "por_que_importa": "Entender cómo los grandes IPOs reconfiguran los flujos de capital y la dinámica de M&A es clave para anticipar el comportamiento del mercado VC en los próximos años, incluyendo LatAm.",
+      "link": "https://news.crunchbase.com/public/ipo-window-liquid-money-ma-schroder-mgv/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "Inversores minoristas en SPVs de SpaceX enfrentan opacidad, comisiones ocultas y riesgo de fraude post-IPO",
+      "resumen": "Los inversores que accedieron a SpaceX a través de vehículos de propósito especial (SPVs) de menor tramo no conocerán sus tenencias reales hasta que venzan los períodos de lock-up post-IPO. Según TechCrunch, estos instrumentos incluyen comisiones ocultas, demoras en los pagos y riesgo de fraude. El fenómeno expone las tensiones estructurales del mercado privado de acceso a unicornios.",
+      "por_que_importa": "Los SPVs son un mecanismo cada vez más utilizado en LatAm para democratizar el acceso a inversiones en startups; conocer sus riesgos reales es fundamental para cualquier futuro profesional del sector.",
+      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "fuente": "TechCrunch"
     },
     {
       "indice": 22,
       "categoria": "Tendencias",
-      "titulo_es": "Las rondas de USD 100M ya son el nuevo estándar en late-stage: qué dice esto sobre el mercado de VC global",
-      "resumen": "Según datos de Crunchbase para 2026, las rondas de USD 100M o más dejaron de ser excepcionales y se convirtieron en el financiamiento típico de etapa tardía. La mediana de rondas late-stage creció significativamente, impulsada por la concentración de capital en startups de IA y sectores de alto crecimiento. Este fenómeno refleja tanto la abundancia de capital disponible como la mayor valuación de compañías en etapas avanzadas.",
-      "por_que_importa": "Entender la inflación de rondas late-stage a nivel global ayuda a contextualizar por qué los deals de USD 500M en LatAm como el de Clip ya no son anomalías, sino parte de una tendencia estructural del mercado.",
+      "titulo_es": "Las rondas de más de u$s100M ya son el financiamiento típico en etapas avanzadas, según datos de Crunchbase",
+      "resumen": "Un análisis de Crunchbase revela que en 2026 las rondas de u$s100M o más ya no son excepcionales sino la mediana del financiamiento late-stage. El fenómeno refleja la concentración de capital en pocas compañías y la inflación de valuaciones en etapas tardías. Este cambio tiene implicancias directas sobre cómo se miden los hitos de crecimiento en el ecosistema VC.",
+      "por_que_importa": "Comprender la evolución de los tamaños de ronda ayuda a contextualizar correctamente el ecosistema latinoamericano, donde los mismos montos tienen un impacto relativo muy diferente.",
       "link": "https://news.crunchbase.com/venture/median-late-stage-startup-funding-round-size-2026-data/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 24,
-      "categoria": "Tendencias",
-      "titulo_es": "El funding en startups de semiconductores supera los USD 10.000M en lo que va de 2026",
-      "resumen": "Según Crunchbase, el sector de semiconductores acumuló aproximadamente USD 10.000M en rondas desde seed hasta pre-IPO en los primeros meses de 2026, con compañías como Cerebras y Ayar Labs entre los casos destacados. La demanda de chips para infraestructura de IA es el principal driver de este boom de inversión. El sector también muestra actividad en la ventana de IPOs, con varias compañías en pipeline.",
-      "por_que_importa": "El financiamiento masivo en semiconductores ilustra cómo la carrera por la infraestructura de IA está generando oportunidades de inversión en capas más profundas del stack tecnológico, relevante para entender tesis de deep tech VC.",
-      "link": "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/",
+      "indice": 21,
+      "categoria": "Fondos",
+      "titulo_es": "Base10 Partners cierra dos fondos por u$s850M para invertir en automatización de la economía real",
+      "resumen": "La firma con sede en San Francisco cerró un fondo de seed y Series A por un monto no divulgado y un fondo de Series B, sumando u$s850M en total. La tesis de inversión se enfoca en logística, nómina, construcción y otros sectores de la economía real. Base10 se distingue por invertir en empresas que automatizan industrias tradicionales alejadas del software puro.",
+      "por_que_importa": "La tesis de automatización de sectores tradicionales es altamente relevante para LatAm, donde la informalidad y las ineficiencias operativas representan una oportunidad estructural enorme para startups.",
+      "link": "https://news.crunchbase.com/venture/base10-partners-invests-real-economy-automation-ajao/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 15,
-      "categoria": "Tendencias",
-      "titulo_es": "Las empresas más intensivas en IA gastan USD 7.500 por empleado por mes en herramientas de inteligencia artificial",
-      "resumen": "El índice de IA de Ramp reveló que las firmas más 'AI-pilled' destinan alrededor de USD 7.500 mensuales por empleado a herramientas y plataformas de IA, un dato que pone en perspectiva el impacto económico real de la adopción empresarial. Si bien ese monto todavía no supera el salario de un ingeniero, la tendencia al alza es clara y está acelerando. El dato proviene de análisis de transacciones corporativas reales, no de encuestas.",
-      "por_que_importa": "Este indicador es clave para evaluar el tamaño real del mercado B2B de IA y entender la racionalidad económica detrás de las valuaciones millonarias de startups de software empresarial.",
-      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "indice": 4,
+      "categoria": "Rondas",
+      "titulo_es": "Prometheus, la startup de Jeff Bezos en IA física, recauda u$s12.000M a una valuación de u$s41.000M",
+      "resumen": "Prometheus, respaldada por Jeff Bezos, cerró una ronda de u$s12.000M que la valúa en u$s41.000M. La compañía desarrolla un 'ingeniero general artificial' orientado a automatizar ingeniería pesada y diseño de fármacos. Es una de las rondas más grandes de la historia del VC y refleja la carrera por liderar la IA aplicada al mundo físico.",
+      "por_que_importa": "Rondas de esta magnitud redefinen los benchmarks de valuación y atraen capital institucional que luego busca oportunidades en ecosistemas emergentes como LatAm para diversificar exposición.",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 3,
+      "categoria": "Rondas",
+      "titulo_es": "Theker recauda u$s85M para desarrollar robots industriales modulares y reconfigurables",
+      "resumen": "Theker levantó u$s85M para construir robots de fábrica que no están especializados en una tarea fija, sino que pueden reconfigurarse según la necesidad. A diferencia de humanoides rígidos como los de Boston Dynamics, su propuesta es la flexibilidad operativa. La ronda posiciona a la empresa en la intersección entre robótica avanzada y manufactura inteligente.",
+      "por_que_importa": "La robótica modular aplicada a manufactura es una tendencia que podría impactar la base industrial de países como México, Brasil y Argentina, abriendo oportunidades y disrupciones en sectores clave.",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 11,
       "categoria": "Tendencias",
-      "titulo_es": "Amazon toma prestados USD 17.500M de bancos para sostener su escalada de inversión en IA",
-      "resumen": "Amazon acudió a los mercados de deuda bancaria por USD 17.500M, luego de una reciente emisión de bonos, para financiar su expansión en infraestructura de IA. La compañía se suma a Microsoft, Google y Meta en una carrera de capex que suma cientos de miles de millones de dólares. El endeudamiento de grandes tecnológicas para financiar IA está redefiniendo los flujos de capital en los mercados globales.",
-      "por_que_importa": "Comprender cómo las big tech financian su expansión en IA —incluyendo el uso de deuda— es esencial para analizar el ecosistema de inversión en tecnología y sus implicancias para startups que compiten o se apoyan en esa infraestructura.",
-      "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "titulo_es": "Quantum Space intenta revivir el modelo SPAC aprovechando el momentum del IPO de SpaceX",
+      "resumen": "Quantum Space, enfocada en naves espaciales militares, busca un acuerdo SPAC valorado en u$s1.200M y argumenta que este vehículo de salida a bolsa no está muerto. La estrategia busca capitalizar el interés del mercado generado por el IPO de SpaceX. El caso renueva el debate sobre la vigencia de los SPACs como alternativa al IPO tradicional.",
+      "por_que_importa": "Los SPACs fueron explorados en LatAm como mecanismo de acceso a mercados de capitales; analizar su resurgimiento o declive en contexto global es relevante para evaluar opciones de exit en la región.",
+      "link": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 21,
+      "indice": 18,
       "categoria": "Rondas",
-      "titulo_es": "Niteshift, startup de coding con IA fundada por veteranos de Datadog, levanta USD 7M en seed apostando contra el lock-in de grandes modelos",
-      "resumen": "Niteshift cerró una ronda seed de USD 7M liderada por un grupo de ángeles de peso, con la tesis de que las empresas preferirán agentes de código con independencia de modelo sobre soluciones atadas a un único proveedor de IA. La startup fue fundada por ex ejecutivos de Datadog, lo que le da credibilidad técnica y de go-to-market en el segmento enterprise. El caso ilustra la oportunidad en la capa de herramientas de desarrollo sobre modelos de IA.",
-      "por_que_importa": "Es un ejemplo concreto de cómo se construye una tesis de inversión seed en el espacio de AI tooling, un sector que genera interés creciente entre fondos early-stage globales con posible réplica en LatAm.",
-      "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Tendencias",
-      "titulo_es": "Anthropic y TCS sellan alianza para escalar despliegues de IA empresarial a clientes corporativos globales",
-      "resumen": "Anthropic firmó una asociación con Tata Consultancy Services (TCS) para crear una unidad de negocio dedicada a implementar sus modelos de IA en clientes enterprise a escala global. TCS, con más de 600.000 empleados y presencia en decenas de países, representa un canal de distribución masivo para los modelos Claude de Anthropic. El acuerdo marca una tendencia de AI labs que priorizan partnerships con integradores para penetrar el mercado corporativo.",
-      "por_que_importa": "Este modelo de distribución vía integradores es replicable en LatAm y relevante para entender cómo startups de IA pueden escalar sin ventas directas, un ángulo de negocio crítico para founders e inversores de la región.",
-      "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
-      "categoria": "Rondas",
-      "titulo_es": "Endurance Energy recauda USD 54M para aprovechar energía geotérmica marina, un recurso prácticamente inexplorado",
-      "resumen": "La startup Endurance Energy, fundada por ex empleados de SpaceX, cerró una ronda de USD 54M para desarrollar tecnología de extracción de energía geotérmica desde el fondo oceánico. La empresa sostiene que los océanos representan una fuente masiva de energía térmica renovable que permanece sin explotar a escala comercial. La ronda refleja el creciente interés inversor en soluciones de energía para alimentar la demanda de data centers de IA.",
-      "por_que_importa": "El financiamiento de deep tech energético vinculado a la demanda de IA es una tendencia global emergente que abre oportunidades de inversión en sectores antes considerados de muy largo plazo, con implicancias para la tesis climática en LatAm.",
+      "titulo_es": "Endurance Energy recauda u$s54M para explotar energía geotérmica oceánica a escala",
+      "resumen": "Fundada por ex empleados de SpaceX, Endurance Energy cerró una ronda de u$s54M para desarrollar tecnología que aprovecha el calor geotérmico del fondo oceánico. La compañía apunta a una fuente de energía prácticamente sin explotar y con potencial de escala masiva. La ronda refleja el creciente interés del VC en soluciones de energía alternativa no convencionales.",
+      "por_que_importa": "LatAm tiene una de las coastlines más extensas del mundo y recursos geotérmicos subutilizados; este tipo de inversiones marca el camino para startups de energía en la región.",
       "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 10,
       "categoria": "Tendencias",
-      "titulo_es": "GM, Ford y otras automotrices entran al negocio de almacenamiento de energía compitiendo con Tesla",
-      "resumen": "La explosión en la demanda eléctrica de los data centers de IA está empujando a compañías inesperadas —incluyendo fabricantes de autos como GM y Ford— a ingresar al mercado de almacenamiento de baterías a escala, hasta ahora dominado por Tesla. El negocio de energy storage se perfila como uno de los mercados de mayor crecimiento de la próxima década. El movimiento ilustra cómo la IA está generando disrupciones en sectores industriales alejados del software.",
-      "por_que_importa": "Entender cómo la IA reordena sectores tradicionales como la energía y la industria automotriz es clave para identificar oportunidades de inversión en infraestructura más allá del software, incluyendo aplicaciones potenciales para la región.",
-      "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
+      "titulo_es": "Coinbase lanza herramienta que permite a agentes de IA operar en mercados y pagar por datos de investigación",
+      "resumen": "Coinbase presentó una integración con el protocolo x402 que habilita a agentes de inteligencia artificial a ejecutar operaciones de trading y acceder a APIs de datos de manera autónoma. La herramienta apunta al segmento de finanzas descentralizadas y gestión automatizada de activos. Representa un avance concreto hacia la intersección entre IA agéntica y DeFi.",
+      "por_que_importa": "La convergencia entre IA agéntica y mercados financieros descentralizados es una de las fronteras más activas del VC global y tiene implicancias directas para fintechs latinoamericanas que buscan diferenciarse.",
+      "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
       "fuente": "TechCrunch"
     }
   ]
