@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "El IPO de SpaceX marca un hito histórico y redefine el mercado de capitales global: ¿qué significa para el ecosistema VC?",
+  "titular_del_dia": "SpaceX debuta en bolsa con el mayor IPO de la historia y convierte a Musk en el primer trillonario del mundo",
   "items": [
     {
-      "indice": 5,
+      "indice": 6,
       "categoria": "Exits/M&A",
-      "titulo_es": "SpaceX fija precio de salida a bolsa en u$s135 por acción en el mayor IPO de la historia",
-      "resumen": "SpaceX oficializó el precio de su IPO en u$s135 por acción, convirtiéndose en la mayor oferta pública inicial de la historia. La compañía de Elon Musk llevará años de retornos acumulados por inversores privados al mercado público. El evento marca un punto de inflexión para el mercado de capitales de riesgo a nivel global.",
-      "por_que_importa": "El IPO de SpaceX es el caso de estudio definitivo sobre cómo una empresa respaldada por VC puede transformarse en el mayor evento de liquidez de la historia, con implicancias directas sobre cómo se valoran activos privados en etapas tempranas.",
-      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 20,
-      "categoria": "Tendencias",
-      "titulo_es": "Antes de celebrar la apertura del mercado de IPOs, hay que analizar hacia dónde irá el dinero",
-      "resumen": "Marc Schröder de MGV advierte que SpaceX, OpenAI y Anthropic cotizando en bolsa se convertirán en adquirentes con capacidad financiera sin precedentes, lo que podría redirigir capital que antes fluía hacia startups hacia operaciones de M&A. El análisis plantea que el impacto real para el ecosistema emprendedor será estructural, no solo un aumento de liquidez.",
-      "por_que_importa": "Entender cómo los grandes IPOs reconfiguran los flujos de capital y la dinámica de M&A es clave para anticipar el comportamiento del mercado VC en los próximos años, incluyendo LatAm.",
-      "link": "https://news.crunchbase.com/public/ipo-window-liquid-money-ma-schroder-mgv/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 7,
-      "categoria": "Tendencias",
-      "titulo_es": "Inversores minoristas en SPVs de SpaceX enfrentan opacidad, comisiones ocultas y riesgo de fraude post-IPO",
-      "resumen": "Los inversores que accedieron a SpaceX a través de vehículos de propósito especial (SPVs) de menor tramo no conocerán sus tenencias reales hasta que venzan los períodos de lock-up post-IPO. Según TechCrunch, estos instrumentos incluyen comisiones ocultas, demoras en los pagos y riesgo de fraude. El fenómeno expone las tensiones estructurales del mercado privado de acceso a unicornios.",
-      "por_que_importa": "Los SPVs son un mecanismo cada vez más utilizado en LatAm para democratizar el acceso a inversiones en startups; conocer sus riesgos reales es fundamental para cualquier futuro profesional del sector.",
-      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 22,
-      "categoria": "Tendencias",
-      "titulo_es": "Las rondas de más de u$s100M ya son el financiamiento típico en etapas avanzadas, según datos de Crunchbase",
-      "resumen": "Un análisis de Crunchbase revela que en 2026 las rondas de u$s100M o más ya no son excepcionales sino la mediana del financiamiento late-stage. El fenómeno refleja la concentración de capital en pocas compañías y la inflación de valuaciones en etapas tardías. Este cambio tiene implicancias directas sobre cómo se miden los hitos de crecimiento en el ecosistema VC.",
-      "por_que_importa": "Comprender la evolución de los tamaños de ronda ayuda a contextualizar correctamente el ecosistema latinoamericano, donde los mismos montos tienen un impacto relativo muy diferente.",
-      "link": "https://news.crunchbase.com/venture/median-late-stage-startup-funding-round-size-2026-data/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 21,
-      "categoria": "Fondos",
-      "titulo_es": "Base10 Partners cierra dos fondos por u$s850M para invertir en automatización de la economía real",
-      "resumen": "La firma con sede en San Francisco cerró un fondo de seed y Series A por un monto no divulgado y un fondo de Series B, sumando u$s850M en total. La tesis de inversión se enfoca en logística, nómina, construcción y otros sectores de la economía real. Base10 se distingue por invertir en empresas que automatizan industrias tradicionales alejadas del software puro.",
-      "por_que_importa": "La tesis de automatización de sectores tradicionales es altamente relevante para LatAm, donde la informalidad y las ineficiencias operativas representan una oportunidad estructural enorme para startups.",
-      "link": "https://news.crunchbase.com/venture/base10-partners-invests-real-economy-automation-ajao/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 4,
-      "categoria": "Rondas",
-      "titulo_es": "Prometheus, la startup de Jeff Bezos en IA física, recauda u$s12.000M a una valuación de u$s41.000M",
-      "resumen": "Prometheus, respaldada por Jeff Bezos, cerró una ronda de u$s12.000M que la valúa en u$s41.000M. La compañía desarrolla un 'ingeniero general artificial' orientado a automatizar ingeniería pesada y diseño de fármacos. Es una de las rondas más grandes de la historia del VC y refleja la carrera por liderar la IA aplicada al mundo físico.",
-      "por_que_importa": "Rondas de esta magnitud redefinen los benchmarks de valuación y atraen capital institucional que luego busca oportunidades en ecosistemas emergentes como LatAm para diversificar exposición.",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 3,
-      "categoria": "Rondas",
-      "titulo_es": "Theker recauda u$s85M para desarrollar robots industriales modulares y reconfigurables",
-      "resumen": "Theker levantó u$s85M para construir robots de fábrica que no están especializados en una tarea fija, sino que pueden reconfigurarse según la necesidad. A diferencia de humanoides rígidos como los de Boston Dynamics, su propuesta es la flexibilidad operativa. La ronda posiciona a la empresa en la intersección entre robótica avanzada y manufactura inteligente.",
-      "por_que_importa": "La robótica modular aplicada a manufactura es una tendencia que podría impactar la base industrial de países como México, Brasil y Argentina, abriendo oportunidades y disrupciones en sectores clave.",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 11,
-      "categoria": "Tendencias",
-      "titulo_es": "Quantum Space intenta revivir el modelo SPAC aprovechando el momentum del IPO de SpaceX",
-      "resumen": "Quantum Space, enfocada en naves espaciales militares, busca un acuerdo SPAC valorado en u$s1.200M y argumenta que este vehículo de salida a bolsa no está muerto. La estrategia busca capitalizar el interés del mercado generado por el IPO de SpaceX. El caso renueva el debate sobre la vigencia de los SPACs como alternativa al IPO tradicional.",
-      "por_que_importa": "Los SPACs fueron explorados en LatAm como mecanismo de acceso a mercados de capitales; analizar su resurgimiento o declive en contexto global es relevante para evaluar opciones de exit en la región.",
-      "link": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
+      "titulo_es": "SpaceX cierra su primer día en bolsa con una suba del 19% y produce el mayor IPO de la historia",
+      "resumen": "SpaceX debutó en el mercado público el viernes a un precio de salida de USD 135 por acción, cerrando con una ganancia del 19%. La compañía había recaudado casi USD 12.000 millones en capital privado desde su fundación en 2002. El IPO es el más grande de todos los tiempos, superando a referencias históricas como Alibaba y Saudi Aramco.",
+      "por_que_importa": "Es el exit de venture capital más significativo de la historia moderna y un caso de estudio obligado sobre el ciclo completo de una startup deeptech desde sus rondas iniciales hasta el mercado público.",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 18,
-      "categoria": "Rondas",
-      "titulo_es": "Endurance Energy recauda u$s54M para explotar energía geotérmica oceánica a escala",
-      "resumen": "Fundada por ex empleados de SpaceX, Endurance Energy cerró una ronda de u$s54M para desarrollar tecnología que aprovecha el calor geotérmico del fondo oceánico. La compañía apunta a una fuente de energía prácticamente sin explotar y con potencial de escala masiva. La ronda refleja el creciente interés del VC en soluciones de energía alternativa no convencionales.",
-      "por_que_importa": "LatAm tiene una de las coastlines más extensas del mundo y recursos geotérmicos subutilizados; este tipo de inversiones marca el camino para startups de energía en la región.",
-      "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+      "categoria": "Exits/M&A",
+      "titulo_es": "Crunchbase analiza el IPO récord de SpaceX: casi USD 12.000 millones en inversión privada previa al debut",
+      "resumen": "Crunchbase detalla el recorrido financiero de SpaceX, que acumuló cerca de USD 12.000 millones en rondas privadas a lo largo de 24 años antes de salir a bolsa. El artículo contextualiza el tamaño del IPO como el mayor de todos los tiempos. Ofrece datos precisos sobre los retornos generados para sus inversores de riesgo tempranos.",
+      "por_que_importa": "Permite entender la anatomía completa del financiamiento de una compañía deeptech de largo aliento, desde seed hasta IPO, con métricas concretas de retorno para fondos de VC.",
+      "link": "https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 3,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Cobertura en vivo del IPO de SpaceX: todo lo que necesitás saber sobre el debut bursátil",
+      "resumen": "TechCrunch consolidó en un solo artículo la cobertura integral del IPO de SpaceX, incluyendo quiénes son los grandes ganadores y potenciales perdedores del evento. El paquete repasa la historia de la compañía, sus hitos clave y las implicancias para el mercado de capitales y el ecosistema VC global. Es la fuente más completa para seguir el desarrollo del debut.",
+      "por_que_importa": "Recurso de referencia para analizar cómo se estructura y comunica un IPO de esta magnitud, útil para comprender dinámicas de liquidez en fondos de VC de etapa tardía.",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 10,
       "categoria": "Tendencias",
-      "titulo_es": "Coinbase lanza herramienta que permite a agentes de IA operar en mercados y pagar por datos de investigación",
-      "resumen": "Coinbase presentó una integración con el protocolo x402 que habilita a agentes de inteligencia artificial a ejecutar operaciones de trading y acceder a APIs de datos de manera autónoma. La herramienta apunta al segmento de finanzas descentralizadas y gestión automatizada de activos. Representa un avance concreto hacia la intersección entre IA agéntica y DeFi.",
-      "por_que_importa": "La convergencia entre IA agéntica y mercados financieros descentralizados es una de las fronteras más activas del VC global y tiene implicancias directas para fintechs latinoamericanas que buscan diferenciarse.",
-      "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "titulo_es": "SpaceX, Anthropic y OpenAI lideran un verano récord de IPOs tecnológicos bajo el acrónimo MANGOS",
+      "resumen": "TechCrunch analiza cómo el mercado de salidas a bolsa de 2026 está siendo dominado por una nueva generación de compañías de IA y deeptech, con SpaceX como punta de lanza. El video propone el acrónimo MANGOS como sucesor de FAANG para describir a los nuevos gigantes tecnológicos. Anthropic y OpenAI serían las próximas en la fila para debutar en el mercado público.",
+      "por_que_importa": "Muestra cómo el ciclo de liquidez del VC está madurando para compañías de IA, lo que tiene implicancias directas para los fondos latinoamericanos que invierten en el sector.",
+      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
+      "categoria": "Rondas",
+      "titulo_es": "Mistral AI buscaría levantar €3.000 millones a una valuación de €20.000 millones",
+      "resumen": "Según rumores del mercado, la startup francesa de inteligencia artificial Mistral estaría negociando una ronda de financiamiento de €3.000 millones que la valuaría en aproximadamente €20.000 millones (unos USD 23.150 millones). Esto representaría casi el doble de su valuación de Serie C de €11.700 millones. La compañía es uno de los principales competidores europeos de OpenAI y Anthropic.",
+      "por_que_importa": "Ilustra la aceleración de las valuaciones en IA generativa a nivel global y sirve como benchmark para entender a qué múltiplos se están cerrando rondas en el sector más activo del VC actual.",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 16,
+      "categoria": "Rondas",
+      "titulo_es": "Prometheus, la startup de IA física de Jeff Bezos, levanta USD 12.000 millones a una valuación de USD 41.000 millones",
+      "resumen": "Prometheus AI, la compañía fundada por Jeff Bezos con el objetivo de construir un 'ingeniero general artificial' para automatizar ingeniería pesada y diseño de fármacos, cerró una ronda de USD 12.000 millones. La nueva valuación alcanza los USD 41.000 millones. La empresa apunta a digitalizar procesos del mundo físico mediante IA de propósito general.",
+      "por_que_importa": "Es uno de los mayores levantamientos de capital en la historia del VC y evidencia el enorme apetito inversor por soluciones de IA aplicadas a industrias físicas, tendencia que empieza a replicarse en LatAm en sectores como agro y minería.",
+      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 17,
+      "categoria": "Rondas",
+      "titulo_es": "Las 10 rondas más grandes de la semana: NinjaOne lidera con USD 400 millones en enterprise software",
+      "resumen": "Crunchbase recopiló las diez rondas más grandes de la semana, encabezadas por NinjaOne (gestión IT empresarial) con USD 400 millones y Digital Asset en blockchain. Las rondas más voluminosas, sin embargo, correspondieron a empresas europeas. El resumen abarca sectores de software empresarial, infraestructura cloud, biotecnología y robótica.",
+      "por_que_importa": "Ofrece un panorama semanal del flujo de capital en VC global, herramienta práctica para identificar qué verticales están captando mayor interés inversor en este momento.",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-biotech-healthcare-ninjaone-leads/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 2,
+      "categoria": "Tendencias",
+      "titulo_es": "El gobierno de EE.UU. retira del mercado el modelo de IA más potente de Anthropic tras detectar una vulnerabilidad",
+      "resumen": "Las autoridades estadounidenses ordenaron dar de baja el modelo más avanzado de Anthropic luego de identificar una potencial vulnerabilidad de jailbreak, aunque la compañía expresó su desacuerdo con la medida. Anthropic argumentó que una falla puntual no justifica retirar un modelo desplegado para cientos de millones de usuarios. El episodio reactiva el debate sobre los límites de la regulación pública en IA.",
+      "por_que_importa": "Muestra cómo el riesgo regulatorio puede impactar directamente en la operación y valuación de startups de IA, una variable crítica para inversores y fundadores en cualquier mercado, incluido LatAm.",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 15,
+      "categoria": "Rondas",
+      "titulo_es": "Theker levanta USD 85 millones para desarrollar robots industriales reconfigurables sin especialización fija",
+      "resumen": "La startup Theker cerró una ronda de USD 85 millones para construir robots de fábrica que pueden reconfigurarse para distintas tareas, a diferencia de los robots industriales tradicionales con funciones fijas. El modelo de negocio apunta a pequeñas y medianas industrias que no pueden costear automatización especializada. La propuesta compite indirectamente con el segmento de robots humanoides como los de Boston Dynamics.",
+      "por_que_importa": "La robótica industrial flexible es una tendencia con alto potencial en economías manufactureras emergentes; entender sus modelos de financiamiento es relevante para quienes analicen el sector en LatAm.",
+      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "Tendencias",
+      "titulo_es": "Andrew Yang identifica el costo de vida como la próxima gran oportunidad para startups",
+      "resumen": "El ex candidato presidencial y emprendedor Andrew Yang elaboró una lista de categorías donde los consumidores estadounidenses pagan de más —vivienda, alimentos, telecomunicaciones— y argumenta que la próxima ola de startups de alto impacto estará enfocada en reducir esos costos. La tesis plantea que la compresión del costo de vida es un mercado tan grande como el de los servicios que le dieron origen. El enfoque tiene resonancias directas con mercados como Argentina, donde la inflación amplifica el problema.",
+      "por_que_importa": "La tesis de Yang es directamente aplicable a LatAm, donde el costo de vida y la informalidad generan oportunidades similares que fondos regionales como Kaszek o Monashees ya están explorando.",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
       "fuente": "TechCrunch"
     }
   ]
