@@ -1,94 +1,76 @@
 {
-  "titular_del_dia": "SpaceX debuta en bolsa con el mayor IPO de la historia y convierte a Musk en el primer trillonario del mundo",
+  "titular_del_dia": "El gobierno de EE.UU. suspende los modelos más potentes de Anthropic, generando un debate global sobre regulación de IA con implicancias para el ecosistema emprendedor",
   "items": [
     {
-      "indice": 6,
-      "categoria": "Exits/M&A",
-      "titulo_es": "SpaceX cierra su primer día en bolsa con una suba del 19% y produce el mayor IPO de la historia",
-      "resumen": "SpaceX debutó en el mercado público el viernes a un precio de salida de USD 135 por acción, cerrando con una ganancia del 19%. La compañía había recaudado casi USD 12.000 millones en capital privado desde su fundación en 2002. El IPO es el más grande de todos los tiempos, superando a referencias históricas como Alibaba y Saudi Aramco.",
-      "por_que_importa": "Es el exit de venture capital más significativo de la historia moderna y un caso de estudio obligado sobre el ciclo completo de una startup deeptech desde sus rondas iniciales hasta el mercado público.",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Crunchbase analiza el IPO récord de SpaceX: casi USD 12.000 millones en inversión privada previa al debut",
-      "resumen": "Crunchbase detalla el recorrido financiero de SpaceX, que acumuló cerca de USD 12.000 millones en rondas privadas a lo largo de 24 años antes de salir a bolsa. El artículo contextualiza el tamaño del IPO como el mayor de todos los tiempos. Ofrece datos precisos sobre los retornos generados para sus inversores de riesgo tempranos.",
-      "por_que_importa": "Permite entender la anatomía completa del financiamiento de una compañía deeptech de largo aliento, desde seed hasta IPO, con métricas concretas de retorno para fondos de VC.",
-      "link": "https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 3,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Cobertura en vivo del IPO de SpaceX: todo lo que necesitás saber sobre el debut bursátil",
-      "resumen": "TechCrunch consolidó en un solo artículo la cobertura integral del IPO de SpaceX, incluyendo quiénes son los grandes ganadores y potenciales perdedores del evento. El paquete repasa la historia de la compañía, sus hitos clave y las implicancias para el mercado de capitales y el ecosistema VC global. Es la fuente más completa para seguir el desarrollo del debut.",
-      "por_que_importa": "Recurso de referencia para analizar cómo se estructura y comunica un IPO de esta magnitud, útil para comprender dinámicas de liquidez en fondos de VC de etapa tardía.",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
-      "categoria": "Tendencias",
-      "titulo_es": "SpaceX, Anthropic y OpenAI lideran un verano récord de IPOs tecnológicos bajo el acrónimo MANGOS",
-      "resumen": "TechCrunch analiza cómo el mercado de salidas a bolsa de 2026 está siendo dominado por una nueva generación de compañías de IA y deeptech, con SpaceX como punta de lanza. El video propone el acrónimo MANGOS como sucesor de FAANG para describir a los nuevos gigantes tecnológicos. Anthropic y OpenAI serían las próximas en la fila para debutar en el mercado público.",
-      "por_que_importa": "Muestra cómo el ciclo de liquidez del VC está madurando para compañías de IA, lo que tiene implicancias directas para los fondos latinoamericanos que invierten en el sector.",
-      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 8,
-      "categoria": "Rondas",
-      "titulo_es": "Mistral AI buscaría levantar €3.000 millones a una valuación de €20.000 millones",
-      "resumen": "Según rumores del mercado, la startup francesa de inteligencia artificial Mistral estaría negociando una ronda de financiamiento de €3.000 millones que la valuaría en aproximadamente €20.000 millones (unos USD 23.150 millones). Esto representaría casi el doble de su valuación de Serie C de €11.700 millones. La compañía es uno de los principales competidores europeos de OpenAI y Anthropic.",
-      "por_que_importa": "Ilustra la aceleración de las valuaciones en IA generativa a nivel global y sirve como benchmark para entender a qué múltiplos se están cerrando rondas en el sector más activo del VC actual.",
-      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 16,
-      "categoria": "Rondas",
-      "titulo_es": "Prometheus, la startup de IA física de Jeff Bezos, levanta USD 12.000 millones a una valuación de USD 41.000 millones",
-      "resumen": "Prometheus AI, la compañía fundada por Jeff Bezos con el objetivo de construir un 'ingeniero general artificial' para automatizar ingeniería pesada y diseño de fármacos, cerró una ronda de USD 12.000 millones. La nueva valuación alcanza los USD 41.000 millones. La empresa apunta a digitalizar procesos del mundo físico mediante IA de propósito general.",
-      "por_que_importa": "Es uno de los mayores levantamientos de capital en la historia del VC y evidencia el enorme apetito inversor por soluciones de IA aplicadas a industrias físicas, tendencia que empieza a replicarse en LatAm en sectores como agro y minería.",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 17,
-      "categoria": "Rondas",
-      "titulo_es": "Las 10 rondas más grandes de la semana: NinjaOne lidera con USD 400 millones en enterprise software",
-      "resumen": "Crunchbase recopiló las diez rondas más grandes de la semana, encabezadas por NinjaOne (gestión IT empresarial) con USD 400 millones y Digital Asset en blockchain. Las rondas más voluminosas, sin embargo, correspondieron a empresas europeas. El resumen abarca sectores de software empresarial, infraestructura cloud, biotecnología y robótica.",
-      "por_que_importa": "Ofrece un panorama semanal del flujo de capital en VC global, herramienta práctica para identificar qué verticales están captando mayor interés inversor en este momento.",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-biotech-healthcare-ninjaone-leads/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "El gobierno de EE.UU. retira del mercado el modelo de IA más potente de Anthropic tras detectar una vulnerabilidad",
-      "resumen": "Las autoridades estadounidenses ordenaron dar de baja el modelo más avanzado de Anthropic luego de identificar una potencial vulnerabilidad de jailbreak, aunque la compañía expresó su desacuerdo con la medida. Anthropic argumentó que una falla puntual no justifica retirar un modelo desplegado para cientos de millones de usuarios. El episodio reactiva el debate sobre los límites de la regulación pública en IA.",
-      "por_que_importa": "Muestra cómo el riesgo regulatorio puede impactar directamente en la operación y valuación de startups de IA, una variable crítica para inversores y fundadores en cualquier mercado, incluido LatAm.",
+      "categoria": "Global",
+      "titulo_es": "El gobierno de EE.UU. fuerza a Anthropic a suspender sus modelos de IA más avanzados tras advertencias de seguridad",
+      "resumen": "El gobierno estadounidense ordenó retirar del mercado dos modelos de Anthropic luego de que la propia compañía documentara vulnerabilidades de seguridad en sus informes de riesgo. Paradójicamente, la transparencia de Anthropic en materia de seguridad fue el detonante de la intervención regulatoria. La empresa expresó públicamente su desacuerdo con la medida, argumentando que un jailbreak puntual no justifica retirar un modelo usado por cientos de millones de personas.",
+      "por_que_importa": "Este caso establece un precedente crítico sobre cómo la regulación estatal puede afectar abruptamente a startups y modelos de negocio de IA, un riesgo real para cualquier fondo o fundador que invierta en el sector.",
       "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 15,
-      "categoria": "Rondas",
-      "titulo_es": "Theker levanta USD 85 millones para desarrollar robots industriales reconfigurables sin especialización fija",
-      "resumen": "La startup Theker cerró una ronda de USD 85 millones para construir robots de fábrica que pueden reconfigurarse para distintas tareas, a diferencia de los robots industriales tradicionales con funciones fijas. El modelo de negocio apunta a pequeñas y medianas industrias que no pueden costear automatización especializada. La propuesta compite indirectamente con el segmento de robots humanoides como los de Boston Dynamics.",
-      "por_que_importa": "La robótica industrial flexible es una tendencia con alto potencial en economías manufactureras emergentes; entender sus modelos de financiamiento es relevante para quienes analicen el sector en LatAm.",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "indice": 1,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Meta revierte su adquisición de Manus por USD 2.000 millones tras exigencia del gobierno chino",
+      "resumen": "Meta comenzó a desmantelar su compra de Manus, valuada en 2.000 millones de dólares, después de que Beijing ordenara revertir la operación. El caso ilustra cómo las tensiones geopolíticas entre EE.UU. y China pueden deshacer deals de M&A de gran escala incluso después de cerrados. Es uno de los ejemplos más recientes de intervención estatal directa en transacciones de tecnología.",
+      "por_que_importa": "Para quienes estudian M&A y VC, este caso es un ejemplo concreto de riesgo geopolítico como variable crítica en due diligence y estructuración de deals internacionales.",
+      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 1,
+      "indice": 4,
+      "categoria": "Global",
+      "titulo_es": "OpenAI bajo investigación de fiscales de múltiples estados de EE.UU. por políticas publicitarias y manejo de datos de salud",
+      "resumen": "Fiscales generales de varios estados estadounidenses abrieron investigaciones sobre OpenAI, abarcando sus políticas de publicidad y el tratamiento de datos sensibles de salud de los usuarios. Aún no se confirmó cuáles estados están involucrados ni el alcance formal de las investigaciones. El movimiento se suma a una oleada de escrutinio regulatorio sobre las grandes compañías de IA a nivel global.",
+      "por_que_importa": "El aumento del riesgo regulatorio sobre las plataformas de IA líderes redefine el landscape competitivo y puede abrir oportunidades para startups con modelos de cumplimiento más sólidos, incluyendo en LatAm.",
+      "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 3,
+      "categoria": "Global",
+      "titulo_es": "Andy Jassy habría alertado al gobierno sobre riesgos de modelos de Anthropic antes de la suspensión",
+      "resumen": "Según reportes, el CEO de Amazon, Andy Jassy, fue quien elevó las preocupaciones de seguridad que derivaron en la intervención gubernamental sobre Anthropic. Amazon es el principal inversor externo de Anthropic, con compromisos que superan los 4.000 millones de dólares, lo que pone en tensión la relación entre ambas compañías. El episodio revela las complejas dinámicas entre inversores corporativos, portafolios de VC y reguladores.",
+      "por_que_importa": "Muestra cómo los inversores corporativos (CVCs) pueden influir —intencional o no— en decisiones regulatorias que afectan a sus propias participadas, una dinámica relevante para entender conflictos de interés en el ecosistema.",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
       "categoria": "Tendencias",
-      "titulo_es": "Andrew Yang identifica el costo de vida como la próxima gran oportunidad para startups",
-      "resumen": "El ex candidato presidencial y emprendedor Andrew Yang elaboró una lista de categorías donde los consumidores estadounidenses pagan de más —vivienda, alimentos, telecomunicaciones— y argumenta que la próxima ola de startups de alto impacto estará enfocada en reducir esos costos. La tesis plantea que la compresión del costo de vida es un mercado tan grande como el de los servicios que le dieron origen. El enfoque tiene resonancias directas con mercados como Argentina, donde la inflación amplifica el problema.",
-      "por_que_importa": "La tesis de Yang es directamente aplicable a LatAm, donde el costo de vida y la informalidad generan oportunidades similares que fondos regionales como Kaszek o Monashees ya están explorando.",
+      "titulo_es": "La suspensión de modelos de Anthropic reabre el debate sobre soberanía de IA en India y mercados emergentes",
+      "resumen": "Líderes tecnológicos de India utilizaron el episodio de Anthropic como punto de partida para discutir la dependencia de los mercados emergentes en modelos de IA desarrollados en EE.UU. El debate gira en torno a si países como India —y por extensión LatAm— deben priorizar el desarrollo de infraestructura de IA local para evitar quedar expuestos a decisiones regulatorias externas. Varios referentes del sector llaman a acelerar inversiones en modelos y compute soberanos.",
+      "por_que_importa": "El mismo dilema de soberanía tecnológica aplica directamente a Argentina y LatAm, donde la dependencia de plataformas extranjeras es un riesgo estratégico para startups y políticas de innovación.",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 2,
+      "categoria": "Tendencias",
+      "titulo_es": "KPMG retira un informe sobre uso de IA tras detectar alucinaciones generadas por la propia tecnología",
+      "resumen": "KPMG publicó y luego eliminó un reporte sobre adopción de inteligencia artificial porque el documento contenía datos erróneos producidos por alucinaciones de los modelos de IA utilizados en su elaboración. El incidente ocurre en una de las firmas de consultoría y auditoría más grandes del mundo, evidenciando los límites del uso de IA generativa en contextos de alta exigencia de precisión. Es el último de una serie de casos de alto perfil que cuestionan la confiabilidad de estos sistemas.",
+      "por_que_importa": "Para inversores y emprendedores, este caso refuerza la necesidad de due diligence riguroso sobre las capacidades reales de las herramientas de IA antes de integrarlas en procesos críticos de negocio.",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "Andrew Yang identifica el costo de vida como la próxima gran oportunidad para startups en EE.UU.",
+      "resumen": "El emprendedor y ex candidato presidencial Andrew Yang argumenta que sectores como vivienda, alimentación y telecomunicaciones representan la próxima ola de oportunidades para startups que busquen reducir el costo de vida de los consumidores. Yang señala que los estadounidenses pagan precios artificialmente altos en estos rubros debido a falta de competencia e ineficiencias estructurales. La tesis sugiere que la tecnología puede disrumpir mercados que históricamente han sido resistentes a la innovación.",
+      "por_que_importa": "La misma lógica aplica con fuerza a LatAm, donde el costo de vida, la informalidad y la falta de competencia en servicios básicos representan oportunidades reales para startups de la región.",
       "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Global",
+      "titulo_es": "El FBI construyó una ciudad réplica en Alabama para entrenar respuestas a ciberataques en infraestructura crítica",
+      "resumen": "El FBI desarrolló un pueblo simulado de escala real dentro de un edificio en Alabama, diseñado para entrenar a agentes y organizaciones en la respuesta a ciberataques sobre infraestructura crítica como redes eléctricas, agua y comunicaciones. La instalación permite simular escenarios realistas sin riesgo para sistemas reales. La iniciativa refleja la creciente prioridad que los gobiernos asignan a la ciberseguridad como área de inversión estratégica.",
+      "por_que_importa": "El aumento de inversión pública en ciberseguridad a nivel global señala una tendencia que genera oportunidades de funding y contratos para startups especializadas en el sector, incluyendo en LatAm.",
+      "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
       "fuente": "TechCrunch"
     }
   ]
