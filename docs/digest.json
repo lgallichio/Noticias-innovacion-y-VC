@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "SpaceX recauda USD 85.700 millones en la mayor IPO de la historia mientras el capital de IA se concentra en EE.UU. y deja afuera al resto del mundo",
+  "titular_del_dia": "SpaceX debuta en bolsa con valuación de USD 2,7 billones y adquiere Cursor por USD 60.000M, marcando el mayor IPO de la historia",
   "items": [
     {
-      "indice": 1,
+      "indice": 9,
       "categoria": "Exits/M&A",
-      "titulo_es": "SpaceX completa la mayor IPO de la historia con USD 85.700 millones recaudados",
-      "resumen": "Los suscriptores de la IPO de SpaceX ejercieron la opción de sobreasignación completa, llevando el total recaudado a USD 85.700 millones y superando cualquier salida a bolsa previa en la historia. El hito redefine el techo de valoración para compañías tecnológicas privadas y abre el debate sobre qué otras startups podrían aprovechar la ventana de mercado.",
-      "por_que_importa": "Entender cómo se estructura y se ejecuta una IPO de esta magnitud es esencial para cualquier estudiante de VC/PE que quiera comprender los mecanismos de liquidez y valoración en el mercado actual.",
+      "titulo_es": "SpaceX adquiere el editor de código con IA Cursor por USD 60.000 millones en acciones, días después de su IPO",
+      "resumen": "SpaceX anunció la adquisición de Cursor, herramienta de programación asistida por IA, por USD 60.000 millones en acciones, apenas días después de su salida a bolsa. El movimiento apunta a fortalecer la división de IA de la compañía, que presentó a inversores del IPO un mercado direccionable de USD 26 billones en inteligencia artificial. Es una de las adquisiciones tecnológicas más grandes de la historia.",
+      "por_que_importa": "Ilustra cómo una empresa recién listada puede usar su acción como moneda de adquisición para pivotar hacia IA, un caso de estudio clave sobre estrategia post-IPO y M&A en el sector tech.",
+      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 19,
+      "categoria": "Exits/M&A",
+      "titulo_es": "SpaceX concreta el mayor IPO de la historia: recauda USD 85.700 millones tras ejercerse la opción de sobreasignación",
+      "resumen": "Los underwriters del IPO de SpaceX ejercieron la opción de compra adicional, llevando el total recaudado a USD 85.700 millones, superando cualquier salida a bolsa anterior. La valuación de la compañía trepó a USD 2,7 billones en pocos días de cotización, superando a Amazon. El evento redefine el tamaño posible de un IPO tecnológico.",
+      "por_que_importa": "El IPO de SpaceX es un hito de mercado que todo estudiante de VC y finanzas debe analizar: dinámica de precio, lockups, rol de los bancos y señales para el mercado de exits privados globalmente.",
       "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 12,
-      "categoria": "Tendencias",
-      "titulo_es": "La ola de IPOs de empresas de IA se acelera: quiénes buscan subirse al momentum de SpaceX",
-      "resumen": "Con la ventana de mercado abierta por la IPO de SpaceX, múltiples startups de inteligencia artificial están acelerando sus planes de salida a bolsa para capitalizar el apetito inversor. El artículo identifica los candidatos más probables y analiza qué condiciones de mercado sostienen este ciclo.",
-      "por_que_importa": "Comprender qué impulsa las ventanas de liquidez (y cuándo se cierran) es clave para analizar estrategias de exit en portfolios de VC, incluyendo fondos con exposición en LatAm.",
-      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "indice": 5,
+      "categoria": "Global",
+      "titulo_es": "SpaceX supera a Amazon en valuación y alcanza USD 2,7 billones tras su debut bursátil",
+      "resumen": "En apenas días de cotización pública, SpaceX vio su valuación crecer más de USD 1 billón, superando a Amazon y convirtiéndose en una de las empresas más valiosas del mundo. El salto refleja el apetito del mercado por compañías de infraestructura espacial e IA. La suba también premia a inversores de capital privado que mantuvieron posiciones por más de una década.",
+      "por_que_importa": "Demuestra la magnitud de los retornos posibles en VC de largo plazo y plantea preguntas sobre valuación, liquidez y timing de exits que son centrales para el análisis del ecosistema inversor.",
+      "link": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 16,
-      "categoria": "Tendencias",
-      "titulo_es": "El boom de financiamiento de IA es un fenómeno casi exclusivamente estadounidense: EE.UU. captó el 80% del capital global en 2026",
-      "resumen": "Según datos de Crunchbase, las empresas de EE.UU. concentraron casi el 80% del financiamiento global de startups de IA desde semilla hasta growth en lo que va de 2026, una divergencia marcada respecto a años anteriores cuando el capital estaba más distribuido. Esto implica que regiones como LatAm y Europa están siendo marginadas del ciclo de inversión en IA.",
-      "por_que_importa": "Para el ecosistema argentino y latinoamericano, este dato es una señal de alerta concreta sobre el acceso al capital en el sector de mayor crecimiento global.",
-      "link": "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 3,
+      "indice": 21,
       "categoria": "Exits/M&A",
       "titulo_es": "Salesforce adquiere la plataforma de atención al cliente con IA Fin por USD 3.600 millones",
-      "resumen": "Salesforce anunció la compra de Fin, una startup de customer service basada en IA, por USD 3.600 millones, con el objetivo de integrar su tecnología y equipo a Agentforce, su plataforma de agentes de IA para empresas. La operación es una de las adquisiciones de IA más grandes del año en el segmento enterprise y consolida la tendencia de incumbentes comprando capacidades de IA.",
-      "por_que_importa": "Es un caso de estudio directo sobre cómo los grandes incumbentes tecnológicos están usando M&A para acelerar su transformación en IA, un patrón relevante para analizar oportunidades de exit para startups B2B en LatAm.",
+      "resumen": "Salesforce anunció la compra de Fin, plataforma de customer service impulsada por IA, por USD 3.600 millones. El objetivo es integrar el equipo y la tecnología de Fin a Agentforce, su producto de agentes de IA para empresas. La operación refleja la aceleración del mercado de AI agents en el segmento enterprise.",
+      "por_que_importa": "Es un exit concreto en el espacio de AI agents empresariales, un vertical en pleno crecimiento en LatAm, y ejemplifica cómo las big tech usan M&A para cerrar brechas competitivas en IA.",
       "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 5,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Fox adquiere Roku en un acuerdo de USD 22.000 millones y se convierte en la tercera televisora de EE.UU.",
-      "resumen": "Fox Corporation anunció la compra de Roku por USD 22.000 millones, lo que convertiría a la compañía resultante en la tercera empresa televisiva más grande de Estados Unidos. La operación combina el alcance de streaming de Roku con el contenido y la base publicitaria de Fox, en un movimiento que redefine el mercado de medios digitales.",
-      "por_que_importa": "Es un exit de referencia para entender cómo los activos de distribución digital son valorados por medios tradicionales, con implicancias para startups de media tech y adtech en LatAm.",
-      "link": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
+      "indice": 24,
+      "categoria": "Tendencias",
+      "titulo_es": "El boom de financiamiento en IA no es global: EE.UU. concentra casi el 80% del capital en 2026",
+      "resumen": "Según datos de Crunchbase, las startups estadounidenses captaron el 80% del financiamiento global de IA en lo que va de 2026, desde semilla hasta growth stage. Esto representa una divergencia marcada respecto a años anteriores, cuando el capital estaba más distribuido geográficamente. La concentración plantea desafíos estructurales para ecosistemas emergentes como LatAm.",
+      "por_que_importa": "Dato crítico para entender las limitaciones y oportunidades del ecosistema emprendedor latinoamericano frente a la ola de IA: ¿cómo compiten las startups de la región por capital global?",
+      "link": "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 11,
+      "categoria": "Tendencias",
+      "titulo_es": "ChatGPT cae por debajo del 50% de market share en IA conversacional por primera vez",
+      "resumen": "ChatGPT registró por primera vez menos del 50% del mercado global de asistentes de IA, aunque sigue siendo líder con más de 1.100 millones de usuarios mensuales. Gemini de Google alcanzó 662 millones de usuarios y Claude de Anthropic llegó a 245 millones. La fragmentación del mercado se acelera y abre oportunidades para nuevos entrantes.",
+      "por_que_importa": "La pérdida de monopolio de OpenAI en IA conversacional señala un mercado más competitivo y con mayor espacio para startups especializadas, incluyendo las latinoamericanas que construyen sobre estos modelos.",
+      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 15,
+      "indice": 0,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Más de 4.000 personas participaron de la Experiencia Endeavor Buenos Aires 2026",
+      "resumen": "Endeavor Argentina realizó su edición 2026 del evento insignia en Buenos Aires, convocando a más de 4.000 asistentes entre emprendedores, inversores y referentes del ecosistema local. El encuentro reúne anualmente a las principales figuras del ecosistema emprendedor argentino y sirve como plataforma de networking y visibilidad para startups. Sin datos públicos de deals cerrados en el evento.",
+      "por_que_importa": "Endeavor es uno de los actores más relevantes del ecosistema emprendedor argentino y su evento anual es una referencia obligada para quienes buscan conectar con inversores y founders locales.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-en-imagenes-experiencia-endeavor-buenos-aires-2026/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
+      "indice": 23,
       "categoria": "Tendencias",
-      "titulo_es": "El pitch de SaaS necesita reinventarse: los inversores ahora exigen resultados de negocio, no solo software",
-      "resumen": "Con la irrupción de LLMs e IA generativa, el modelo tradicional de SaaS está siendo cuestionado por inversores que ya no se conforman con métricas de adopción de software, sino que exigen demostración de impacto en flujos de trabajo y resultados medibles. Crunchbase recoge la perspectiva de VCs sobre cómo los fundadores deben reencuadrar sus pitches para ser financiables en el contexto actual.",
-      "por_que_importa": "Para fundadores y estudiantes que preparan pitches, este artículo ofrece un marco concreto y actualizado sobre lo que los VCs quieren ver hoy.",
+      "titulo_es": "El playbook del SaaS cambió: founders deben demostrar resultados de negocio, no solo producto",
+      "resumen": "Según inversores entrevistados por Crunchbase, la irrupción de IA y LLMs está obligando a los fundadores de SaaS a reformular su pitch: ya no alcanza con mostrar adopción de software, sino que se exige demostrar ownership de flujos de trabajo críticos y resultados medibles. El modelo tradicional de cobro por asiento (per seat) está siendo reemplazado por métricas de outcome. Esto impacta directamente en cómo se valúan estas compañías.",
+      "por_que_importa": "Cualquier founder o analista de VC en LatAm que evalúe startups SaaS necesita entender cómo está cambiando el estándar de due diligence y valuación en el nuevo contexto de IA.",
       "link": "https://news.crunchbase.com/saas/rewriting-pitch-playbook-venture-ai-startup-nikkhoo-navigate/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 6,
+      "indice": 12,
       "categoria": "Rondas",
-      "titulo_es": "NewCore levanta USD 66 millones para gestionar la identidad y seguridad de agentes de IA en empresas",
-      "resumen": "NewCore emergió de modo sigiloso con una ronda de USD 66 millones para desarrollar infraestructura de identidad y seguridad orientada a agentes de IA que operan dentro de organizaciones como si fueran empleados. La startup argumenta que el próximo gran problema de ciberseguridad empresarial no será gestionar personas sino gestionar agentes autónomos.",
-      "por_que_importa": "Identifica una categoría de inversión emergente —infraestructura de seguridad para agentes de IA— que aún no tiene jugadores consolidados en LatAm, lo que representa una oportunidad para fundadores de la región.",
-      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "titulo_es": "Respond.io, startup de mensajería con agentes de IA, recauda USD 62,5 millones y apunta a adquisiciones",
+      "resumen": "La startup malaya Respond.io levantó una ronda de USD 62,5 millones para escalar su plataforma de atención al cliente basada en agentes de IA, que cobra por conversación en lugar de por usuario. La compañía planea usar parte del capital para adquisiciones en América del Norte y Europa. Su modelo de pricing por outcome es uno de los más discutidos en el ecosistema SaaS actual.",
+      "por_que_importa": "Ejemplo concreto de una startup no estadounidense que levantó capital significativo con un modelo de negocio de AI agents, relevante para founders y analistas que evalúan este vertical en LatAm.",
+      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 8,
+      "indice": 22,
       "categoria": "Tendencias",
-      "titulo_es": "Los despidos masivos por IA están generando tensión social mientras una élite de insiders acumula riqueza sin precedentes",
-      "resumen": "Decenas de miles de trabajadores están siendo desplazados por herramientas de IA mientras un pequeño grupo de fundadores e inversores del sector acumula riqueza a una velocidad sin precedentes históricos. El análisis advierte que esta brecha creciente entre beneficiados y perjudicados podría derivar en una reacción política y social significativa.",
-      "por_que_importa": "Entender las tensiones sociales y regulatorias que genera la adopción de IA es fundamental para anticipar el entorno en el que operarán las startups de la región en los próximos años.",
-      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Rondas",
-      "titulo_es": "Sarvam se convierte en el nuevo unicornio de IA de India con una ronda de USD 234 millones liderada por HCLTech",
-      "resumen": "La startup india Sarvam cerró una ronda de USD 234 millones con HCLTech como inversor principal aportando USD 150 millones, alcanzando valuación de unicornio. Sarvam desarrolla modelos de lenguaje adaptados a idiomas indios, lo que la posiciona como referente de IA soberana en mercados emergentes.",
-      "por_que_importa": "El caso de Sarvam es un modelo replicable para LatAm: startups de IA enfocadas en idioma y contexto local pueden atraer capital institucional significativo, un camino que empresas argentinas podrían explorar.",
-      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 9,
-      "categoria": "Rondas",
-      "titulo_es": "Orbio recauda USD 21 millones Serie A para automatizar la contratación y onboarding de trabajadores de primera línea",
-      "resumen": "Orbio cerró una Serie A de USD 21 millones liderada por Dawn Capital para escalar su plataforma de automatización de hiring y onboarding orientada a trabajadores de primera línea (retail, logística, manufactura). La propuesta apunta a un segmento masivo frecuentemente ignorado por las soluciones de HR tech tradicionales.",
-      "por_que_importa": "El segmento de trabajadores de primera línea representa la mayor fuerza laboral de LatAm y está prácticamente sin digitalizar, lo que hace de este modelo un caso de inversión directamente aplicable a la región.",
-      "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
-      "fuente": "TechCrunch"
+      "titulo_es": "Playground Global: la tesis de inversión en hardware y deep tech que apostó a contracorriente y ahora luce acertada",
+      "resumen": "Playground Global, fondo fundado hace más de una década, construyó su tesis alrededor de breakthroughs en ciencia, ingeniería, hardware y energía cuando el mercado priorizaba software. Con el auge de la IA y la demanda de infraestructura física, esa visión aparece ahora como adelantada. El fondo ofrece un caso de estudio sobre paciencia de capital y convicción temática en VC.",
+      "por_que_importa": "Para estudiantes de VC, el caso de Playground Global ilustra cómo se construye una tesis de inversión de largo plazo y por qué el deep tech y la infraestructura energética son categorías emergentes también en LatAm.",
+      "link": "https://news.crunchbase.com/venture/ai-saas-hardware-energy-deep-tech-qa-barrett-playground-global/",
+      "fuente": "Crunchbase News"
     }
   ]
 }
