@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "SpaceX debuta en bolsa con valuación de USD 2,7 billones y adquiere Cursor por USD 60.000M, marcando el mayor IPO de la historia",
+  "titular_del_dia": "SpaceX se convierte en pública a una valuación de 2,6 billones de dólares y adquiere Cursor por 60.000 millones en el mayor M&A de startups del año",
   "items": [
     {
-      "indice": 9,
+      "indice": 23,
       "categoria": "Exits/M&A",
-      "titulo_es": "SpaceX adquiere el editor de código con IA Cursor por USD 60.000 millones en acciones, días después de su IPO",
-      "resumen": "SpaceX anunció la adquisición de Cursor, herramienta de programación asistida por IA, por USD 60.000 millones en acciones, apenas días después de su salida a bolsa. El movimiento apunta a fortalecer la división de IA de la compañía, que presentó a inversores del IPO un mercado direccionable de USD 26 billones en inteligencia artificial. Es una de las adquisiciones tecnológicas más grandes de la historia.",
-      "por_que_importa": "Ilustra cómo una empresa recién listada puede usar su acción como moneda de adquisición para pivotar hacia IA, un caso de estudio clave sobre estrategia post-IPO y M&A en el sector tech.",
-      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 19,
-      "categoria": "Exits/M&A",
-      "titulo_es": "SpaceX concreta el mayor IPO de la historia: recauda USD 85.700 millones tras ejercerse la opción de sobreasignación",
-      "resumen": "Los underwriters del IPO de SpaceX ejercieron la opción de compra adicional, llevando el total recaudado a USD 85.700 millones, superando cualquier salida a bolsa anterior. La valuación de la compañía trepó a USD 2,7 billones en pocos días de cotización, superando a Amazon. El evento redefine el tamaño posible de un IPO tecnológico.",
-      "por_que_importa": "El IPO de SpaceX es un hito de mercado que todo estudiante de VC y finanzas debe analizar: dinámica de precio, lockups, rol de los bancos y señales para el mercado de exits privados globalmente.",
-      "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Global",
-      "titulo_es": "SpaceX supera a Amazon en valuación y alcanza USD 2,7 billones tras su debut bursátil",
-      "resumen": "En apenas días de cotización pública, SpaceX vio su valuación crecer más de USD 1 billón, superando a Amazon y convirtiéndose en una de las empresas más valiosas del mundo. El salto refleja el apetito del mercado por compañías de infraestructura espacial e IA. La suba también premia a inversores de capital privado que mantuvieron posiciones por más de una década.",
-      "por_que_importa": "Demuestra la magnitud de los retornos posibles en VC de largo plazo y plantea preguntas sobre valuación, liquidez y timing de exits que son centrales para el análisis del ecosistema inversor.",
-      "link": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 21,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Salesforce adquiere la plataforma de atención al cliente con IA Fin por USD 3.600 millones",
-      "resumen": "Salesforce anunció la compra de Fin, plataforma de customer service impulsada por IA, por USD 3.600 millones. El objetivo es integrar el equipo y la tecnología de Fin a Agentforce, su producto de agentes de IA para empresas. La operación refleja la aceleración del mercado de AI agents en el segmento enterprise.",
-      "por_que_importa": "Es un exit concreto en el espacio de AI agents empresariales, un vertical en pleno crecimiento en LatAm, y ejemplifica cómo las big tech usan M&A para cerrar brechas competitivas en IA.",
-      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 24,
-      "categoria": "Tendencias",
-      "titulo_es": "El boom de financiamiento en IA no es global: EE.UU. concentra casi el 80% del capital en 2026",
-      "resumen": "Según datos de Crunchbase, las startups estadounidenses captaron el 80% del financiamiento global de IA en lo que va de 2026, desde semilla hasta growth stage. Esto representa una divergencia marcada respecto a años anteriores, cuando el capital estaba más distribuido geográficamente. La concentración plantea desafíos estructurales para ecosistemas emergentes como LatAm.",
-      "por_que_importa": "Dato crítico para entender las limitaciones y oportunidades del ecosistema emprendedor latinoamericano frente a la ola de IA: ¿cómo compiten las startups de la región por capital global?",
-      "link": "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/",
+      "titulo_es": "SpaceX adquiere Cursor, la herramienta de código asistido por IA, por 60.000 millones de dólares",
+      "resumen": "SpaceX adquirió Cursor, editor de código con IA, en la operación de M&A de startups más grande del año. La compra le da a SpaceX presencia en el mercado de software empresarial, donde la codificación asistida por IA ha reducido fuertemente la demanda de desarrolladores tradicionales. La operación se produce días después de la salida a bolsa de SpaceX.",
+      "por_que_importa": "Es un caso de estudio de primer nivel sobre cómo una compañía deeptech usa capital post-IPO para un movimiento estratégico en software empresarial, combinando dos de las tendencias más calientes del año.",
+      "link": "https://news.crunchbase.com/ma/spcx-acquires-ai-coding-cursor-largest-startup-ma-deal-2026/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 11,
-      "categoria": "Tendencias",
-      "titulo_es": "ChatGPT cae por debajo del 50% de market share en IA conversacional por primera vez",
-      "resumen": "ChatGPT registró por primera vez menos del 50% del mercado global de asistentes de IA, aunque sigue siendo líder con más de 1.100 millones de usuarios mensuales. Gemini de Google alcanzó 662 millones de usuarios y Claude de Anthropic llegó a 245 millones. La fragmentación del mercado se acelera y abre oportunidades para nuevos entrantes.",
-      "por_que_importa": "La pérdida de monopolio de OpenAI en IA conversacional señala un mercado más competitivo y con mayor espacio para startups especializadas, incluyendo las latinoamericanas que construyen sobre estos modelos.",
-      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "indice": 16,
+      "categoria": "Global",
+      "titulo_es": "SpaceX sale a bolsa: todo lo que hay que saber tras el IPO",
+      "resumen": "SpaceX completó su IPO y en pocos días alcanzó una valuación de 2,6 billones de dólares, superando brevemente a Amazon. El artículo analiza quiénes ganan con la salida, los riesgos regulatorios y qué implica para el ecosistema de startups tardías que postergan su salida a mercados públicos. Es uno de los IPOs más esperados en la historia reciente del venture capital.",
+      "por_que_importa": "Un IPO de esta magnitud redefine los parámetros de valuación de compañías de deeptech y tiene implicancias directas para cómo los fondos VC piensan sus estrategias de exit.",
+      "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
+      "categoria": "Global",
+      "titulo_es": "La valuación de SpaceX llega a 2,6 billones de dólares y supera brevemente a Amazon",
+      "resumen": "Apenas días después de su IPO, SpaceX vio su valuación crecer en 1 billón de dólares hasta los 2,6 billones, superando momentáneamente a Amazon. El movimiento refleja el apetito del mercado público por activos de deeptech y defensa espacial. Es la primera vez que una compañía de infraestructura espacial alcanza este nivel de capitalización.",
+      "por_que_importa": "Ilustra cómo el mercado público puede revalorizar activos que el VC financió durante años, un dato clave para entender los retornos potenciales de fondos con exposición a deeptech.",
+      "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 0,
       "categoria": "Ecosistema AR",
       "titulo_es": "Más de 4.000 personas participaron de la Experiencia Endeavor Buenos Aires 2026",
-      "resumen": "Endeavor Argentina realizó su edición 2026 del evento insignia en Buenos Aires, convocando a más de 4.000 asistentes entre emprendedores, inversores y referentes del ecosistema local. El encuentro reúne anualmente a las principales figuras del ecosistema emprendedor argentino y sirve como plataforma de networking y visibilidad para startups. Sin datos públicos de deals cerrados en el evento.",
-      "por_que_importa": "Endeavor es uno de los actores más relevantes del ecosistema emprendedor argentino y su evento anual es una referencia obligada para quienes buscan conectar con inversores y founders locales.",
+      "resumen": "Endeavor Argentina realizó su evento anual más importante con más de 4.000 asistentes en Buenos Aires, reuniendo a emprendedores, inversores y referentes del ecosistema local. El evento es uno de los puntos de encuentro más relevantes del ecosistema emprendedor argentino. No se publicaron aún los anuncios concretos de inversión o programas surgidos del encuentro.",
+      "por_que_importa": "Endeavor es uno de los actores centrales del ecosistema de startups en Argentina y LatAm, y este evento marca la agenda del sector para el segundo semestre del año.",
       "link": "https://www.endeavor.org.ar/blog-article-novedades-en-imagenes-experiencia-endeavor-buenos-aires-2026/",
       "fuente": "Endeavor Argentina"
     },
     {
-      "indice": 23,
-      "categoria": "Tendencias",
-      "titulo_es": "El playbook del SaaS cambió: founders deben demostrar resultados de negocio, no solo producto",
-      "resumen": "Según inversores entrevistados por Crunchbase, la irrupción de IA y LLMs está obligando a los fundadores de SaaS a reformular su pitch: ya no alcanza con mostrar adopción de software, sino que se exige demostrar ownership de flujos de trabajo críticos y resultados medibles. El modelo tradicional de cobro por asiento (per seat) está siendo reemplazado por métricas de outcome. Esto impacta directamente en cómo se valúan estas compañías.",
-      "por_que_importa": "Cualquier founder o analista de VC en LatAm que evalúe startups SaaS necesita entender cómo está cambiando el estándar de due diligence y valuación en el nuevo contexto de IA.",
-      "link": "https://news.crunchbase.com/saas/rewriting-pitch-playbook-venture-ai-startup-nikkhoo-navigate/",
-      "fuente": "Crunchbase News"
+      "indice": 18,
+      "categoria": "Rondas",
+      "titulo_es": "Flutterwave alcanza una valuación de 3.200 millones de dólares con Ripple como nuevo inversor",
+      "resumen": "La fintech africana de infraestructura de pagos Flutterwave alcanzó una valuación de 3.200 millones de dólares en su última ronda, con la empresa de blockchain Ripple como inversor estratégico y socio. La alianza combina infraestructura de pagos tradicionales con tecnología blockchain para mercados emergentes. El caso es relevante como modelo para fintechs de pagos en regiones con baja bancarización.",
+      "por_que_importa": "El modelo de Flutterwave tiene claros paralelos con el desafío de infraestructura de pagos en LatAm, y la entrada de Ripple como inversor estratégico es una señal sobre la dirección del capital cripto hacia fintechs de pagos.",
+      "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 12,
+      "indice": 1,
       "categoria": "Rondas",
-      "titulo_es": "Respond.io, startup de mensajería con agentes de IA, recauda USD 62,5 millones y apunta a adquisiciones",
-      "resumen": "La startup malaya Respond.io levantó una ronda de USD 62,5 millones para escalar su plataforma de atención al cliente basada en agentes de IA, que cobra por conversación en lugar de por usuario. La compañía planea usar parte del capital para adquisiciones en América del Norte y Europa. Su modelo de pricing por outcome es uno de los más discutidos en el ecosistema SaaS actual.",
-      "por_que_importa": "Ejemplo concreto de una startup no estadounidense que levantó capital significativo con un modelo de negocio de AI agents, relevante para founders y analistas que evalúan este vertical en LatAm.",
-      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "titulo_es": "Startup fundada por ex SpaceX recauda 22 millones de dólares para convertir motores de cohetes en plantas geotérmicas",
+      "resumen": "Critical Energy cerró una ronda de 22 millones de dólares para desarrollar plantas de energía geotérmica usando tecnología derivada de motores de cohetes. La compañía apunta a construir 300 GW de capacidad anual para 2045. La ronda apuesta a que la convergencia entre tecnología aeroespacial e infraestructura energética puede resolver el cuello de botella de energía para centros de datos de IA.",
+      "por_que_importa": "La intersección entre deeptech, energía y demanda de IA es uno de los sectores con mayor flujo de capital de riesgo en 2026, y entender estas tesis es clave para analizar dónde va el capital global.",
+      "link": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
       "fuente": "TechCrunch"
+    },
+    {
+      "indice": 24,
+      "categoria": "Tendencias",
+      "titulo_es": "Hardware y deeptech vuelven al centro del VC: la apuesta de una década de Playground Global",
+      "resumen": "Playground Global, fondo enfocado en hardware, energía y deeptech, ve cómo su tesis de inversión de más de diez años se vuelve mainstream en un contexto donde la IA demanda nueva infraestructura física. El fondo argumenta que los próximos grandes retornos vendrán de breakthroughs en ingeniería y ciencia, no solo de software. El artículo incluye datos sobre el resurgimiento del capital orientado a semiconductores y energía.",
+      "por_que_importa": "Entender el ciclo de retorno del hardware al centro del VC ayuda a los estudiantes a anticipar qué sectores captarán capital en los próximos años, incluyendo oportunidades en LatAm con recursos naturales estratégicos.",
+      "link": "https://news.crunchbase.com/venture/ai-saas-hardware-energy-deep-tech-qa-barrett-playground-global/",
+      "fuente": "Crunchbase News"
     },
     {
       "indice": 22,
       "categoria": "Tendencias",
-      "titulo_es": "Playground Global: la tesis de inversión en hardware y deep tech que apostó a contracorriente y ahora luce acertada",
-      "resumen": "Playground Global, fondo fundado hace más de una década, construyó su tesis alrededor de breakthroughs en ciencia, ingeniería, hardware y energía cuando el mercado priorizaba software. Con el auge de la IA y la demanda de infraestructura física, esa visión aparece ahora como adelantada. El fondo ofrece un caso de estudio sobre paciencia de capital y convicción temática en VC.",
-      "por_que_importa": "Para estudiantes de VC, el caso de Playground Global ilustra cómo se construye una tesis de inversión de largo plazo y por qué el deep tech y la infraestructura energética son categorías emergentes también en LatAm.",
-      "link": "https://news.crunchbase.com/venture/ai-saas-hardware-energy-deep-tech-qa-barrett-playground-global/",
+      "titulo_es": "Vendí mi startup de IA antes de tener ingresos: lo que los inversores no vieron",
+      "resumen": "Un fundador relata cómo vendió su startup de IA en etapa temprana y argumenta que el mayor valor a largo plazo en IA estará en la capa de modelos e infraestructura, no en aplicaciones construidas sobre plataformas existentes. El texto incluye datos sobre por qué los inversores sobrevaloran la velocidad de go-to-market y subestiman las barreras técnicas reales. Es una pieza analítica con datos concretos sobre dinámicas de exit anticipado.",
+      "por_que_importa": "Ofrece una perspectiva fundada sobre dónde están las barreras de entrada reales en IA, un debate central para cualquiera que evalúe startups o tesis de inversión en el sector.",
+      "link": "https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 6,
+      "categoria": "Tendencias",
+      "titulo_es": "El conflicto de Anthropic con el gobierno de Trump le está generando más ventas, según datos de gasto empresarial",
+      "resumen": "Datos de la plataforma de gestión de gastos Ramp muestran que el gasto corporativo en Anthropic creció significativamente en las semanas posteriores a su enfrentamiento público con la administración Trump. La tendencia sugiere que las empresas están diversificando sus proveedores de IA por razones de riesgo regulatorio y político. Anthropic compite directamente con OpenAI y Google en el segmento enterprise.",
+      "por_que_importa": "Muestra cómo los riesgos políticos y regulatorios pueden convertirse en ventajas competitivas inesperadas, una dinámica relevante para analizar el mercado de IA enterprise y sus implicancias para startups que compiten en ese espacio.",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 21,
+      "categoria": "Tendencias",
+      "titulo_es": "Fundadores negros en EE.UU. se convirtieron en inversores para cambiar el acceso al capital de riesgo",
+      "resumen": "Ante la persistente baja asignación de capital de VC a fundadores negros en Estados Unidos, algunos emprendedores decidieron convertirse en inversores para cambiar el ecosistema desde adentro. Crunchbase entrevistó a dos de ellos y documenta sus estrategias de tesis, captación de LPs y construcción de deal flow. El fenómeno refleja una tendencia más amplia de diversificación de los gestores de fondos en el ecosistema global.",
+      "por_que_importa": "La discusión sobre acceso al capital y diversidad en VC es directamente aplicable al ecosistema latinoamericano, donde las brechas de acceso tienen dinámicas similares.",
+      "link": "https://news.crunchbase.com/venture/black-founders-turned-investors-bethea-woodruff/",
       "fuente": "Crunchbase News"
     }
   ]
