@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "SpaceX se convierte en pública a una valuación de 2,6 billones de dólares y adquiere Cursor por 60.000 millones en el mayor M&A de startups del año",
+  "titular_del_dia": "PayPal Ventures cierra tras 10 años: señal de la reconfiguración del CVC global en la era de la IA",
   "items": [
     {
-      "indice": 23,
-      "categoria": "Exits/M&A",
-      "titulo_es": "SpaceX adquiere Cursor, la herramienta de código asistido por IA, por 60.000 millones de dólares",
-      "resumen": "SpaceX adquirió Cursor, editor de código con IA, en la operación de M&A de startups más grande del año. La compra le da a SpaceX presencia en el mercado de software empresarial, donde la codificación asistida por IA ha reducido fuertemente la demanda de desarrolladores tradicionales. La operación se produce días después de la salida a bolsa de SpaceX.",
-      "por_que_importa": "Es un caso de estudio de primer nivel sobre cómo una compañía deeptech usa capital post-IPO para un movimiento estratégico en software empresarial, combinando dos de las tendencias más calientes del año.",
-      "link": "https://news.crunchbase.com/ma/spcx-acquires-ai-coding-cursor-largest-startup-ma-deal-2026/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 16,
-      "categoria": "Global",
-      "titulo_es": "SpaceX sale a bolsa: todo lo que hay que saber tras el IPO",
-      "resumen": "SpaceX completó su IPO y en pocos días alcanzó una valuación de 2,6 billones de dólares, superando brevemente a Amazon. El artículo analiza quiénes ganan con la salida, los riesgos regulatorios y qué implica para el ecosistema de startups tardías que postergan su salida a mercados públicos. Es uno de los IPOs más esperados en la historia reciente del venture capital.",
-      "por_que_importa": "Un IPO de esta magnitud redefine los parámetros de valuación de compañías de deeptech y tiene implicancias directas para cómo los fondos VC piensan sus estrategias de exit.",
-      "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "fuente": "TechCrunch"
+      "indice": 0,
+      "categoria": "Fondos",
+      "titulo_es": "PayPal Ventures cierra sus puertas tras una década y 80 inversiones",
+      "resumen": "El brazo de corporate venture capital de PayPal anunció su cierre en el marco de una reestructuración corporativa más amplia. El fondo había realizado 80 inversiones a lo largo de 10 años. El cierre refleja la presión que enfrentan los CVC corporativos para justificar su existencia estratégica en entornos de ajuste de costos.",
+      "por_que_importa": "Ilustra cómo los fondos de CVC son los primeros en ser cortados en reestructuraciones, un patrón crítico para entender la dinámica entre corporate venture y el ecosistema startup.",
+      "link": "https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/",
+      "fuente": "TechCrunch Venture"
     },
     {
       "indice": 8,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Roelof Botha se une al directorio de SpaceX tras el mayor IPO de la historia",
+      "resumen": "El ex líder de Sequoia Capital, Roelof Botha, fue designado al directorio de SpaceX para cubrir una vacante existente, días después de que la compañía saliera a bolsa en lo que se describe como el mayor IPO de la historia. El movimiento refuerza la presencia de capital de riesgo institucional en la gobernanza de SpaceX post-IPO.",
+      "por_que_importa": "El mayor IPO de la historia es un hito de mercado que todo estudiante de VC debe conocer; además, muestra cómo los VCs institucionales transitan del rol de inversor al de board member tras una salida.",
+      "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 16,
+      "categoria": "Rondas",
+      "titulo_es": "Odyssey levanta capital con valuación de USD 1.450 millones para construir 'world models' de IA con respaldo de Amazon",
+      "resumen": "La startup Odyssey, enfocada en world models —la siguiente frontera en IA más allá de los LLMs—, alcanzó una valuación de USD 1.450 millones en su última ronda con Amazon entre sus inversores principales. Los world models buscan simular entornos físicos completos, con aplicaciones en robótica, gaming y diseño industrial.",
+      "por_que_importa": "Permite entender hacia dónde fluye el capital de VC en IA en 2026 y qué categorías técnicas están capturando las valuaciones más altas, información clave para analizar tendencias de inversión.",
+      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
       "categoria": "Global",
-      "titulo_es": "La valuación de SpaceX llega a 2,6 billones de dólares y supera brevemente a Amazon",
-      "resumen": "Apenas días después de su IPO, SpaceX vio su valuación crecer en 1 billón de dólares hasta los 2,6 billones, superando momentáneamente a Amazon. El movimiento refleja el apetito del mercado público por activos de deeptech y defensa espacial. Es la primera vez que una compañía de infraestructura espacial alcanza este nivel de capitalización.",
-      "por_que_importa": "Ilustra cómo el mercado público puede revalorizar activos que el VC financió durante años, un dato clave para entender los retornos potenciales de fondos con exposición a deeptech.",
-      "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "titulo_es": "NASA elige a la empresa de cohetes de Eric Schmidt para una misión a Marte, compitiendo con SpaceX",
+      "resumen": "Relativity Space, adquirida por el ex presidente ejecutivo de Google Eric Schmidt tras sus dificultades para alcanzar órbita, fue seleccionada por la NASA para una misión a Marte. Esto establece una competencia directa con SpaceX y marca un caso de turnaround mediante adquisición estratégica por parte de un inversor de alto perfil.",
+      "por_que_importa": "Es un caso de estudio concreto sobre cómo un inversor con capital y visión puede rescatar y reposicionar una startup fallida mediante M&A, un patrón relevante para estudiantes de private equity y VC.",
+      "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 0,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Más de 4.000 personas participaron de la Experiencia Endeavor Buenos Aires 2026",
-      "resumen": "Endeavor Argentina realizó su evento anual más importante con más de 4.000 asistentes en Buenos Aires, reuniendo a emprendedores, inversores y referentes del ecosistema local. El evento es uno de los puntos de encuentro más relevantes del ecosistema emprendedor argentino. No se publicaron aún los anuncios concretos de inversión o programas surgidos del encuentro.",
-      "por_que_importa": "Endeavor es uno de los actores centrales del ecosistema de startups en Argentina y LatAm, y este evento marca la agenda del sector para el segundo semestre del año.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-en-imagenes-experiencia-endeavor-buenos-aires-2026/",
-      "fuente": "Endeavor Argentina"
-    },
-    {
-      "indice": 18,
-      "categoria": "Rondas",
-      "titulo_es": "Flutterwave alcanza una valuación de 3.200 millones de dólares con Ripple como nuevo inversor",
-      "resumen": "La fintech africana de infraestructura de pagos Flutterwave alcanzó una valuación de 3.200 millones de dólares en su última ronda, con la empresa de blockchain Ripple como inversor estratégico y socio. La alianza combina infraestructura de pagos tradicionales con tecnología blockchain para mercados emergentes. El caso es relevante como modelo para fintechs de pagos en regiones con baja bancarización.",
-      "por_que_importa": "El modelo de Flutterwave tiene claros paralelos con el desafío de infraestructura de pagos en LatAm, y la entrada de Ripple como inversor estratégico es una señal sobre la dirección del capital cripto hacia fintechs de pagos.",
-      "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Rondas",
-      "titulo_es": "Startup fundada por ex SpaceX recauda 22 millones de dólares para convertir motores de cohetes en plantas geotérmicas",
-      "resumen": "Critical Energy cerró una ronda de 22 millones de dólares para desarrollar plantas de energía geotérmica usando tecnología derivada de motores de cohetes. La compañía apunta a construir 300 GW de capacidad anual para 2045. La ronda apuesta a que la convergencia entre tecnología aeroespacial e infraestructura energética puede resolver el cuello de botella de energía para centros de datos de IA.",
-      "por_que_importa": "La intersección entre deeptech, energía y demanda de IA es uno de los sectores con mayor flujo de capital de riesgo en 2026, y entender estas tesis es clave para analizar dónde va el capital global.",
-      "link": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 24,
+      "indice": 12,
       "categoria": "Tendencias",
-      "titulo_es": "Hardware y deeptech vuelven al centro del VC: la apuesta de una década de Playground Global",
-      "resumen": "Playground Global, fondo enfocado en hardware, energía y deeptech, ve cómo su tesis de inversión de más de diez años se vuelve mainstream en un contexto donde la IA demanda nueva infraestructura física. El fondo argumenta que los próximos grandes retornos vendrán de breakthroughs en ingeniería y ciencia, no solo de software. El artículo incluye datos sobre el resurgimiento del capital orientado a semiconductores y energía.",
-      "por_que_importa": "Entender el ciclo de retorno del hardware al centro del VC ayuda a los estudiantes a anticipar qué sectores captarán capital en los próximos años, incluyendo oportunidades en LatAm con recursos naturales estratégicos.",
-      "link": "https://news.crunchbase.com/venture/ai-saas-hardware-energy-deep-tech-qa-barrett-playground-global/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 22,
-      "categoria": "Tendencias",
-      "titulo_es": "Vendí mi startup de IA antes de tener ingresos: lo que los inversores no vieron",
-      "resumen": "Un fundador relata cómo vendió su startup de IA en etapa temprana y argumenta que el mayor valor a largo plazo en IA estará en la capa de modelos e infraestructura, no en aplicaciones construidas sobre plataformas existentes. El texto incluye datos sobre por qué los inversores sobrevaloran la velocidad de go-to-market y subestiman las barreras técnicas reales. Es una pieza analítica con datos concretos sobre dinámicas de exit anticipado.",
-      "por_que_importa": "Ofrece una perspectiva fundada sobre dónde están las barreras de entrada reales en IA, un debate central para cualquiera que evalúe startups o tesis de inversión en el sector.",
-      "link": "https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 6,
-      "categoria": "Tendencias",
-      "titulo_es": "El conflicto de Anthropic con el gobierno de Trump le está generando más ventas, según datos de gasto empresarial",
-      "resumen": "Datos de la plataforma de gestión de gastos Ramp muestran que el gasto corporativo en Anthropic creció significativamente en las semanas posteriores a su enfrentamiento público con la administración Trump. La tendencia sugiere que las empresas están diversificando sus proveedores de IA por razones de riesgo regulatorio y político. Anthropic compite directamente con OpenAI y Google en el segmento enterprise.",
-      "por_que_importa": "Muestra cómo los riesgos políticos y regulatorios pueden convertirse en ventajas competitivas inesperadas, una dinámica relevante para analizar el mercado de IA enterprise y sus implicancias para startups que compiten en ese espacio.",
-      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "titulo_es": "Líderes mundiales en el G7 temen que EE.UU. pueda cortar el acceso a su IA de un día para el otro",
+      "resumen": "En el G7, Macron y Modi expresaron preocupación por la dependencia soberana de las naciones en modelos de IA controlados por empresas estadounidenses, temor que se materializó con el reciente apagón de Anthropic. El debate instala la geopolítica de la IA como una variable de riesgo para startups y fondos que operan globalmente.",
+      "por_que_importa": "Para inversores en LatAm, este debate sobre soberanía de IA tiene implicancias directas: define oportunidades para infraestructura local y riesgos de dependencia tecnológica en la región.",
+      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 21,
       "categoria": "Tendencias",
-      "titulo_es": "Fundadores negros en EE.UU. se convirtieron en inversores para cambiar el acceso al capital de riesgo",
-      "resumen": "Ante la persistente baja asignación de capital de VC a fundadores negros en Estados Unidos, algunos emprendedores decidieron convertirse en inversores para cambiar el ecosistema desde adentro. Crunchbase entrevistó a dos de ellos y documenta sus estrategias de tesis, captación de LPs y construcción de deal flow. El fenómeno refleja una tendencia más amplia de diversificación de los gestores de fondos en el ecosistema global.",
-      "por_que_importa": "La discusión sobre acceso al capital y diversidad en VC es directamente aplicable al ecosistema latinoamericano, donde las brechas de acceso tienen dinámicas similares.",
-      "link": "https://news.crunchbase.com/venture/black-founders-turned-investors-bethea-woodruff/",
+      "titulo_es": "El jefe de AT&T Ventures explica cómo la IA redefinió la defensibilidad en etapa seed",
+      "resumen": "Vikram Taneja, responsable de AT&T Ventures, argumenta que la IA bajó drásticamente la barrera para construir software, lo que desplazó los criterios de defensibilidad en etapa temprana hacia datos propietarios, distribución y efectos de red. La entrevista ofrece un marco práctico para evaluar startups en el contexto actual.",
+      "por_que_importa": "Entender qué hace defensible a una startup hoy es central para cualquier analista de VC; este artículo da vocabulario y criterios concretos aplicables a deal flow en LatAm.",
+      "link": "https://news.crunchbase.com/seed/new-defensibility-rules-qa-taneja-att-ventures/",
       "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 10,
+      "categoria": "Tendencias",
+      "titulo_es": "Inversora de NEA advierte que las empresas aún no saben medir el ROI de la IA",
+      "resumen": "Tiffany Luck de NEA señala que la tendencia del 'tokenmaxxing' —presionar el uso de IA al máximo— tuvo un freno cuando llegaron las facturas: empresas como Uber están recalibrando sus inversiones en IA al no poder demostrar retorno claro. Esto abre un debate sobre métricas de adopción enterprise y el ciclo de hype.",
+      "por_que_importa": "La brecha entre adopción enterprise de IA y ROI demostrable es un tema central para evaluar startups B2B de IA, altamente relevante para quienes analizan oportunidades de inversión en la región.",
+      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 25,
+      "categoria": "Tendencias",
+      "titulo_es": "Fundador que vendió su startup de IA antes de generar ingresos revela qué ignoraron los inversores",
+      "resumen": "El autor vendió una startup de IA en etapa pre-revenue y argumenta que el valor de largo plazo en IA estará en capa de modelos e infraestructura, no en aplicaciones construidas sobre plataformas existentes. El artículo cuestiona el modelo de valoración que aplicaron los inversores que participaron en su proceso.",
+      "por_que_importa": "Ofrece una perspectiva fundacional sobre dónde se captura valor en la cadena de IA, tema directamente aplicable al análisis de startups tecnológicas en LatAm que buscan diferenciarse.",
+      "link": "https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 19,
+      "categoria": "Rondas",
+      "titulo_es": "Startup de femtech levanta USD 11 millones para wearable no invasivo de seguimiento hormonal",
+      "resumen": "Clair Health, fundada por dos graduadas de Stanford, cerró una ronda de USD 11 millones para desarrollar un wearable que monitorea marcadores de inflamación, niveles de energía y fases del ciclo hormonal sin necesidad de análisis de sangre. El dispositivo apunta a mujeres con irregularidades menstruales y perimenopausia.",
+      "por_que_importa": "El segmento femtech sigue siendo una de las categorías más subfinanciadas del ecosistema global, con oportunidad concreta para fondos y aceleradoras enfocados en salud en LatAm.",
+      "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Tendencias",
+      "titulo_es": "Solo el 16% de los estadounidenses cree que la IA tendrá un impacto positivo en la sociedad, según Pew Research",
+      "resumen": "Un nuevo estudio de Pew Research muestra una brecha profunda entre el optimismo de Wall Street y la percepción ciudadana sobre la IA: apenas 1 de cada 6 estadounidenses espera un impacto positivo. El dato contrasta con los volúmenes récord de inversión en IA registrados en 2025 y 2026.",
+      "por_que_importa": "La desconexión entre narrativa inversora y percepción pública es un riesgo regulatorio y reputacional real que afecta valuaciones y estrategias de go-to-market, especialmente en mercados como LatAm donde la desconfianza tecnológica es mayor.",
+      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "fuente": "TechCrunch"
     }
   ]
 }
