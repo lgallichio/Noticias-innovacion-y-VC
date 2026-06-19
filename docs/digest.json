@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "PayPal Ventures cierra tras 10 años: señal de la reconfiguración del CVC global en la era de la IA",
+  "titular_del_dia": "Semana cargada en LatAm: exits de PE por casi USD750M, M&A en healthtech y beneficios laborales, y USD300M en crédito para fintech mexicana",
   "items": [
     {
-      "indice": 0,
-      "categoria": "Fondos",
-      "titulo_es": "PayPal Ventures cierra sus puertas tras una década y 80 inversiones",
-      "resumen": "El brazo de corporate venture capital de PayPal anunció su cierre en el marco de una reestructuración corporativa más amplia. El fondo había realizado 80 inversiones a lo largo de 10 años. El cierre refleja la presión que enfrentan los CVC corporativos para justificar su existencia estratégica en entornos de ajuste de costos.",
-      "por_que_importa": "Ilustra cómo los fondos de CVC son los primeros en ser cortados en reestructuraciones, un patrón crítico para entender la dinámica entre corporate venture y el ecosistema startup.",
-      "link": "https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/",
-      "fuente": "TechCrunch Venture"
+      "indice": 3,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Southern Cross Group vende Mills Locação a Loxam en una operación valuada en USD748,7M",
+      "resumen": "El fondo de private equity Southern Cross Group acordó la venta de Mills Locação, Serviços e Logística —empresa brasileña de alquiler de equipos— a la francesa Loxam, en una transacción que valúa la compañía en USD748,7 millones. Se trata de uno de los exits de PE más grandes registrados en Brasil en lo que va del año. La operación consolida la posición de Loxam como jugador regional en el sector de equipos.",
+      "por_que_importa": "Es un caso de estudio concreto de exit de PE en LatAm: permite analizar tesis de inversión, múltiplos de salida y el atractivo del sector industrial brasileño para fondos internacionales.",
+      "link": "https://www.lavca.org/southern-cross-group-agrees-to-exit-mills-locacao-servicos-e-logistica/",
+      "fuente": "LAVCA"
     },
     {
-      "indice": 8,
+      "indice": 4,
+      "categoria": "Rondas",
+      "titulo_es": "Plata, el banco digital mexicano, asegura USD300M de crédito de Oaktree, Macquarie y socios",
+      "resumen": "Oaktree Capital Management, Macquarie Asset Management, Fasanara Capital y Covalto desembolsaron USD300 millones como parte de una facilidad de crédito total de USD500 millones para Plata, banco digital con sede en México. La operación refleja el creciente interés de gestoras globales de activos alternativos en financiar el crecimiento de neobancos latinoamericanos. Plata competirá en el segmento de banca digital masiva en uno de los mayores mercados de la región.",
+      "por_que_importa": "Muestra cómo los neobancos de LatAm acceden a capital institucional global a escala, un modelo de financiamiento alternativo al equity que todo estudiante de VC/PE debe entender.",
+      "link": "https://www.lavca.org/oaktree-macquarie-fasanara-capital-covalto-provide-usd300m-in-credit-for-plata/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 1,
       "categoria": "Exits/M&A",
-      "titulo_es": "Roelof Botha se une al directorio de SpaceX tras el mayor IPO de la historia",
-      "resumen": "El ex líder de Sequoia Capital, Roelof Botha, fue designado al directorio de SpaceX para cubrir una vacante existente, días después de que la compañía saliera a bolsa en lo que se describe como el mayor IPO de la historia. El movimiento refuerza la presencia de capital de riesgo institucional en la gobernanza de SpaceX post-IPO.",
-      "por_que_importa": "El mayor IPO de la historia es un hito de mercado que todo estudiante de VC debe conocer; además, muestra cómo los VCs institucionales transitan del rol de inversor al de board member tras una salida.",
-      "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "titulo_es": "Betterfly adquiere la startup mexicana minu en una operación de ~USD100M",
+      "resumen": "Betterfly, la insurtech/beneficios chilena respaldada por VC, adquirió minu, startup mexicana de beneficios para empleados, en un deal valuado en aproximadamente USD100 millones. La operación expande el footprint de Betterfly en México y consolida su plataforma de bienestar y beneficios laborales en LatAm. minu había levantado capital de fondos de venture capital y operaba soluciones de adelanto de sueldo y beneficios flexibles.",
+      "por_que_importa": "Es un ejemplo de M&A entre startups respaldadas por VC en LatAm, relevante para entender estrategias de consolidación regional y cómo los fondos realizan retornos vía adquisiciones estratégicas.",
+      "link": "https://www.lavca.org/betterfly-acquires-minu/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 9,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Senior Sistemas adquiere la healthtech brasileña Salu por BRL319M (~USD63M)",
+      "resumen": "Senior Sistemas, empresa brasileña de software empresarial, acordó la compra de Salu, startup de healthtech con sede en Brasil, por BRL319 millones (aproximadamente USD63 millones). La operación representa un exit relevante para los inversores de VC que participaron en Salu y amplía la oferta de Senior en el segmento de salud digital. El deal refleja la consolidación en curso del sector healthtech en Brasil.",
+      "por_que_importa": "Ilustra cómo compañías de software establecidas adquieren startups de healthtech como vía de crecimiento inorgánico, un patrón de exit cada vez más frecuente en el ecosistema brasileño.",
+      "link": "https://www.lavca.org/senior-sistemas-agrees-to-acquire-salu-for-brl319m-usd63m/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 7,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Monte Capital acuerda adquirir Takoda, data center brasileño escindido de Tivit y ex portafolio de Apax",
+      "resumen": "Monte Capital acordó la adquisición de Takoda, empresa brasileña de data centers que fue separada de Tivit y estuvo previamente en manos de fondos administrados por Apax Partners. La operación ocurre en un contexto de fuerte demanda por infraestructura digital en LatAm, impulsada por el crecimiento de IA y servicios en la nube. Representa un exit para Apax y una apuesta de Monte Capital por activos de infraestructura tecnológica.",
+      "por_que_importa": "Combina tendencias clave —infraestructura de datos, IA y PE— en un mercado en expansión; es un caso real de carve-out y exit de fondo internacional en Brasil.",
+      "link": "https://www.lavca.org/monte-capital-agrees-to-acquire-takoda/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 5,
+      "categoria": "Rondas",
+      "titulo_es": "Uncover levanta una Serie A de USD16M para su plataforma de medición de marketing mix en Brasil",
+      "resumen": "Cloud9 Capital lideró una ronda Serie A de USD16 millones para Uncover, startup brasileña especializada en Marketing Mix Modeling (MMM) y medición de medios, con participación de ABSeed Ventures y Endeavor. La plataforma ayuda a empresas a optimizar su inversión publicitaria usando modelos estadísticos avanzados. La ronda valida el segmento de martech analítica como una oportunidad de VC en LatAm.",
+      "por_que_importa": "Muestra el crecimiento del ecosistema de martech/analytics en Brasil y el rol de fondos regionales como Cloud9 y redes como Endeavor en cofinanciar startups B2B de etapa temprana.",
+      "link": "https://www.lavca.org/cloud9-capital-leads-a-usd16m-series-a-for-uncover/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 26,
+      "categoria": "LatAm",
+      "titulo_es": "Apple abre la App Store a competencia externa en Brasil bajo presión regulatoria",
+      "resumen": "Apple habilitó la distribución alternativa de aplicaciones en iPhones en Brasil, cediendo ante la regulación local y siguiendo el precedente marcado por la UE. La medida abre oportunidades para tiendas de apps alternativas y desarrolladores que busquen evitar la comisión del 30% de Apple. Brasil se consolida como un mercado donde la presión antimonopolio está transformando las reglas del ecosistema digital.",
+      "por_que_importa": "El cambio regulatorio en Brasil puede abrir un nuevo modelo de distribución y monetización para startups de apps en LatAm, con implicancias directas para la economía de plataformas en la región.",
+      "link": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 17,
+      "categoria": "Global",
+      "titulo_es": "Los 11 startups más destacados del Demo Day de YC Spring 2026, según inversores",
+      "resumen": "TechCrunch relevó la opinión de inversores sobre el batch Spring 2026 de Y Combinator, identificando 11 startups sobresalientes que en algunos casos alcanzaron valuaciones superiores a USD175 millones durante el evento. La selección abarca sectores como IA aplicada, infraestructura y herramientas para empresas. El Demo Day de YC sigue siendo un termómetro clave del apetito inversor global en etapa temprana.",
+      "por_que_importa": "Seguir qué tesis y sectores atraen capital en YC es esencial para entender hacia dónde fluye el VC en etapa semilla y qué tendencias llegarán a LatAm en los próximos 12 a 24 meses.",
+      "link": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 16,
-      "categoria": "Rondas",
-      "titulo_es": "Odyssey levanta capital con valuación de USD 1.450 millones para construir 'world models' de IA con respaldo de Amazon",
-      "resumen": "La startup Odyssey, enfocada en world models —la siguiente frontera en IA más allá de los LLMs—, alcanzó una valuación de USD 1.450 millones en su última ronda con Amazon entre sus inversores principales. Los world models buscan simular entornos físicos completos, con aplicaciones en robótica, gaming y diseño industrial.",
-      "por_que_importa": "Permite entender hacia dónde fluye el capital de VC en IA en 2026 y qué categorías técnicas están capturando las valuaciones más altas, información clave para analizar tendencias de inversión.",
-      "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
       "categoria": "Global",
-      "titulo_es": "NASA elige a la empresa de cohetes de Eric Schmidt para una misión a Marte, compitiendo con SpaceX",
-      "resumen": "Relativity Space, adquirida por el ex presidente ejecutivo de Google Eric Schmidt tras sus dificultades para alcanzar órbita, fue seleccionada por la NASA para una misión a Marte. Esto establece una competencia directa con SpaceX y marca un caso de turnaround mediante adquisición estratégica por parte de un inversor de alto perfil.",
-      "por_que_importa": "Es un caso de estudio concreto sobre cómo un inversor con capital y visión puede rescatar y reposicionar una startup fallida mediante M&A, un patrón relevante para estudiantes de private equity y VC.",
-      "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+      "titulo_es": "OpenAI suma al co-inventor del Transformer y un ex funcionario de política de IA antes de su IPO",
+      "resumen": "OpenAI incorporó a Noam Shazeer, co-inventor de la arquitectura Transformer, que se suma desde Google DeepMind, y a Dean Ball, ex funcionario de política de IA de la administración Trump. Los movimientos ocurren en la recta final de preparación para la salida a bolsa de la compañía. La estrategia busca consolidar liderazgo técnico y capacidad de influencia regulatoria simultáneamente.",
+      "por_que_importa": "El IPO de OpenAI será un evento bisagra para el ecosistema global de VC en IA; entender cómo se posiciona la compañía antes de cotizar es clave para analizar valuaciones y dinámica del mercado.",
+      "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 12,
+      "indice": 22,
       "categoria": "Tendencias",
-      "titulo_es": "Líderes mundiales en el G7 temen que EE.UU. pueda cortar el acceso a su IA de un día para el otro",
-      "resumen": "En el G7, Macron y Modi expresaron preocupación por la dependencia soberana de las naciones en modelos de IA controlados por empresas estadounidenses, temor que se materializó con el reciente apagón de Anthropic. El debate instala la geopolítica de la IA como una variable de riesgo para startups y fondos que operan globalmente.",
-      "por_que_importa": "Para inversores en LatAm, este debate sobre soberanía de IA tiene implicancias directas: define oportunidades para infraestructura local y riesgos de dependencia tecnológica en la región.",
-      "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 21,
-      "categoria": "Tendencias",
-      "titulo_es": "El jefe de AT&T Ventures explica cómo la IA redefinió la defensibilidad en etapa seed",
-      "resumen": "Vikram Taneja, responsable de AT&T Ventures, argumenta que la IA bajó drásticamente la barrera para construir software, lo que desplazó los criterios de defensibilidad en etapa temprana hacia datos propietarios, distribución y efectos de red. La entrevista ofrece un marco práctico para evaluar startups en el contexto actual.",
-      "por_que_importa": "Entender qué hace defensible a una startup hoy es central para cualquier analista de VC; este artículo da vocabulario y criterios concretos aplicables a deal flow en LatAm.",
-      "link": "https://news.crunchbase.com/seed/new-defensibility-rules-qa-taneja-att-ventures/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 10,
-      "categoria": "Tendencias",
-      "titulo_es": "Inversora de NEA advierte que las empresas aún no saben medir el ROI de la IA",
-      "resumen": "Tiffany Luck de NEA señala que la tendencia del 'tokenmaxxing' —presionar el uso de IA al máximo— tuvo un freno cuando llegaron las facturas: empresas como Uber están recalibrando sus inversiones en IA al no poder demostrar retorno claro. Esto abre un debate sobre métricas de adopción enterprise y el ciclo de hype.",
-      "por_que_importa": "La brecha entre adopción enterprise de IA y ROI demostrable es un tema central para evaluar startups B2B de IA, altamente relevante para quienes analizan oportunidades de inversión en la región.",
-      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 25,
-      "categoria": "Tendencias",
-      "titulo_es": "Fundador que vendió su startup de IA antes de generar ingresos revela qué ignoraron los inversores",
-      "resumen": "El autor vendió una startup de IA en etapa pre-revenue y argumenta que el valor de largo plazo en IA estará en capa de modelos e infraestructura, no en aplicaciones construidas sobre plataformas existentes. El artículo cuestiona el modelo de valoración que aplicaron los inversores que participaron en su proceso.",
-      "por_que_importa": "Ofrece una perspectiva fundacional sobre dónde se captura valor en la cadena de IA, tema directamente aplicable al análisis de startups tecnológicas en LatAm que buscan diferenciarse.",
-      "link": "https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 19,
-      "categoria": "Rondas",
-      "titulo_es": "Startup de femtech levanta USD 11 millones para wearable no invasivo de seguimiento hormonal",
-      "resumen": "Clair Health, fundada por dos graduadas de Stanford, cerró una ronda de USD 11 millones para desarrollar un wearable que monitorea marcadores de inflamación, niveles de energía y fases del ciclo hormonal sin necesidad de análisis de sangre. El dispositivo apunta a mujeres con irregularidades menstruales y perimenopausia.",
-      "por_que_importa": "El segmento femtech sigue siendo una de las categorías más subfinanciadas del ecosistema global, con oportunidad concreta para fondos y aceleradoras enfocados en salud en LatAm.",
-      "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Tendencias",
-      "titulo_es": "Solo el 16% de los estadounidenses cree que la IA tendrá un impacto positivo en la sociedad, según Pew Research",
-      "resumen": "Un nuevo estudio de Pew Research muestra una brecha profunda entre el optimismo de Wall Street y la percepción ciudadana sobre la IA: apenas 1 de cada 6 estadounidenses espera un impacto positivo. El dato contrasta con los volúmenes récord de inversión en IA registrados en 2025 y 2026.",
-      "por_que_importa": "La desconexión entre narrativa inversora y percepción pública es un riesgo regulatorio y reputacional real que afecta valuaciones y estrategias de go-to-market, especialmente en mercados como LatAm donde la desconfianza tecnológica es mayor.",
-      "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "titulo_es": "El regulador energético de EE.UU. otorga prioridad de conexión a la red eléctrica para data centers de IA",
+      "resumen": "La Comisión Federal Reguladora de Energía (FERC) de Estados Unidos ordenó a los operadores de red eléctrica crear un carril rápido de interconexión específicamente para data centers de IA. La medida acelera los tiempos de conexión pero no resuelve la escasez de oferta eléctrica subyacente. El debate sobre infraestructura energética para IA se instala como una variable crítica para inversores en real assets y tecnología.",
+      "por_que_importa": "La demanda energética de la IA es una megaTendencia de inversión con implicancias para LatAm, donde la disponibilidad de energía renovable puede posicionar a países como Brasil, Chile y Argentina como destinos de data centers.",
+      "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
       "fuente": "TechCrunch"
     }
   ]
