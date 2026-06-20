@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "Semana cargada en LatAm: exits de PE por casi USD750M, M&A en healthtech y beneficios laborales, y USD300M en crédito para fintech mexicana",
+  "titular_del_dia": "M&A en AI dev-tools: Elastic compra Deductive AI por hasta USD 85M en una de las salidas más rápidas del año para una startup respaldada por CRV",
   "items": [
     {
-      "indice": 3,
+      "indice": 10,
       "categoria": "Exits/M&A",
-      "titulo_es": "Southern Cross Group vende Mills Locação a Loxam en una operación valuada en USD748,7M",
-      "resumen": "El fondo de private equity Southern Cross Group acordó la venta de Mills Locação, Serviços e Logística —empresa brasileña de alquiler de equipos— a la francesa Loxam, en una transacción que valúa la compañía en USD748,7 millones. Se trata de uno de los exits de PE más grandes registrados en Brasil en lo que va del año. La operación consolida la posición de Loxam como jugador regional en el sector de equipos.",
-      "por_que_importa": "Es un caso de estudio concreto de exit de PE en LatAm: permite analizar tesis de inversión, múltiplos de salida y el atractivo del sector industrial brasileño para fondos internacionales.",
-      "link": "https://www.lavca.org/southern-cross-group-agrees-to-exit-mills-locacao-servicos-e-logistica/",
-      "fuente": "LAVCA"
+      "titulo_es": "Elastic acuerda comprar la startup de AI para debugging Deductive AI por hasta USD 85 millones",
+      "resumen": "Elastic acordó la adquisición de Deductive AI, una startup fundada hace apenas tres años y respaldada por CRV, que utiliza IA para detectar y resolver bugs en software. El precio llega a hasta USD 85 millones, configurando un exit relativamente rápido para sus inversores. Es un ejemplo concreto de cómo los incumbentes de infraestructura tech están acelerando su estrategia de M&A para incorporar capacidades de AI.",
+      "por_que_importa": "Ilustra el ciclo completo de una inversión VC en AI en menos de 3 años, desde seed hasta exit estratégico, un caso de estudio ideal para entender retornos y estrategias de salida.",
+      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "fuente": "TechCrunch"
     },
     {
       "indice": 4,
-      "categoria": "Rondas",
-      "titulo_es": "Plata, el banco digital mexicano, asegura USD300M de crédito de Oaktree, Macquarie y socios",
-      "resumen": "Oaktree Capital Management, Macquarie Asset Management, Fasanara Capital y Covalto desembolsaron USD300 millones como parte de una facilidad de crédito total de USD500 millones para Plata, banco digital con sede en México. La operación refleja el creciente interés de gestoras globales de activos alternativos en financiar el crecimiento de neobancos latinoamericanos. Plata competirá en el segmento de banca digital masiva en uno de los mayores mercados de la región.",
-      "por_que_importa": "Muestra cómo los neobancos de LatAm acceden a capital institucional global a escala, un modelo de financiamiento alternativo al equity que todo estudiante de VC/PE debe entender.",
-      "link": "https://www.lavca.org/oaktree-macquarie-fasanara-capital-covalto-provide-usd300m-in-credit-for-plata/",
-      "fuente": "LAVCA"
+      "categoria": "Tendencias",
+      "titulo_es": "Mapa completo de startups de fusión nuclear que superaron los USD 100 millones de inversión",
+      "resumen": "Las startups de fusión nuclear han captado un total acumulado de USD 7.100 millones hasta la fecha, concentrados en un puñado de compañías. TechCrunch mapea cada una de las que superó los USD 100 millones de inversión, revelando la magnitud del capital privado que fluye hacia energía alternativa de largo plazo. El sector se consolida como uno de los destinos de capital de riesgo más ambiciosos de la década.",
+      "por_que_importa": "Entender dónde se concentran las apuestas más grandes del VC global es clave para anticipar tendencias que eventualmente llegarán a LatAm en forma de oportunidades o competencia.",
+      "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 1,
+      "indice": 2,
       "categoria": "Exits/M&A",
-      "titulo_es": "Betterfly adquiere la startup mexicana minu en una operación de ~USD100M",
-      "resumen": "Betterfly, la insurtech/beneficios chilena respaldada por VC, adquirió minu, startup mexicana de beneficios para empleados, en un deal valuado en aproximadamente USD100 millones. La operación expande el footprint de Betterfly en México y consolida su plataforma de bienestar y beneficios laborales en LatAm. minu había levantado capital de fondos de venture capital y operaba soluciones de adelanto de sueldo y beneficios flexibles.",
-      "por_que_importa": "Es un ejemplo de M&A entre startups respaldadas por VC en LatAm, relevante para entender estrategias de consolidación regional y cómo los fondos realizan retornos vía adquisiciones estratégicas.",
-      "link": "https://www.lavca.org/betterfly-acquires-minu/",
-      "fuente": "LAVCA"
+      "titulo_es": "Go sale a bolsa en el mayor IPO de Japón en 2026 y apunta a robotaxis y adquisiciones",
+      "resumen": "La app de taxis Go completó el IPO más grande de Japón en lo que va de 2026, y utilizará el capital captado para expandirse hacia robotaxis y realizar adquisiciones estratégicas. El caso reactiva el debate sobre la viabilidad de las salidas a bolsa para compañías de movilidad en mercados asiáticos. La operación aporta una señal positiva para el mercado de listings tecnológicos en economías emergentes.",
+      "por_que_importa": "Los IPOs de empresas de movilidad en mercados en desarrollo son un termómetro relevante para evaluar cuándo y cómo podrían darse exits similares para startups de transporte en LatAm.",
+      "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 9,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Senior Sistemas adquiere la healthtech brasileña Salu por BRL319M (~USD63M)",
-      "resumen": "Senior Sistemas, empresa brasileña de software empresarial, acordó la compra de Salu, startup de healthtech con sede en Brasil, por BRL319 millones (aproximadamente USD63 millones). La operación representa un exit relevante para los inversores de VC que participaron en Salu y amplía la oferta de Senior en el segmento de salud digital. El deal refleja la consolidación en curso del sector healthtech en Brasil.",
-      "por_que_importa": "Ilustra cómo compañías de software establecidas adquieren startups de healthtech como vía de crecimiento inorgánico, un patrón de exit cada vez más frecuente en el ecosistema brasileño.",
-      "link": "https://www.lavca.org/senior-sistemas-agrees-to-acquire-salu-for-brl319m-usd63m/",
-      "fuente": "LAVCA"
+      "indice": 6,
+      "categoria": "Tendencias",
+      "titulo_es": "Reliance de Ambani integra IA en telecom, apps y hogares para más de 500 millones de usuarios",
+      "resumen": "Reliance, el conglomerado del magnate Mukesh Ambani, está incorporando inteligencia artificial en todos sus servicios de telecomunicaciones, aplicaciones y productos para el hogar, alcanzando a más de 500 millones de personas. La estrategia apunta a convertir la infraestructura de conectividad masiva en un canal de distribución de IA a escala sin precedentes. Es un modelo de integración vertical que combina telco, datos y AI en economías de gran población.",
+      "por_que_importa": "El modelo de Reliance es análogo a lo que podrían intentar grandes telcos latinoamericanas como Claro o Telefónica, lo que abre oportunidades para startups B2B de AI en la región.",
+      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 7,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Monte Capital acuerda adquirir Takoda, data center brasileño escindido de Tivit y ex portafolio de Apax",
-      "resumen": "Monte Capital acordó la adquisición de Takoda, empresa brasileña de data centers que fue separada de Tivit y estuvo previamente en manos de fondos administrados por Apax Partners. La operación ocurre en un contexto de fuerte demanda por infraestructura digital en LatAm, impulsada por el crecimiento de IA y servicios en la nube. Representa un exit para Apax y una apuesta de Monte Capital por activos de infraestructura tecnológica.",
-      "por_que_importa": "Combina tendencias clave —infraestructura de datos, IA y PE— en un mercado en expansión; es un caso real de carve-out y exit de fondo internacional en Brasil.",
-      "link": "https://www.lavca.org/monte-capital-agrees-to-acquire-takoda/",
-      "fuente": "LAVCA"
+      "indice": 8,
+      "categoria": "Tendencias",
+      "titulo_es": "EE.UU. alega que el equipo más avanzado de ASML podría estar operando en China pese a las restricciones de exportación",
+      "resumen": "El gobierno estadounidense señala que herramientas de litografía de última generación de ASML podrían haber llegado a manos de clientes chinos, algo que la empresa niega. El caso escala la tensión en torno a los controles de exportación de semiconductores y pone en jaque las cadenas de suministro globales de chips. La situación podría acelerar la fragmentación tecnológica entre bloques y encarecer el acceso a hardware de IA a nivel global.",
+      "por_que_importa": "La geopolítica de los chips impacta directamente en el costo y disponibilidad de infraestructura cloud e IA para startups latinoamericanas que dependen de proveedores globales.",
+      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "fuente": "TechCrunch"
     },
     {
       "indice": 5,
-      "categoria": "Rondas",
-      "titulo_es": "Uncover levanta una Serie A de USD16M para su plataforma de medición de marketing mix en Brasil",
-      "resumen": "Cloud9 Capital lideró una ronda Serie A de USD16 millones para Uncover, startup brasileña especializada en Marketing Mix Modeling (MMM) y medición de medios, con participación de ABSeed Ventures y Endeavor. La plataforma ayuda a empresas a optimizar su inversión publicitaria usando modelos estadísticos avanzados. La ronda valida el segmento de martech analítica como una oportunidad de VC en LatAm.",
-      "por_que_importa": "Muestra el crecimiento del ecosistema de martech/analytics en Brasil y el rol de fondos regionales como Cloud9 y redes como Endeavor en cofinanciar startups B2B de etapa temprana.",
-      "link": "https://www.lavca.org/cloud9-capital-leads-a-usd16m-series-a-for-uncover/",
-      "fuente": "LAVCA"
-    },
-    {
-      "indice": 26,
-      "categoria": "LatAm",
-      "titulo_es": "Apple abre la App Store a competencia externa en Brasil bajo presión regulatoria",
-      "resumen": "Apple habilitó la distribución alternativa de aplicaciones en iPhones en Brasil, cediendo ante la regulación local y siguiendo el precedente marcado por la UE. La medida abre oportunidades para tiendas de apps alternativas y desarrolladores que busquen evitar la comisión del 30% de Apple. Brasil se consolida como un mercado donde la presión antimonopolio está transformando las reglas del ecosistema digital.",
-      "por_que_importa": "El cambio regulatorio en Brasil puede abrir un nuevo modelo de distribución y monetización para startups de apps en LatAm, con implicancias directas para la economía de plataformas en la región.",
-      "link": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 17,
-      "categoria": "Global",
-      "titulo_es": "Los 11 startups más destacados del Demo Day de YC Spring 2026, según inversores",
-      "resumen": "TechCrunch relevó la opinión de inversores sobre el batch Spring 2026 de Y Combinator, identificando 11 startups sobresalientes que en algunos casos alcanzaron valuaciones superiores a USD175 millones durante el evento. La selección abarca sectores como IA aplicada, infraestructura y herramientas para empresas. El Demo Day de YC sigue siendo un termómetro clave del apetito inversor global en etapa temprana.",
-      "por_que_importa": "Seguir qué tesis y sectores atraen capital en YC es esencial para entender hacia dónde fluye el VC en etapa semilla y qué tendencias llegarán a LatAm en los próximos 12 a 24 meses.",
-      "link": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 16,
-      "categoria": "Global",
-      "titulo_es": "OpenAI suma al co-inventor del Transformer y un ex funcionario de política de IA antes de su IPO",
-      "resumen": "OpenAI incorporó a Noam Shazeer, co-inventor de la arquitectura Transformer, que se suma desde Google DeepMind, y a Dean Ball, ex funcionario de política de IA de la administración Trump. Los movimientos ocurren en la recta final de preparación para la salida a bolsa de la compañía. La estrategia busca consolidar liderazgo técnico y capacidad de influencia regulatoria simultáneamente.",
-      "por_que_importa": "El IPO de OpenAI será un evento bisagra para el ecosistema global de VC en IA; entender cómo se posiciona la compañía antes de cotizar es clave para analizar valuaciones y dinámica del mercado.",
-      "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 22,
       "categoria": "Tendencias",
-      "titulo_es": "El regulador energético de EE.UU. otorga prioridad de conexión a la red eléctrica para data centers de IA",
-      "resumen": "La Comisión Federal Reguladora de Energía (FERC) de Estados Unidos ordenó a los operadores de red eléctrica crear un carril rápido de interconexión específicamente para data centers de IA. La medida acelera los tiempos de conexión pero no resuelve la escasez de oferta eléctrica subyacente. El debate sobre infraestructura energética para IA se instala como una variable crítica para inversores en real assets y tecnología.",
-      "por_que_importa": "La demanda energética de la IA es una megaTendencia de inversión con implicancias para LatAm, donde la disponibilidad de energía renovable puede posicionar a países como Brasil, Chile y Argentina como destinos de data centers.",
-      "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "titulo_es": "El gobierno de EE.UU. forzó a Anthropic a retirar dos modelos por seguridad nacional: ¿le termina haciendo publicidad?",
+      "resumen": "Washington obligó a Anthropic a retirar sus modelos Fable 5 y Mythos 5 luego de que investigadores de Amazon detectaran presuntos riesgos para la seguridad nacional. La medida es la primera vez que el gobierno estadounidense interviene directamente sobre el lanzamiento de un modelo de IA de una empresa privada de primer nivel. Paradójicamente, la cobertura mediática generada podría elevar la percepción pública de las capacidades de Anthropic.",
+      "por_que_importa": "Marca un precedente regulatorio sobre IA que los estudiantes de VC deben seguir de cerca, ya que definirá cómo se invierte y escala en el sector de frontier AI a nivel global.",
+      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "Tendencias",
+      "titulo_es": "Historia de los controles de exportación en ciberseguridad: por qué nunca funcionaron y qué implica para la IA",
+      "resumen": "Durante 30 años, los intentos de EE.UU. de restringir la exportación de software de ciberseguridad —desde PGP hasta herramientas de spyware— fracasaron sistemáticamente. El artículo traza ese historial y lo aplica al caso reciente del modelo Mythos de Anthropic, cuestionando la efectividad de los nuevos controles sobre IA. La tesis central es que la naturaleza digital del software hace que estas restricciones sean estructuralmente difíciles de implementar.",
+      "por_que_importa": "Comprender los límites de la regulación tecnológica es esencial para evaluar el riesgo regulatorio en tesis de inversión de startups de AI y ciberseguridad.",
+      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 9,
+      "categoria": "Tendencias",
+      "titulo_es": "India bloquea Telegram y desencadena una migración masiva hacia VPNs y apps alternativas",
+      "resumen": "El gobierno indio ordenó el bloqueo de Telegram, argumentando su uso para actividades ilegales, mientras la plataforma sostiene que deberían bloquearse contenidos específicos y no el servicio completo. La medida generó una ola inmediata de descargas de VPNs y apps rivales de mensajería. Es el bloqueo de mayor impacto a una plataforma de comunicaciones en India desde el veto a TikTok en 2020.",
+      "por_que_importa": "Los bloqueos de plataformas en mercados emergentes grandes son un recordatorio del riesgo regulatorio que enfrentan startups y fondos con exposición a India, Brasil u otros mercados con alta intervención estatal.",
+      "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "El creador del reproductor VLC construye infraestructura de software para controlar robots de forma remota en tiempo real",
+      "resumen": "Jean-Baptiste Kempf, emprendedor serial francés conocido por VLC, lanzó Kyber, una capa de infraestructura para el control remoto de dispositivos físicos en tiempo real. La startup apunta a resolver uno de los cuellos de botella más críticos en robótica industrial: la latencia y confiabilidad del control remoto. El proyecto sigue la lógica de construir infraestructura horizontal antes de que el mercado de robots escale masivamente.",
+      "por_que_importa": "Las apuestas en infraestructura para robótica representan una categoría de inversión emergente que combina hardware, software y deeptech, con potencial de aplicación en logística y manufactura latinoamericana.",
+      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "El ex CEO de Allbirds levantó un gran seed round para su nueva empresa de AI, pero aún no tiene equipo",
+      "resumen": "El fundador de Allbirds consiguió cerrar una ronda seed de gran tamaño para su nuevo emprendimiento en AI, a pesar de no contar todavía con empleados ni un equipo formado. El caso plantea preguntas sobre la dinámica actual del mercado de inversión early-stage en AI, donde la reputación del fundador puede pesar más que la tracción del producto. La situación refleja la presión de los fondos por no perderse deals en AI, incluso en estadios muy tempranos.",
+      "por_que_importa": "Analizar por qué los VCs invierten en founders sin equipo ni producto en AI es un ejercicio práctico clave para entender la lógica de selección y riesgo en etapas pre-seed y seed.",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "fuente": "TechCrunch"
     }
   ]
