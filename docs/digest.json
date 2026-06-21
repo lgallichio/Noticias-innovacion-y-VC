@@ -1,94 +1,40 @@
 {
-  "titular_del_dia": "M&A en AI dev-tools: Elastic compra Deductive AI por hasta USD 85M en una de las salidas más rápidas del año para una startup respaldada por CRV",
+  "titular_del_dia": "Semana escasa en LatAm: el ecosistema global muestra movimientos en robótica, biotech y talento de IA que marcan tendencias para la región",
   "items": [
     {
-      "indice": 10,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Elastic acuerda comprar la startup de AI para debugging Deductive AI por hasta USD 85 millones",
-      "resumen": "Elastic acordó la adquisición de Deductive AI, una startup fundada hace apenas tres años y respaldada por CRV, que utiliza IA para detectar y resolver bugs en software. El precio llega a hasta USD 85 millones, configurando un exit relativamente rápido para sus inversores. Es un ejemplo concreto de cómo los incumbentes de infraestructura tech están acelerando su estrategia de M&A para incorporar capacidades de AI.",
-      "por_que_importa": "Ilustra el ciclo completo de una inversión VC en AI en menos de 3 años, desde seed hasta exit estratégico, un caso de estudio ideal para entender retornos y estrategias de salida.",
-      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Tendencias",
-      "titulo_es": "Mapa completo de startups de fusión nuclear que superaron los USD 100 millones de inversión",
-      "resumen": "Las startups de fusión nuclear han captado un total acumulado de USD 7.100 millones hasta la fecha, concentrados en un puñado de compañías. TechCrunch mapea cada una de las que superó los USD 100 millones de inversión, revelando la magnitud del capital privado que fluye hacia energía alternativa de largo plazo. El sector se consolida como uno de los destinos de capital de riesgo más ambiciosos de la década.",
-      "por_que_importa": "Entender dónde se concentran las apuestas más grandes del VC global es clave para anticipar tendencias que eventualmente llegarán a LatAm en forma de oportunidades o competencia.",
-      "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 2,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Go sale a bolsa en el mayor IPO de Japón en 2026 y apunta a robotaxis y adquisiciones",
-      "resumen": "La app de taxis Go completó el IPO más grande de Japón en lo que va de 2026, y utilizará el capital captado para expandirse hacia robotaxis y realizar adquisiciones estratégicas. El caso reactiva el debate sobre la viabilidad de las salidas a bolsa para compañías de movilidad en mercados asiáticos. La operación aporta una señal positiva para el mercado de listings tecnológicos en economías emergentes.",
-      "por_que_importa": "Los IPOs de empresas de movilidad en mercados en desarrollo son un termómetro relevante para evaluar cuándo y cómo podrían darse exits similares para startups de transporte en LatAm.",
-      "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Tendencias",
-      "titulo_es": "Reliance de Ambani integra IA en telecom, apps y hogares para más de 500 millones de usuarios",
-      "resumen": "Reliance, el conglomerado del magnate Mukesh Ambani, está incorporando inteligencia artificial en todos sus servicios de telecomunicaciones, aplicaciones y productos para el hogar, alcanzando a más de 500 millones de personas. La estrategia apunta a convertir la infraestructura de conectividad masiva en un canal de distribución de IA a escala sin precedentes. Es un modelo de integración vertical que combina telco, datos y AI en economías de gran población.",
-      "por_que_importa": "El modelo de Reliance es análogo a lo que podrían intentar grandes telcos latinoamericanas como Claro o Telefónica, lo que abre oportunidades para startups B2B de AI en la región.",
-      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 8,
-      "categoria": "Tendencias",
-      "titulo_es": "EE.UU. alega que el equipo más avanzado de ASML podría estar operando en China pese a las restricciones de exportación",
-      "resumen": "El gobierno estadounidense señala que herramientas de litografía de última generación de ASML podrían haber llegado a manos de clientes chinos, algo que la empresa niega. El caso escala la tensión en torno a los controles de exportación de semiconductores y pone en jaque las cadenas de suministro globales de chips. La situación podría acelerar la fragmentación tecnológica entre bloques y encarecer el acceso a hardware de IA a nivel global.",
-      "por_que_importa": "La geopolítica de los chips impacta directamente en el costo y disponibilidad de infraestructura cloud e IA para startups latinoamericanas que dependen de proveedores globales.",
-      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "categoria": "Rondas",
+      "titulo_es": "Founders Fund apuesta por Shinkei, startup que automatiza el sacrificio humanitario de peces con robótica",
+      "resumen": "Founders Fund lideró una ronda en Shinkei, compañía que desarrolló Poseidon, un robot del tamaño de una heladera que sacrifica peces de forma rápida y humanitaria. La apuesta combina biotech, agritech y robótica en un nicho poco explorado por el capital de riesgo tradicional. El respaldo de Founders Fund —conocido por tesis contrarias al consenso— señala un interés creciente en la cadena de valor alimentaria.",
+      "por_que_importa": "Ilustra cómo los fondos de élite buscan tesis de inversión no convencionales en agritech/foodtech, un sector con enorme potencial en Argentina y LatAm dado su peso en la producción de alimentos.",
+      "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 5,
       "categoria": "Tendencias",
-      "titulo_es": "El gobierno de EE.UU. forzó a Anthropic a retirar dos modelos por seguridad nacional: ¿le termina haciendo publicidad?",
-      "resumen": "Washington obligó a Anthropic a retirar sus modelos Fable 5 y Mythos 5 luego de que investigadores de Amazon detectaran presuntos riesgos para la seguridad nacional. La medida es la primera vez que el gobierno estadounidense interviene directamente sobre el lanzamiento de un modelo de IA de una empresa privada de primer nivel. Paradójicamente, la cobertura mediática generada podría elevar la percepción pública de las capacidades de Anthropic.",
-      "por_que_importa": "Marca un precedente regulatorio sobre IA que los estudiantes de VC deben seguir de cerca, ya que definirá cómo se invierte y escala en el sector de frontier AI a nivel global.",
-      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "titulo_es": "El creador del reproductor VLC construye infraestructura de software para controlar robots en tiempo real",
+      "resumen": "Jean-Baptiste Kempf, emprendedor francés y referente del open source, lanzó Kyber, una capa de infraestructura para controlar dispositivos remotos en tiempo real. El proyecto apunta a resolver uno de los cuellos de botella de la robótica industrial: la latencia y la estandarización del control remoto. Se trata de una apuesta de infraestructura B2B en el ecosistema de robotics-as-a-service.",
+      "por_que_importa": "Los fundadores con track record en open source que migran a infraestructura robótica representan un patrón de inversión emergente que estudiantes de VC deben aprender a identificar y valorar.",
+      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 1,
+      "indice": 3,
       "categoria": "Tendencias",
-      "titulo_es": "Historia de los controles de exportación en ciberseguridad: por qué nunca funcionaron y qué implica para la IA",
-      "resumen": "Durante 30 años, los intentos de EE.UU. de restringir la exportación de software de ciberseguridad —desde PGP hasta herramientas de spyware— fracasaron sistemáticamente. El artículo traza ese historial y lo aplica al caso reciente del modelo Mythos de Anthropic, cuestionando la efectividad de los nuevos controles sobre IA. La tesis central es que la naturaleza digital del software hace que estas restricciones sean estructuralmente difíciles de implementar.",
-      "por_que_importa": "Comprender los límites de la regulación tecnológica es esencial para evaluar el riesgo regulatorio en tesis de inversión de startups de AI y ciberseguridad.",
-      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 9,
-      "categoria": "Tendencias",
-      "titulo_es": "India bloquea Telegram y desencadena una migración masiva hacia VPNs y apps alternativas",
-      "resumen": "El gobierno indio ordenó el bloqueo de Telegram, argumentando su uso para actividades ilegales, mientras la plataforma sostiene que deberían bloquearse contenidos específicos y no el servicio completo. La medida generó una ola inmediata de descargas de VPNs y apps rivales de mensajería. Es el bloqueo de mayor impacto a una plataforma de comunicaciones en India desde el veto a TikTok en 2020.",
-      "por_que_importa": "Los bloqueos de plataformas en mercados emergentes grandes son un recordatorio del riesgo regulatorio que enfrentan startups y fondos con exposición a India, Brasil u otros mercados con alta intervención estatal.",
-      "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+      "titulo_es": "El Nobel de Química John Jumper deja Google DeepMind para sumarse a Anthropic",
+      "resumen": "John Jumper, galardonado con el Nobel de Química 2024 por su trabajo en AlphaFold, abandona Google DeepMind para incorporarse a Anthropic, rival directo en el desarrollo de IA de frontera. No es el único talento de alto perfil que emigra de DeepMind en los últimos meses, lo que sugiere tensiones internas y una guerra de talento que se intensifica entre los laboratorios de IA. Anthropic continúa así su estrategia de atraer investigadores de primer nivel para competir con OpenAI y Google.",
+      "por_que_importa": "La movilidad de talento científico de élite entre laboratorios de IA es un indicador adelantado de hacia dónde fluirá el capital y la innovación; entender esta dinámica es clave para analizar el sector desde VC.",
+      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 0,
       "categoria": "Tendencias",
-      "titulo_es": "El creador del reproductor VLC construye infraestructura de software para controlar robots de forma remota en tiempo real",
-      "resumen": "Jean-Baptiste Kempf, emprendedor serial francés conocido por VLC, lanzó Kyber, una capa de infraestructura para el control remoto de dispositivos físicos en tiempo real. La startup apunta a resolver uno de los cuellos de botella más críticos en robótica industrial: la latencia y confiabilidad del control remoto. El proyecto sigue la lógica de construir infraestructura horizontal antes de que el mercado de robots escale masivamente.",
-      "por_que_importa": "Las apuestas en infraestructura para robótica representan una categoría de inversión emergente que combina hardware, software y deeptech, con potencial de aplicación en logística y manufactura latinoamericana.",
-      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 7,
-      "categoria": "Tendencias",
-      "titulo_es": "El ex CEO de Allbirds levantó un gran seed round para su nueva empresa de AI, pero aún no tiene equipo",
-      "resumen": "El fundador de Allbirds consiguió cerrar una ronda seed de gran tamaño para su nuevo emprendimiento en AI, a pesar de no contar todavía con empleados ni un equipo formado. El caso plantea preguntas sobre la dinámica actual del mercado de inversión early-stage en AI, donde la reputación del fundador puede pesar más que la tracción del producto. La situación refleja la presión de los fondos por no perderse deals en AI, incluso en estadios muy tempranos.",
-      "por_que_importa": "Analizar por qué los VCs invierten en founders sin equipo ni producto en AI es un ejercicio práctico clave para entender la lógica de selección y riesgo en etapas pre-seed y seed.",
-      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "titulo_es": "Meredith Whittaker (Signal) advierte sobre los riesgos de humanizar a los chatbots de IA",
+      "resumen": "La presidenta de Signal, Meredith Whittaker, alertó públicamente que los chatbots de IA no son entidades conscientes ni amigos, cuestionando las estrategias de fidelización emocional de productos como ChatGPT o Gemini. Su postura apunta a los riesgos de privacidad y manipulación que emergen cuando los usuarios desarrollan vínculos afectivos con estas herramientas. El debate tiene implicancias regulatorias y de diseño de producto para el ecosistema de AI startups.",
+      "por_que_importa": "El ángulo ético y regulatorio de la IA conversacional afecta directamente las decisiones de inversión y la viabilidad de startups que construyen productos sobre modelos de lenguaje con componentes sociales o terapéuticos.",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
       "fuente": "TechCrunch"
     }
   ]
