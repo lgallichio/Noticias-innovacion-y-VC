@@ -1,40 +1,94 @@
 {
-  "titular_del_dia": "Semana escasa en LatAm: el ecosistema global muestra movimientos en robótica, biotech y talento de IA que marcan tendencias para la región",
+  "titular_del_dia": "El capital semilla global se reinventa: Seedcamp cierra $320M y los fondos de robotics baten récords en 2026",
   "items": [
     {
-      "indice": 2,
-      "categoria": "Rondas",
-      "titulo_es": "Founders Fund apuesta por Shinkei, startup que automatiza el sacrificio humanitario de peces con robótica",
-      "resumen": "Founders Fund lideró una ronda en Shinkei, compañía que desarrolló Poseidon, un robot del tamaño de una heladera que sacrifica peces de forma rápida y humanitaria. La apuesta combina biotech, agritech y robótica en un nicho poco explorado por el capital de riesgo tradicional. El respaldo de Founders Fund —conocido por tesis contrarias al consenso— señala un interés creciente en la cadena de valor alimentaria.",
-      "por_que_importa": "Ilustra cómo los fondos de élite buscan tesis de inversión no convencionales en agritech/foodtech, un sector con enorme potencial en Argentina y LatAm dado su peso en la producción de alimentos.",
-      "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-      "fuente": "TechCrunch"
+      "indice": 14,
+      "categoria": "Fondos",
+      "titulo_es": "Seedcamp cierra $320M en dos fondos y supera los $1.000M de activos bajo gestión",
+      "resumen": "Seedcamp, uno de los primeros inversores semilla de Europa, cerró su séptimo fondo de $220M y un fondo selectivo de $100M para hacer follow-on en sus mejores portafolio companies. Con esto alcanza $1.000M en AUM y anuncia expansión hacia el mercado estadounidense tras 18 años enfocado en Europa.",
+      "por_que_importa": "Estudiar cómo un fondo semilla maduro estructura vehículos complementarios (core + select) es un caso de libro para entender la economía de un VC en etapa de escala.",
+      "link": "https://news.crunchbase.com/venture/europe-seed-investor-seedcamp-closes-two-funds/",
+      "fuente": "Crunchbase News"
     },
     {
-      "indice": 5,
+      "indice": 13,
       "categoria": "Tendencias",
-      "titulo_es": "El creador del reproductor VLC construye infraestructura de software para controlar robots en tiempo real",
-      "resumen": "Jean-Baptiste Kempf, emprendedor francés y referente del open source, lanzó Kyber, una capa de infraestructura para controlar dispositivos remotos en tiempo real. El proyecto apunta a resolver uno de los cuellos de botella de la robótica industrial: la latencia y la estandarización del control remoto. Se trata de una apuesta de infraestructura B2B en el ecosistema de robotics-as-a-service.",
-      "por_que_importa": "Los fundadores con track record en open source que migran a infraestructura robótica representan un patrón de inversión emergente que estudiantes de VC deben aprender a identificar y valorar.",
-      "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "fuente": "TechCrunch"
+      "titulo_es": "El financiamiento a startups de robótica bate récords: ya superó en 2026 todo lo invertido en 2025",
+      "resumen": "Las startups de robótica captaron $18.800M globalmente en lo que va de 2026, superando los $15.000M del año completo 2025 y los $14.100M del pico previo de venture. La aceleración está traccionada por robótica industrial, humanoides y automatización logística.",
+      "por_que_importa": "Entender qué sectores están atrayendo capital récord es clave para identificar dónde se están abriendo oportunidades de inversión y emprendimiento en los próximos años.",
+      "link": "https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/",
+      "fuente": "Crunchbase News"
     },
     {
-      "indice": 3,
+      "indice": 12,
       "categoria": "Tendencias",
-      "titulo_es": "El Nobel de Química John Jumper deja Google DeepMind para sumarse a Anthropic",
-      "resumen": "John Jumper, galardonado con el Nobel de Química 2024 por su trabajo en AlphaFold, abandona Google DeepMind para incorporarse a Anthropic, rival directo en el desarrollo de IA de frontera. No es el único talento de alto perfil que emigra de DeepMind en los últimos meses, lo que sugiere tensiones internas y una guerra de talento que se intensifica entre los laboratorios de IA. Anthropic continúa así su estrategia de atraer investigadores de primer nivel para competir con OpenAI y Google.",
-      "por_que_importa": "La movilidad de talento científico de élite entre laboratorios de IA es un indicador adelantado de hacia dónde fluirá el capital y la innovación; entender esta dinámica es clave para analizar el sector desde VC.",
-      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "titulo_es": "El SaaS tradicional cede terreno: plataformas de IA vertical con dominio sectorial son el nuevo paradigma",
+      "resumen": "Según el análisis de Richard de Silva (Lateral), el software del futuro será AI-native y específico por industria, desplazando al SaaS horizontal de la última década. Los grandes ganadores serán compañías de IA vertical con expertise profundo en sectores como salud, finanzas o manufactura.",
+      "por_que_importa": "Para quienes evalúan oportunidades de inversión o quieren fundar startups, comprender el cambio de modelo de SaaS a IA vertical define qué tesis de inversión serán ganadoras en los próximos cinco años.",
+      "link": "https://news.crunchbase.com/saas/growing-agentic-ai-market-desilva-lateral/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 4,
+      "categoria": "Fondos",
+      "titulo_es": "Seedcamp recauda $320M y apunta al mercado de EE.UU. por primera vez en su historia",
+      "resumen": "Tras casi dos décadas invirtiendo exclusivamente en Europa, Seedcamp lanzó su nuevo fondo de $320M con la intención explícita de expandir su presencia en Estados Unidos. El fondo mantendrá su foco en etapa semilla pero ampliará geografía.",
+      "por_que_importa": "La expansión de fondos europeos hacia EE.UU. ilustra cómo la competencia por deal flow calificado está globalizando las estrategias de los VCs, una dinámica relevante para entender el movimiento de capital hacia LatAm.",
+      "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 0,
+      "categoria": "Rondas",
+      "titulo_es": "Meta invierte $900M en CRED e incorpora a su fundador Kunal Shah como nuevo CEO de WhatsApp",
+      "resumen": "Meta anunció una inversión de $900M en CRED, la fintech india valuada en más de $6.000M, y simultáneamente fichó a su fundador Kunal Shah para liderar WhatsApp en reemplazo de Will Cathcart. La movida combina una apuesta estratégica en pagos digitales con un cambio de liderazgo en su plataforma de mensajería más grande.",
+      "por_que_importa": "Una inversión corporativa de $900M que viene acompañada de un acuerdo de talento ejecutivo es un caso concreto de corporate venture y M&A estratégico que vale analizar como estructura de deal.",
+      "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 9,
       "categoria": "Tendencias",
-      "titulo_es": "Meredith Whittaker (Signal) advierte sobre los riesgos de humanizar a los chatbots de IA",
-      "resumen": "La presidenta de Signal, Meredith Whittaker, alertó públicamente que los chatbots de IA no son entidades conscientes ni amigos, cuestionando las estrategias de fidelización emocional de productos como ChatGPT o Gemini. Su postura apunta a los riesgos de privacidad y manipulación que emergen cuando los usuarios desarrollan vínculos afectivos con estas herramientas. El debate tiene implicancias regulatorias y de diseño de producto para el ecosistema de AI startups.",
-      "por_que_importa": "El ángulo ético y regulatorio de la IA conversacional afecta directamente las decisiones de inversión y la viabilidad de startups que construyen productos sobre modelos de lenguaje con componentes sociales o terapéuticos.",
-      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "titulo_es": "China domina el ranking global de robotaxis: un nuevo scorecard muestra la brecha con Occidente",
+      "resumen": "Un nuevo análisis comparativo de robotaxis posiciona a empresas chinas como líderes indiscutidos en despliegue, escala y kilómetros acumulados, superando ampliamente a competidores estadounidenses. La ventaja china combina regulación favorable, subsidios estatales y ecosistemas locales de hardware.",
+      "por_que_importa": "El caso del robotaxi es un ejemplo empírico de cómo la política pública y el capital de riesgo estatal pueden crear ventajas competitivas nacionales en tecnología profunda, lección directa para pensar ecosistemas en LatAm.",
+      "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 10,
+      "categoria": "Global",
+      "titulo_es": "El gobierno de Trump presiona a Anthropic: ¿quiénes ganan en el ecosistema de IA?",
+      "resumen": "El episodio analiza las motivaciones detrás de las últimas acciones regulatorias de la administración Trump contra Anthropic y sus posibles consecuencias para el mercado de IA. La presión regulatoria podría beneficiar a competidores como OpenAI o startups fuera de la órbita del escrutinio político.",
+      "por_que_importa": "El riesgo regulatorio es una variable crítica en la valuación de startups de IA; entender cómo la política afecta a los líderes del sector es esencial para cualquier análisis de inversión en el espacio.",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
+      "categoria": "Global",
+      "titulo_es": "Polymarket pagó a creadores para publicar videos con apuestas falsas y sitios web clonados",
+      "resumen": "Según reportes, la plataforma de prediction markets Polymarket financió a influencers para difundir videos engañosos mostrando ganancias inexistentes en réplicas casi perfectas de su sitio. La práctica plantea serias preguntas sobre ética, regulación y sostenibilidad de los mercados de predicción descentralizados.",
+      "por_que_importa": "El caso ilustra los riesgos de reputación y regulatorios en startups de mercados descentralizados, un tema cada vez más relevante para inversores que evalúan proyectos en el espacio crypto/fintech.",
+      "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 3,
+      "categoria": "Global",
+      "titulo_es": "Lucid Motors recorta el 18% de su plantilla y reduce turnos de producción bajo nuevo CEO",
+      "resumen": "El nuevo CEO de Lucid Motors anunció el despido del 18% del personal y la eliminación de un turno de producción en su planta de Arizona, argumentando la necesidad de alinear capacidad con demanda real. La empresa, respaldada por el fondo soberano saudí PIF, sigue enfrentando presión para alcanzar viabilidad comercial.",
+      "por_que_importa": "Lucid es un caso de estudio sobre los desafíos de escalar hardware deeptech con grandes respaldos de capital: útil para discutir burn rate, unit economics y el rol de inversores estratégicos no financieros.",
+      "link": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Global",
+      "titulo_es": "Hackeo a Klue expone datos de múltiples empresas de ciberseguridad, incluyendo HackerOne y Recorded Future",
+      "resumen": "Una brecha en la plataforma de inteligencia competitiva Klue derivó en el robo de datos de compañías como Huntress, HackerOne, Jamf, Recorded Future y Tanium. El incidente pone en evidencia el riesgo de concentración que representan los proveedores SaaS de terceros en la cadena de seguridad corporativa.",
+      "por_que_importa": "Para inversores y emprendedores en ciberseguridad, este caso ejemplifica el riesgo de supply chain en software y abre oportunidades para startups que ofrezcan soluciones de vendor risk management.",
+      "link": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/",
       "fuente": "TechCrunch"
     }
   ]
