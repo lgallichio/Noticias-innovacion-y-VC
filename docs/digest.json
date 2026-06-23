@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "El capital semilla global se reinventa: Seedcamp cierra $320M y los fondos de robotics baten récords en 2026",
+  "titular_del_dia": "Seedcamp cierra fondo de USD 320M y la IA redibuja el mapa del capital de riesgo global",
   "items": [
     {
-      "indice": 14,
+      "indice": 24,
       "categoria": "Fondos",
-      "titulo_es": "Seedcamp cierra $320M en dos fondos y supera los $1.000M de activos bajo gestión",
-      "resumen": "Seedcamp, uno de los primeros inversores semilla de Europa, cerró su séptimo fondo de $220M y un fondo selectivo de $100M para hacer follow-on en sus mejores portafolio companies. Con esto alcanza $1.000M en AUM y anuncia expansión hacia el mercado estadounidense tras 18 años enfocado en Europa.",
-      "por_que_importa": "Estudiar cómo un fondo semilla maduro estructura vehículos complementarios (core + select) es un caso de libro para entender la economía de un VC en etapa de escala.",
+      "titulo_es": "Seedcamp cierra dos fondos por USD 320M y supera USD 1.000M en activos bajo gestión",
+      "resumen": "La veterana gestora europea Seedcamp cerró su séptimo fondo de USD 220M y un fondo selectivo de USD 100M para hacer follow-on en sus mejores portafolios, alcanzando USD 1.000M en AUM. El cierre marca un hito para uno de los primeros fondos seed de Europa, activo desde 2007. Además, la firma anuncia expansión hacia el mercado estadounidense.",
+      "por_que_importa": "Entender cómo los fondos seed europeos escalan su modelo —incluyendo vehículos de follow-on— es clave para analizar estructuras de fondos y estrategias de expansión geográfica replicables en LatAm.",
       "link": "https://news.crunchbase.com/venture/europe-seed-investor-seedcamp-closes-two-funds/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 13,
+      "indice": 23,
       "categoria": "Tendencias",
-      "titulo_es": "El financiamiento a startups de robótica bate récords: ya superó en 2026 todo lo invertido en 2025",
-      "resumen": "Las startups de robótica captaron $18.800M globalmente en lo que va de 2026, superando los $15.000M del año completo 2025 y los $14.100M del pico previo de venture. La aceleración está traccionada por robótica industrial, humanoides y automatización logística.",
-      "por_que_importa": "Entender qué sectores están atrayendo capital récord es clave para identificar dónde se están abriendo oportunidades de inversión y emprendimiento en los próximos años.",
+      "titulo_es": "El financiamiento global a startups de robótica alcanza un récord histórico en 2026",
+      "resumen": "Las startups de robótica ya captaron USD 18.800M en lo que va de 2026, superando los USD 15.000M de todo 2025 y los USD 14.100M del pico anterior. El dato señala un cambio estructural en la asignación de capital de riesgo hacia automatización física. Este boom se da en paralelo al crecimiento de la IA agéntica, que impulsa la demanda de robots autónomos.",
+      "por_que_importa": "El salto en inversión en robótica define una nueva categoría de alto crecimiento que los fondos de LatAm todavía están posicionando, representando una oportunidad de análisis sectorial para el club.",
       "link": "https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 12,
+      "indice": 6,
+      "categoria": "Rondas",
+      "titulo_es": "Groq confirma ronda de USD 650M y redefine su negocio tras el acuerdo de Nvidia",
+      "resumen": "Groq, fabricante de chips de IA, confirmó una ronda de USD 650M y está reconvirtiendo su modelo hacia el negocio de neocloud —proveer acceso a su infraestructura de inferencia— tras el polémico acuerdo de USD 20.000M con Nvidia que no resultó en una adquisición formal. La empresa también está incorporando nuevos ejecutivos para acompañar el giro estratégico.",
+      "por_que_importa": "El caso Groq ilustra cómo una startup de infraestructura de IA navega acuerdos corporativos complejos y pivota su modelo de negocio, un patrón relevante para entender el ecosistema de IA en etapa de crecimiento.",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 21,
+      "categoria": "Rondas",
+      "titulo_es": "AppsFlyer levanta más de USD 1.000M en Serie E con miras a salir a bolsa",
+      "resumen": "La empresa de analytics de marketing digital AppsFlyer cerró una Serie E de más de USD 1.000M a una valuación de USD 2.700M. El financiamiento prepara el camino hacia una potencial salida a mercados públicos. AppsFlyer compite en el segmento de medición y atribución de publicidad digital, crítico para apps móviles.",
+      "por_que_importa": "Una ronda de esta magnitud en una empresa de analytics B2B es un referente para entender valuaciones en etapa pre-IPO y el apetito actual del mercado por salidas vía bolsa.",
+      "link": "https://news.crunchbase.com/venture/marketing-digital-ad-tracker-appsflyer-lands-1b/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 13,
+      "categoria": "Global",
+      "titulo_es": "SpaceX firma acuerdo de cómputo de USD 150M mensuales con el laboratorio de IA Reflection AI",
+      "resumen": "Reflection AI, un laboratorio de IA open source, pagará USD 150M por mes a SpaceX desde julio de 2026 hasta 2029 para acceder a chips Nvidia GB300 en el data center Colossus 2. El acuerdo totaliza potencialmente más de USD 5.000M en tres años y posiciona a SpaceX como proveedor de infraestructura de IA de primer nivel.",
+      "por_que_importa": "El contrato muestra cómo la infraestructura de cómputo se convirtió en uno de los negocios más lucrativos del ecosistema IA, con implicancias directas para inversores que analizan la cadena de valor del sector.",
+      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 22,
       "categoria": "Tendencias",
-      "titulo_es": "El SaaS tradicional cede terreno: plataformas de IA vertical con dominio sectorial son el nuevo paradigma",
-      "resumen": "Según el análisis de Richard de Silva (Lateral), el software del futuro será AI-native y específico por industria, desplazando al SaaS horizontal de la última década. Los grandes ganadores serán compañías de IA vertical con expertise profundo en sectores como salud, finanzas o manufactura.",
-      "por_que_importa": "Para quienes evalúan oportunidades de inversión o quieren fundar startups, comprender el cambio de modelo de SaaS a IA vertical define qué tesis de inversión serán ganadoras en los próximos cinco años.",
+      "titulo_es": "El fin del SaaS horizontal: el capital se mueve hacia plataformas de IA verticales",
+      "resumen": "Un análisis de Crunchbase News argumenta, con datos, que el modelo SaaS generalista está siendo desplazado por plataformas de IA nativas especializadas por industria. Los inversores están priorizando compañías con dominio profundo en sectores específicos como salud, legal o manufactura. Esta tesis está siendo adoptada por fondos como Lateral Growth.",
+      "por_que_importa": "Comprender el cambio de paradigma de SaaS horizontal a IA vertical es fundamental para analizar oportunidades de inversión y la tesis de fondos que operan en LatAm.",
       "link": "https://news.crunchbase.com/saas/growing-agentic-ai-market-desilva-lateral/",
       "fuente": "Crunchbase News"
     },
     {
       "indice": 4,
-      "categoria": "Fondos",
-      "titulo_es": "Seedcamp recauda $320M y apunta al mercado de EE.UU. por primera vez en su historia",
-      "resumen": "Tras casi dos décadas invirtiendo exclusivamente en Europa, Seedcamp lanzó su nuevo fondo de $320M con la intención explícita de expandir su presencia en Estados Unidos. El fondo mantendrá su foco en etapa semilla pero ampliará geografía.",
-      "por_que_importa": "La expansión de fondos europeos hacia EE.UU. ilustra cómo la competencia por deal flow calificado está globalizando las estrategias de los VCs, una dinámica relevante para entender el movimiento de capital hacia LatAm.",
-      "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
-      "categoria": "Rondas",
-      "titulo_es": "Meta invierte $900M en CRED e incorpora a su fundador Kunal Shah como nuevo CEO de WhatsApp",
-      "resumen": "Meta anunció una inversión de $900M en CRED, la fintech india valuada en más de $6.000M, y simultáneamente fichó a su fundador Kunal Shah para liderar WhatsApp en reemplazo de Will Cathcart. La movida combina una apuesta estratégica en pagos digitales con un cambio de liderazgo en su plataforma de mensajería más grande.",
-      "por_que_importa": "Una inversión corporativa de $900M que viene acompañada de un acuerdo de talento ejecutivo es un caso concreto de corporate venture y M&A estratégico que vale analizar como estructura de deal.",
-      "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 9,
       "categoria": "Tendencias",
-      "titulo_es": "China domina el ranking global de robotaxis: un nuevo scorecard muestra la brecha con Occidente",
-      "resumen": "Un nuevo análisis comparativo de robotaxis posiciona a empresas chinas como líderes indiscutidos en despliegue, escala y kilómetros acumulados, superando ampliamente a competidores estadounidenses. La ventaja china combina regulación favorable, subsidios estatales y ecosistemas locales de hardware.",
-      "por_que_importa": "El caso del robotaxi es un ejemplo empírico de cómo la política pública y el capital de riesgo estatal pueden crear ventajas competitivas nacionales en tecnología profunda, lección directa para pensar ecosistemas en LatAm.",
-      "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+      "titulo_es": "La IA agéntica evoluciona hacia 'loops' de agentes autónomos que operan de forma continua",
+      "resumen": "TechCrunch describe la nueva frontera de la IA agéntica: enjambres de agentes que trabajan en bucle permanente en segundo plano, sin intervención humana constante. Este modelo supera la automatización de tareas puntuales y abre la puerta a sistemas empresariales autónomos. Varias startups ya están construyendo sobre esta arquitectura.",
+      "por_que_importa": "Entender la arquitectura de agentes en loop es clave para identificar las próximas categorías de inversión en IA empresarial, incluyendo oportunidades para startups de LatAm.",
+      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 10,
-      "categoria": "Global",
-      "titulo_es": "El gobierno de Trump presiona a Anthropic: ¿quiénes ganan en el ecosistema de IA?",
-      "resumen": "El episodio analiza las motivaciones detrás de las últimas acciones regulatorias de la administración Trump contra Anthropic y sus posibles consecuencias para el mercado de IA. La presión regulatoria podría beneficiar a competidores como OpenAI o startups fuera de la órbita del escrutinio político.",
-      "por_que_importa": "El riesgo regulatorio es una variable crítica en la valuación de startups de IA; entender cómo la política afecta a los líderes del sector es esencial para cualquier análisis de inversión en el espacio.",
-      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "categoria": "Rondas",
+      "titulo_es": "Google DeepMind invierte USD 75M en A24 para desarrollar herramientas de IA para cine",
+      "resumen": "Google DeepMind anunció una inversión de USD 75M en la productora independiente A24 para co-desarrollar herramientas de IA aplicadas a la producción cinematográfica. El acuerdo apunta a integrar IA generativa en el flujo de trabajo creativo de Hollywood. Es una de las primeras apuestas institucionales de gran escala en IA aplicada al entretenimiento.",
+      "por_que_importa": "La movida muestra cómo los laboratorios de IA buscan verticales no tradicionales para monetizar su tecnología, un modelo que puede replicarse en la industria creativa de LatAm.",
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 8,
+      "indice": 14,
       "categoria": "Global",
-      "titulo_es": "Polymarket pagó a creadores para publicar videos con apuestas falsas y sitios web clonados",
-      "resumen": "Según reportes, la plataforma de prediction markets Polymarket financió a influencers para difundir videos engañosos mostrando ganancias inexistentes en réplicas casi perfectas de su sitio. La práctica plantea serias preguntas sobre ética, regulación y sostenibilidad de los mercados de predicción descentralizados.",
-      "por_que_importa": "El caso ilustra los riesgos de reputación y regulatorios en startups de mercados descentralizados, un tema cada vez más relevante para inversores que evalúan proyectos en el espacio crypto/fintech.",
-      "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "titulo_es": "Meta invierte USD 900M en CRED e incorpora a su fundador como nuevo CEO de WhatsApp",
+      "resumen": "Meta nombró a Kunal Shah, fundador de la fintech india CRED, como nuevo CEO de WhatsApp, reemplazando a Will Cathcart. En paralelo, Meta invirtió USD 900M en CRED. El movimiento refuerza la apuesta de Meta por monetizar WhatsApp en mercados emergentes, con foco especial en pagos y servicios financieros.",
+      "por_que_importa": "WhatsApp es infraestructura crítica para startups de LatAm, especialmente en fintech y comercio conversacional, por lo que el nuevo liderazgo y la apuesta por mercados emergentes impacta directamente en el ecosistema regional.",
+      "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 3,
+      "indice": 20,
       "categoria": "Global",
-      "titulo_es": "Lucid Motors recorta el 18% de su plantilla y reduce turnos de producción bajo nuevo CEO",
-      "resumen": "El nuevo CEO de Lucid Motors anunció el despido del 18% del personal y la eliminación de un turno de producción en su planta de Arizona, argumentando la necesidad de alinear capacidad con demanda real. La empresa, respaldada por el fondo soberano saudí PIF, sigue enfrentando presión para alcanzar viabilidad comercial.",
-      "por_que_importa": "Lucid es un caso de estudio sobre los desafíos de escalar hardware deeptech con grandes respaldos de capital: útil para discutir burn rate, unit economics y el rol de inversores estratégicos no financieros.",
-      "link": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Global",
-      "titulo_es": "Hackeo a Klue expone datos de múltiples empresas de ciberseguridad, incluyendo HackerOne y Recorded Future",
-      "resumen": "Una brecha en la plataforma de inteligencia competitiva Klue derivó en el robo de datos de compañías como Huntress, HackerOne, Jamf, Recorded Future y Tanium. El incidente pone en evidencia el riesgo de concentración que representan los proveedores SaaS de terceros en la cadena de seguridad corporativa.",
-      "por_que_importa": "Para inversores y emprendedores en ciberseguridad, este caso ejemplifica el riesgo de supply chain en software y abre oportunidades para startups que ofrezcan soluciones de vendor risk management.",
-      "link": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/",
-      "fuente": "TechCrunch"
+      "titulo_es": "Muere Alan Greenspan a los 100 años: su legado y la advertencia sobre la 'exuberancia irracional'",
+      "resumen": "Crunchbase News recuerda el legado de Alan Greenspan, fallecido este lunes, a través del prisma del boom y la caída del dot-com. Su concepto de 'exuberancia irracional', acuñado hace 30 años, sigue siendo una referencia para analizar ciclos de sobrevaluación en mercados de capital de riesgo. El artículo traza paralelos con la actual euforia por IA.",
+      "por_que_importa": "Conocer los ciclos históricos de exceso de valuación en VC —y las señales de alerta— es parte esencial de la formación de cualquier inversor o analista del ecosistema emprendedor.",
+      "link": "https://news.crunchbase.com/policy-regulation/fed-chair-greenspan-dot-com-legacy/",
+      "fuente": "Crunchbase News"
     }
   ]
 }
