@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "Seedcamp cierra fondo de USD 320M y la IA redibuja el mapa del capital de riesgo global",
+  "titular_del_dia": "Menlo Ventures cierra un fondo de $3.000M apostando todo al ciclo de IA: ¿burbuja o nueva era para el VC?",
   "items": [
     {
-      "indice": 24,
-      "categoria": "Fondos",
-      "titulo_es": "Seedcamp cierra dos fondos por USD 320M y supera USD 1.000M en activos bajo gestión",
-      "resumen": "La veterana gestora europea Seedcamp cerró su séptimo fondo de USD 220M y un fondo selectivo de USD 100M para hacer follow-on en sus mejores portafolios, alcanzando USD 1.000M en AUM. El cierre marca un hito para uno de los primeros fondos seed de Europa, activo desde 2007. Además, la firma anuncia expansión hacia el mercado estadounidense.",
-      "por_que_importa": "Entender cómo los fondos seed europeos escalan su modelo —incluyendo vehículos de follow-on— es clave para analizar estructuras de fondos y estrategias de expansión geográfica replicables en LatAm.",
-      "link": "https://news.crunchbase.com/venture/europe-seed-investor-seedcamp-closes-two-funds/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 23,
-      "categoria": "Tendencias",
-      "titulo_es": "El financiamiento global a startups de robótica alcanza un récord histórico en 2026",
-      "resumen": "Las startups de robótica ya captaron USD 18.800M en lo que va de 2026, superando los USD 15.000M de todo 2025 y los USD 14.100M del pico anterior. El dato señala un cambio estructural en la asignación de capital de riesgo hacia automatización física. Este boom se da en paralelo al crecimiento de la IA agéntica, que impulsa la demanda de robots autónomos.",
-      "por_que_importa": "El salto en inversión en robótica define una nueva categoría de alto crecimiento que los fondos de LatAm todavía están posicionando, representando una oportunidad de análisis sectorial para el club.",
-      "link": "https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/",
-      "fuente": "Crunchbase News"
-    },
-    {
       "indice": 6,
-      "categoria": "Rondas",
-      "titulo_es": "Groq confirma ronda de USD 650M y redefine su negocio tras el acuerdo de Nvidia",
-      "resumen": "Groq, fabricante de chips de IA, confirmó una ronda de USD 650M y está reconvirtiendo su modelo hacia el negocio de neocloud —proveer acceso a su infraestructura de inferencia— tras el polémico acuerdo de USD 20.000M con Nvidia que no resultó en una adquisición formal. La empresa también está incorporando nuevos ejecutivos para acompañar el giro estratégico.",
-      "por_que_importa": "El caso Groq ilustra cómo una startup de infraestructura de IA navega acuerdos corporativos complejos y pivota su modelo de negocio, un patrón relevante para entender el ecosistema de IA en etapa de crecimiento.",
-      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "categoria": "Fondos",
+      "titulo_es": "Menlo Ventures cierra su mayor fondo histórico de $3.000M tras apostar $750M a Anthropic en 2024",
+      "resumen": "Menlo Ventures recaudó $3.000 millones en dos nuevos fondos —el mayor levantamiento en sus 50 años de historia— para invertir en startups de IA desde etapa semilla hasta growth. La firma construyó su reputación actual sobre una jugada concentrada de $750M en Anthropic en 2024, que resultó enormemente rentable. Los fondos apuntarán a toda la cadena de valor de IA.",
+      "por_que_importa": "Es un caso de estudio sobre conviction investing y cómo una sola tesis ejecutada con convicción puede redefinir el posicionamiento de un fondo ante sus LPs.",
+      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 21,
-      "categoria": "Rondas",
-      "titulo_es": "AppsFlyer levanta más de USD 1.000M en Serie E con miras a salir a bolsa",
-      "resumen": "La empresa de analytics de marketing digital AppsFlyer cerró una Serie E de más de USD 1.000M a una valuación de USD 2.700M. El financiamiento prepara el camino hacia una potencial salida a mercados públicos. AppsFlyer compite en el segmento de medición y atribución de publicidad digital, crítico para apps móviles.",
-      "por_que_importa": "Una ronda de esta magnitud en una empresa de analytics B2B es un referente para entender valuaciones en etapa pre-IPO y el apetito actual del mercado por salidas vía bolsa.",
-      "link": "https://news.crunchbase.com/venture/marketing-digital-ad-tracker-appsflyer-lands-1b/",
+      "indice": 18,
+      "categoria": "Fondos",
+      "titulo_es": "Menlo Ventures levanta $3.000M para IA: el mayor capital de su historia en 50 años",
+      "resumen": "Crunchbase detalla que los dos nuevos fondos de Menlo cubren seed hasta growth stage, consolidando a la firma como referente de IA tras su bet en Anthropic. El cierre representa la mayor captación de capital en la historia de la firma y señala el apetito sostenido de los LPs por exposición a IA.",
+      "por_que_importa": "Duplicado de mejor fuente (ítem 6 es preferible); este ítem se incluye por los datos adicionales de Crunchbase sobre estructura de los fondos por etapa.",
+      "link": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 13,
-      "categoria": "Global",
-      "titulo_es": "SpaceX firma acuerdo de cómputo de USD 150M mensuales con el laboratorio de IA Reflection AI",
-      "resumen": "Reflection AI, un laboratorio de IA open source, pagará USD 150M por mes a SpaceX desde julio de 2026 hasta 2029 para acceder a chips Nvidia GB300 en el data center Colossus 2. El acuerdo totaliza potencialmente más de USD 5.000M en tres años y posiciona a SpaceX como proveedor de infraestructura de IA de primer nivel.",
-      "por_que_importa": "El contrato muestra cómo la infraestructura de cómputo se convirtió en uno de los negocios más lucrativos del ecosistema IA, con implicancias directas para inversores que analizan la cadena de valor del sector.",
-      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 22,
+      "indice": 1,
       "categoria": "Tendencias",
-      "titulo_es": "El fin del SaaS horizontal: el capital se mueve hacia plataformas de IA verticales",
-      "resumen": "Un análisis de Crunchbase News argumenta, con datos, que el modelo SaaS generalista está siendo desplazado por plataformas de IA nativas especializadas por industria. Los inversores están priorizando compañías con dominio profundo en sectores específicos como salud, legal o manufactura. Esta tesis está siendo adoptada por fondos como Lateral Growth.",
-      "por_que_importa": "Comprender el cambio de paradigma de SaaS horizontal a IA vertical es fundamental para analizar oportunidades de inversión y la tesis de fondos que operan en LatAm.",
-      "link": "https://news.crunchbase.com/saas/growing-agentic-ai-market-desilva-lateral/",
-      "fuente": "Crunchbase News"
+      "titulo_es": "¿Hay una burbuja de IA? Inversores de VC debaten sobre valuaciones infladas y ARR artificial",
+      "resumen": "En el evento StrictlyVC LA, Chang Xu (Basis Set Ventures) y Carter Reum (M13) discutieron abiertamente si las valuaciones actuales de startups de IA reflejan fundamentos reales o están infladas por ARR contractual que oculta churn alto. El debate gira en torno a métricas de retención, poder de fijación de precios y diferenciación real de modelos.",
+      "por_que_importa": "Entender cómo los VCs evalúan métricas en el ciclo actual de IA es clave para cualquiera que quiera analizar deals o trabajar en un fondo.",
+      "link": "https://techcrunch.com/podcast/is-there-an-ai-bubble-vcs-on-valuations-and-arr-inflation/",
+      "fuente": "TechCrunch Venture"
     },
     {
-      "indice": 4,
+      "indice": 2,
       "categoria": "Tendencias",
-      "titulo_es": "La IA agéntica evoluciona hacia 'loops' de agentes autónomos que operan de forma continua",
-      "resumen": "TechCrunch describe la nueva frontera de la IA agéntica: enjambres de agentes que trabajan en bucle permanente en segundo plano, sin intervención humana constante. Este modelo supera la automatización de tareas puntuales y abre la puerta a sistemas empresariales autónomos. Varias startups ya están construyendo sobre esta arquitectura.",
-      "por_que_importa": "Entender la arquitectura de agentes en loop es clave para identificar las próximas categorías de inversión en IA empresarial, incluyendo oportunidades para startups de LatAm.",
-      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "titulo_es": "Cómo invertir cuando todo cambia demasiado rápido: lecciones de dos inversores de IA en StrictlyVC",
+      "resumen": "Dos inversores de IA del evento StrictlyVC LA compartieron su marco de decisión ante la velocidad de cambio tecnológico: priorizan founders con capacidad de pivote, evitan apostar a una sola capa del stack y buscan contratos con señales de retención real. El artículo condensa frameworks prácticos sobre timing de inversión en mercados volátiles.",
+      "por_que_importa": "Los frameworks de decisión en entornos de alta incertidumbre son directamente aplicables al análisis de casos en el club y en entrevistas de VC.",
+      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 10,
-      "categoria": "Rondas",
-      "titulo_es": "Google DeepMind invierte USD 75M en A24 para desarrollar herramientas de IA para cine",
-      "resumen": "Google DeepMind anunció una inversión de USD 75M en la productora independiente A24 para co-desarrollar herramientas de IA aplicadas a la producción cinematográfica. El acuerdo apunta a integrar IA generativa en el flujo de trabajo creativo de Hollywood. Es una de las primeras apuestas institucionales de gran escala en IA aplicada al entretenimiento.",
-      "por_que_importa": "La movida muestra cómo los laboratorios de IA buscan verticales no tradicionales para monetizar su tecnología, un modelo que puede replicarse en la industria creativa de LatAm.",
-      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 14,
-      "categoria": "Global",
-      "titulo_es": "Meta invierte USD 900M en CRED e incorpora a su fundador como nuevo CEO de WhatsApp",
-      "resumen": "Meta nombró a Kunal Shah, fundador de la fintech india CRED, como nuevo CEO de WhatsApp, reemplazando a Will Cathcart. En paralelo, Meta invirtió USD 900M en CRED. El movimiento refuerza la apuesta de Meta por monetizar WhatsApp en mercados emergentes, con foco especial en pagos y servicios financieros.",
-      "por_que_importa": "WhatsApp es infraestructura crítica para startups de LatAm, especialmente en fintech y comercio conversacional, por lo que el nuevo liderazgo y la apuesta por mercados emergentes impacta directamente en el ecosistema regional.",
-      "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 20,
-      "categoria": "Global",
-      "titulo_es": "Muere Alan Greenspan a los 100 años: su legado y la advertencia sobre la 'exuberancia irracional'",
-      "resumen": "Crunchbase News recuerda el legado de Alan Greenspan, fallecido este lunes, a través del prisma del boom y la caída del dot-com. Su concepto de 'exuberancia irracional', acuñado hace 30 años, sigue siendo una referencia para analizar ciclos de sobrevaluación en mercados de capital de riesgo. El artículo traza paralelos con la actual euforia por IA.",
-      "por_que_importa": "Conocer los ciclos históricos de exceso de valuación en VC —y las señales de alerta— es parte esencial de la formación de cualquier inversor o analista del ecosistema emprendedor.",
-      "link": "https://news.crunchbase.com/policy-regulation/fed-chair-greenspan-dot-com-legacy/",
+      "indice": 17,
+      "categoria": "Tendencias",
+      "titulo_es": "Ex-CTO de Meta: 'La infraestructura es el moat' y es el mejor momento para construir hard tech",
+      "resumen": "Mike Schroepfer, fundador de Gigascale Capital y ex-CTO de Meta, argumenta que la escasez de infraestructura de cómputo y energía crea ventajas competitivas duraderas para quienes construyen en ese layer. Advierte sobre un próximo 'power crunch' que frenará el crecimiento de IA si no se resuelve la generación eléctrica. Considera que el ciclo actual es único para hard tech.",
+      "por_que_importa": "La tesis de infraestructura como moat es relevante para entender hacia dónde fluirá el capital de VC en los próximos años, incluyendo oportunidades en LatAm en energía y data centers.",
+      "link": "https://news.crunchbase.com/venture/hard-tech-infrastructure-moat-schroepfer-gigascale/",
       "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 0,
+      "categoria": "Global",
+      "titulo_es": "Microsoft comprometió $190.000M para dominar la infraestructura y aplicaciones de IA a nivel global",
+      "resumen": "Microsoft anunció una inversión de $190.000 millones destinada a infraestructura de IA, desarrollo de nuevos modelos y ecosistema de partners. La magnitud del commitment señala que la carrera por la infraestructura de IA se está consolidando en manos de hyperscalers, lo que comprime el espacio para players independientes en esa capa. El movimiento redefine el panorama competitivo para startups que dependen de Azure.",
+      "por_que_importa": "Las decisiones de capex de hyperscalers determinan las condiciones de mercado para startups de IA en LatAm que usan infraestructura cloud como base de sus productos.",
+      "link": "https://contxto.com/en/inteligencia-artificial/microsoft-to-accelerate-its-ai-strategy-with-partners-massive-market-shaping-investments/",
+      "fuente": "Contxto"
+    },
+    {
+      "indice": 9,
+      "categoria": "Tendencias",
+      "titulo_es": "Anthropic lanza Claude Tag en Slack: una IA que aprende el contexto interno de cada empresa",
+      "resumen": "Claude Tag permite que el modelo de Anthropic se integre de forma pasiva en Slack, acumulando contexto organizacional, conocimiento institucional y patrones de comunicación de la empresa. Más allá de la productividad, es una jugada estratégica para capturar datos propietarios de clientes enterprise y generar lock-in. Compite directamente con Copilot de Microsoft en el segmento B2B.",
+      "por_que_importa": "El modelo de distribución B2B via integraciones de workplace es un patrón de go-to-market cada vez más relevante para startups SaaS en LatAm que buscan enterprise.",
+      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 16,
+      "categoria": "Tendencias",
+      "titulo_es": "Lista actualizada: las mayores olas de despidos tech en 2026 donde las empresas citaron a la IA como causa",
+      "resumen": "TechCrunch mantiene un registro cronológico de los despidos masivos en tech en 2026 donde los empleadores mencionaron explícitamente a la IA como factor determinante. El patrón muestra aceleración en el segundo trimestre de 2026 y afecta tanto a roles operativos como a capas medias de ingeniería y producto. La tendencia tiene implicancias directas sobre el mercado laboral para graduados de tecnología.",
+      "por_que_importa": "Comprender el impacto del ciclo de IA sobre el empleo tech es esencial para estudiantes que están evaluando sus propias trayectorias profesionales en el ecosistema.",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Superhuman adquiere GPTZero, startup de detección de contenido generado por IA",
+      "resumen": "Superhuman, conocida por su cliente de email premium, compró GPTZero, una de las herramientas más usadas para detectar texto generado por IA en contextos académicos y empresariales. La adquisición amplía el portfolio de Superhuman hacia herramientas de verificación de autenticidad en comunicaciones. Los términos económicos del deal no fueron divulgados.",
+      "por_que_importa": "Es un ejemplo de M&A estratégico donde una startup escala mediante adquisición de capacidades en lugar de desarrollo interno, un patrón creciente en el ecosistema de herramientas de IA.",
+      "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 15,
+      "categoria": "Rondas",
+      "titulo_es": "Fika Jobs levanta $4M para una plataforma de reclutamiento donde agentes de IA realizan las entrevistas",
+      "resumen": "La startup sueca Fika Jobs cerró una ronda de $4 millones para desarrollar una plataforma de hiring que combina entrevistas conducidas por agentes de IA con perfiles en video formato corto, apuntando a modernizar el funnel de selección para empresas. El modelo busca reducir el costo y tiempo del proceso de contratación masiva. Compite en un segmento de HR tech con creciente actividad de inversión global.",
+      "por_que_importa": "El segmento de AI agents aplicados a HR es uno de los de mayor tracción en rondas seed y Serie A globalmente, con potencial de replicación en mercados de LatAm con alto volumen de contratación.",
+      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "fuente": "TechCrunch"
     }
   ]
 }
