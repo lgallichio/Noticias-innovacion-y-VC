@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "Menlo Ventures cierra un fondo de $3.000M apostando todo al ciclo de IA: ¿burbuja o nueva era para el VC?",
+  "titular_del_dia": "M&A de startups en EE.UU. va camino a un año récord y el mercado de chips de IA redefine el ecosistema global de venture",
   "items": [
     {
-      "indice": 6,
-      "categoria": "Fondos",
-      "titulo_es": "Menlo Ventures cierra su mayor fondo histórico de $3.000M tras apostar $750M a Anthropic en 2024",
-      "resumen": "Menlo Ventures recaudó $3.000 millones en dos nuevos fondos —el mayor levantamiento en sus 50 años de historia— para invertir en startups de IA desde etapa semilla hasta growth. La firma construyó su reputación actual sobre una jugada concentrada de $750M en Anthropic en 2024, que resultó enormemente rentable. Los fondos apuntarán a toda la cadena de valor de IA.",
-      "por_que_importa": "Es un caso de estudio sobre conviction investing y cómo una sola tesis ejecutada con convicción puede redefinir el posicionamiento de un fondo ante sus LPs.",
-      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Fondos",
-      "titulo_es": "Menlo Ventures levanta $3.000M para IA: el mayor capital de su historia en 50 años",
-      "resumen": "Crunchbase detalla que los dos nuevos fondos de Menlo cubren seed hasta growth stage, consolidando a la firma como referente de IA tras su bet en Anthropic. El cierre representa la mayor captación de capital en la historia de la firma y señala el apetito sostenido de los LPs por exposición a IA.",
-      "por_que_importa": "Duplicado de mejor fuente (ítem 6 es preferible); este ítem se incluye por los datos adicionales de Crunchbase sobre estructura de los fondos por etapa.",
-      "link": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 1,
-      "categoria": "Tendencias",
-      "titulo_es": "¿Hay una burbuja de IA? Inversores de VC debaten sobre valuaciones infladas y ARR artificial",
-      "resumen": "En el evento StrictlyVC LA, Chang Xu (Basis Set Ventures) y Carter Reum (M13) discutieron abiertamente si las valuaciones actuales de startups de IA reflejan fundamentos reales o están infladas por ARR contractual que oculta churn alto. El debate gira en torno a métricas de retención, poder de fijación de precios y diferenciación real de modelos.",
-      "por_que_importa": "Entender cómo los VCs evalúan métricas en el ciclo actual de IA es clave para cualquiera que quiera analizar deals o trabajar en un fondo.",
-      "link": "https://techcrunch.com/podcast/is-there-an-ai-bubble-vcs-on-valuations-and-arr-inflation/",
-      "fuente": "TechCrunch Venture"
-    },
-    {
-      "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "Cómo invertir cuando todo cambia demasiado rápido: lecciones de dos inversores de IA en StrictlyVC",
-      "resumen": "Dos inversores de IA del evento StrictlyVC LA compartieron su marco de decisión ante la velocidad de cambio tecnológico: priorizan founders con capacidad de pivote, evitan apostar a una sola capa del stack y buscan contratos con señales de retención real. El artículo condensa frameworks prácticos sobre timing de inversión en mercados volátiles.",
-      "por_que_importa": "Los frameworks de decisión en entornos de alta incertidumbre son directamente aplicables al análisis de casos en el club y en entrevistas de VC.",
-      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 17,
-      "categoria": "Tendencias",
-      "titulo_es": "Ex-CTO de Meta: 'La infraestructura es el moat' y es el mejor momento para construir hard tech",
-      "resumen": "Mike Schroepfer, fundador de Gigascale Capital y ex-CTO de Meta, argumenta que la escasez de infraestructura de cómputo y energía crea ventajas competitivas duraderas para quienes construyen en ese layer. Advierte sobre un próximo 'power crunch' que frenará el crecimiento de IA si no se resuelve la generación eléctrica. Considera que el ciclo actual es único para hard tech.",
-      "por_que_importa": "La tesis de infraestructura como moat es relevante para entender hacia dónde fluirá el capital de VC en los próximos años, incluyendo oportunidades en LatAm en energía y data centers.",
-      "link": "https://news.crunchbase.com/venture/hard-tech-infrastructure-moat-schroepfer-gigascale/",
+      "indice": 22,
+      "categoria": "Exits/M&A",
+      "titulo_es": "La adquisición de Cursor por SpaceX impulsa a EE.UU. hacia un año récord en M&A de startups",
+      "resumen": "La compra de Anysphere (creadores de Cursor) por SpaceX en $60.000 millones lidera un año extraordinario en fusiones y adquisiciones de startups. Crunchbase detalla las 10 transacciones más grandes de 2026, con múltiples deals multimillonarios cerrados. El dato apunta a un ciclo de exits más activo que en los años post-pandemia.",
+      "por_que_importa": "Entender los ciclos de M&A es clave para cualquier analista de VC: los exits definen los retornos de los fondos y señalan qué sectores están madurando para consolidación.",
+      "link": "https://news.crunchbase.com/ma/2026-mergers-acquisitions-record-cursor-spcx/",
       "fuente": "Crunchbase News"
     },
     {
       "indice": 0,
-      "categoria": "Global",
-      "titulo_es": "Microsoft comprometió $190.000M para dominar la infraestructura y aplicaciones de IA a nivel global",
-      "resumen": "Microsoft anunció una inversión de $190.000 millones destinada a infraestructura de IA, desarrollo de nuevos modelos y ecosistema de partners. La magnitud del commitment señala que la carrera por la infraestructura de IA se está consolidando en manos de hyperscalers, lo que comprime el espacio para players independientes en esa capa. El movimiento redefine el panorama competitivo para startups que dependen de Azure.",
-      "por_que_importa": "Las decisiones de capex de hyperscalers determinan las condiciones de mercado para startups de IA en LatAm que usan infraestructura cloud como base de sus productos.",
-      "link": "https://contxto.com/en/inteligencia-artificial/microsoft-to-accelerate-its-ai-strategy-with-partners-massive-market-shaping-investments/",
-      "fuente": "Contxto"
-    },
-    {
-      "indice": 9,
-      "categoria": "Tendencias",
-      "titulo_es": "Anthropic lanza Claude Tag en Slack: una IA que aprende el contexto interno de cada empresa",
-      "resumen": "Claude Tag permite que el modelo de Anthropic se integre de forma pasiva en Slack, acumulando contexto organizacional, conocimiento institucional y patrones de comunicación de la empresa. Más allá de la productividad, es una jugada estratégica para capturar datos propietarios de clientes enterprise y generar lock-in. Compite directamente con Copilot de Microsoft en el segmento B2B.",
-      "por_que_importa": "El modelo de distribución B2B via integraciones de workplace es un patrón de go-to-market cada vez más relevante para startups SaaS en LatAm que buscan enterprise.",
-      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "fuente": "TechCrunch"
+      "categoria": "Fondos",
+      "titulo_es": "Valor Equity Partners busca levantar un fondo de $2.500 millones para su séptimo vehículo",
+      "resumen": "Valor Equity Partners, firma de growth equity conocida por apuestas tempranas en Tesla y SpaceX, busca cerrar su Fund VII en $2.500 millones según Bloomberg. El fondo fue anunciado el año pasado sin revelar el monto objetivo. La escala del vehículo lo posiciona entre los grandes fondos de growth equity de EE.UU.",
+      "por_que_importa": "Seguir los fundraisings de fondos top-tier permite entender hacia dónde fluye el capital institucional y qué tesis de inversión están ganando tracción globalmente.",
+      "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+      "fuente": "TechCrunch Venture"
     },
     {
       "indice": 16,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Agility Robotics sale a bolsa vía SPAC en una transacción valuada en $2.500 millones",
+      "resumen": "Agility Robotics, startup de robótica humanoide fundada en 2015 como spin-off de Oregon State University, anunció su salida a bolsa mediante un SPAC que generaría $620 millones en proceeds. La valuación implícita del deal es de $2.500 millones. Es uno de los primeros exits significativos en el segmento de humanoides, sector que recibió inversión masiva en 2024-2025.",
+      "por_que_importa": "El debut bursátil de Agility es un caso de estudio sobre el uso de SPACs como vía de exit en deep tech, un mecanismo relevante para analizar liquidez en sectores de largo ciclo de desarrollo.",
+      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 21,
       "categoria": "Tendencias",
-      "titulo_es": "Lista actualizada: las mayores olas de despidos tech en 2026 donde las empresas citaron a la IA como causa",
-      "resumen": "TechCrunch mantiene un registro cronológico de los despidos masivos en tech en 2026 donde los empleadores mencionaron explícitamente a la IA como factor determinante. El patrón muestra aceleración en el segundo trimestre de 2026 y afecta tanto a roles operativos como a capas medias de ingeniería y producto. La tendencia tiene implicancias directas sobre el mercado laboral para graduados de tecnología.",
-      "por_que_importa": "Comprender el impacto del ciclo de IA sobre el empleo tech es esencial para estudiantes que están evaluando sus propias trayectorias profesionales en el ecosistema.",
-      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "titulo_es": "OpenAI presenta su primer chip propio, diseñado con Broadcom y llamado Jalapeño",
+      "resumen": "OpenAI reveló 'Jalapeño', su primer procesador personalizado, desarrollado junto a Broadcom y optimizado para sus sistemas de inferencia. El movimiento sigue la tendencia de grandes compañías de IA que buscan independizarse de Nvidia diseñando su propio silicio. Esto tiene implicancias directas en costos de infraestructura y márgenes del negocio de IA.",
+      "por_que_importa": "La verticalización de la cadena de chips en IA redefine el mapa competitivo del sector y afecta la estructura de costos de cualquier startup que construya sobre modelos de lenguaje.",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "Cerebras se desploma en bolsa tras su primer reporte de ganancias por alerta sobre márgenes",
+      "resumen": "En su primer earnings report como empresa pública, Cerebras proyectó márgenes brutos más bajos en su negocio principal, generando una fuerte caída bursátil. El CEO intentó aclarar que hubo una mala interpretación del guidance, pero el mercado castigó la incertidumbre. El episodio pone en foco la dificultad de los fabricantes de chips de IA para sostener márgenes en un entorno competitivo.",
+      "por_que_importa": "La experiencia post-IPO de Cerebras ilustra los desafíos de valuar y comunicar empresas de hardware de IA, una lección directa sobre expectativas de mercado vs. realidad operativa.",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 25,
+      "categoria": "Global",
+      "titulo_es": "Ex-CTO de Meta lanza Gigascale Capital: 'La infraestructura es el moat del próximo ciclo tecnológico'",
+      "resumen": "Mike Schroepfer, ex-CTO de Meta, explica en un Q&A de Crunchbase por qué fundó Gigascale Capital para invertir en hard tech e infraestructura. Argumenta que la crisis energética que se avecina y los cuellos de botella en compute hacen que la infraestructura sea la ventaja competitiva más difícil de replicar. El fondo apuesta por breakthroughs en energía, materiales y computación.",
+      "por_que_importa": "La tesis de infraestructura como moat es cada vez más citada por fondos globales y empieza a resonar en LatAm, donde hay oportunidades reales en energía y conectividad.",
+      "link": "https://news.crunchbase.com/venture/hard-tech-infrastructure-moat-schroepfer-gigascale/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 8,
+      "categoria": "Tendencias",
+      "titulo_es": "Datos de SignalFire muestran que los ingenieros son los profesionales más resilientes frente al avance de la IA",
+      "resumen": "Contrary al relato dominante, nuevos datos de SignalFire indican que los ingenieros representan una porción creciente de las nuevas contrataciones en el sector tech, incluso en el contexto de adopción masiva de IA. La automatización estaría desplazando roles de soporte y operaciones, pero aumentando la demanda de perfiles técnicos que puedan construir y mantener sistemas de IA. El análisis cubre datos de miles de empresas.",
+      "por_que_importa": "Para estudiantes que evalúan carreras en el ecosistema emprendedor, este dato es relevante: el valor del perfil técnico-inversor (technical founder o engineering-literate investor) sigue en alza.",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 12,
+      "categoria": "Tendencias",
+      "titulo_es": "Las empresas frenan el uso de IA por empleados tras dispararse los costos de tokens",
+      "resumen": "Compañías de distintos tamaños están implementando políticas de racionamiento de tokens tras descubrir que empleados usan herramientas de IA para tareas menores que consumen presupuestos desproporcionados. El fenómeno, bautizado 'tokenmaxxing', generó costos inesperados que ahora se buscan controlar con límites y aprobaciones. El artículo documenta casos concretos de empresas afectadas.",
+      "por_que_importa": "Este fenómeno revela un desafío real de unit economics en la adopción enterprise de IA, con implicancias para startups que venden soluciones B2B basadas en modelos de lenguaje.",
+      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 5,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Superhuman adquiere GPTZero, startup de detección de contenido generado por IA",
-      "resumen": "Superhuman, conocida por su cliente de email premium, compró GPTZero, una de las herramientas más usadas para detectar texto generado por IA en contextos académicos y empresariales. La adquisición amplía el portfolio de Superhuman hacia herramientas de verificación de autenticidad en comunicaciones. Los términos económicos del deal no fueron divulgados.",
-      "por_que_importa": "Es un ejemplo de M&A estratégico donde una startup escala mediante adquisición de capacidades en lugar de desarrollo interno, un patrón creciente en el ecosistema de herramientas de IA.",
-      "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "categoria": "Global",
+      "titulo_es": "Ex-CEO de Infosys lanza startup de servicios IT respaldada por Mayfield y Aramco Ventures",
+      "resumen": "Vishal Sikka, ex-CEO de Infosys, presentó su nueva empresa con el objetivo de disrumpir el modelo tradicional de servicios IT con IA. El emprendimiento recibió respaldo de Mayfield Fund y Aramco Ventures, y reúne veteranos de SAP, Infosys y VianAI. El venture apunta al mercado global de outsourcing tecnológico, estimado en cientos de miles de millones de dólares.",
+      "por_que_importa": "El caso muestra cómo operadores senior de la industria IT tradicional están apostando a la IA para redeseñar un mercado enorme, un patrón que también se observa en LatAm con servicios de nearshoring.",
+      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 15,
-      "categoria": "Rondas",
-      "titulo_es": "Fika Jobs levanta $4M para una plataforma de reclutamiento donde agentes de IA realizan las entrevistas",
-      "resumen": "La startup sueca Fika Jobs cerró una ronda de $4 millones para desarrollar una plataforma de hiring que combina entrevistas conducidas por agentes de IA con perfiles en video formato corto, apuntando a modernizar el funnel de selección para empresas. El modelo busca reducir el costo y tiempo del proceso de contratación masiva. Compite en un segmento de HR tech con creciente actividad de inversión global.",
-      "por_que_importa": "El segmento de AI agents aplicados a HR es uno de los de mayor tracción en rondas seed y Serie A globalmente, con potencial de replicación en mercados de LatAm con alto volumen de contratación.",
-      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "fuente": "TechCrunch"
+      "indice": 1,
+      "categoria": "Global",
+      "titulo_es": "Dos inversores de IA comparten su lógica para invertir en un mercado que cambia demasiado rápido",
+      "resumen": "En el evento StrictlyVC de TechCrunch en Los Ángeles, dos inversores líderes en IA debatieron cómo construir tesis de inversión cuando los modelos y aplicaciones evolucionan más rápido que los ciclos de due diligence tradicionales. Los panelistas discutieron criterios concretos de selección, horizontes de hold y cómo evaluar moats en un entorno de commoditización de modelos. El artículo resume los insights más accionables.",
+      "por_que_importa": "Las frameworks que usan inversores top para navegar mercados de alta velocidad son directamente aplicables al análisis que hacen los estudiantes del club al evaluar oportunidades en IA.",
+      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+      "fuente": "TechCrunch Venture"
     }
   ]
 }
