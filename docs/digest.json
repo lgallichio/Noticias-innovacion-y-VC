@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "M&A de startups en EE.UU. va camino a un año récord y el mercado de chips de IA redefine el ecosistema global de venture",
+  "titular_del_dia": "El M&A de startups en EE.UU. apunta a un año récord mientras la IA domina rondas y adquisiciones globales",
   "items": [
     {
-      "indice": 22,
+      "indice": 21,
       "categoria": "Exits/M&A",
-      "titulo_es": "La adquisición de Cursor por SpaceX impulsa a EE.UU. hacia un año récord en M&A de startups",
-      "resumen": "La compra de Anysphere (creadores de Cursor) por SpaceX en $60.000 millones lidera un año extraordinario en fusiones y adquisiciones de startups. Crunchbase detalla las 10 transacciones más grandes de 2026, con múltiples deals multimillonarios cerrados. El dato apunta a un ciclo de exits más activo que en los años post-pandemia.",
-      "por_que_importa": "Entender los ciclos de M&A es clave para cualquier analista de VC: los exits definen los retornos de los fondos y señalan qué sectores están madurando para consolidación.",
+      "titulo_es": "La adquisición de Cursor por SpaceX impulsa al M&A de startups hacia un año récord en EE.UU.",
+      "resumen": "La compra de Anysphere (Cursor) por SpaceX en $60.000 millones lidera un año excepcional en fusiones y adquisiciones de startups. Crunchbase analiza las 10 mayores transacciones del año, con múltiples deals de más de $1.000 millones ya cerrados. El ritmo actual pone a 2026 en camino de superar todos los registros históricos de M&A en el ecosistema startup.",
+      "por_que_importa": "Entender los drivers detrás de un año récord en M&A es clave para cualquier analista de VC o PE: señala hacia dónde fluye el capital y qué sectores generan los mayores exits.",
       "link": "https://news.crunchbase.com/ma/2026-mergers-acquisitions-record-cursor-spcx/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 0,
-      "categoria": "Fondos",
-      "titulo_es": "Valor Equity Partners busca levantar un fondo de $2.500 millones para su séptimo vehículo",
-      "resumen": "Valor Equity Partners, firma de growth equity conocida por apuestas tempranas en Tesla y SpaceX, busca cerrar su Fund VII en $2.500 millones según Bloomberg. El fondo fue anunciado el año pasado sin revelar el monto objetivo. La escala del vehículo lo posiciona entre los grandes fondos de growth equity de EE.UU.",
-      "por_que_importa": "Seguir los fundraisings de fondos top-tier permite entender hacia dónde fluye el capital institucional y qué tesis de inversión están ganando tracción globalmente.",
-      "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
-      "fuente": "TechCrunch Venture"
-    },
-    {
-      "indice": 16,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Agility Robotics sale a bolsa vía SPAC en una transacción valuada en $2.500 millones",
-      "resumen": "Agility Robotics, startup de robótica humanoide fundada en 2015 como spin-off de Oregon State University, anunció su salida a bolsa mediante un SPAC que generaría $620 millones en proceeds. La valuación implícita del deal es de $2.500 millones. Es uno de los primeros exits significativos en el segmento de humanoides, sector que recibió inversión masiva en 2024-2025.",
-      "por_que_importa": "El debut bursátil de Agility es un caso de estudio sobre el uso de SPACs como vía de exit en deep tech, un mecanismo relevante para analizar liquidez en sectores de largo ciclo de desarrollo.",
-      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "indice": 8,
+      "categoria": "Rondas",
+      "titulo_es": "General Intuition recauda $320 millones para entrenar agentes de IA con millones de horas de videojuegos",
+      "resumen": "General Intuition cerró una ronda de $320 millones con una valuación de $2.300 millones, apostando a que los datos de gameplay pueden dotar a los agentes de IA de algo cercano a la intuición humana. La compañía ya entrenó sus modelos con millones de horas de partidas y busca trasladar esas capacidades al mundo real. Es una de las apuestas más grandes del año en el espacio de agentes de IA.",
+      "por_que_importa": "Una ronda de $320M en etapa temprana ilustra la intensidad del capital que está fluyendo hacia infraestructura de agentes de IA, un sector que estudiantes de VC deben seguir de cerca.",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 21,
+      "indice": 2,
+      "categoria": "Rondas",
+      "titulo_es": "Patronus AI recauda $50 millones para construir mundos digitales que evalúan agentes de IA",
+      "resumen": "Patronus AI, fundada por ex investigadores de Meta AI, cerró una Serie B de $50 millones para escalar su plataforma de stress-testing de agentes de IA mediante entornos simulados. La startup responde a una demanda creciente de herramientas que garanticen la confiabilidad de los agentes antes de su despliegue empresarial. Sus inversores destacan que la demanda supera ampliamente la capacidad actual de la compañía.",
+      "por_que_importa": "La evaluación y seguridad de agentes de IA es una capa de infraestructura emergente con oportunidades de inversión reales, relevante para entender el stack completo del ecosistema IA.",
+      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Adobe adquiere Topaz Labs, referente en mejora de imágenes y video con IA",
+      "resumen": "Adobe anunció la compra de Topaz Labs, empresa especializada en herramientas de mejora de calidad de imágenes y video mediante inteligencia artificial. La compañía planea integrar las capacidades de Topaz en toda su suite de productos creativos. El monto de la transacción no fue divulgado, pero representa una movida estratégica de Adobe para reforzar su posición en IA generativa aplicada a contenido visual.",
+      "por_que_importa": "Las adquisiciones de Adobe en IA creativa muestran cómo las grandes tecnológicas consolidan el ecosistema de startups de IA, un patrón de exit relevante para inversores de etapas tempranas.",
+      "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 13,
+      "categoria": "Rondas",
+      "titulo_es": "Netris recauda $15 millones en Serie A liderada por a16z para acelerar el despliegue de neoclouds de IA",
+      "resumen": "Netris cerró una Serie A de $15 millones con Andreessen Horowitz como inversor líder. La startup ofrece software de gestión de redes que reduce drásticamente el tiempo que los operadores de neoclouds necesitan para salir a producción. Su propuesta apunta directamente al cuello de botella de infraestructura que frena la expansión de centros de datos de IA.",
+      "por_que_importa": "La participación de a16z en infraestructura de neoclouds señala una tesis de inversión clara: apostar a las capas de habilitación del boom de IA, no solo a las aplicaciones.",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Global",
+      "titulo_es": "La startup Base Power, respaldada por a16z, ofrece electricidad más barata instalando baterías en hogares",
+      "resumen": "Base Power, con inversión de Andreessen Horowitz, evita la congestionada cola de interconexión de la red eléctrica PJM instalando baterías residenciales a cambio de servicios de respaldo para la red. El modelo permite ofrecer tarifas eléctricas más bajas a usuarios mientras monetiza la capacidad agregada de las baterías. La propuesta es un ejemplo de innovación en el modelo de negocio del sector energético.",
+      "por_que_importa": "El modelo de Base Power combina hardware distribuido, servicios de red y financiamiento innovador, un caso de estudio valioso sobre cómo el VC está atacando la infraestructura energética.",
+      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 9,
       "categoria": "Tendencias",
-      "titulo_es": "OpenAI presenta su primer chip propio, diseñado con Broadcom y llamado Jalapeño",
-      "resumen": "OpenAI reveló 'Jalapeño', su primer procesador personalizado, desarrollado junto a Broadcom y optimizado para sus sistemas de inferencia. El movimiento sigue la tendencia de grandes compañías de IA que buscan independizarse de Nvidia diseñando su propio silicio. Esto tiene implicancias directas en costos de infraestructura y márgenes del negocio de IA.",
-      "por_que_importa": "La verticalización de la cadena de chips en IA redefine el mapa competitivo del sector y afecta la estructura de costos de cualquier startup que construya sobre modelos de lenguaje.",
-      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "titulo_es": "Ex director de IA de Databricks promete reducir el consumo energético de la IA en 1.000 veces con su nueva startup",
+      "resumen": "La nueva empresa del ex chief AI officer de Databricks presentó Un-0, un sistema de generación de imágenes que replica capacidades de modelos convencionales con una fracción del consumo energético. Si la tecnología escala, podría transformar la economía de operar modelos de IA a gran escala. El anuncio llega en un contexto de creciente preocupación por el costo energético y medioambiental del entrenamiento e inferencia de IA.",
+      "por_que_importa": "La eficiencia energética en IA es tanto un imperativo regulatorio como una oportunidad de inversión; entender esta tendencia es esencial para evaluar startups de infraestructura de IA.",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 7,
       "categoria": "Tendencias",
-      "titulo_es": "Cerebras se desploma en bolsa tras su primer reporte de ganancias por alerta sobre márgenes",
-      "resumen": "En su primer earnings report como empresa pública, Cerebras proyectó márgenes brutos más bajos en su negocio principal, generando una fuerte caída bursátil. El CEO intentó aclarar que hubo una mala interpretación del guidance, pero el mercado castigó la incertidumbre. El episodio pone en foco la dificultad de los fabricantes de chips de IA para sostener márgenes en un entorno competitivo.",
-      "por_que_importa": "La experiencia post-IPO de Cerebras ilustra los desafíos de valuar y comunicar empresas de hardware de IA, una lección directa sobre expectativas de mercado vs. realidad operativa.",
-      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "titulo_es": "Claude de Anthropic gana terreno entre usuarios pagos de IA, mercado que históricamente dominó ChatGPT",
+      "resumen": "Datos recientes muestran que los consumidores dispuestos a pagar por asistentes de IA están migrando hacia Claude de Anthropic, erosionando la cuota de mercado de ChatGPT en el segmento premium. El fenómeno sugiere que la competencia en IA de consumo se está volviendo real más allá del segmento gratuito. Anthropic ha capitalizando en percepciones de mayor calidad y confiabilidad entre usuarios avanzados.",
+      "por_que_importa": "Los movimientos de cuota de mercado en IA de consumo son indicadores tempranos de qué modelos de negocio y compañías atraerán las próximas rondas de inversión a gran escala.",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 25,
+      "indice": 0,
       "categoria": "Global",
-      "titulo_es": "Ex-CTO de Meta lanza Gigascale Capital: 'La infraestructura es el moat del próximo ciclo tecnológico'",
-      "resumen": "Mike Schroepfer, ex-CTO de Meta, explica en un Q&A de Crunchbase por qué fundó Gigascale Capital para invertir en hard tech e infraestructura. Argumenta que la crisis energética que se avecina y los cuellos de botella en compute hacen que la infraestructura sea la ventaja competitiva más difícil de replicar. El fondo apuesta por breakthroughs en energía, materiales y computación.",
-      "por_que_importa": "La tesis de infraestructura como moat es cada vez más citada por fondos globales y empieza a resonar en LatAm, donde hay oportunidades reales en energía y conectividad.",
-      "link": "https://news.crunchbase.com/venture/hard-tech-infrastructure-moat-schroepfer-gigascale/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 8,
-      "categoria": "Tendencias",
-      "titulo_es": "Datos de SignalFire muestran que los ingenieros son los profesionales más resilientes frente al avance de la IA",
-      "resumen": "Contrary al relato dominante, nuevos datos de SignalFire indican que los ingenieros representan una porción creciente de las nuevas contrataciones en el sector tech, incluso en el contexto de adopción masiva de IA. La automatización estaría desplazando roles de soporte y operaciones, pero aumentando la demanda de perfiles técnicos que puedan construir y mantener sistemas de IA. El análisis cubre datos de miles de empresas.",
-      "por_que_importa": "Para estudiantes que evalúan carreras en el ecosistema emprendedor, este dato es relevante: el valor del perfil técnico-inversor (technical founder o engineering-literate investor) sigue en alza.",
-      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "titulo_es": "La Casa Blanca pide a OpenAI retrasar el lanzamiento público de GPT-5.6 por razones de seguridad",
+      "resumen": "La administración Trump solicitó a OpenAI que no libere masivamente su nuevo modelo GPT-5.6, limitando el acceso a un grupo selecto de socios estratégicos. La medida marca una intervención gubernamental directa en el ritmo de lanzamiento de modelos de frontera, invocando preocupaciones de seguridad. OpenAI habría accedido a la solicitud, al menos de manera temporal.",
+      "por_que_importa": "La regulación gubernamental de los lanzamientos de IA es un riesgo emergente para los modelos de negocio de las grandes labs, con implicancias directas en las valuaciones y timelines de inversión.",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 12,
-      "categoria": "Tendencias",
-      "titulo_es": "Las empresas frenan el uso de IA por empleados tras dispararse los costos de tokens",
-      "resumen": "Compañías de distintos tamaños están implementando políticas de racionamiento de tokens tras descubrir que empleados usan herramientas de IA para tareas menores que consumen presupuestos desproporcionados. El fenómeno, bautizado 'tokenmaxxing', generó costos inesperados que ahora se buscan controlar con límites y aprobaciones. El artículo documenta casos concretos de empresas afectadas.",
-      "por_que_importa": "Este fenómeno revela un desafío real de unit economics en la adopción enterprise de IA, con implicancias para startups que venden soluciones B2B basadas en modelos de lenguaje.",
-      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
+      "indice": 19,
       "categoria": "Global",
-      "titulo_es": "Ex-CEO de Infosys lanza startup de servicios IT respaldada por Mayfield y Aramco Ventures",
-      "resumen": "Vishal Sikka, ex-CEO de Infosys, presentó su nueva empresa con el objetivo de disrumpir el modelo tradicional de servicios IT con IA. El emprendimiento recibió respaldo de Mayfield Fund y Aramco Ventures, y reúne veteranos de SAP, Infosys y VianAI. El venture apunta al mercado global de outsourcing tecnológico, estimado en cientos de miles de millones de dólares.",
-      "por_que_importa": "El caso muestra cómo operadores senior de la industria IT tradicional están apostando a la IA para redeseñar un mercado enorme, un patrón que también se observa en LatAm con servicios de nearshoring.",
-      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "titulo_es": "Amazon invierte $13.000 millones adicionales en infraestructura de IA en India",
+      "resumen": "Amazon anunció una nueva inyección de $13.000 millones en infraestructura de IA en India, sumándose a una ola de inversiones de grandes tecnológicas en el país. La apuesta refleja la competencia global por asegurar capacidad de cómputo en mercados de alto crecimiento. India se consolida como destino prioritario de inversión en infraestructura digital junto a Estados Unidos y Europa.",
+      "por_que_importa": "El patrón de inversión de hyperscalers en mercados emergentes como India es un precedente útil para analizar qué podría atraer inversión similar en LatAm en los próximos años.",
+      "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
       "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Global",
-      "titulo_es": "Dos inversores de IA comparten su lógica para invertir en un mercado que cambia demasiado rápido",
-      "resumen": "En el evento StrictlyVC de TechCrunch en Los Ángeles, dos inversores líderes en IA debatieron cómo construir tesis de inversión cuando los modelos y aplicaciones evolucionan más rápido que los ciclos de due diligence tradicionales. Los panelistas discutieron criterios concretos de selección, horizontes de hold y cómo evaluar moats en un entorno de commoditización de modelos. El artículo resume los insights más accionables.",
-      "por_que_importa": "Las frameworks que usan inversores top para navegar mercados de alta velocidad son directamente aplicables al análisis que hacen los estudiantes del club al evaluar oportunidades en IA.",
-      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
-      "fuente": "TechCrunch Venture"
     }
   ]
 }
