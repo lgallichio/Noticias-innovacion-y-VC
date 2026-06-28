@@ -1,95 +1,68 @@
 {
-  "titular_del_dia": "IA bajo control estatal: OpenAI restringe GPT-5.6 por pedido de la Casa Blanca mientras el mercado de chips se fragmenta",
+  "titular_del_dia": "La guerra de modelos de IA se globaliza: Asia desafía a Anthropic mientras EE.UU. restringe exportaciones",
   "items": [
     {
       "indice": 5,
-      "categoria": "Global",
-      "titulo_es": "OpenAI limita el lanzamiento de GPT-5.6 tras pedido del gobierno de EE.UU.",
-      "resumen": "La administración Trump solicitó a OpenAI restringir el acceso a su último modelo GPT-5.6, limitándolo a un grupo selecto de socios en lugar de un lanzamiento público. OpenAI accedió pero aclaró que no considera que esta intervención gubernamental deba convertirse en el estándar a largo plazo, argumentando que perjudica a usuarios, desarrolladores y defensores de ciberseguridad.",
-      "por_que_importa": "Marca un precedente sobre la tensión entre regulación estatal e innovación en IA que afectará el marco regulatorio global y, por extensión, cómo los gobiernos de LatAm podrían abordar la misma tensión.",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "categoria": "Tendencias",
+      "titulo_es": "Startups asiáticas lanzan modelos de IA comparables a Mythos ante la prolongada restricción de exportaciones de Anthropic",
+      "resumen": "Ante la extensión de las restricciones de exportación impuestas por EE.UU. sobre Anthropic, startups de IA en Asia están lanzando modelos con capacidades equivalentes a Mythos sin las limitaciones regulatorias. El artículo advierte que los laboratorios de IA estadounidenses podrían perder permanentemente un mercado masivo.",
+      "por_que_importa": "Ilustra cómo las políticas de exportación tecnológica reconfiguran el mapa global de VC en IA, abriendo oportunidades de inversión fuera de EE.UU. —incluyendo potencialmente LatAm.",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 1,
+      "indice": 6,
       "categoria": "Global",
-      "titulo_es": "El gobierno de Trump autoriza el uso del modelo Mythos 5 de Anthropic a más de 100 empresas y agencias",
-      "resumen": "Más de 100 compañías y agencias gubernamentales de EE.UU. recibieron autorización para usar Mythos 5, el modelo de Anthropic, incluyendo empleados fuera de Estados Unidos. La medida refleja una estrategia de adopción acelerada de IA en el sector público y privado bajo supervisión estatal.",
-      "por_que_importa": "Ilustra cómo los gobiernos están actuando como gatekeepers del acceso a modelos de IA de frontera, un debate de gobernanza tecnológica clave para entender el entorno regulatorio en el que operarán las startups de IA en LatAm.",
+      "titulo_es": "La administración Trump autoriza el uso de Anthropic Mythos a más de 100 empresas y agencias gubernamentales de EE.UU.",
+      "resumen": "Más de 100 compañías y agencias del gobierno estadounidense recibieron autorización para utilizar Mythos 5 de Anthropic, incluyendo empleados no estadounidenses. La medida es parte de la estrategia regulatoria de la administración Trump sobre modelos de IA de frontera.",
+      "por_que_importa": "El acceso controlado a modelos de IA avanzados como política de Estado es una tendencia que impacta la competitividad de startups y fondos globales, incluidos los de LatAm.",
       "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 7,
-      "categoria": "Tendencias",
-      "titulo_es": "Por qué OpenAI, SpaceX y otras tech giants están desarrollando sus propios chips de IA",
-      "resumen": "Grandes compañías tecnológicas, incluida OpenAI con su chip de inferencia 'Jalapeño', están invirtiendo en silicon propio para reducir la dependencia de Nvidia, que ha dominado el mercado de chips para IA. Esta tendencia de verticalización del hardware busca reducir costos, mejorar eficiencia y ganar independencia estratégica.",
-      "por_que_importa": "Entender la dinámica de la cadena de valor del hardware de IA es esencial para analizar las barreras de entrada y oportunidades de inversión en el ecosistema de startups que construyen sobre infraestructura de IA.",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
       "categoria": "Exits/M&A",
-      "titulo_es": "La FTC aprueba la adquisición de la startup Mesh por parte de Elon Musk",
-      "resumen": "La Comisión Federal de Comercio (FTC) dio luz verde a Elon Musk para adquirir Mesh, una startup fundada por ex empleados de SpaceX que salió del sigilo en febrero con una Serie A de 50 millones de dólares. La aprobación regulatoria es notable dado el historial de scrutinio antimonopolio sobre Musk.",
-      "por_que_importa": "Es un caso de estudio concreto sobre cómo se analizan los M&A en el ecosistema de startups respaldadas por figuras con múltiples empresas, relevante para entender dinámicas de conflicto de interés y revisión antimonopolio.",
+      "titulo_es": "La FTC aprueba la adquisición por parte de Musk de Mesh, startup fundada por ex empleados de SpaceX",
+      "resumen": "La Comisión Federal de Comercio (FTC) dio luz verde a la compra de Mesh por Elon Musk. La startup había salido del sigilo en febrero de 2026 con una Serie A de 50 millones de dólares.",
+      "por_que_importa": "Es un caso concreto de exit vía M&A en el ecosistema deep tech, útil para analizar tiempos de maduración, valoraciones y el rol de los reguladores en operaciones de fusiones y adquisiciones.",
       "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 16,
-      "categoria": "Rondas",
-      "titulo_es": "Las 10 mayores rondas de financiamiento de la semana: IA y biotech lideran las megadeals",
-      "resumen": "Durante la última semana, las rondas de mayor tamaño en el ecosistema de startups de EE.UU. estuvieron concentradas en inteligencia artificial, seguidas por biotech, según el análisis semanal de Crunchbase. La tendencia de megadeals en IA continúa sin señales de desaceleración.",
-      "por_que_importa": "El seguimiento de las rondas más grandes del mercado global permite identificar hacia dónde fluye el capital de riesgo y qué sectores están captando la atención de los fondos líderes, información clave para anticipar tendencias que luego llegan a LatAm.",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/",
-      "fuente": "Crunchbase News"
+      "indice": 2,
+      "categoria": "Tendencias",
+      "titulo_es": "Más allá de SoftBank: el escepticismo crece ante la visión de Musk de centros de datos orbitales",
+      "resumen": "El CEO de SoftBank no es el único cuestionando la viabilidad de los data centers en órbita propuestos por Elon Musk. Inversores y expertos técnicos plantean dudas sobre los costos, la latencia y el modelo de negocio real detrás del proyecto.",
+      "por_que_importa": "Ejercita el pensamiento crítico sobre hype tecnológico versus fundamentos de negocio, una habilidad esencial para evaluar oportunidades de inversión en etapa temprana.",
+      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 13,
-      "categoria": "Rondas",
-      "titulo_es": "Startup de YC recaudó 10 millones de dólares para construir 'paradas de servicio' para robotaxis",
-      "resumen": "Aseon Labs, egresada de la cohorte Spring 2026 de Y Combinator, levantó 10 millones de dólares liderados por Crane Venture Partners para desarrollar infraestructura de mantenimiento y carga para robotaxis. La compañía identificó una ineficiencia operativa clave: los vehículos autónomos recorren largas distancias solo para ser limpiados y cargados.",
-      "por_que_importa": "Ejemplifica cómo las oportunidades de VC no siempre están en el producto principal sino en la infraestructura habilitante, un patrón de inversión ('picks and shovels') aplicable al análisis de cualquier ecosistema tecnológico emergente.",
-      "link": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+      "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "El director de pagos de India cree que la IA será clave en la próxima etapa del crecimiento de pagos digitales",
+      "resumen": "Dilip Asbe, titular de UPI en India, afirmó que la inteligencia artificial será central en la evolución de los pagos digitales y que las nuevas apps de UPI necesitan modelos comerciales viables para ser competitivas. India procesa miles de millones de transacciones mensuales vía UPI, el sistema de referencia global.",
+      "por_que_importa": "LatAm está construyendo infraestructura de pagos digitales similar (Pix en Brasil, transferencias 3.0 en Argentina) y la convergencia con IA es una tendencia de inversión directamente aplicable a la región.",
+      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 4,
-      "categoria": "Global",
-      "titulo_es": "General Atlantic suma a Novak Djokovic como asesor estratégico global",
-      "resumen": "El fondo de private equity General Atlantic anunció la incorporación del tenista Novak Djokovic como asesor estratégico global. Si bien no se divulgaron los términos del acuerdo, la firma busca capitalizar el perfil y la red del deportista para expandir su presencia en nuevos mercados.",
-      "por_que_importa": "Muestra la tendencia creciente de los fondos de PE/VC de incorporar figuras de alto perfil como asesores para acceso a redes y deal flow, una práctica relevante para entender cómo se construye ventaja competitiva en la industria.",
-      "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
       "categoria": "Tendencias",
-      "titulo_es": "TikTok apunta a convertirse en una super app al estilo WeChat",
-      "resumen": "TikTok estaría desarrollando capacidades para transformarse en una super app que concentre múltiples actividades digitales de sus usuarios, siguiendo el modelo de WeChat en China. Esta estrategia implicaría integrar pagos, e-commerce, mensajería y otros servicios dentro de la plataforma.",
-      "por_que_importa": "El modelo de super app tiene implicancias directas para el ecosistema de startups y VC en LatAm, donde Mercado Libre ya compite en ese espacio y donde nuevos entrantes deberán definir su estrategia frente a plataformas con cientos de millones de usuarios.",
-      "link": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
+      "titulo_es": "Un fundador usó IA para gestionar su tratamiento oncológico: el caso de uso de salud personalizada más extremo hasta ahora",
+      "resumen": "Connor Christou, fundador y entusiasta del biohacking, integró análisis de sangre, datos de wearables, scans y notas personales en Claude (Anthropic) para diseñar su propio protocolo de respuesta al cáncer. El caso abre el debate sobre el rol de la IA como copiloto médico personal.",
+      "por_que_importa": "Muestra un ángulo concreto de negocio en healthtech e IA personalizada, sectores con creciente actividad de inversión en LatAm.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 17,
-      "categoria": "Global",
-      "titulo_es": "Seis inversores explican qué se necesita para financiar a más fundadores afrodescendientes",
-      "resumen": "En el último artículo de una serie de Crunchbase sobre diversidad en VC, seis inversores comparten recomendaciones concretas para ampliar el acceso al capital para fundadores afrodescendientes, identificando barreras estructurales en el proceso de sourcing y due diligence.",
-      "por_que_importa": "El debate sobre diversidad en el acceso al capital es igualmente relevante en LatAm, donde las brechas de financiamiento por origen étnico, género y geografía siguen siendo un desafío estructural para el ecosistema emprendedor.",
-      "link": "https://news.crunchbase.com/venture/investors-funding-black-founder-recommendations/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 0,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Endeavor Argentina lanza nuevos recursos para emprendedores locales",
-      "resumen": "Endeavor Argentina publicó una nueva entrega de su newsletter 'Must Read' con lanzamientos dirigidos a emprendedores, incluyendo recursos sobre networking y marketing. Si bien el artículo tiene formato promocional, Endeavor es un actor central del ecosistema emprendedor argentino.",
-      "por_que_importa": "Endeavor Argentina es una de las organizaciones de referencia del ecosistema local y sus iniciativas suelen marcar agenda para emprendedores y fundadores en etapa temprana en el país.",
-      "link": "https://www.endeavor.org.ar/must-read-nuevos-lanzamientos-para-emprendedores/",
-      "fuente": "Endeavor Argentina"
+      "indice": 3,
+      "categoria": "Tendencias",
+      "titulo_es": "Ejecutivo de Apple Vision Pro deja la compañía para unirse al equipo de hardware de OpenAI",
+      "resumen": "Paul Meade, vicepresidente de Apple a cargo del Vision Pro, se sumará al equipo de hardware de OpenAI. El movimiento es una señal del creciente apetito de OpenAI por construir dispositivos propios y competir en el espacio físico de la computación.",
+      "por_que_importa": "El talento senior migrando de Big Tech hacia startups de IA es un indicador de hacia dónde fluye el capital humano —y eventualmente el capital de riesgo— en el ecosistema global.",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "fuente": "TechCrunch"
     }
   ]
 }
