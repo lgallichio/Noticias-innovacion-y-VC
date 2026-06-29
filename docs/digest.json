@@ -1,67 +1,94 @@
 {
-  "titular_del_dia": "La guerra de modelos de IA se globaliza: Asia desafía a Anthropic mientras EE.UU. restringe exportaciones",
+  "titular_del_dia": "El Q2 2026 registró más exits unicornio que en cualquier momento desde el pico de 2021, señalando una recuperación del mercado de salidas",
   "items": [
     {
-      "indice": 5,
-      "categoria": "Tendencias",
-      "titulo_es": "Startups asiáticas lanzan modelos de IA comparables a Mythos ante la prolongada restricción de exportaciones de Anthropic",
-      "resumen": "Ante la extensión de las restricciones de exportación impuestas por EE.UU. sobre Anthropic, startups de IA en Asia están lanzando modelos con capacidades equivalentes a Mythos sin las limitaciones regulatorias. El artículo advierte que los laboratorios de IA estadounidenses podrían perder permanentemente un mercado masivo.",
-      "por_que_importa": "Ilustra cómo las políticas de exportación tecnológica reconfiguran el mapa global de VC en IA, abriendo oportunidades de inversión fuera de EE.UU. —incluyendo potencialmente LatAm.",
-      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "indice": 11,
+      "categoria": "Exits/M&A",
+      "titulo_es": "El Q2 2026 tuvo más exits de startups valuadas en +USD 1.000M que en cualquier trimestre desde 2021",
+      "resumen": "Según datos de Crunchbase, el segundo trimestre de 2026 marcó el mayor número de exits valuados en más de mil millones de dólares desde el pico del mercado en 2021, combinando M&A, IPOs y SPACs. La tendencia refleja una ventana de liquidez que se está reabriendo para fondos de VC que venían con el portfolio congelado desde 2022. El dato es clave para entender el ciclo actual del ecosistema global de venture.",
+      "por_que_importa": "Entender los ciclos de exits es fundamental para cualquier analista de VC: determina los retornos de los fondos, el apetito por nuevas inversiones y la salud general del ecosistema emprendedor.",
+      "link": "https://news.crunchbase.com/public/data-billion-dollar-startup-exits-ma-ipo-spcx-q2-2026/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 3,
+      "categoria": "Rondas",
+      "titulo_es": "Omen AI recaudó USD 31M en Serie A para monitorear el líquido refrigerante de chips en data centers",
+      "resumen": "Omen AI cerró una Serie A de USD 31 millones para desarrollar tecnología de monitoreo de sistemas de enfriamiento líquido en data centers, apuntando a prevenir brotes bacterianos y optimizar la eficiencia operativa. El negocio se posiciona en la intersección de infraestructura de IA y gestión de riesgos industriales. Con la explosión de data centers globales, el mercado de soluciones de cooling inteligente es de crecimiento acelerado.",
+      "por_que_importa": "Ilustra cómo la infraestructura de IA genera verticales de inversión no obvias con ticket de Serie A considerable, un ángulo relevante para analizar oportunidades en el ecosistema tech regional.",
+      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 6,
+      "indice": 0,
+      "categoria": "Rondas",
+      "titulo_es": "Startup de robótica Proception cerró su demanda con Tesla y anunció una ronda de USD 11M",
+      "resumen": "Proception, empresa de robótica especializada en manos robóticas, llegó a un acuerdo extrajudicial con Tesla por una demanda de robo de secretos comerciales y simultáneamente anunció una ronda de financiamiento de USD 11 millones. El caso muestra los riesgos legales que enfrentan startups de hardware deep tech al competir o colaborar con grandes corporaciones. La combinación de resolución legal y nuevo capital marca un punto de inflexión para la compañía.",
+      "por_que_importa": "El caso es un ejemplo concreto de los riesgos de propiedad intelectual en deep tech y de cómo los inversores evalúan litigios pendientes antes de cerrar una ronda.",
+      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
       "categoria": "Global",
-      "titulo_es": "La administración Trump autoriza el uso de Anthropic Mythos a más de 100 empresas y agencias gubernamentales de EE.UU.",
-      "resumen": "Más de 100 compañías y agencias del gobierno estadounidense recibieron autorización para utilizar Mythos 5 de Anthropic, incluyendo empleados no estadounidenses. La medida es parte de la estrategia regulatoria de la administración Trump sobre modelos de IA de frontera.",
-      "por_que_importa": "El acceso controlado a modelos de IA avanzados como política de Estado es una tendencia que impacta la competitividad de startups y fondos globales, incluidos los de LatAm.",
-      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "titulo_es": "Wall Street posiciona a Micron como la próxima gran apuesta en el ciclo de inversión en IA",
+      "resumen": "Analistas e inversores de Wall Street están acumulando posiciones en Micron, fabricante estadounidense de memoria, argumentando que la demanda de chips de memoria para infraestructura de IA replicará el ciclo de crecimiento que experimentó Nvidia. La tesis se basa en que los modelos de IA de próxima generación requerirán volúmenes masivos de memoria HBM de alta velocidad. Micron es uno de los pocos fabricantes occidentales con capacidad de producción a escala.",
+      "por_que_importa": "Para inversores en etapa temprana, entender qué sectores del stack de IA están atrayendo capital público ayuda a identificar dónde se formarán las próximas startups relevantes en la cadena de valor.",
+      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Tendencias",
+      "titulo_es": "Ford recontrata ingenieros experimentados tras reconocer que la IA no pudo reemplazar el know-how técnico en manufactura",
+      "resumen": "Ford admitió públicamente haber cometido un error al asumir que la implementación de inteligencia artificial podía sustituir el conocimiento de ingenieros senior en sus líneas de producción, y comenzó a reincorporar a profesionales con décadas de experiencia. El caso expone los límites actuales de la automatización con IA en contextos de manufactura compleja. Se trata de uno de los primeros reconocimientos explícitos por parte de una gran corporación sobre las limitaciones del reemplazo laboral por IA.",
+      "por_que_importa": "Ofrece una perspectiva crítica y basada en datos reales sobre las limitaciones de la IA aplicada a operaciones, relevante para evaluar startups que prometen automatización industrial completa.",
+      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 10,
+      "categoria": "Global",
+      "titulo_es": "El jefe de pagos digitales de India proyecta que la IA liderará la próxima era del crecimiento de UPI",
+      "resumen": "Dilip Asbe, máxima autoridad del sistema de pagos UPI de India, señaló que la inteligencia artificial será el motor central de la siguiente etapa de expansión de los pagos digitales en el país, y que los nuevos actores del ecosistema necesitan modelos comerciales viables para competir. UPI procesa más de 18.000 millones de transacciones mensuales y es considerado el modelo de referencia global para infraestructura de pagos en mercados emergentes. La declaración tiene implicancias directas para ecosistemas similares en LatAm.",
+      "por_que_importa": "India y LatAm comparten dinámicas de inclusión financiera y pagos digitales; lo que ocurre con UPI e IA anticipa tendencias que pueden replicarse en Argentina y la región en el corto plazo.",
+      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "Rondas",
+      "titulo_es": "Pocket recaudó USD 11M para su dispositivo físico de notas y transcripciones con IA",
+      "resumen": "Pocket cerró una ronda de USD 11 millones para escalar su producto: un accesorio en forma de tarjeta de crédito que se adhiere al teléfono y ofrece grabación ilimitada, transcripción automática y generación de tareas por USD 129. La propuesta apuesta a que los usuarios preferirán hardware dedicado sobre apps de software para casos de uso de productividad con IA. La ronda refleja el interés inversor en la categoría de AI-native hardware.",
+      "por_que_importa": "Ejemplifica una tendencia de inversión en hardware + IA que desafía el modelo puramente SaaS, útil para analizar diferenciación de propuesta de valor y barreras de entrada en startups de consumo.",
+      "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 7,
-      "categoria": "Exits/M&A",
-      "titulo_es": "La FTC aprueba la adquisición por parte de Musk de Mesh, startup fundada por ex empleados de SpaceX",
-      "resumen": "La Comisión Federal de Comercio (FTC) dio luz verde a la compra de Mesh por Elon Musk. La startup había salido del sigilo en febrero de 2026 con una Serie A de 50 millones de dólares.",
-      "por_que_importa": "Es un caso concreto de exit vía M&A en el ecosistema deep tech, útil para analizar tiempos de maduración, valoraciones y el rol de los reguladores en operaciones de fusiones y adquisiciones.",
-      "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+      "categoria": "Tendencias",
+      "titulo_es": "La industria automotriz pone el foco en el sistema de conducción autónoma Full Self-Driving de Tesla",
+      "resumen": "El último reporte de movilidad de TechCrunch analiza cómo Tesla FSD se convirtió en el principal punto de atención del ecosistema de vehículos autónomos, con implicancias regulatorias, competitivas y de inversión para el sector. El avance o retroceso de FSD marca el ritmo al que los competidores y reguladores responden en todo el mundo. La discusión incluye el rol creciente de la IA en la validación de sistemas de seguridad crítica.",
+      "por_que_importa": "La evolución de la conducción autónoma define el timing de inversión en el sector de movilidad y sus startups adjacentes, incluyendo oportunidades emergentes en LatAm para flotas y logística.",
+      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Global",
+      "titulo_es": "California regula los avisos publicitarios en plataformas de streaming a partir del 1° de julio",
+      "resumen": "Una nueva ley de California que entra en vigor el 1° de julio establece límites al volumen sonoro de los anuncios en plataformas de streaming, siguiendo el modelo de regulación ya existente para televisión abierta. La norma aplica a todas las plataformas que operen en el estado e introduce nuevos costos de compliance para adtech y publishers digitales. Es el primer antecedente regulatorio de este tipo específicamente dirigido a streaming.",
+      "por_que_importa": "La regulación en California suele marcar el camino para normativas globales; entender cómo afecta el modelo de negocio de plataformas es clave para analistas de VC en el sector media y adtech.",
+      "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 2,
       "categoria": "Tendencias",
-      "titulo_es": "Más allá de SoftBank: el escepticismo crece ante la visión de Musk de centros de datos orbitales",
-      "resumen": "El CEO de SoftBank no es el único cuestionando la viabilidad de los data centers en órbita propuestos por Elon Musk. Inversores y expertos técnicos plantean dudas sobre los costos, la latencia y el modelo de negocio real detrás del proyecto.",
-      "por_que_importa": "Ejercita el pensamiento crítico sobre hype tecnológico versus fundamentos de negocio, una habilidad esencial para evaluar oportunidades de inversión en etapa temprana.",
-      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
-      "categoria": "Tendencias",
-      "titulo_es": "El director de pagos de India cree que la IA será clave en la próxima etapa del crecimiento de pagos digitales",
-      "resumen": "Dilip Asbe, titular de UPI en India, afirmó que la inteligencia artificial será central en la evolución de los pagos digitales y que las nuevas apps de UPI necesitan modelos comerciales viables para ser competitivas. India procesa miles de millones de transacciones mensuales vía UPI, el sistema de referencia global.",
-      "por_que_importa": "LatAm está construyendo infraestructura de pagos digitales similar (Pix en Brasil, transferencias 3.0 en Argentina) y la convergencia con IA es una tendencia de inversión directamente aplicable a la región.",
-      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Tendencias",
-      "titulo_es": "Un fundador usó IA para gestionar su tratamiento oncológico: el caso de uso de salud personalizada más extremo hasta ahora",
-      "resumen": "Connor Christou, fundador y entusiasta del biohacking, integró análisis de sangre, datos de wearables, scans y notas personales en Claude (Anthropic) para diseñar su propio protocolo de respuesta al cáncer. El caso abre el debate sobre el rol de la IA como copiloto médico personal.",
-      "por_que_importa": "Muestra un ángulo concreto de negocio en healthtech e IA personalizada, sectores con creciente actividad de inversión en LatAm.",
-      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 3,
-      "categoria": "Tendencias",
-      "titulo_es": "Ejecutivo de Apple Vision Pro deja la compañía para unirse al equipo de hardware de OpenAI",
-      "resumen": "Paul Meade, vicepresidente de Apple a cargo del Vision Pro, se sumará al equipo de hardware de OpenAI. El movimiento es una señal del creciente apetito de OpenAI por construir dispositivos propios y competir en el espacio físico de la computación.",
-      "por_que_importa": "El talento senior migrando de Big Tech hacia startups de IA es un indicador de hacia dónde fluye el capital humano —y eventualmente el capital de riesgo— en el ecosistema global.",
-      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "titulo_es": "Flipper Device lanza Busy Bar, una pantalla personalizable de USD 249 orientada a la productividad en oficinas",
+      "resumen": "Flipper Device, conocida por su multitool de hardware, presenta Busy Bar: una pantalla compacta y programable diseñada para señalizar disponibilidad y gestionar el foco en entornos de trabajo híbrido o remoto, con precio de lanzamiento de USD 249. El producto apunta al segmento de hardware de productividad que creció con el trabajo remoto post-pandemia. Representa una extensión de la marca hacia un mercado de mayor volumen y casos de uso corporativos.",
+      "por_que_importa": "Muestra cómo compañías de hardware de nicho pueden pivotar hacia mercados B2B con mayor escalabilidad, una estrategia de go-to-market relevante para evaluar startups de hardware.",
+      "link": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/",
       "fuente": "TechCrunch"
     }
   ]
