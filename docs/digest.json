@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "El Q2 2026 registró más exits unicornio que en cualquier momento desde el pico de 2021, señalando una recuperación del mercado de salidas",
+  "titular_del_dia": "El mercado de exits supera niveles de 2021 y el debate sobre IA y empleo suma evidencia: señales clave para entender el momento del ecosistema global",
   "items": [
     {
-      "indice": 11,
+      "indice": 22,
       "categoria": "Exits/M&A",
-      "titulo_es": "El Q2 2026 tuvo más exits de startups valuadas en +USD 1.000M que en cualquier trimestre desde 2021",
-      "resumen": "Según datos de Crunchbase, el segundo trimestre de 2026 marcó el mayor número de exits valuados en más de mil millones de dólares desde el pico del mercado en 2021, combinando M&A, IPOs y SPACs. La tendencia refleja una ventana de liquidez que se está reabriendo para fondos de VC que venían con el portfolio congelado desde 2022. El dato es clave para entender el ciclo actual del ecosistema global de venture.",
-      "por_que_importa": "Entender los ciclos de exits es fundamental para cualquier analista de VC: determina los retornos de los fondos, el apetito por nuevas inversiones y la salud general del ecosistema emprendedor.",
+      "titulo_es": "Los exits de startups valuados en más de USD 1.000 M alcanzan su punto más alto desde 2021",
+      "resumen": "Según datos de Crunchbase, el Q2 2026 registró más exits de unicornios (por M&A o IPO) que cualquier trimestre desde el pico de 2021. La tendencia incluye tanto adquisiciones corporativas como salidas a bolsa, señalando una reactivación del mercado de liquidez. Este dato es relevante para fondos que llevan años sin poder devolver capital a sus LPs.",
+      "por_que_importa": "Entender los ciclos de liquidez es central en VC: este dato indica que el 'exit drought' que frenó el ecosistema desde 2022 podría estar terminando, con implicancias directas para nuevas rondas y apetito inversor en toda la cadena, incluyendo LatAm.",
       "link": "https://news.crunchbase.com/public/data-billion-dollar-startup-exits-ma-ipo-spcx-q2-2026/",
       "fuente": "Crunchbase News"
     },
     {
       "indice": 3,
       "categoria": "Rondas",
-      "titulo_es": "Omen AI recaudó USD 31M en Serie A para monitorear el líquido refrigerante de chips en data centers",
-      "resumen": "Omen AI cerró una Serie A de USD 31 millones para desarrollar tecnología de monitoreo de sistemas de enfriamiento líquido en data centers, apuntando a prevenir brotes bacterianos y optimizar la eficiencia operativa. El negocio se posiciona en la intersección de infraestructura de IA y gestión de riesgos industriales. Con la explosión de data centers globales, el mercado de soluciones de cooling inteligente es de crecimiento acelerado.",
-      "por_que_importa": "Ilustra cómo la infraestructura de IA genera verticales de inversión no obvias con ticket de Serie A considerable, un ángulo relevante para analizar oportunidades en el ecosistema tech regional.",
-      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "titulo_es": "Chamath Palihapitiya recauda USD 135 M en Serie A para su startup de coding con IA y asume como CEO",
+      "resumen": "La startup de programación asistida por IA fundada por el conocido inversor Chamath Palihapitiya cerró una Serie A de USD 135 millones. Palihapitiya dejó su rol de inversor para tomar el puesto de CEO, una señal inusual de convicción operativa. La ronda refleja el sostenido apetito de los VCs por el segmento de AI coding, uno de los más activos en 2025-2026.",
+      "por_que_importa": "El tamaño de la ronda y el perfil del fundador ilustran cómo figuras del ecosistema inversor están pivotando hacia la operación, y sirve como caso de estudio sobre valuaciones y señalización en etapas tempranas de sectores calientes.",
+      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 0,
-      "categoria": "Rondas",
-      "titulo_es": "Startup de robótica Proception cerró su demanda con Tesla y anunció una ronda de USD 11M",
-      "resumen": "Proception, empresa de robótica especializada en manos robóticas, llegó a un acuerdo extrajudicial con Tesla por una demanda de robo de secretos comerciales y simultáneamente anunció una ronda de financiamiento de USD 11 millones. El caso muestra los riesgos legales que enfrentan startups de hardware deep tech al competir o colaborar con grandes corporaciones. La combinación de resolución legal y nuevo capital marca un punto de inflexión para la compañía.",
-      "por_que_importa": "El caso es un ejemplo concreto de los riesgos de propiedad intelectual en deep tech y de cómo los inversores evalúan litigios pendientes antes de cerrar una ronda.",
-      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 8,
+      "indice": 21,
       "categoria": "Global",
-      "titulo_es": "Wall Street posiciona a Micron como la próxima gran apuesta en el ciclo de inversión en IA",
-      "resumen": "Analistas e inversores de Wall Street están acumulando posiciones en Micron, fabricante estadounidense de memoria, argumentando que la demanda de chips de memoria para infraestructura de IA replicará el ciclo de crecimiento que experimentó Nvidia. La tesis se basa en que los modelos de IA de próxima generación requerirán volúmenes masivos de memoria HBM de alta velocidad. Micron es uno de los pocos fabricantes occidentales con capacidad de producción a escala.",
-      "por_que_importa": "Para inversores en etapa temprana, entender qué sectores del stack de IA están atrayendo capital público ayuda a identificar dónde se formarán las próximas startups relevantes en la cadena de valor.",
-      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "titulo_es": "El socio de GV analiza la compra modular de Qualcomm, retornos 10x y el nuevo paradigma del software de IA",
+      "resumen": "Dave Munichiello de GV (antes Google Ventures) reflexiona sobre cómo las empresas tecnológicas gestionan los costos crecientes de la infraestructura de IA, a raíz de la adquisición modular de activos por parte de Qualcomm. Describe un retorno de 10x en una inversión del portafolio y señala un cambio estructural en cómo se monetiza el software de IA. La entrevista ofrece perspectiva de un fondo Tier 1 sobre el momento actual del mercado.",
+      "por_que_importa": "Escuchar la tesis de inversión de un partner de GV sobre semiconductores y software de IA en un momento de reconfiguración de la industria es exactamente el tipo de marco analítico que se trabaja en un club de VC.",
+      "link": "https://news.crunchbase.com/venture/ma-ai-semiconductors-hardware-qa-munichiello-gvs/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 15,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Rocket Lab adquiere la empresa de satélites Iridium en un deal all-stock valuado en USD 8.000 M",
+      "resumen": "Rocket Lab anunció la compra de Iridium, una de las principales operadoras de satélites de comunicaciones globales, en una transacción íntegramente en acciones valuada en USD 8.000 millones. La adquisición refuerza la estrategia de Rocket Lab de construir un stack vertical completo en el segmento espacial para competir con SpaceX y Amazon. Es la operación de M&A más grande del sector espacial privado en lo que va de 2026.",
+      "por_que_importa": "Es un M&A de escala en el sector de infraestructura espacial, un área de creciente interés para fondos de VC y PE de largo plazo, con potencial de aplicaciones en conectividad para mercados emergentes como LatAm.",
+      "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 5,
+      "indice": 9,
       "categoria": "Tendencias",
-      "titulo_es": "Ford recontrata ingenieros experimentados tras reconocer que la IA no pudo reemplazar el know-how técnico en manufactura",
-      "resumen": "Ford admitió públicamente haber cometido un error al asumir que la implementación de inteligencia artificial podía sustituir el conocimiento de ingenieros senior en sus líneas de producción, y comenzó a reincorporar a profesionales con décadas de experiencia. El caso expone los límites actuales de la automatización con IA en contextos de manufactura compleja. Se trata de uno de los primeros reconocimientos explícitos por parte de una gran corporación sobre las limitaciones del reemplazo laboral por IA.",
-      "por_que_importa": "Ofrece una perspectiva crítica y basada en datos reales sobre las limitaciones de la IA aplicada a operaciones, relevante para evaluar startups que prometen automatización industrial completa.",
-      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
-      "categoria": "Global",
-      "titulo_es": "El jefe de pagos digitales de India proyecta que la IA liderará la próxima era del crecimiento de UPI",
-      "resumen": "Dilip Asbe, máxima autoridad del sistema de pagos UPI de India, señaló que la inteligencia artificial será el motor central de la siguiente etapa de expansión de los pagos digitales en el país, y que los nuevos actores del ecosistema necesitan modelos comerciales viables para competir. UPI procesa más de 18.000 millones de transacciones mensuales y es considerado el modelo de referencia global para infraestructura de pagos en mercados emergentes. La declaración tiene implicancias directas para ecosistemas similares en LatAm.",
-      "por_que_importa": "India y LatAm comparten dinámicas de inclusión financiera y pagos digitales; lo que ocurre con UPI e IA anticipa tendencias que pueden replicarse en Argentina y la región en el corto plazo.",
-      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "titulo_es": "Arena, el leaderboard de modelos de IA más usado del mundo, alcanza USD 100 M de ingresos",
+      "resumen": "La startup detrás de LMSYS Chatbot Arena, plataforma de evaluación comparativa de modelos de IA ampliamente usada por investigadores y empresas, lanzó su servicio comercial en septiembre 2025 y ya reporta USD 100 millones en facturación anualizada. El modelo de negocio convierte la credibilidad técnica de un producto gratuito en una capa B2B de evaluación y certificación. Es un caso atípico de crecimiento de revenue en el ecosistema de infraestructura de IA.",
+      "por_que_importa": "Muestra cómo plataformas de evaluación y benchmarking pueden convertirse en negocios de alto valor, un modelo de monetización relevante para pensar oportunidades en el ecosistema de herramientas de IA en LatAm.",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
+      "categoria": "Tendencias",
+      "titulo_es": "Nuevo informe desafía el relato de que la IA destruye empleo: las empresas con mayor adopción aumentaron dotación un 10,2%",
+      "resumen": "Un reporte reciente muestra que las compañías clasificadas como 'high-intensity AI adopters' incrementaron su headcount en un 10,2%, con el empleo de nivel inicial creciendo un 12%. El hallazgo contradice la narrativa dominante sobre destrucción de empleo junior por automatización. El debate sigue abierto, pero los datos agregan complejidad a las proyecciones simplistas sobre el impacto laboral de la IA.",
+      "por_que_importa": "Para estudiantes que están ingresando al mercado laboral, entender el impacto real de la IA en el empleo —con datos, no retórica— es fundamental tanto para sus carreras como para evaluar startups de futuro trabajo y productividad.",
+      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 20,
+      "categoria": "Global",
+      "titulo_es": "Por qué el venture capital necesita una infraestructura de datos mejor para no quedar rehén de la IA mal usada",
+      "resumen": "Henrik Landgren de Gilion argumenta que los fondos de VC están aplicando IA sobre datos de mala calidad, lo que genera análisis erróneos en procesos de due diligence y portfolio monitoring. Propone conectar los modelos directamente a fuentes primarias como sistemas financieros y de pagos de las startups. El artículo plantea una crítica estructural al uso actual de IA en la industria inversora.",
+      "por_que_importa": "Entender las limitaciones de los datos en VC es clave para quien quiera trabajar en un fondo: la calidad de la información de portafolio impacta directamente en decisiones de seguimiento y valoración.",
+      "link": "https://news.crunchbase.com/venture/data-funding-solutions-ai-landgren-gilion/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 19,
       "categoria": "Rondas",
-      "titulo_es": "Pocket recaudó USD 11M para su dispositivo físico de notas y transcripciones con IA",
-      "resumen": "Pocket cerró una ronda de USD 11 millones para escalar su producto: un accesorio en forma de tarjeta de crédito que se adhiere al teléfono y ofrece grabación ilimitada, transcripción automática y generación de tareas por USD 129. La propuesta apuesta a que los usuarios preferirán hardware dedicado sobre apps de software para casos de uso de productividad con IA. La ronda refleja el interés inversor en la categoría de AI-native hardware.",
-      "por_que_importa": "Ejemplifica una tendencia de inversión en hardware + IA que desafía el modelo puramente SaaS, útil para analizar diferenciación de propuesta de valor y barreras de entrada en startups de consumo.",
-      "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+      "titulo_es": "Omen AI recauda USD 31 M en Serie A para monitorear el refrigerante líquido de chips en data centers",
+      "resumen": "Omen AI cerró una Serie A de USD 31 millones para escalar su tecnología de monitoreo de sistemas de enfriamiento líquido en centros de datos, con foco en prevenir brotes bacterianos que pueden dañar hardware de alto valor. El problema se volvió crítico con la proliferación de chips de IA que generan calor extremo. La startup opera en la intersección de infraestructura física de IA y software de gestión industrial.",
+      "por_que_importa": "Ilustra cómo la demanda de infraestructura para IA genera oportunidades de inversión en capas no obvias del stack tecnológico, un ángulo frecuentemente subestimado en los análisis del sector.",
+      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 7,
-      "categoria": "Tendencias",
-      "titulo_es": "La industria automotriz pone el foco en el sistema de conducción autónoma Full Self-Driving de Tesla",
-      "resumen": "El último reporte de movilidad de TechCrunch analiza cómo Tesla FSD se convirtió en el principal punto de atención del ecosistema de vehículos autónomos, con implicancias regulatorias, competitivas y de inversión para el sector. El avance o retroceso de FSD marca el ritmo al que los competidores y reguladores responden en todo el mundo. La discusión incluye el rol creciente de la IA en la validación de sistemas de seguridad crítica.",
-      "por_que_importa": "La evolución de la conducción autónoma define el timing de inversión en el sector de movilidad y sus startups adjacentes, incluyendo oportunidades emergentes en LatAm para flotas y logística.",
-      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
       "categoria": "Global",
-      "titulo_es": "California regula los avisos publicitarios en plataformas de streaming a partir del 1° de julio",
-      "resumen": "Una nueva ley de California que entra en vigor el 1° de julio establece límites al volumen sonoro de los anuncios en plataformas de streaming, siguiendo el modelo de regulación ya existente para televisión abierta. La norma aplica a todas las plataformas que operen en el estado e introduce nuevos costos de compliance para adtech y publishers digitales. Es el primer antecedente regulatorio de este tipo específicamente dirigido a streaming.",
-      "por_que_importa": "La regulación en California suele marcar el camino para normativas globales; entender cómo afecta el modelo de negocio de plataformas es clave para analistas de VC en el sector media y adtech.",
-      "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "titulo_es": "Anthropic firma acuerdo con el gobierno de California para proveer Claude a mitad de precio",
+      "resumen": "Anthropic llegó a un acuerdo con el gobernador Gavin Newsom para que el gobierno estatal de California acceda al modelo Claude a un precio 50% reducido. El deal consolida la relación de Anthropic con el estado mientras tensiona su vínculo con la administración federal. Marca un patrón emergente de contratos gubernamentales como vía de expansión de los grandes labs de IA.",
+      "por_que_importa": "El modelo de expansión B2G (business-to-government) de los labs de IA es una tendencia replicable en mercados como Argentina y LatAm, donde los estados son compradores potenciales de tecnología de alto impacto.",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 2,
       "categoria": "Tendencias",
-      "titulo_es": "Flipper Device lanza Busy Bar, una pantalla personalizable de USD 249 orientada a la productividad en oficinas",
-      "resumen": "Flipper Device, conocida por su multitool de hardware, presenta Busy Bar: una pantalla compacta y programable diseñada para señalizar disponibilidad y gestionar el foco en entornos de trabajo híbrido o remoto, con precio de lanzamiento de USD 249. El producto apunta al segmento de hardware de productividad que creció con el trabajo remoto post-pandemia. Representa una extensión de la marca hacia un mercado de mayor volumen y casos de uso corporativos.",
-      "por_que_importa": "Muestra cómo compañías de hardware de nicho pueden pivotar hacia mercados B2B con mayor escalabilidad, una estrategia de go-to-market relevante para evaluar startups de hardware.",
-      "link": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/",
+      "titulo_es": "Base44, plataforma de 'vibe coding' adquirida por Wix, lanza su propio modelo de IA para diferenciarse",
+      "resumen": "Base44, startup de desarrollo de software asistido por IA adquirida por Wix, comenzó a desplegar su propio modelo de lenguaje con el objetivo de superar eventualmente a los modelos frontier. La movida responde a la creciente necesidad de las startups de IA de construir defensibilidad más allá del prompting sobre APIs de terceros. Es uno de los primeros casos de una plataforma de vibe coding apostando por infraestructura de modelos propia.",
+      "por_que_importa": "El dilema 'construir vs. integrar modelos' es una de las decisiones estratégicas centrales para cualquier startup de IA hoy, y este caso ofrece un ejemplo concreto de cómo una compañía respaldada por un strategic buyer lo está resolviendo.",
+      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "fuente": "TechCrunch"
     }
   ]
