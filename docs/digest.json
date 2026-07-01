@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "El mercado de exits supera niveles de 2021 y el debate sobre IA y empleo suma evidencia: señales clave para entender el momento del ecosistema global",
+  "titular_del_dia": "Ecosystem emprendedor boliviano: de WhatsApp a app #1 del país, mientras el VC global mueve fichas en AI y fusión nuclear",
   "items": [
     {
-      "indice": 22,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Los exits de startups valuados en más de USD 1.000 M alcanzan su punto más alto desde 2021",
-      "resumen": "Según datos de Crunchbase, el Q2 2026 registró más exits de unicornios (por M&A o IPO) que cualquier trimestre desde el pico de 2021. La tendencia incluye tanto adquisiciones corporativas como salidas a bolsa, señalando una reactivación del mercado de liquidez. Este dato es relevante para fondos que llevan años sin poder devolver capital a sus LPs.",
-      "por_que_importa": "Entender los ciclos de liquidez es central en VC: este dato indica que el 'exit drought' que frenó el ecosistema desde 2022 podría estar terminando, con implicancias directas para nuevas rondas y apetito inversor en toda la cadena, incluyendo LatAm.",
-      "link": "https://news.crunchbase.com/public/data-billion-dollar-startup-exits-ma-ipo-spcx-q2-2026/",
-      "fuente": "Crunchbase News"
+      "indice": 0,
+      "categoria": "LatAm",
+      "titulo_es": "La startup boliviana apoyada por Endeavor pasó de operar por WhatsApp a ser la app más descargada del país",
+      "resumen": "Una startup fundada en 2022 en Bolivia, con apoyo de Endeavor Argentina, logró escalar desde operaciones informales por WhatsApp hasta convertirse en la aplicación más descargada de su país. El caso ilustra cómo soluciones hiperlocalales pueden capturar mercados desatendidos en LatAm con recursos limitados. No se detallan montos de inversión, pero la tracción en desccargas posiciona a la empresa para futuras rondas.",
+      "por_que_importa": "Es un caso de estudio real de crecimiento en un mercado no tradicional de LatAm, relevante para entender cómo Endeavor opera en la región y qué hace atractiva a una startup para inversores en etapa temprana.",
+      "link": "https://www.endeavor.org.ar/de-operar-por-whatsapp-a-convertirse-en-la-app-mas-descargada-de-bolivia/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
+      "indice": 10,
+      "categoria": "Rondas",
+      "titulo_es": "Etched, competidor de Nvidia en chips de IA, alcanza valuación de USD 5.000 M con USD 1.000 M en ventas contratadas",
+      "resumen": "Etched, startup de semiconductores especializada en inferencia de IA, anunció una valuación de USD 5.000 millones respaldada por USD 1.000 millones ya comprometidos en contratos de venta de sus sistemas. La empresa compite directamente con Nvidia en el segmento de chips de inferencia, donde la demanda crece exponencialmente. El hito marca uno de los crecimientos de valuación más rápidos en el sector de hardware de IA.",
+      "por_que_importa": "Muestra cómo el hardware de IA sigue atrayendo capital de riesgo masivo, y es un benchmark clave para entender valuaciones en deeptech y semiconductors.",
+      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "fuente": "TechCrunch"
     },
     {
       "indice": 3,
       "categoria": "Rondas",
-      "titulo_es": "Chamath Palihapitiya recauda USD 135 M en Serie A para su startup de coding con IA y asume como CEO",
-      "resumen": "La startup de programación asistida por IA fundada por el conocido inversor Chamath Palihapitiya cerró una Serie A de USD 135 millones. Palihapitiya dejó su rol de inversor para tomar el puesto de CEO, una señal inusual de convicción operativa. La ronda refleja el sostenido apetito de los VCs por el segmento de AI coding, uno de los más activos en 2025-2026.",
-      "por_que_importa": "El tamaño de la ronda y el perfil del fundador ilustran cómo figuras del ecosistema inversor están pivotando hacia la operación, y sirve como caso de estudio sobre valuaciones y señalización en etapas tempranas de sectores calientes.",
-      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "titulo_es": "Wayve lanza oferta de compra de acciones a empleados por USD 85 M, valuándose en USD 8.500 M",
+      "resumen": "Wayve, startup británica de conducción autónoma, abrió un tender offer de USD 85 millones para que sus empleados puedan liquidar parte de su participación, con una valuación implícita de USD 8.500 millones. La operación forma parte de una tendencia creciente entre startups de IA que usan estos mecanismos para retener y atraer talento sin necesitar un exit formal. Wayve es respaldada por inversores como SoftBank, Microsoft y NVIDIA.",
+      "por_que_importa": "Los tender offers son un mecanismo de liquidez secundaria cada vez más relevante en VC; entender su estructura es fundamental para cualquier estudiante del ecosistema.",
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 21,
+      "categoria": "Fondos",
+      "titulo_es": "Tapestry VC cierra su tercer fondo en USD 80 M para invertir en fundadores europeos con experiencia previa",
+      "resumen": "La firma londinense Tapestry VC cerró su tercer fondo de USD 80 millones con foco exclusivo en fundadores europeos que ya lanzaron startups anteriormente (repeat founders). La tesis apuesta a que la próxima ola de exits en IA generará una nueva generación de founders experimentados listos para reinvertir y emprender. El fondo refuerza la tendencia global de VCs que priorizan el track record del equipo fundador sobre la idea en etapa temprana.",
+      "por_que_importa": "Ilustra cómo se estructura una tesis de inversión diferenciada y por qué el perfil del fundador suele pesar más que el producto en etapas seed y early-stage.",
+      "link": "https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 24,
       "categoria": "Global",
-      "titulo_es": "El socio de GV analiza la compra modular de Qualcomm, retornos 10x y el nuevo paradigma del software de IA",
-      "resumen": "Dave Munichiello de GV (antes Google Ventures) reflexiona sobre cómo las empresas tecnológicas gestionan los costos crecientes de la infraestructura de IA, a raíz de la adquisición modular de activos por parte de Qualcomm. Describe un retorno de 10x en una inversión del portafolio y señala un cambio estructural en cómo se monetiza el software de IA. La entrevista ofrece perspectiva de un fondo Tier 1 sobre el momento actual del mercado.",
-      "por_que_importa": "Escuchar la tesis de inversión de un partner de GV sobre semiconductores y software de IA en un momento de reconfiguración de la industria es exactamente el tipo de marco analítico que se trabaja en un club de VC.",
+      "titulo_es": "GV analiza la compra modular de Qualcomm, su retorno 10x y el nuevo paradigma del software de IA",
+      "resumen": "Dave Munichiello de GV (Google Ventures) reflexiona en una entrevista sobre la adquisición segmentada de activos de Qualcomm, la generación de retornos de 10x en el portfolio de la firma y cómo los costos crecientes de computación están remodelando el mercado de software de IA. Destaca que las compañías buscan modularizar sus compras de tecnología para gestionar la complejidad y el gasto. La visión de un inversor de GV sobre M&A en IA es especialmente valiosa como señal de mercado.",
+      "por_que_importa": "Un inversor de GV explicando su tesis de retornos y M&A en IA es material directo para entender cómo piensan los VCs top sobre exits y valuaciones en el sector.",
       "link": "https://news.crunchbase.com/venture/ma-ai-semiconductors-hardware-qa-munichiello-gvs/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 15,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Rocket Lab adquiere la empresa de satélites Iridium en un deal all-stock valuado en USD 8.000 M",
-      "resumen": "Rocket Lab anunció la compra de Iridium, una de las principales operadoras de satélites de comunicaciones globales, en una transacción íntegramente en acciones valuada en USD 8.000 millones. La adquisición refuerza la estrategia de Rocket Lab de construir un stack vertical completo en el segmento espacial para competir con SpaceX y Amazon. Es la operación de M&A más grande del sector espacial privado en lo que va de 2026.",
-      "por_que_importa": "Es un M&A de escala en el sector de infraestructura espacial, un área de creciente interés para fondos de VC y PE de largo plazo, con potencial de aplicaciones en conectividad para mercados emergentes como LatAm.",
-      "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 9,
+      "indice": 11,
       "categoria": "Tendencias",
-      "titulo_es": "Arena, el leaderboard de modelos de IA más usado del mundo, alcanza USD 100 M de ingresos",
-      "resumen": "La startup detrás de LMSYS Chatbot Arena, plataforma de evaluación comparativa de modelos de IA ampliamente usada por investigadores y empresas, lanzó su servicio comercial en septiembre 2025 y ya reporta USD 100 millones en facturación anualizada. El modelo de negocio convierte la credibilidad técnica de un producto gratuito en una capa B2B de evaluación y certificación. Es un caso atípico de crecimiento de revenue en el ecosistema de infraestructura de IA.",
-      "por_que_importa": "Muestra cómo plataformas de evaluación y benchmarking pueden convertirse en negocios de alto valor, un modelo de monetización relevante para pensar oportunidades en el ecosistema de herramientas de IA en LatAm.",
-      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Tendencias",
-      "titulo_es": "Nuevo informe desafía el relato de que la IA destruye empleo: las empresas con mayor adopción aumentaron dotación un 10,2%",
-      "resumen": "Un reporte reciente muestra que las compañías clasificadas como 'high-intensity AI adopters' incrementaron su headcount en un 10,2%, con el empleo de nivel inicial creciendo un 12%. El hallazgo contradice la narrativa dominante sobre destrucción de empleo junior por automatización. El debate sigue abierto, pero los datos agregan complejidad a las proyecciones simplistas sobre el impacto laboral de la IA.",
-      "por_que_importa": "Para estudiantes que están ingresando al mercado laboral, entender el impacto real de la IA en el empleo —con datos, no retórica— es fundamental tanto para sus carreras como para evaluar startups de futuro trabajo y productividad.",
-      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "titulo_es": "Anthropic lanza Claude Sonnet 5, modelo más económico para correr agentes de IA a escala",
+      "resumen": "Anthropic presentó Claude Sonnet 5, un modelo optimizado para aplicaciones agénticas —sistemas de IA que ejecutan tareas de forma autónoma— con menor precio por token que su predecesor Opus y competidores como GPT-5.5 y Gemini Pro. El lanzamiento apunta directamente al mercado empresarial que busca desplegar agentes a escala sin asumir costos prohibitivos. La mejora en capacidades de seguridad también responde a demandas regulatorias crecientes.",
+      "por_que_importa": "La guerra de precios en modelos de IA abarata el costo de entrada para startups de la región que quieran construir productos agénticos, cambiando la economía de unit economics en IA.",
+      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 20,
-      "categoria": "Global",
-      "titulo_es": "Por qué el venture capital necesita una infraestructura de datos mejor para no quedar rehén de la IA mal usada",
-      "resumen": "Henrik Landgren de Gilion argumenta que los fondos de VC están aplicando IA sobre datos de mala calidad, lo que genera análisis erróneos en procesos de due diligence y portfolio monitoring. Propone conectar los modelos directamente a fuentes primarias como sistemas financieros y de pagos de las startups. El artículo plantea una crítica estructural al uso actual de IA en la industria inversora.",
-      "por_que_importa": "Entender las limitaciones de los datos en VC es clave para quien quiera trabajar en un fondo: la calidad de la información de portafolio impacta directamente en decisiones de seguimiento y valoración.",
-      "link": "https://news.crunchbase.com/venture/data-funding-solutions-ai-landgren-gilion/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 19,
-      "categoria": "Rondas",
-      "titulo_es": "Omen AI recauda USD 31 M en Serie A para monitorear el refrigerante líquido de chips en data centers",
-      "resumen": "Omen AI cerró una Serie A de USD 31 millones para escalar su tecnología de monitoreo de sistemas de enfriamiento líquido en centros de datos, con foco en prevenir brotes bacterianos que pueden dañar hardware de alto valor. El problema se volvió crítico con la proliferación de chips de IA que generan calor extremo. La startup opera en la intersección de infraestructura física de IA y software de gestión industrial.",
-      "por_que_importa": "Ilustra cómo la demanda de infraestructura para IA genera oportunidades de inversión en capas no obvias del stack tecnológico, un ángulo frecuentemente subestimado en los análisis del sector.",
-      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "categoria": "Tendencias",
+      "titulo_es": "Amazon invierte USD 1.000 M en una nueva unidad que embebe ingenieros dentro de empresas clientes para desplegar agentes de IA",
+      "resumen": "Amazon lanzó una organización de Field Deployment Engineering (FDE) con un presupuesto de USD 1.000 millones, siguiendo los pasos de OpenAI y Anthropic, para insertar equipos de ingenieros directamente dentro de empresas clientes y acelerar la adopción de agentes de IA. El modelo apunta a deployments rápidos y a que los clientes sean autosuficientes en el largo plazo. La movida señala que el principal cuello de botella en IA ya no es el modelo sino la implementación.",
+      "por_que_importa": "Muestra que el valor en la cadena de IA se está desplazando hacia la capa de implementación y servicios, lo cual abre oportunidades para startups regionales de consultoría e integración.",
+      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 7,
-      "categoria": "Global",
-      "titulo_es": "Anthropic firma acuerdo con el gobierno de California para proveer Claude a mitad de precio",
-      "resumen": "Anthropic llegó a un acuerdo con el gobernador Gavin Newsom para que el gobierno estatal de California acceda al modelo Claude a un precio 50% reducido. El deal consolida la relación de Anthropic con el estado mientras tensiona su vínculo con la administración federal. Marca un patrón emergente de contratos gubernamentales como vía de expansión de los grandes labs de IA.",
-      "por_que_importa": "El modelo de expansión B2G (business-to-government) de los labs de IA es una tendencia replicable en mercados como Argentina y LatAm, donde los estados son compradores potenciales de tecnología de alto impacto.",
-      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "categoria": "Tendencias",
+      "titulo_es": "Realta Fusion genera electricidad directamente desde una reacción de fusión nuclear por primera vez",
+      "resumen": "La startup Realta Fusion alcanzó un hito histórico al extraer electricidad directamente de un plasma de fusión nuclear, un logro que nunca antes había sido demostrado a nivel comercial. El CEO Kieran Furlong describió el hito como una prueba de concepto de lo que es posible, aunque faltan años para la comercialización a escala. La empresa es parte de una cohorte de startups de fusión que han recibido inversión privada significativa en los últimos tres años.",
+      "por_que_importa": "Las startups de energía de fusión representan una de las apuestas de mayor riesgo y mayor retorno potencial en VC deeptech; conocer los hitos técnicos ayuda a evaluar cuándo podrían ser invertibles.",
+      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "Base44, plataforma de 'vibe coding' adquirida por Wix, lanza su propio modelo de IA para diferenciarse",
-      "resumen": "Base44, startup de desarrollo de software asistido por IA adquirida por Wix, comenzó a desplegar su propio modelo de lenguaje con el objetivo de superar eventualmente a los modelos frontier. La movida responde a la creciente necesidad de las startups de IA de construir defensibilidad más allá del prompting sobre APIs de terceros. Es uno de los primeros casos de una plataforma de vibe coding apostando por infraestructura de modelos propia.",
-      "por_que_importa": "El dilema 'construir vs. integrar modelos' es una de las decisiones estratégicas centrales para cualquier startup de IA hoy, y este caso ofrece un ejemplo concreto de cómo una compañía respaldada por un strategic buyer lo está resolviendo.",
-      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "indice": 6,
+      "categoria": "Rondas",
+      "titulo_es": "Ex investigadores de DeepMind que crearon una IA para póker ahora gestionan fondos cuantitativos y valen USD 500 M",
+      "resumen": "EquiLibre Technologies, fundada por tres ex investigadores de DeepMind en Praga, alcanzó una valuación superior a USD 500 millones al aplicar su expertise en teoría de juegos y IA a estrategias cuantitativas para hedge funds. La firma pasó del research académico a gestión de capital real en tiempo récord, monetizando capacidades de IA que originalmente desarrollaron para resolver juegos de información imperfecta. El caso ejemplifica el camino de investigadores de IA hacia la gestión de activos alternativos.",
+      "por_que_importa": "Es un ejemplo concreto de cómo el talento de IA se está convirtiendo en activo financiero, y de la convergencia entre VC, quant finance y deeptech research.",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
       "fuente": "TechCrunch"
+    },
+    {
+      "indice": 22,
+      "categoria": "Tendencias",
+      "titulo_es": "Omnea ofrece USD 250.000 a empleados para que planifiquen abiertamente su próxima startup mientras trabajan allí",
+      "resumen": "Omnea, startup londiniense de software de gestión de proveedores con IA, lanzó el programa 'Omnea Future Founders' que paga USD 250.000 a empleados seleccionados para que desarrollen abiertamente su próxima venture mientras están en la empresa, desafiando el modelo tradicional de confidencialidad corporativa. La iniciativa busca atraer talento emprendedor que de otra forma evitaría trabajar en empresas que restringen sus proyectos paralelos. El programa es una apuesta experimental sobre cómo retener founders en potencia.",
+      "por_que_importa": "Desafía las convenciones sobre propiedad intelectual y retención de talento en startups, un debate muy relevante para quienes piensan en cómo construir cultura organizacional en empresas de alto crecimiento.",
+      "link": "https://news.crunchbase.com/startups/omnea-funding-employees-future-founders-freeman/",
+      "fuente": "Crunchbase News"
     }
   ]
 }
