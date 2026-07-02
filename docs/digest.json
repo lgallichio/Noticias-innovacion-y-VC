@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "Ecosystem emprendedor boliviano: de WhatsApp a app #1 del país, mientras el VC global mueve fichas en AI y fusión nuclear",
+  "titular_del_dia": "Inversión global en startups alcanza récord de USD 510.000M en el primer semestre de 2026 impulsada por el boom de IA",
   "items": [
     {
-      "indice": 0,
-      "categoria": "LatAm",
-      "titulo_es": "La startup boliviana apoyada por Endeavor pasó de operar por WhatsApp a ser la app más descargada del país",
-      "resumen": "Una startup fundada en 2022 en Bolivia, con apoyo de Endeavor Argentina, logró escalar desde operaciones informales por WhatsApp hasta convertirse en la aplicación más descargada de su país. El caso ilustra cómo soluciones hiperlocalales pueden capturar mercados desatendidos en LatAm con recursos limitados. No se detallan montos de inversión, pero la tracción en desccargas posiciona a la empresa para futuras rondas.",
-      "por_que_importa": "Es un caso de estudio real de crecimiento en un mercado no tradicional de LatAm, relevante para entender cómo Endeavor opera en la región y qué hace atractiva a una startup para inversores en etapa temprana.",
-      "link": "https://www.endeavor.org.ar/de-operar-por-whatsapp-a-convertirse-en-la-app-mas-descargada-de-bolivia/",
-      "fuente": "Endeavor Argentina"
+      "indice": 20,
+      "categoria": "Tendencias",
+      "titulo_es": "Inversión global en startups batió récord histórico de USD 510.000M en el primer semestre de 2026",
+      "resumen": "Según datos de Crunchbase, el primer semestre de 2026 registró más de USD 510.000M invertidos globalmente en startups, con Q2 2026 siendo el segundo trimestre más grande de la historia con más de USD 200.000M. El boom de IA aceleró tanto el flujo de fondos como las salidas vía IPO y M&A.",
+      "por_que_importa": "Entender el macro del mercado global de VC es esencial para calibrar qué tipo de deals y valuaciones son posibles hoy, incluyendo el efecto derrame hacia LatAm.",
+      "link": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+      "fuente": "Crunchbase News"
     },
     {
-      "indice": 10,
+      "indice": 9,
       "categoria": "Rondas",
-      "titulo_es": "Etched, competidor de Nvidia en chips de IA, alcanza valuación de USD 5.000 M con USD 1.000 M en ventas contratadas",
-      "resumen": "Etched, startup de semiconductores especializada en inferencia de IA, anunció una valuación de USD 5.000 millones respaldada por USD 1.000 millones ya comprometidos en contratos de venta de sus sistemas. La empresa compite directamente con Nvidia en el segmento de chips de inferencia, donde la demanda crece exponencialmente. El hito marca uno de los crecimientos de valuación más rápidos en el sector de hardware de IA.",
-      "por_que_importa": "Muestra cómo el hardware de IA sigue atrayendo capital de riesgo masivo, y es un benchmark clave para entender valuaciones en deeptech y semiconductors.",
-      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "titulo_es": "Together AI recauda USD 800M y alcanza valuación de USD 8.300M en su última ronda",
+      "resumen": "Together AI, proveedor de infraestructura cloud especializado en modelos de IA de código abierto, cerró una ronda de USD 800M que más que duplica su valuación anterior de USD 3.300M (principios de 2025). La compañía apuesta al creciente mercado de hosting de modelos open source para empresas.",
+      "por_que_importa": "La escala de esta ronda ilustra dónde está fluyendo el capital de VC hoy: infraestructura de IA, una categoría cada vez más relevante para fundadores e inversores de la región.",
+      "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
+      "categoria": "Fondos",
+      "titulo_es": "Ashton Kutcher deja Sound Ventures para lanzar un nuevo fondo de VC enfocado en infraestructura de IA junto a Morgan Beller",
+      "resumen": "Kutcher abandona Sound Ventures, firma conocida por apuestas concentradas en grandes labs de IA, para co-fundar un nuevo vehículo con Morgan Beller (ex a16z, ex Novi de Meta). El nuevo fondo apuntará a la capa de infraestructura que soporta a las grandes compañías de IA, no a los labs en sí.",
+      "por_que_importa": "El movimiento de inversores de perfil alto hacia infraestructura de IA marca una tendencia de tesis de inversión que los estudiantes de VC deben seguir de cerca.",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 3,
-      "categoria": "Rondas",
-      "titulo_es": "Wayve lanza oferta de compra de acciones a empleados por USD 85 M, valuándose en USD 8.500 M",
-      "resumen": "Wayve, startup británica de conducción autónoma, abrió un tender offer de USD 85 millones para que sus empleados puedan liquidar parte de su participación, con una valuación implícita de USD 8.500 millones. La operación forma parte de una tendencia creciente entre startups de IA que usan estos mecanismos para retener y atraer talento sin necesitar un exit formal. Wayve es respaldada por inversores como SoftBank, Microsoft y NVIDIA.",
-      "por_que_importa": "Los tender offers son un mecanismo de liquidez secundaria cada vez más relevante en VC; entender su estructura es fundamental para cualquier estudiante del ecosistema.",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "categoria": "Exits/M&A",
+      "titulo_es": "Bending Spoons debuta en bolsa con suba del 40% y valuación de USD 18.000M tras su estrategia de compra de marcas tecnológicas caídas",
+      "resumen": "La empresa italiana Bending Spoons salió a cotizar y subió 40% en su primer día de trading, alcanzando una valuación de USD 18.000M. La compañía construyó su negocio adquiriendo y revitalizando marcas tecnológicas en declive como Evernote, Eventbrite, Vimeo, AOL y Meetup.",
+      "por_que_importa": "El modelo de Bending Spoons —comprar activos depreciados y optimizarlos con tecnología— es un caso de estudio único sobre estrategias de PE/VC aplicadas a software heredado.",
+      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 21,
-      "categoria": "Fondos",
-      "titulo_es": "Tapestry VC cierra su tercer fondo en USD 80 M para invertir en fundadores europeos con experiencia previa",
-      "resumen": "La firma londinense Tapestry VC cerró su tercer fondo de USD 80 millones con foco exclusivo en fundadores europeos que ya lanzaron startups anteriormente (repeat founders). La tesis apuesta a que la próxima ola de exits en IA generará una nueva generación de founders experimentados listos para reinvertir y emprender. El fondo refuerza la tendencia global de VCs que priorizan el track record del equipo fundador sobre la idea en etapa temprana.",
-      "por_que_importa": "Ilustra cómo se estructura una tesis de inversión diferenciada y por qué el perfil del fundador suele pesar más que el producto en etapas seed y early-stage.",
-      "link": "https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry/",
-      "fuente": "Crunchbase News"
+      "indice": 4,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Tras el IPO de USD 18.000M, el fundador de Bending Spoons revela las lecciones aprendidas de su primer fracaso emprendedor",
+      "resumen": "El co-fundador de Bending Spoons habló sobre cómo el fracaso de su primera startup moldeó la cultura operativa de la compañía, centrada en minimizar la dependencia del azar. La firma pasó de ser una app studio a un consolidador de marcas de internet mediante disciplina de capital y ejecución.",
+      "por_que_importa": "El relato complementa el artículo del debut bursátil y aporta perspectiva fundacional sobre cómo construir una tesis de inversión/adquisición sostenible.",
+      "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 24,
-      "categoria": "Global",
-      "titulo_es": "GV analiza la compra modular de Qualcomm, su retorno 10x y el nuevo paradigma del software de IA",
-      "resumen": "Dave Munichiello de GV (Google Ventures) reflexiona en una entrevista sobre la adquisición segmentada de activos de Qualcomm, la generación de retornos de 10x en el portfolio de la firma y cómo los costos crecientes de computación están remodelando el mercado de software de IA. Destaca que las compañías buscan modularizar sus compras de tecnología para gestionar la complejidad y el gasto. La visión de un inversor de GV sobre M&A en IA es especialmente valiosa como señal de mercado.",
-      "por_que_importa": "Un inversor de GV explicando su tesis de retornos y M&A en IA es material directo para entender cómo piensan los VCs top sobre exits y valuaciones en el sector.",
-      "link": "https://news.crunchbase.com/venture/ma-ai-semiconductors-hardware-qa-munichiello-gvs/",
+      "indice": 14,
+      "categoria": "Rondas",
+      "titulo_es": "Venice AI se convierte en unicornio con una Serie A de USD 65M gracias a su plataforma de IA centrada en privacidad",
+      "resumen": "Venice AI cerró una ronda Serie A de USD 65M que la lleva a valuación de unicornio. La compañía ya es rentable con ingresos anualizados superiores a USD 70M, según su CEO Erik Voorhees. Su diferencial es ofrecer modelos de IA garantizando privacidad total de los datos del usuario.",
+      "por_que_importa": "Un unicornio rentable en Serie A es un caso atípico que desafía la narrativa de 'crecer a cualquier costo', con implicancias para cómo los fundadores de la región deberían pensar sus modelos de negocio.",
+      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 22,
+      "categoria": "Fondos",
+      "titulo_es": "Tapestry VC cierra su tercer fondo de USD 80M para invertir en fundadores europeos con experiencia previa",
+      "resumen": "La firma londinense Tapestry VC cerró un fondo de USD 80M enfocado exclusivamente en fundadores europeos que ya tuvieron un exit o experiencia significativa emprendiendo. La tesis apuesta a que la próxima ola de exits de IA generará una nueva generación de fundadores experimentados.",
+      "por_que_importa": "La tesis de invertir en 'repeat founders' es una tendencia global creciente en VC; entender por qué los inversores la prefieren es clave para cualquiera que estudie selección de deals.",
+      "link": "https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry/",
       "fuente": "Crunchbase News"
     },
     {
       "indice": 11,
       "categoria": "Tendencias",
-      "titulo_es": "Anthropic lanza Claude Sonnet 5, modelo más económico para correr agentes de IA a escala",
-      "resumen": "Anthropic presentó Claude Sonnet 5, un modelo optimizado para aplicaciones agénticas —sistemas de IA que ejecutan tareas de forma autónoma— con menor precio por token que su predecesor Opus y competidores como GPT-5.5 y Gemini Pro. El lanzamiento apunta directamente al mercado empresarial que busca desplegar agentes a escala sin asumir costos prohibitivos. La mejora en capacidades de seguridad también responde a demandas regulatorias crecientes.",
-      "por_que_importa": "La guerra de precios en modelos de IA abarata el costo de entrada para startups de la región que quieran construir productos agénticos, cambiando la economía de unit economics en IA.",
-      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "titulo_es": "Cloudflare presiona a empresas de IA para que paguen por el contenido de publishers que usan para entrenar modelos",
+      "resumen": "Cloudflare anunció que dará plazo hasta el 15 de septiembre a las compañías de IA para separar sus crawlers de búsqueda de los de entrenamiento, o serán bloqueadas por defecto en sitios de publishers. La medida busca crear un mercado donde las empresas de IA paguen por el contenido que consumen.",
+      "por_que_importa": "Este cambio regulatorio/de infraestructura podría redefinir los modelos de negocio de startups de IA y media en toda la región, afectando tanto a desarrolladores como a inversores.",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 20,
+      "indice": 18,
       "categoria": "Tendencias",
-      "titulo_es": "Amazon invierte USD 1.000 M en una nueva unidad que embebe ingenieros dentro de empresas clientes para desplegar agentes de IA",
-      "resumen": "Amazon lanzó una organización de Field Deployment Engineering (FDE) con un presupuesto de USD 1.000 millones, siguiendo los pasos de OpenAI y Anthropic, para insertar equipos de ingenieros directamente dentro de empresas clientes y acelerar la adopción de agentes de IA. El modelo apunta a deployments rápidos y a que los clientes sean autosuficientes en el largo plazo. La movida señala que el principal cuello de botella en IA ya no es el modelo sino la implementación.",
-      "por_que_importa": "Muestra que el valor en la cadena de IA se está desplazando hacia la capa de implementación y servicios, lo cual abre oportunidades para startups regionales de consultoría e integración.",
-      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "titulo_es": "Meta planea monetizar su exceso de capacidad de IA ofreciendo infraestructura cloud a terceros, compitiendo con AWS y Google",
+      "resumen": "Meta está desarrollando un negocio de infraestructura cloud para vender acceso a su capacidad de cómputo de IA y a sus modelos, en línea con movimientos similares de SpaceX. Esto la pondría en competencia directa con Amazon Web Services, Google Cloud y Microsoft Azure.",
+      "por_que_importa": "La entrada de Meta al mercado de cloud cambia el mapa competitivo de infraestructura de IA, con implicancias para startups que hoy dependen de los grandes proveedores.",
+      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 7,
-      "categoria": "Tendencias",
-      "titulo_es": "Realta Fusion genera electricidad directamente desde una reacción de fusión nuclear por primera vez",
-      "resumen": "La startup Realta Fusion alcanzó un hito histórico al extraer electricidad directamente de un plasma de fusión nuclear, un logro que nunca antes había sido demostrado a nivel comercial. El CEO Kieran Furlong describió el hito como una prueba de concepto de lo que es posible, aunque faltan años para la comercialización a escala. La empresa es parte de una cohorte de startups de fusión que han recibido inversión privada significativa en los últimos tres años.",
-      "por_que_importa": "Las startups de energía de fusión representan una de las apuestas de mayor riesgo y mayor retorno potencial en VC deeptech; conocer los hitos técnicos ayuda a evaluar cuándo podrían ser invertibles.",
-      "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+      "indice": 10,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Lime, la empresa de scooters y bicicletas eléctricas compartidas, debuta en bolsa tras años de incertidumbre financiera",
+      "resumen": "Lime, fundada hace nueve años, completó su salida a bolsa luego de un camino turbulento. La compañía necesita los fondos del IPO principalmente para reducir aproximadamente USD 1.000M en pasivos acumulados. El debut marca un hito para el sector de movilidad urbana compartida.",
+      "por_que_importa": "El IPO de Lime es un caso de estudio sobre los desafíos de unit economics en el sector de movilidad compartida, relevante para analizar startups de la categoría en LatAm.",
+      "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
       "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Rondas",
-      "titulo_es": "Ex investigadores de DeepMind que crearon una IA para póker ahora gestionan fondos cuantitativos y valen USD 500 M",
-      "resumen": "EquiLibre Technologies, fundada por tres ex investigadores de DeepMind en Praga, alcanzó una valuación superior a USD 500 millones al aplicar su expertise en teoría de juegos y IA a estrategias cuantitativas para hedge funds. La firma pasó del research académico a gestión de capital real en tiempo récord, monetizando capacidades de IA que originalmente desarrollaron para resolver juegos de información imperfecta. El caso ejemplifica el camino de investigadores de IA hacia la gestión de activos alternativos.",
-      "por_que_importa": "Es un ejemplo concreto de cómo el talento de IA se está convirtiendo en activo financiero, y de la convergencia entre VC, quant finance y deeptech research.",
-      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 22,
-      "categoria": "Tendencias",
-      "titulo_es": "Omnea ofrece USD 250.000 a empleados para que planifiquen abiertamente su próxima startup mientras trabajan allí",
-      "resumen": "Omnea, startup londiniense de software de gestión de proveedores con IA, lanzó el programa 'Omnea Future Founders' que paga USD 250.000 a empleados seleccionados para que desarrollen abiertamente su próxima venture mientras están en la empresa, desafiando el modelo tradicional de confidencialidad corporativa. La iniciativa busca atraer talento emprendedor que de otra forma evitaría trabajar en empresas que restringen sus proyectos paralelos. El programa es una apuesta experimental sobre cómo retener founders en potencia.",
-      "por_que_importa": "Desafía las convenciones sobre propiedad intelectual y retención de talento en startups, un debate muy relevante para quienes piensan en cómo construir cultura organizacional en empresas de alto crecimiento.",
-      "link": "https://news.crunchbase.com/startups/omnea-funding-employees-future-founders-freeman/",
-      "fuente": "Crunchbase News"
     }
   ]
 }
