@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "Inversión global en startups alcanza récord de USD 510.000M en el primer semestre de 2026 impulsada por el boom de IA",
+  "titular_del_dia": "Récord global de inversión en startups: USD 510.000M en H1 2026, mientras LatAm suma rondas en IA, fintech e infraestructura",
   "items": [
     {
-      "indice": 20,
+      "indice": 31,
       "categoria": "Tendencias",
-      "titulo_es": "Inversión global en startups batió récord histórico de USD 510.000M en el primer semestre de 2026",
-      "resumen": "Según datos de Crunchbase, el primer semestre de 2026 registró más de USD 510.000M invertidos globalmente en startups, con Q2 2026 siendo el segundo trimestre más grande de la historia con más de USD 200.000M. El boom de IA aceleró tanto el flujo de fondos como las salidas vía IPO y M&A.",
-      "por_que_importa": "Entender el macro del mercado global de VC es esencial para calibrar qué tipo de deals y valuaciones son posibles hoy, incluyendo el efecto derrame hacia LatAm.",
+      "titulo_es": "La inversión global en startups alcanzó un récord de USD 510.000M en el primer semestre de 2026 impulsada por la ola de IA",
+      "resumen": "Según datos de Crunchbase, el H1 2026 marcó un récord histórico de inversión en startups a nivel global, con más de USD 200.000M inyectados solo en Q2, el segundo trimestre más grande de la historia. El boom de IA aceleró tanto el flujo de capital como los exits vía IPO y M&A.",
+      "por_que_importa": "Este contexto macro define el ambiente en el que operarán los fondos que invierten en LatAm y el tipo de oportunidades que verán los analistas de VC en los próximos meses.",
       "link": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 9,
+      "indice": 2,
       "categoria": "Rondas",
-      "titulo_es": "Together AI recauda USD 800M y alcanza valuación de USD 8.300M en su última ronda",
-      "resumen": "Together AI, proveedor de infraestructura cloud especializado en modelos de IA de código abierto, cerró una ronda de USD 800M que más que duplica su valuación anterior de USD 3.300M (principios de 2025). La compañía apuesta al creciente mercado de hosting de modelos open source para empresas.",
-      "por_que_importa": "La escala de esta ronda ilustra dónde está fluyendo el capital de VC hoy: infraestructura de IA, una categoría cada vez más relevante para fundadores e inversores de la región.",
-      "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 8,
-      "categoria": "Fondos",
-      "titulo_es": "Ashton Kutcher deja Sound Ventures para lanzar un nuevo fondo de VC enfocado en infraestructura de IA junto a Morgan Beller",
-      "resumen": "Kutcher abandona Sound Ventures, firma conocida por apuestas concentradas en grandes labs de IA, para co-fundar un nuevo vehículo con Morgan Beller (ex a16z, ex Novi de Meta). El nuevo fondo apuntará a la capa de infraestructura que soporta a las grandes compañías de IA, no a los labs en sí.",
-      "por_que_importa": "El movimiento de inversores de perfil alto hacia infraestructura de IA marca una tendencia de tesis de inversión que los estudiantes de VC deben seguir de cerca.",
-      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "fuente": "TechCrunch"
+      "titulo_es": "Andreessen Horowitz lidera ronda Serie A de USD 33M en Telepatia, startup brasileña de IA clínica",
+      "resumen": "a16z lideró una ronda Serie A de USD 33M en Telepatia, plataforma de IA nativa para proveedores de salud con sede en Brasil. Participaron Shyam Sankar (CTO de Palantir) y Simón Borrero (cofundador de Rappi), entre otros ángeles de alto perfil.",
+      "por_que_importa": "Es una señal clara de que los fondos Tier-1 de Silicon Valley están apostando por healthtech de IA en Brasil, lo que abre conversaciones sobre el potencial del sector en el resto de LatAm.",
+      "link": "https://www.lavca.org/andreessen-horowitz-leads-usd33m-series-a-round-for-telepatia/",
+      "fuente": "LAVCA"
     },
     {
       "indice": 3,
+      "categoria": "Rondas",
+      "titulo_es": "CoinFund lidera Serie A de USD 32M en Trace Finance, infraestructura de pagos y stablecoins en Brasil",
+      "resumen": "Trace Finance, startup brasileña de infraestructura de pagos con stablecoins, cerró una Serie A de USD 32M liderada por CoinFund, con participación de Coinbase Ventures, Valor Capital, FJ Labs y Clocktower. La ronda posiciona a Trace como jugador clave en el ecosistema de finanzas digitales de la región.",
+      "por_que_importa": "Con el auge de stablecoins en LatAm como alternativa al dólar físico, esta ronda ilustra cómo la infraestructura cripto está atrayendo capital de riesgo institucional a la región.",
+      "link": "https://www.lavca.org/coinfund-leads-usd32m-series-a-for-trace-finance/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 9,
+      "categoria": "Fondos",
+      "titulo_es": "BNDES lanza fondo de fondos FIP Conexões de BRL 250M y compromete BRL 63M en Antler Brasil Fund I",
+      "resumen": "El banco de desarrollo brasileño BNDES lanzó FIP Conexões, un fondo de fondos de BRL 250M (~USD 48M) orientado a conectar startups con capital de venture. Además, comprometió BRL 63M (~USD 12M) en Antler Brasil Fund I, fortaleciendo el ecosistema de capital temprano en Brasil.",
+      "por_que_importa": "Muestra cómo la banca de desarrollo puede actuar como ancla para el ecosistema de VC, un modelo relevante para entender el rol que podría jugar un actor equivalente en Argentina.",
+      "link": "https://www.lavca.org/bndes-launches-fip-conexoes-and-commits-to-antler-brasil-fund-i/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 6,
+      "categoria": "Fondos",
+      "titulo_es": "Yorkville International Capital levanta USD 200M vía IPO de SPAC para adquirir empresas en LatAm",
+      "resumen": "Yorkville International Capital completó una IPO de SPAC recaudando USD 200M, con foco en mercados emergentes y énfasis especial en América Latina y Venezuela. El vehículo busca adquirir negocios en la región bajo una estructura de PE.",
+      "por_que_importa": "Es un caso concreto de cómo los SPACs pueden usarse como vehículo de acceso a mercados emergentes, relevante para entender estructuras alternativas de private equity en LatAm.",
+      "link": "https://www.lavca.org/yorkville-international-capital-raises-usd200m-to-acquire-businesses-in-latam/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 0,
       "categoria": "Exits/M&A",
-      "titulo_es": "Bending Spoons debuta en bolsa con suba del 40% y valuación de USD 18.000M tras su estrategia de compra de marcas tecnológicas caídas",
-      "resumen": "La empresa italiana Bending Spoons salió a cotizar y subió 40% en su primer día de trading, alcanzando una valuación de USD 18.000M. La compañía construyó su negocio adquiriendo y revitalizando marcas tecnológicas en declive como Evernote, Eventbrite, Vimeo, AOL y Meetup.",
-      "por_que_importa": "El modelo de Bending Spoons —comprar activos depreciados y optimizarlos con tecnología— es un caso de estudio único sobre estrategias de PE/VC aplicadas a software heredado.",
-      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
-      "fuente": "TechCrunch"
+      "titulo_es": "Apollo Global Management adquiere participación de control en Vidrios Lirquén, fabricante chileno de vidrio plano",
+      "resumen": "Apollo Global Management, uno de los mayores fondos de PE del mundo, adquirió una participación de control en Vidrios Lirquén (Chile) a través de su compra de una posición en Nippon Sheet Glass Company. La operación expande la presencia de Apollo en activos industriales latinoamericanos.",
+      "por_que_importa": "Evidencia el interés de los grandes fondos globales de PE en activos industriales chilenos, y abre el debate sobre cómo LatAm compite por capital de buyout a nivel internacional.",
+      "link": "https://www.lavca.org/apollo-global-management-acquires-controlling-stake-in-vidrios-lirquen/",
+      "fuente": "LAVCA"
     },
     {
       "indice": 4,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Tras el IPO de USD 18.000M, el fundador de Bending Spoons revela las lecciones aprendidas de su primer fracaso emprendedor",
-      "resumen": "El co-fundador de Bending Spoons habló sobre cómo el fracaso de su primera startup moldeó la cultura operativa de la compañía, centrada en minimizar la dependencia del azar. La firma pasó de ser una app studio a un consolidador de marcas de internet mediante disciplina de capital y ejecución.",
-      "por_que_importa": "El relato complementa el artículo del debut bursátil y aporta perspectiva fundacional sobre cómo construir una tesis de inversión/adquisición sostenible.",
-      "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 14,
       "categoria": "Rondas",
-      "titulo_es": "Venice AI se convierte en unicornio con una Serie A de USD 65M gracias a su plataforma de IA centrada en privacidad",
-      "resumen": "Venice AI cerró una ronda Serie A de USD 65M que la lleva a valuación de unicornio. La compañía ya es rentable con ingresos anualizados superiores a USD 70M, según su CEO Erik Voorhees. Su diferencial es ofrecer modelos de IA garantizando privacidad total de los datos del usuario.",
-      "por_que_importa": "Un unicornio rentable en Serie A es un caso atípico que desafía la narrativa de 'crecer a cualquier costo', con implicancias para cómo los fundadores de la región deberían pensar sus modelos de negocio.",
-      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "titulo_es": "Valor Capital lidera Serie A de BRL 50M en Vixtra, fintech brasileña para importadores",
+      "resumen": "Vixtra, fintech brasileña enfocada en servicios financieros para importadores, cerró una Serie A de BRL 50M (~USD 9,7M) liderada por Valor Capital, con participación de Headline, NXTP, Actyus, Bluestone y Simma Capital. La ronda apunta a escalar su solución de acceso al crédito para el comercio exterior.",
+      "por_que_importa": "NXTP, fondo con fuerte presencia en Argentina, participó en esta ronda, lo que refleja la actividad cross-border de inversores regionales en el segmento B2B fintech.",
+      "link": "https://www.lavca.org/valor-capital-leads-brl50m-usd9-7m-series-a-for-vixtra/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 1,
+      "categoria": "LatAm",
+      "titulo_es": "ALTÉRRA e I Squared Capital co-invierten en Inkia Energy, productora de energía independiente en Perú",
+      "resumen": "ALTÉRRA (fondo climático de Abu Dhabi) e I Squared Capital co-invirtieron en Inkia Energy, productora de energía independiente con sede en Perú, a través de un vehículo de continuación co-controlado con CPP Investments. La operación refuerza la apuesta por infraestructura energética en LatAm.",
+      "por_que_importa": "Ilustra cómo los fondos de infraestructura y capital climático global están canalizando capital hacia activos energéticos en LatAm, un sector en auge frente a la demanda de data centers e industria.",
+      "link": "https://www.lavca.org/alterra-and-i-squared-capital-co-invest-in-inkia-energy/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 27,
+      "categoria": "Global",
+      "titulo_es": "Microsoft lanza su propia compañía de despliegue de IA con un compromiso de USD 2.500M",
+      "resumen": "Microsoft anunció la creación de una unidad dedicada al despliegue empresarial de soluciones de IA, respaldada con USD 2.500M propios. La movida sigue a iniciativas similares de Amazon, OpenAI y Anthropic, y apunta a acelerar la adopción corporativa de IA a escala global.",
+      "por_que_importa": "Define el nuevo estándar de competencia en infraestructura de IA que impacta a startups y fondos que invierten en el stack tecnológico, incluyendo las apuestas regionales de LatAm.",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 22,
-      "categoria": "Fondos",
-      "titulo_es": "Tapestry VC cierra su tercer fondo de USD 80M para invertir en fundadores europeos con experiencia previa",
-      "resumen": "La firma londinense Tapestry VC cerró un fondo de USD 80M enfocado exclusivamente en fundadores europeos que ya tuvieron un exit o experiencia significativa emprendiendo. La tesis apuesta a que la próxima ola de exits de IA generará una nueva generación de fundadores experimentados.",
-      "por_que_importa": "La tesis de invertir en 'repeat founders' es una tendencia global creciente en VC; entender por qué los inversores la prefieren es clave para cualquiera que estudie selección de deals.",
-      "link": "https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 11,
-      "categoria": "Tendencias",
-      "titulo_es": "Cloudflare presiona a empresas de IA para que paguen por el contenido de publishers que usan para entrenar modelos",
-      "resumen": "Cloudflare anunció que dará plazo hasta el 15 de septiembre a las compañías de IA para separar sus crawlers de búsqueda de los de entrenamiento, o serán bloqueadas por defecto en sitios de publishers. La medida busca crear un mercado donde las empresas de IA paguen por el contenido que consumen.",
-      "por_que_importa": "Este cambio regulatorio/de infraestructura podría redefinir los modelos de negocio de startups de IA y media en toda la región, afectando tanto a desarrolladores como a inversores.",
-      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Tendencias",
-      "titulo_es": "Meta planea monetizar su exceso de capacidad de IA ofreciendo infraestructura cloud a terceros, compitiendo con AWS y Google",
-      "resumen": "Meta está desarrollando un negocio de infraestructura cloud para vender acceso a su capacidad de cómputo de IA y a sus modelos, en línea con movimientos similares de SpaceX. Esto la pondría en competencia directa con Amazon Web Services, Google Cloud y Microsoft Azure.",
-      "por_que_importa": "La entrada de Meta al mercado de cloud cambia el mapa competitivo de infraestructura de IA, con implicancias para startups que hoy dependen de los grandes proveedores.",
-      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Lime, la empresa de scooters y bicicletas eléctricas compartidas, debuta en bolsa tras años de incertidumbre financiera",
-      "resumen": "Lime, fundada hace nueve años, completó su salida a bolsa luego de un camino turbulento. La compañía necesita los fondos del IPO principalmente para reducir aproximadamente USD 1.000M en pasivos acumulados. El debut marca un hito para el sector de movilidad urbana compartida.",
-      "por_que_importa": "El IPO de Lime es un caso de estudio sobre los desafíos de unit economics en el sector de movilidad compartida, relevante para analizar startups de la categoría en LatAm.",
-      "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+      "indice": 23,
+      "categoria": "Global",
+      "titulo_es": "OpenAI propuso ceder el 5% de su equity a un fondo soberano de riqueza de EE.UU.",
+      "resumen": "Sam Altman, CEO de OpenAI, habría propuesto transferir un 5% del equity de la compañía a un fondo soberano del gobierno estadounidense, en el marco de su proceso de conversión a empresa con fines de lucro. La propuesta reactiva el debate sobre la participación pública en las ganancias de la IA.",
+      "por_que_importa": "Plantea preguntas estructurales sobre gobernanza y propiedad en startups de alto impacto, relevantes para quienes estudian la intersección entre política pública, VC y tecnología.",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
       "fuente": "TechCrunch"
     }
   ]
