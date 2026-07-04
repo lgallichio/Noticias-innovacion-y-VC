@@ -1,94 +1,49 @@
 {
-  "titular_del_dia": "Récord global de inversión en startups: USD 510.000M en H1 2026, mientras LatAm suma rondas en IA, fintech e infraestructura",
+  "titular_del_dia": "Endeavor lanza nuevas iniciativas de formación emprendedora en Argentina para 2026",
   "items": [
     {
-      "indice": 31,
-      "categoria": "Tendencias",
-      "titulo_es": "La inversión global en startups alcanzó un récord de USD 510.000M en el primer semestre de 2026 impulsada por la ola de IA",
-      "resumen": "Según datos de Crunchbase, el H1 2026 marcó un récord histórico de inversión en startups a nivel global, con más de USD 200.000M inyectados solo en Q2, el segundo trimestre más grande de la historia. El boom de IA aceleró tanto el flujo de capital como los exits vía IPO y M&A.",
-      "por_que_importa": "Este contexto macro define el ambiente en el que operarán los fondos que invierten en LatAm y el tipo de oportunidades que verán los analistas de VC en los próximos meses.",
-      "link": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 2,
-      "categoria": "Rondas",
-      "titulo_es": "Andreessen Horowitz lidera ronda Serie A de USD 33M en Telepatia, startup brasileña de IA clínica",
-      "resumen": "a16z lideró una ronda Serie A de USD 33M en Telepatia, plataforma de IA nativa para proveedores de salud con sede en Brasil. Participaron Shyam Sankar (CTO de Palantir) y Simón Borrero (cofundador de Rappi), entre otros ángeles de alto perfil.",
-      "por_que_importa": "Es una señal clara de que los fondos Tier-1 de Silicon Valley están apostando por healthtech de IA en Brasil, lo que abre conversaciones sobre el potencial del sector en el resto de LatAm.",
-      "link": "https://www.lavca.org/andreessen-horowitz-leads-usd33m-series-a-round-for-telepatia/",
-      "fuente": "LAVCA"
-    },
-    {
-      "indice": 3,
-      "categoria": "Rondas",
-      "titulo_es": "CoinFund lidera Serie A de USD 32M en Trace Finance, infraestructura de pagos y stablecoins en Brasil",
-      "resumen": "Trace Finance, startup brasileña de infraestructura de pagos con stablecoins, cerró una Serie A de USD 32M liderada por CoinFund, con participación de Coinbase Ventures, Valor Capital, FJ Labs y Clocktower. La ronda posiciona a Trace como jugador clave en el ecosistema de finanzas digitales de la región.",
-      "por_que_importa": "Con el auge de stablecoins en LatAm como alternativa al dólar físico, esta ronda ilustra cómo la infraestructura cripto está atrayendo capital de riesgo institucional a la región.",
-      "link": "https://www.lavca.org/coinfund-leads-usd32m-series-a-for-trace-finance/",
-      "fuente": "LAVCA"
-    },
-    {
-      "indice": 9,
-      "categoria": "Fondos",
-      "titulo_es": "BNDES lanza fondo de fondos FIP Conexões de BRL 250M y compromete BRL 63M en Antler Brasil Fund I",
-      "resumen": "El banco de desarrollo brasileño BNDES lanzó FIP Conexões, un fondo de fondos de BRL 250M (~USD 48M) orientado a conectar startups con capital de venture. Además, comprometió BRL 63M (~USD 12M) en Antler Brasil Fund I, fortaleciendo el ecosistema de capital temprano en Brasil.",
-      "por_que_importa": "Muestra cómo la banca de desarrollo puede actuar como ancla para el ecosistema de VC, un modelo relevante para entender el rol que podría jugar un actor equivalente en Argentina.",
-      "link": "https://www.lavca.org/bndes-launches-fip-conexoes-and-commits-to-antler-brasil-fund-i/",
-      "fuente": "LAVCA"
-    },
-    {
-      "indice": 6,
-      "categoria": "Fondos",
-      "titulo_es": "Yorkville International Capital levanta USD 200M vía IPO de SPAC para adquirir empresas en LatAm",
-      "resumen": "Yorkville International Capital completó una IPO de SPAC recaudando USD 200M, con foco en mercados emergentes y énfasis especial en América Latina y Venezuela. El vehículo busca adquirir negocios en la región bajo una estructura de PE.",
-      "por_que_importa": "Es un caso concreto de cómo los SPACs pueden usarse como vehículo de acceso a mercados emergentes, relevante para entender estructuras alternativas de private equity en LatAm.",
-      "link": "https://www.lavca.org/yorkville-international-capital-raises-usd200m-to-acquire-businesses-in-latam/",
-      "fuente": "LAVCA"
-    },
-    {
       "indice": 0,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Apollo Global Management adquiere participación de control en Vidrios Lirquén, fabricante chileno de vidrio plano",
-      "resumen": "Apollo Global Management, uno de los mayores fondos de PE del mundo, adquirió una participación de control en Vidrios Lirquén (Chile) a través de su compra de una posición en Nippon Sheet Glass Company. La operación expande la presencia de Apollo en activos industriales latinoamericanos.",
-      "por_que_importa": "Evidencia el interés de los grandes fondos globales de PE en activos industriales chilenos, y abre el debate sobre cómo LatAm compite por capital de buyout a nivel internacional.",
-      "link": "https://www.lavca.org/apollo-global-management-acquires-controlling-stake-in-vidrios-lirquen/",
-      "fuente": "LAVCA"
-    },
-    {
-      "indice": 4,
-      "categoria": "Rondas",
-      "titulo_es": "Valor Capital lidera Serie A de BRL 50M en Vixtra, fintech brasileña para importadores",
-      "resumen": "Vixtra, fintech brasileña enfocada en servicios financieros para importadores, cerró una Serie A de BRL 50M (~USD 9,7M) liderada por Valor Capital, con participación de Headline, NXTP, Actyus, Bluestone y Simma Capital. La ronda apunta a escalar su solución de acceso al crédito para el comercio exterior.",
-      "por_que_importa": "NXTP, fondo con fuerte presencia en Argentina, participó en esta ronda, lo que refleja la actividad cross-border de inversores regionales en el segmento B2B fintech.",
-      "link": "https://www.lavca.org/valor-capital-leads-brl50m-usd9-7m-series-a-for-vixtra/",
-      "fuente": "LAVCA"
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Endeavor y UdeSA lanzan Ventures Academy 2026, el programa de formación emprendedora más importante del país",
+      "resumen": "Endeavor Argentina y la Universidad de San Andrés presentan una nueva edición de Ventures Academy, el programa líder en formación emprendedora a nivel local. El programa apunta a desarrollar habilidades clave en emprendedores y está orientado a quienes buscan escalar sus proyectos con el respaldo de una red de mentores y referentes del ecosistema.",
+      "por_que_importa": "Es una oportunidad directa para miembros del club de UdeSA de acceder al programa de formación emprendedora más reconocido del país, co-organizado por su propia universidad.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-volvio-ventures-academy-programa-formacion-emprendedora/",
+      "fuente": "Endeavor Argentina"
     },
     {
       "indice": 1,
-      "categoria": "LatAm",
-      "titulo_es": "ALTÉRRA e I Squared Capital co-invierten en Inkia Energy, productora de energía independiente en Perú",
-      "resumen": "ALTÉRRA (fondo climático de Abu Dhabi) e I Squared Capital co-invirtieron en Inkia Energy, productora de energía independiente con sede en Perú, a través de un vehículo de continuación co-controlado con CPP Investments. La operación refuerza la apuesta por infraestructura energética en LatAm.",
-      "por_que_importa": "Ilustra cómo los fondos de infraestructura y capital climático global están canalizando capital hacia activos energéticos en LatAm, un sector en auge frente a la demanda de data centers e industria.",
-      "link": "https://www.lavca.org/alterra-and-i-squared-capital-co-invest-in-inkia-energy/",
-      "fuente": "LAVCA"
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Endeavor Argentina detalla su portafolio completo de programas para emprendedores en distintas etapas",
+      "resumen": "Endeavor Argentina publicó un mapa de todas sus iniciativas de apoyo emprendedor, diferenciadas según la etapa del proyecto: desde la ideación hasta la escala internacional. El artículo explicita qué tipo de acompañamiento, mentoría y recursos ofrece cada programa, reconociendo que cada momento del journey emprendedor requiere un enfoque distinto.",
+      "por_que_importa": "Entender el ecosistema de soporte emprendedor en Argentina es esencial para cualquier estudiante que busque conectar fundadores con recursos o evaluar oportunidades de inversión temprana.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-programa-tipo-emprendedor-cuales-las-iniciativas-endeavor-apoyar-los-emprendedores-recorrido/",
+      "fuente": "Endeavor Argentina"
     },
     {
-      "indice": 27,
-      "categoria": "Global",
-      "titulo_es": "Microsoft lanza su propia compañía de despliegue de IA con un compromiso de USD 2.500M",
-      "resumen": "Microsoft anunció la creación de una unidad dedicada al despliegue empresarial de soluciones de IA, respaldada con USD 2.500M propios. La movida sigue a iniciativas similares de Amazon, OpenAI y Anthropic, y apunta a acelerar la adopción corporativa de IA a escala global.",
-      "por_que_importa": "Define el nuevo estándar de competencia en infraestructura de IA que impacta a startups y fondos que invierten en el stack tecnológico, incluyendo las apuestas regionales de LatAm.",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "indice": 8,
+      "categoria": "Tendencias",
+      "titulo_es": "Zuckerberg admite ante su equipo que los agentes de IA no avanzan tan rápido como esperaba",
+      "resumen": "En una reunión interna, el CEO de Meta reconoció que el desarrollo de agentes de inteligencia artificial no está progresando al ritmo esperado. El comentario es relevante porque Meta ha invertido miles de millones de dólares en IA generativa y agentes autónomos como parte central de su estrategia para 2025-2026. La declaración genera dudas sobre los plazos reales de adopción empresarial de esta tecnología.",
+      "por_que_importa": "Para inversores y emprendedores en LatAm que apuestan por startups de agentes de IA, la señal desde Meta sugiere que las valuaciones y timelines del sector merecen mayor escrutinio.",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 23,
+      "indice": 6,
+      "categoria": "Tendencias",
+      "titulo_es": "Un político europeo que investigaba el spyware Pegasus fue hackeado con ese mismo software",
+      "resumen": "Un cliente gubernamental de NSO Group utilizó Pegasus para hackear el teléfono de un legislador europeo que integraba el comité de la UE encargado de investigar los abusos de ese spyware. El caso expone las contradicciones en la regulación del software de vigilancia y la impunidad con que opera el mercado de ciberarmas. Es la primera vez que se documenta un caso de este tipo con evidencia forense directa.",
+      "por_que_importa": "El caso tiene implicancias para startups de ciberseguridad en LatAm y para la discusión sobre regulación tecnológica, un tema creciente en la agenda regional de innovación.",
+      "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
       "categoria": "Global",
-      "titulo_es": "OpenAI propuso ceder el 5% de su equity a un fondo soberano de riqueza de EE.UU.",
-      "resumen": "Sam Altman, CEO de OpenAI, habría propuesto transferir un 5% del equity de la compañía a un fondo soberano del gobierno estadounidense, en el marco de su proceso de conversión a empresa con fines de lucro. La propuesta reactiva el debate sobre la participación pública en las ganancias de la IA.",
-      "por_que_importa": "Plantea preguntas estructurales sobre gobernanza y propiedad en startups de alto impacto, relevantes para quienes estudian la intersección entre política pública, VC y tecnología.",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "titulo_es": "Cierran el 6 de julio las aplicaciones para Startup Battlefield Australia de TechCrunch",
+      "resumen": "TechCrunch recuerda que el plazo para aplicar a Startup Battlefield Australia vence el 6 de julio de 2026. La competencia es uno de los eventos de visibilidad más importantes para startups early-stage a nivel global, con acceso a inversores internacionales y cobertura mediática especializada. Es abierta a startups de cualquier geografía.",
+      "por_que_importa": "Una startup latinoamericana con producto validado podría aplicar para ganar exposición internacional ante VCs globales, lo que ilustra cómo los fundadores regionales acceden a capital fuera de su ecosistema.",
+      "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
       "fuente": "TechCrunch"
     }
   ]
