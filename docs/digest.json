@@ -1,49 +1,31 @@
 {
-  "titular_del_dia": "Endeavor lanza nuevas iniciativas de formación emprendedora en Argentina para 2026",
+  "titular_del_dia": "Semana con escaso flujo de noticias relevantes para VC/LatAm: solo tendencias globales de IA disponibles",
   "items": [
     {
-      "indice": 0,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Endeavor y UdeSA lanzan Ventures Academy 2026, el programa de formación emprendedora más importante del país",
-      "resumen": "Endeavor Argentina y la Universidad de San Andrés presentan una nueva edición de Ventures Academy, el programa líder en formación emprendedora a nivel local. El programa apunta a desarrollar habilidades clave en emprendedores y está orientado a quienes buscan escalar sus proyectos con el respaldo de una red de mentores y referentes del ecosistema.",
-      "por_que_importa": "Es una oportunidad directa para miembros del club de UdeSA de acceder al programa de formación emprendedora más reconocido del país, co-organizado por su propia universidad.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-volvio-ventures-academy-programa-formacion-emprendedora/",
-      "fuente": "Endeavor Argentina"
-    },
-    {
       "indice": 1,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Endeavor Argentina detalla su portafolio completo de programas para emprendedores en distintas etapas",
-      "resumen": "Endeavor Argentina publicó un mapa de todas sus iniciativas de apoyo emprendedor, diferenciadas según la etapa del proyecto: desde la ideación hasta la escala internacional. El artículo explicita qué tipo de acompañamiento, mentoría y recursos ofrece cada programa, reconociendo que cada momento del journey emprendedor requiere un enfoque distinto.",
-      "por_que_importa": "Entender el ecosistema de soporte emprendedor en Argentina es esencial para cualquier estudiante que busque conectar fundadores con recursos o evaluar oportunidades de inversión temprana.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-programa-tipo-emprendedor-cuales-las-iniciativas-endeavor-apoyar-los-emprendedores-recorrido/",
-      "fuente": "Endeavor Argentina"
-    },
-    {
-      "indice": 8,
       "categoria": "Tendencias",
-      "titulo_es": "Zuckerberg admite ante su equipo que los agentes de IA no avanzan tan rápido como esperaba",
-      "resumen": "En una reunión interna, el CEO de Meta reconoció que el desarrollo de agentes de inteligencia artificial no está progresando al ritmo esperado. El comentario es relevante porque Meta ha invertido miles de millones de dólares en IA generativa y agentes autónomos como parte central de su estrategia para 2025-2026. La declaración genera dudas sobre los plazos reales de adopción empresarial de esta tecnología.",
-      "por_que_importa": "Para inversores y emprendedores en LatAm que apuestan por startups de agentes de IA, la señal desde Meta sugiere que las valuaciones y timelines del sector merecen mayor escrutinio.",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "titulo_es": "Midjourney exige a estudios de Hollywood que revelen cómo usan IA en sus producciones",
+      "resumen": "En el marco de una disputa legal en curso, Midjourney busca obligar a tres grandes estudios de cine a divulgar el alcance real de su uso de herramientas de inteligencia artificial. El caso podría sentar precedente sobre transparencia corporativa en el uso de IA generativa. La tensión entre derechos de autor y modelos de IA es uno de los frentes legales más activos del sector tecnológico.",
+      "por_que_importa": "Los litigios sobre IA y propiedad intelectual definen el marco regulatorio en el que operarán las startups de contenido generativo, incluyendo las que emerjan en LatAm.",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 6,
+      "indice": 3,
       "categoria": "Tendencias",
-      "titulo_es": "Un político europeo que investigaba el spyware Pegasus fue hackeado con ese mismo software",
-      "resumen": "Un cliente gubernamental de NSO Group utilizó Pegasus para hackear el teléfono de un legislador europeo que integraba el comité de la UE encargado de investigar los abusos de ese spyware. El caso expone las contradicciones en la regulación del software de vigilancia y la impunidad con que opera el mercado de ciberarmas. Es la primera vez que se documenta un caso de este tipo con evidencia forense directa.",
-      "por_que_importa": "El caso tiene implicancias para startups de ciberseguridad en LatAm y para la discusión sobre regulación tecnológica, un tema creciente en la agenda regional de innovación.",
-      "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "titulo_es": "Qué es Mistral AI: el competidor europeo de OpenAI que apuesta al código abierto",
+      "resumen": "Mistral AI, fundada en 2023 en Francia, ha levantado financiamiento significativo y se posiciona como alternativa open source a los modelos propietarios de OpenAI. Su propuesta de 'IA de frontera para todos' la convierte en referencia para ecosistemas con menor acceso a capital, como LatAm. El artículo ofrece un panorama completo de su modelo de negocio y estrategia de fondeo.",
+      "por_que_importa": "Entender los jugadores globales de infraestructura de IA es clave para analistas de VC que evalúan startups que construyen sobre estos modelos en la región.",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 7,
-      "categoria": "Global",
-      "titulo_es": "Cierran el 6 de julio las aplicaciones para Startup Battlefield Australia de TechCrunch",
-      "resumen": "TechCrunch recuerda que el plazo para aplicar a Startup Battlefield Australia vence el 6 de julio de 2026. La competencia es uno de los eventos de visibilidad más importantes para startups early-stage a nivel global, con acceso a inversores internacionales y cobertura mediática especializada. Es abierta a startups de cualquier geografía.",
-      "por_que_importa": "Una startup latinoamericana con producto validado podría aplicar para ganar exposición internacional ante VCs globales, lo que ilustra cómo los fundadores regionales acceden a capital fuera de su ecosistema.",
-      "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+      "indice": 2,
+      "categoria": "Tendencias",
+      "titulo_es": "Alibaba prohíbe a sus empleados usar Claude Code por considerarlo software de alto riesgo",
+      "resumen": "Alibaba clasificó internamente a Claude Code —el asistente de programación de Anthropic— como software de alto riesgo y restringió su uso entre su personal. La medida refleja la creciente tensión geopolítica en torno a las herramientas de IA y las políticas de seguridad de datos corporativos. Es una señal de cómo las grandes tecnológicas están segmentando el mercado global de IA.",
+      "por_que_importa": "Las restricciones corporativas y geopolíticas sobre herramientas de IA afectan qué tecnologías pueden adoptar startups con operaciones o inversores en distintas geografías.",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "fuente": "TechCrunch"
     }
   ]
