@@ -1,31 +1,94 @@
 {
-  "titular_del_dia": "Semana con escaso flujo de noticias relevantes para VC/LatAm: solo tendencias globales de IA disponibles",
+  "titular_del_dia": "Casi 90 nuevos unicornios en lo que va de 2026: el auge de la IA reconfigura el mapa global del venture capital",
   "items": [
     {
-      "indice": 1,
+      "indice": 8,
       "categoria": "Tendencias",
-      "titulo_es": "Midjourney exige a estudios de Hollywood que revelen cómo usan IA en sus producciones",
-      "resumen": "En el marco de una disputa legal en curso, Midjourney busca obligar a tres grandes estudios de cine a divulgar el alcance real de su uso de herramientas de inteligencia artificial. El caso podría sentar precedente sobre transparencia corporativa en el uso de IA generativa. La tensión entre derechos de autor y modelos de IA es uno de los frentes legales más activos del sector tecnológico.",
-      "por_que_importa": "Los litigios sobre IA y propiedad intelectual definen el marco regulatorio en el que operarán las startups de contenido generativo, incluyendo las que emerjan en LatAm.",
-      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "titulo_es": "Ya son casi 90 los nuevos unicornios en 2026: el boom de IA acelera la creación de startups de $1.000M",
+      "resumen": "En los primeros seis meses de 2026 se incorporaron casi 90 nuevas empresas al club de los unicornios, impulsadas principalmente por inversiones en inteligencia artificial. El ritmo supera al de años anteriores y refleja un renovado apetito inversor en etapas avanzadas. El artículo lista todas las compañías que alcanzaron la valuación de USD 1.000M o más.",
+      "por_que_importa": "Entender qué sectores y geografías están produciendo unicornios hoy es clave para anticipar hacia dónde fluye el capital de riesgo global y qué oportunidades podrían replicarse en LatAm.",
+      "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 10,
+      "categoria": "Global",
+      "titulo_es": "Por qué los LPs que huyen a los megafondos podrían estar sacrificando retornos",
+      "resumen": "Un análisis de Crunchbase argumenta que, ante la incertidumbre económica, muchos LPs se concentraron en megafondos creyendo que ofrecen mayor seguridad, pero los datos históricos sugieren que los fondos emergentes y de menor tamaño generan retornos superiores ajustados por riesgo. La tendencia podría estar penalizando a gestores nuevos y a ecosistemas menos maduros que dependen de ese capital. El autor llama a los inversores institucionales a diversificar hacia managers no convencionales.",
+      "por_que_importa": "Para quienes estudian VC, comprender la dinámica LP-GP y el debate megafondo vs. fondo emergente es esencial, especialmente en LatAm donde la mayoría de los gestores son aún emerging managers.",
+      "link": "https://news.crunchbase.com/venture/megafund-vs-emerging-managers-zulkosky-recast/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 9,
+      "categoria": "Tendencias",
+      "titulo_es": "El financiamiento a startups de cleantech se estabiliza en USD 15.000M en el primer semestre de 2026",
+      "resumen": "Según Crunchbase, en el primer semestre de 2026 se invirtieron USD 15.000M en startups de cleantech, energías limpias y sostenibilidad, un nivel similar al del mismo período del año anterior. El crecimiento de la demanda energética —en parte impulsado por centros de datos de IA— sostiene el interés inversor. El reporte también analiza exits e IPOs en el sector.",
+      "por_que_importa": "Cleantech es una de las áreas con mayor potencial de crecimiento en LatAm dada la dotación de recursos naturales de la región, y conocer las tendencias de financiamiento global ayuda a identificar oportunidades locales.",
+      "link": "https://news.crunchbase.com/venture/startup-funding-clean-energy-exits-ipo-q2-2026/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 2,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Agility Robotics sale a bolsa vía SPAC: el primer IPO relevante de robótica humanoide en 2026",
+      "resumen": "Agility Robotics, fabricante del robot humanoide Digit, anunció su salida a bolsa a través de un SPAC, convirtiéndose en una de las primeras empresas del sector en hacerlo. Su CEO fue cauto respecto a la adopción masiva en hogares, enfocando el pitch en aplicaciones industriales y de logística. El movimiento llega en un contexto donde competidores como Figure y 1X cuentan con valuaciones privadas muy elevadas.",
+      "por_que_importa": "El IPO vía SPAC de una empresa de robótica avanzada es un caso de estudio sobre estructuras de salida alternativas y sobre cómo gestionar las expectativas del mercado en sectores de alto hype.",
+      "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "Rondas",
+      "titulo_es": "Even Realities recauda USD 150M y alcanza valuación de USD 1.000M con respaldo de Meituan y Tencent",
+      "resumen": "Even Realities, startup de anteojos inteligentes sin cámara fundada por ex empleados de Apple, cerró una ronda de USD 150M liderada por los gigantes chinos Meituan y Tencent, alcanzando estatus de unicornio. La empresa se diferencia de competidores como Meta Ray-Ban al apostar por la privacidad como ventaja competitiva. La ronda refleja el renovado interés de inversores asiáticos en hardware de consumo con componentes de IA.",
+      "por_que_importa": "Es un ejemplo concreto de cómo un diferenciador de producto claro (privacidad vs. cámara) puede justificar una valuación de USD 1.000M y atraer capital estratégico de players globales.",
+      "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Bending Spoons debuta en bolsa: la empresa italiana que compró AOL, Vimeo y decenas de apps sin hacer ruido",
+      "resumen": "Bending Spoons, una compañía italiana prácticamente desconocida para el gran público, sale a bolsa con un portafolio que incluye AOL, Vimeo y múltiples aplicaciones móviles con más de 1.000 millones de usuarios acumulados. Su modelo de negocio consiste en adquirir productos digitales maduros y optimizarlos operativamente para extraer rentabilidad. El IPO pone en el radar a una de las operadoras de roll-up de software más activas de Europa.",
+      "por_que_importa": "El modelo de roll-up de activos digitales es una estrategia de PE/VC cada vez más relevante y Bending Spoons es uno de sus casos más sofisticados a nivel global.",
+      "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Global",
+      "titulo_es": "Station F relanza su aceleradora de IA para consolidar a París como hub europeo de startups",
+      "resumen": "Station F, el campus de startups fundado por Xavier Niel en París, anuncia una nueva edición de su programa F/ai, enfocado exclusivamente en startups de inteligencia artificial. El hub busca posicionarse como puerta de entrada al ecosistema europeo para founders globales, compitiendo con aceleradoras de Silicon Valley y Londres. El programa incluye acceso a inversores, corporaciones y talento técnico europeo.",
+      "por_que_importa": "Conocer los principales programas de aceleración globales es útil para founders y estudiantes latinoamericanos que buscan internacionalizar sus proyectos o entender benchmarks de calidad en el ecosistema.",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Tendencias",
+      "titulo_es": "Amazon cierra el ingreso de nuevos usuarios a Mechanical Turk, la plataforma pionera de crowdsourcing",
+      "resumen": "Amazon anunció que dejará de aceptar nuevos trabajadores en Mechanical Turk, su plataforma de microtareas humanas lanzada en 2005, en una señal clara de que la IA generativa está desplazando este tipo de trabajo manual de etiquetado y clasificación de datos. La plataforma fue históricamente usada para entrenar modelos de machine learning. El cierre marca el fin de una era en la cadena de suministro de datos para IA.",
+      "por_que_importa": "Ilustra cómo la IA está disrumpiendo incluso los modelos de negocio que la alimentaron, un tema central para entender la evolución del mercado laboral y los modelos de plataformas digitales.",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "Análisis: inversores en el memecoin de Trump perdieron USD 3.800M mientras Trump ganó USD 636M",
+      "resumen": "Un análisis independiente revela que cerca de un millón de personas perdieron un total de USD 3.800M invirtiendo en $TRUMP, el memecoin del presidente Donald Trump, mientras que el propio Trump habría obtenido ganancias de USD 636M. El estudio cuantifica por primera vez la magnitud del daño patrimonial para los inversores minoristas. El caso reaviva el debate regulatorio sobre criptoactivos y conflictos de interés en figuras públicas.",
+      "por_que_importa": "Es un caso empírico sobre asimetría de información y riesgo en mercados cripto no regulados, relevante para quienes analizan la intersección entre política, finanzas y activos digitales.",
+      "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 3,
-      "categoria": "Tendencias",
-      "titulo_es": "Qué es Mistral AI: el competidor europeo de OpenAI que apuesta al código abierto",
-      "resumen": "Mistral AI, fundada en 2023 en Francia, ha levantado financiamiento significativo y se posiciona como alternativa open source a los modelos propietarios de OpenAI. Su propuesta de 'IA de frontera para todos' la convierte en referencia para ecosistemas con menor acceso a capital, como LatAm. El artículo ofrece un panorama completo de su modelo de negocio y estrategia de fondeo.",
-      "por_que_importa": "Entender los jugadores globales de infraestructura de IA es clave para analistas de VC que evalúan startups que construyen sobre estos modelos en la región.",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "Alibaba prohíbe a sus empleados usar Claude Code por considerarlo software de alto riesgo",
-      "resumen": "Alibaba clasificó internamente a Claude Code —el asistente de programación de Anthropic— como software de alto riesgo y restringió su uso entre su personal. La medida refleja la creciente tensión geopolítica en torno a las herramientas de IA y las políticas de seguridad de datos corporativos. Es una señal de cómo las grandes tecnológicas están segmentando el mercado global de IA.",
-      "por_que_importa": "Las restricciones corporativas y geopolíticas sobre herramientas de IA afectan qué tecnologías pueden adoptar startups con operaciones o inversores en distintas geografías.",
-      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "categoria": "Global",
+      "titulo_es": "Uber frena su expansión europea: cinco de los siete mercados anunciados para 2026 quedan en pausa",
+      "resumen": "Uber había anunciado en febrero de 2026 planes de expansión a siete nuevos mercados europeos, pero ahora cinco de esos lanzamientos estarían congelados según reportes recientes. Las causas apuntarían a barreras regulatorias y resistencia de operadores locales, un patrón recurrente en la historia de la empresa en Europa. El retroceso pone en duda la viabilidad del modelo de ride-hailing en mercados con marcos laborales estrictos.",
+      "por_que_importa": "La fricción entre modelos de plataforma y regulación laboral europea es un antecedente directo para entender los desafíos regulatorios que enfrentan o podrían enfrentar plataformas similares en LatAm.",
+      "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
       "fuente": "TechCrunch"
     }
   ]
