@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "Casi 90 nuevos unicornios en lo que va de 2026: el auge de la IA reconfigura el mapa global del venture capital",
+  "titular_del_dia": "Pomelo lleva su infraestructura fintech a 150 países mientras el VC norteamericano rompe récords históricos con USD 392.000M en el primer semestre de 2026",
   "items": [
     {
-      "indice": 8,
-      "categoria": "Tendencias",
-      "titulo_es": "Ya son casi 90 los nuevos unicornios en 2026: el boom de IA acelera la creación de startups de $1.000M",
-      "resumen": "En los primeros seis meses de 2026 se incorporaron casi 90 nuevas empresas al club de los unicornios, impulsadas principalmente por inversiones en inteligencia artificial. El ritmo supera al de años anteriores y refleja un renovado apetito inversor en etapas avanzadas. El artículo lista todas las compañías que alcanzaron la valuación de USD 1.000M o más.",
-      "por_que_importa": "Entender qué sectores y geografías están produciendo unicornios hoy es clave para anticipar hacia dónde fluye el capital de riesgo global y qué oportunidades podrían replicarse en LatAm.",
-      "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
-      "fuente": "TechCrunch"
+      "indice": 0,
+      "categoria": "LatAm",
+      "titulo_es": "Pomelo expande su infraestructura de pagos a más de 150 países",
+      "resumen": "La fintech argentina Pomelo, que provee infraestructura de emisión de tarjetas y pagos, anunció la expansión de sus servicios a más de 150 países. El movimiento consolida a la compañía como un jugador global de infraestructura financiera con raíces en LatAm. Pomelo es uno de los casos más emblemáticos del ecosistema de startups argentinas con respaldo de VC regional e internacional.",
+      "por_que_importa": "Es un ejemplo concreto de cómo una startup fundada en Argentina puede escalar a mercados globales, el tipo de trayectoria que estudian quienes quieren entender el ecosistema emprendedor de la región.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-pomelo-expande-su-infraestructura-de-pagos-a-mas-de-150-paises/",
+      "fuente": "Endeavor Argentina"
     },
     {
-      "indice": 10,
+      "indice": 19,
       "categoria": "Global",
-      "titulo_es": "Por qué los LPs que huyen a los megafondos podrían estar sacrificando retornos",
-      "resumen": "Un análisis de Crunchbase argumenta que, ante la incertidumbre económica, muchos LPs se concentraron en megafondos creyendo que ofrecen mayor seguridad, pero los datos históricos sugieren que los fondos emergentes y de menor tamaño generan retornos superiores ajustados por riesgo. La tendencia podría estar penalizando a gestores nuevos y a ecosistemas menos maduros que dependen de ese capital. El autor llama a los inversores institucionales a diversificar hacia managers no convencionales.",
-      "por_que_importa": "Para quienes estudian VC, comprender la dinámica LP-GP y el debate megafondo vs. fondo emergente es esencial, especialmente en LatAm donde la mayoría de los gestores son aún emerging managers.",
+      "titulo_es": "El financiamiento a startups en Norteamérica batió todos los récords en el primer semestre de 2026, impulsado por la IA",
+      "resumen": "Según datos de Crunchbase, la inversión en startups de EE.UU. y Canadá alcanzó USD 392.000 millones en el primer semestre de 2026, una cifra sin precedentes históricos. El crecimiento estuvo traccionado casi en su totalidad por rondas vinculadas a inteligencia artificial. El dato supera ampliamente cualquier período comparable, incluyendo el pico de 2021.",
+      "por_que_importa": "Marca el contexto macro del mercado global de VC en el que operan los fondos que también invierten en LatAm, y define las expectativas de valuaciones y capital disponible para la región.",
+      "link": "https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 21,
+      "categoria": "Tendencias",
+      "titulo_es": "Por qué los LPs que apuestan solo a megafondos podrían estar sacrificando retornos",
+      "resumen": "Un análisis de Crunchbase argumenta con datos que la concentración de capital de LPs en megafondos, como respuesta al contexto de incertidumbre económica, no necesariamente maximiza los retornos y podría estar desplazando capital de managers emergentes con mejores performances históricas. El artículo cuestiona la lógica de 'seguridad percibida' en la asignación de capital institucional. Es una discusión central en la industria global de VC en 2026.",
+      "por_que_importa": "Entender la dinámica LP-GP y la distribución de capital entre megafondos y fondos emergentes es esencial para cualquier estudiante que quiera trabajar en la industria de VC.",
       "link": "https://news.crunchbase.com/venture/megafund-vs-emerging-managers-zulkosky-recast/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 9,
+      "indice": 8,
       "categoria": "Tendencias",
-      "titulo_es": "El financiamiento a startups de cleantech se estabiliza en USD 15.000M en el primer semestre de 2026",
-      "resumen": "Según Crunchbase, en el primer semestre de 2026 se invirtieron USD 15.000M en startups de cleantech, energías limpias y sostenibilidad, un nivel similar al del mismo período del año anterior. El crecimiento de la demanda energética —en parte impulsado por centros de datos de IA— sostiene el interés inversor. El reporte también analiza exits e IPOs en el sector.",
-      "por_que_importa": "Cleantech es una de las áreas con mayor potencial de crecimiento en LatAm dada la dotación de recursos naturales de la región, y conocer las tendencias de financiamiento global ayuda a identificar oportunidades locales.",
+      "titulo_es": "Lista actualizada: los grandes despidos tecnológicos de 2026 que citan a la IA como causa",
+      "resumen": "TechCrunch mantiene un registro en tiempo real de los despidos masivos en empresas tecnológicas durante 2026 en los que la inteligencia artificial fue mencionada explícitamente como factor. Microsoft recortó casi 5.000 empleos esta semana, sumándose a una tendencia que redefine el mercado laboral tech. El fenómeno plantea preguntas estructurales sobre el futuro del empleo en el sector.",
+      "por_que_importa": "La sustitución de roles por IA afecta directamente las perspectivas laborales y las tesis de inversión de quienes estudian el ecosistema emprendedor y tecnológico.",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 12,
+      "categoria": "Tendencias",
+      "titulo_es": "Microsoft despide a casi 5.000 empleados en Xbox y ventas comerciales, citando la transición hacia la IA",
+      "resumen": "Microsoft anunció el recorte de aproximadamente 4.800 puestos, equivalente al 2,1% de su plantilla global, afectando principalmente las divisiones de Xbox y ventas comerciales. Es la última de una serie de reestructuraciones que la compañía vincula explícitamente a la automatización por IA. El movimiento se da en un contexto en que varias Big Tech reorganizan su fuerza laboral alrededor de capacidades de inteligencia artificial.",
+      "por_que_importa": "Las decisiones de portfolio y estructura de las Big Tech son señales adelantadas de hacia dónde fluye el capital y qué tipo de startups tienen oportunidad de crecer en el nuevo ecosistema.",
+      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Tendencias",
+      "titulo_es": "El CEO de Vercel, el argentino Guillermo Rauch, explica por qué separar modelos de agentes es la clave para producción en IA",
+      "resumen": "Guillermo Rauch, fundador argentino y CEO de Vercel, argumenta que en entornos de producción real la optimización de precio/rendimiento obliga a desacoplar los modelos de lenguaje de los agentes que los usan. La entrevista profundiza en las decisiones de arquitectura que enfrentan las startups que construyen sobre IA generativa. Vercel es una de las plataformas de infraestructura para desarrolladores más relevantes del ecosistema global.",
+      "por_que_importa": "Rauch es uno de los emprendedores argentinos más exitosos a nivel global y su visión sobre la infraestructura de IA define tendencias que impactan en qué startups van a recibir inversión.",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 20,
+      "categoria": "Global",
+      "titulo_es": "La inversión en startups de energía limpia se estabiliza en USD 15.000M en el primer semestre de 2026",
+      "resumen": "Crunchbase reporta que el financiamiento a startups de cleantech, vehículos eléctricos y sostenibilidad totalizó USD 15.000 millones en la primera mitad de 2026, estabilizándose tras años de volatilidad. El crecimiento de la demanda energética impulsada por centros de datos de IA aparece como un driver clave del interés inversor. El sector muestra señales de maduración con mayor actividad en exits e IPOs.",
+      "por_que_importa": "Cleantech es uno de los sectores con mayor potencial en LatAm dada la dotación de recursos naturales de la región, y entender el flujo global de capital ayuda a identificar oportunidades locales.",
       "link": "https://news.crunchbase.com/venture/startup-funding-clean-energy-exits-ipo-q2-2026/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 2,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Agility Robotics sale a bolsa vía SPAC: el primer IPO relevante de robótica humanoide en 2026",
-      "resumen": "Agility Robotics, fabricante del robot humanoide Digit, anunció su salida a bolsa a través de un SPAC, convirtiéndose en una de las primeras empresas del sector en hacerlo. Su CEO fue cauto respecto a la adopción masiva en hogares, enfocando el pitch en aplicaciones industriales y de logística. El movimiento llega en un contexto donde competidores como Figure y 1X cuentan con valuaciones privadas muy elevadas.",
-      "por_que_importa": "El IPO vía SPAC de una empresa de robótica avanzada es un caso de estudio sobre estructuras de salida alternativas y sobre cómo gestionar las expectativas del mercado en sectores de alto hype.",
+      "indice": 18,
+      "categoria": "Global",
+      "titulo_es": "Agility Robotics sale a bolsa vía SPAC con una apuesta conservadora en robótica humanoide",
+      "resumen": "Agility Robotics, fabricante de robots humanoides, anunció su salida a bolsa a través de un SPAC, diferenciándose de competidores con valuaciones más especulativas al priorizar casos de uso industriales concretos sobre promesas de robots domésticos. El CEO reconoció explícitamente que un robot en el hogar no es un objetivo de corto plazo. Es uno de los primeros exits relevantes del segmento de robótica humanoide.",
+      "por_que_importa": "El mecanismo SPAC y la dinámica de exits en deep tech son temas clave para entender cómo los inversores de VC recuperan su capital en sectores de largo plazo.",
       "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 16,
+      "categoria": "Global",
+      "titulo_es": "Station F relanza su aceleradora de IA para posicionarse como el hub de startups de inteligencia artificial en Europa",
+      "resumen": "El hub parisino Station F, fundado por Xavier Niel, lanza una nueva edición de su programa acelerador F/ai con foco en startups de inteligencia artificial europeas. La iniciativa busca consolidar a París como alternativa a Silicon Valley para fundadores de IA en Europa. Station F alberga actualmente a más de 1.000 startups y tiene alianzas con fondos de VC de primer nivel.",
+      "por_que_importa": "El modelo de aceleradoras especializadas en IA es un formato que el ecosistema latinoamericano está comenzando a replicar, y conocer los referentes globales ayuda a entender hacia dónde va la industria.",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
       "categoria": "Rondas",
-      "titulo_es": "Even Realities recauda USD 150M y alcanza valuación de USD 1.000M con respaldo de Meituan y Tencent",
-      "resumen": "Even Realities, startup de anteojos inteligentes sin cámara fundada por ex empleados de Apple, cerró una ronda de USD 150M liderada por los gigantes chinos Meituan y Tencent, alcanzando estatus de unicornio. La empresa se diferencia de competidores como Meta Ray-Ban al apostar por la privacidad como ventaja competitiva. La ronda refleja el renovado interés de inversores asiáticos en hardware de consumo con componentes de IA.",
-      "por_que_importa": "Es un ejemplo concreto de cómo un diferenciador de producto claro (privacidad vs. cámara) puede justificar una valuación de USD 1.000M y atraer capital estratégico de players globales.",
-      "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 7,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Bending Spoons debuta en bolsa: la empresa italiana que compró AOL, Vimeo y decenas de apps sin hacer ruido",
-      "resumen": "Bending Spoons, una compañía italiana prácticamente desconocida para el gran público, sale a bolsa con un portafolio que incluye AOL, Vimeo y múltiples aplicaciones móviles con más de 1.000 millones de usuarios acumulados. Su modelo de negocio consiste en adquirir productos digitales maduros y optimizarlos operativamente para extraer rentabilidad. El IPO pone en el radar a una de las operadoras de roll-up de software más activas de Europa.",
-      "por_que_importa": "El modelo de roll-up de activos digitales es una estrategia de PE/VC cada vez más relevante y Bending Spoons es uno de sus casos más sofisticados a nivel global.",
-      "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
-      "categoria": "Global",
-      "titulo_es": "Station F relanza su aceleradora de IA para consolidar a París como hub europeo de startups",
-      "resumen": "Station F, el campus de startups fundado por Xavier Niel en París, anuncia una nueva edición de su programa F/ai, enfocado exclusivamente en startups de inteligencia artificial. El hub busca posicionarse como puerta de entrada al ecosistema europeo para founders globales, compitiendo con aceleradoras de Silicon Valley y Londres. El programa incluye acceso a inversores, corporaciones y talento técnico europeo.",
-      "por_que_importa": "Conocer los principales programas de aceleración globales es útil para founders y estudiantes latinoamericanos que buscan internacionalizar sus proyectos o entender benchmarks de calidad en el ecosistema.",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Tendencias",
-      "titulo_es": "Amazon cierra el ingreso de nuevos usuarios a Mechanical Turk, la plataforma pionera de crowdsourcing",
-      "resumen": "Amazon anunció que dejará de aceptar nuevos trabajadores en Mechanical Turk, su plataforma de microtareas humanas lanzada en 2005, en una señal clara de que la IA generativa está desplazando este tipo de trabajo manual de etiquetado y clasificación de datos. La plataforma fue históricamente usada para entrenar modelos de machine learning. El cierre marca el fin de una era en la cadena de suministro de datos para IA.",
-      "por_que_importa": "Ilustra cómo la IA está disrumpiendo incluso los modelos de negocio que la alimentaron, un tema central para entender la evolución del mercado laboral y los modelos de plataformas digitales.",
-      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Tendencias",
-      "titulo_es": "Análisis: inversores en el memecoin de Trump perdieron USD 3.800M mientras Trump ganó USD 636M",
-      "resumen": "Un análisis independiente revela que cerca de un millón de personas perdieron un total de USD 3.800M invirtiendo en $TRUMP, el memecoin del presidente Donald Trump, mientras que el propio Trump habría obtenido ganancias de USD 636M. El estudio cuantifica por primera vez la magnitud del daño patrimonial para los inversores minoristas. El caso reaviva el debate regulatorio sobre criptoactivos y conflictos de interés en figuras públicas.",
-      "por_que_importa": "Es un caso empírico sobre asimetría de información y riesgo en mercados cripto no regulados, relevante para quienes analizan la intersección entre política, finanzas y activos digitales.",
-      "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 3,
-      "categoria": "Global",
-      "titulo_es": "Uber frena su expansión europea: cinco de los siete mercados anunciados para 2026 quedan en pausa",
-      "resumen": "Uber había anunciado en febrero de 2026 planes de expansión a siete nuevos mercados europeos, pero ahora cinco de esos lanzamientos estarían congelados según reportes recientes. Las causas apuntarían a barreras regulatorias y resistencia de operadores locales, un patrón recurrente en la historia de la empresa en Europa. El retroceso pone en duda la viabilidad del modelo de ride-hailing en mercados con marcos laborales estrictos.",
-      "por_que_importa": "La fricción entre modelos de plataforma y regulación laboral europea es un antecedente directo para entender los desafíos regulatorios que enfrentan o podrían enfrentar plataformas similares en LatAm.",
-      "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "titulo_es": "Savi recauda USD 7M en seed para proteger a consumidores de estafas generadas con IA, incluyendo secuestros virtuales",
+      "resumen": "La startup Savi cerró una ronda semilla de USD 7 millones para lanzar una aplicación que detecta y alerta sobre estafas generadas por inteligencia artificial, como llamadas falsas simulando secuestros de familiares. La app está disponible desde hoy para iOS y Android. El caso ilustra cómo el auge de la IA generativa está creando nuevos mercados en ciberseguridad para consumidores.",
+      "por_que_importa": "Es un ejemplo de cómo una problemática emergente creada por IA genera inmediatamente oportunidades de inversión en etapa temprana, una dinámica relevante para identificar tesis de inversión.",
+      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
       "fuente": "TechCrunch"
     }
   ]
