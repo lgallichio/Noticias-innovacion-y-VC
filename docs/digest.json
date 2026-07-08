@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "Pomelo lleva su infraestructura fintech a 150 países mientras el VC norteamericano rompe récords históricos con USD 392.000M en el primer semestre de 2026",
+  "titular_del_dia": "El financiamiento a startups en Norteamérica rompe todos los récords en el primer semestre de 2026, impulsado por la ola de IA",
   "items": [
     {
-      "indice": 0,
-      "categoria": "LatAm",
-      "titulo_es": "Pomelo expande su infraestructura de pagos a más de 150 países",
-      "resumen": "La fintech argentina Pomelo, que provee infraestructura de emisión de tarjetas y pagos, anunció la expansión de sus servicios a más de 150 países. El movimiento consolida a la compañía como un jugador global de infraestructura financiera con raíces en LatAm. Pomelo es uno de los casos más emblemáticos del ecosistema de startups argentinas con respaldo de VC regional e internacional.",
-      "por_que_importa": "Es un ejemplo concreto de cómo una startup fundada en Argentina puede escalar a mercados globales, el tipo de trayectoria que estudian quienes quieren entender el ecosistema emprendedor de la región.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-pomelo-expande-su-infraestructura-de-pagos-a-mas-de-150-paises/",
-      "fuente": "Endeavor Argentina"
-    },
-    {
-      "indice": 19,
-      "categoria": "Global",
-      "titulo_es": "El financiamiento a startups en Norteamérica batió todos los récords en el primer semestre de 2026, impulsado por la IA",
-      "resumen": "Según datos de Crunchbase, la inversión en startups de EE.UU. y Canadá alcanzó USD 392.000 millones en el primer semestre de 2026, una cifra sin precedentes históricos. El crecimiento estuvo traccionado casi en su totalidad por rondas vinculadas a inteligencia artificial. El dato supera ampliamente cualquier período comparable, incluyendo el pico de 2021.",
-      "por_que_importa": "Marca el contexto macro del mercado global de VC en el que operan los fondos que también invierten en LatAm, y define las expectativas de valuaciones y capital disponible para la región.",
+      "indice": 22,
+      "categoria": "Tendencias",
+      "titulo_es": "El financiamiento a startups en Norteamérica batió récords históricos en el primer semestre de 2026, con USD 392.000 millones invertidos",
+      "resumen": "Según datos de Crunchbase, la inversión en startups de EE.UU. y Canadá alcanzó USD 392.000 millones en el primer semestre de 2026, superando ampliamente cualquier cifra anterior. El motor principal fue la inteligencia artificial, que concentró la mayor parte del capital desplegado. El dato sirve como termómetro del ciclo global de VC que impacta directamente en el apetito inversor hacia mercados emergentes como LatAm.",
+      "por_que_importa": "Entender el contexto macro del capital global es esencial para analizar cómo y cuándo esos flujos se trasladan a fondos y startups de la región.",
       "link": "https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 21,
-      "categoria": "Tendencias",
-      "titulo_es": "Por qué los LPs que apuestan solo a megafondos podrían estar sacrificando retornos",
-      "resumen": "Un análisis de Crunchbase argumenta con datos que la concentración de capital de LPs en megafondos, como respuesta al contexto de incertidumbre económica, no necesariamente maximiza los retornos y podría estar desplazando capital de managers emergentes con mejores performances históricas. El artículo cuestiona la lógica de 'seguridad percibida' en la asignación de capital institucional. Es una discusión central en la industria global de VC en 2026.",
-      "por_que_importa": "Entender la dinámica LP-GP y la distribución de capital entre megafondos y fondos emergentes es esencial para cualquier estudiante que quiera trabajar en la industria de VC.",
-      "link": "https://news.crunchbase.com/venture/megafund-vs-emerging-managers-zulkosky-recast/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 8,
-      "categoria": "Tendencias",
-      "titulo_es": "Lista actualizada: los grandes despidos tecnológicos de 2026 que citan a la IA como causa",
-      "resumen": "TechCrunch mantiene un registro en tiempo real de los despidos masivos en empresas tecnológicas durante 2026 en los que la inteligencia artificial fue mencionada explícitamente como factor. Microsoft recortó casi 5.000 empleos esta semana, sumándose a una tendencia que redefine el mercado laboral tech. El fenómeno plantea preguntas estructurales sobre el futuro del empleo en el sector.",
-      "por_que_importa": "La sustitución de roles por IA afecta directamente las perspectivas laborales y las tesis de inversión de quienes estudian el ecosistema emprendedor y tecnológico.",
-      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 12,
-      "categoria": "Tendencias",
-      "titulo_es": "Microsoft despide a casi 5.000 empleados en Xbox y ventas comerciales, citando la transición hacia la IA",
-      "resumen": "Microsoft anunció el recorte de aproximadamente 4.800 puestos, equivalente al 2,1% de su plantilla global, afectando principalmente las divisiones de Xbox y ventas comerciales. Es la última de una serie de reestructuraciones que la compañía vincula explícitamente a la automatización por IA. El movimiento se da en un contexto en que varias Big Tech reorganizan su fuerza laboral alrededor de capacidades de inteligencia artificial.",
-      "por_que_importa": "Las decisiones de portfolio y estructura de las Big Tech son señales adelantadas de hacia dónde fluye el capital y qué tipo de startups tienen oportunidad de crecer en el nuevo ecosistema.",
-      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Tendencias",
-      "titulo_es": "El CEO de Vercel, el argentino Guillermo Rauch, explica por qué separar modelos de agentes es la clave para producción en IA",
-      "resumen": "Guillermo Rauch, fundador argentino y CEO de Vercel, argumenta que en entornos de producción real la optimización de precio/rendimiento obliga a desacoplar los modelos de lenguaje de los agentes que los usan. La entrevista profundiza en las decisiones de arquitectura que enfrentan las startups que construyen sobre IA generativa. Vercel es una de las plataformas de infraestructura para desarrolladores más relevantes del ecosistema global.",
-      "por_que_importa": "Rauch es uno de los emprendedores argentinos más exitosos a nivel global y su visión sobre la infraestructura de IA define tendencias que impactan en qué startups van a recibir inversión.",
-      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 20,
-      "categoria": "Global",
-      "titulo_es": "La inversión en startups de energía limpia se estabiliza en USD 15.000M en el primer semestre de 2026",
-      "resumen": "Crunchbase reporta que el financiamiento a startups de cleantech, vehículos eléctricos y sostenibilidad totalizó USD 15.000 millones en la primera mitad de 2026, estabilizándose tras años de volatilidad. El crecimiento de la demanda energética impulsada por centros de datos de IA aparece como un driver clave del interés inversor. El sector muestra señales de maduración con mayor actividad en exits e IPOs.",
-      "por_que_importa": "Cleantech es uno de los sectores con mayor potencial en LatAm dada la dotación de recursos naturales de la región, y entender el flujo global de capital ayuda a identificar oportunidades locales.",
-      "link": "https://news.crunchbase.com/venture/startup-funding-clean-energy-exits-ipo-q2-2026/",
+      "categoria": "Tendencias",
+      "titulo_es": "Ranking Q2 2026: quiénes fueron los inversores de venture más activos en Estados Unidos",
+      "resumen": "Crunchbase publicó su ranking de inversores de venture más activos en el segundo trimestre de 2026, con General Catalyst y Andreessen Horowitz liderando tanto en volumen de deals como en capital desplegado. El informe incluye rankings de lead investors, mayores gastadores y fondos más prolíficos. Estos datos permiten mapear qué firmas globales están más activas y con mayor capacidad de co-invertir o levantar deals en LatAm.",
+      "por_que_importa": "Conocer el ranking de inversores activos ayuda a identificar qué fondos globales podrían ser socios o competidores relevantes para el ecosistema regional.",
+      "link": "https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 18,
-      "categoria": "Global",
-      "titulo_es": "Agility Robotics sale a bolsa vía SPAC con una apuesta conservadora en robótica humanoide",
-      "resumen": "Agility Robotics, fabricante de robots humanoides, anunció su salida a bolsa a través de un SPAC, diferenciándose de competidores con valuaciones más especulativas al priorizar casos de uso industriales concretos sobre promesas de robots domésticos. El CEO reconoció explícitamente que un robot en el hogar no es un objetivo de corto plazo. Es uno de los primeros exits relevantes del segmento de robótica humanoide.",
-      "por_que_importa": "El mecanismo SPAC y la dinámica de exits en deep tech son temas clave para entender cómo los inversores de VC recuperan su capital en sectores de largo plazo.",
-      "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 16,
-      "categoria": "Global",
-      "titulo_es": "Station F relanza su aceleradora de IA para posicionarse como el hub de startups de inteligencia artificial en Europa",
-      "resumen": "El hub parisino Station F, fundado por Xavier Niel, lanza una nueva edición de su programa acelerador F/ai con foco en startups de inteligencia artificial europeas. La iniciativa busca consolidar a París como alternativa a Silicon Valley para fundadores de IA en Europa. Station F alberga actualmente a más de 1.000 startups y tiene alianzas con fondos de VC de primer nivel.",
-      "por_que_importa": "El modelo de aceleradoras especializadas en IA es un formato que el ecosistema latinoamericano está comenzando a replicar, y conocer los referentes globales ayuda a entender hacia dónde va la industria.",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "indice": 13,
+      "categoria": "Fondos",
+      "titulo_es": "Chemistry Ventures, fundada por exsocios de Bessemer, Index y a16z, sale a levantar un segundo fondo de USD 500 millones",
+      "resumen": "Chemistry Ventures, la firma de VC lanzada por alumni de Bessemer Venture Partners, Index Ventures y Andreessen Horowitz, está en proceso de fundraising para su segundo fondo con un objetivo de USD 500 millones. El primer fondo de la firma ya fue desplegado y el lanzamiento del segundo marca una consolidación rápida del vehículo. La firma se posiciona en etapas tempranas con foco en tecnología.",
+      "por_que_importa": "El lanzamiento de nuevos fondos por parte de ex-partners de firmas tier-1 ilustra la dinámica de spinoffs en VC, un patrón que también empieza a verse en LatAm.",
+      "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
       "categoria": "Rondas",
-      "titulo_es": "Savi recauda USD 7M en seed para proteger a consumidores de estafas generadas con IA, incluyendo secuestros virtuales",
-      "resumen": "La startup Savi cerró una ronda semilla de USD 7 millones para lanzar una aplicación que detecta y alerta sobre estafas generadas por inteligencia artificial, como llamadas falsas simulando secuestros de familiares. La app está disponible desde hoy para iOS y Android. El caso ilustra cómo el auge de la IA generativa está creando nuevos mercados en ciberseguridad para consumidores.",
-      "por_que_importa": "Es un ejemplo de cómo una problemática emergente creada por IA genera inmediatamente oportunidades de inversión en etapa temprana, una dinámica relevante para identificar tesis de inversión.",
-      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "titulo_es": "SambaNova, fabricante de chips para IA, levanta USD 1.000 millones y alcanza una valoración de USD 11.000 millones",
+      "resumen": "SambaNova Systems cerró una Serie F con una primera liquidación de USD 1.000 millones, valuando la compañía en USD 11.000 millones, apenas cinco meses después de su ronda anterior. La noticia llega luego de que Intel había sido mencionada como potencial compradora en torno a USD 1.600 millones, valuación que hoy parece muy por debajo del mercado. El deal reafirma que la infraestructura de IA —chips y hardware especializado— sigue atrayendo capital masivo.",
+      "por_que_importa": "Las megavalorizaciones en infraestructura de IA condicionan el ecosistema global de VC y señalan dónde se concentra el capital que compite con otras verticales.",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
       "fuente": "TechCrunch"
+    },
+    {
+      "indice": 14,
+      "categoria": "Rondas",
+      "titulo_es": "Norm, startup de IA legal, recauda USD 120 millones en Serie C y alcanza valoración unicornio de USD 1.200 millones",
+      "resumen": "Norm, una startup que aplica inteligencia artificial a servicios legales, cerró una ronda Serie C de USD 120 millones liderada por Khosla Ventures, alcanzando una valoración de USD 1.200 millones. El hito convierte a Norm en el más reciente unicornio del segmento legaltech con IA. La vertical de AI + servicios profesionales (legal, contable, médico) está mostrando tracción creciente con inversores institucionales.",
+      "por_que_importa": "El auge de legaltech con IA es directamente relevante para LatAm, donde el acceso a servicios legales es costoso y hay oportunidad para startups locales en el segmento.",
+      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Figma adquiere el equipo detrás de una app de vibe-coding respaldada por Y Combinator",
+      "resumen": "Figma anunció la adquisición del equipo fundador de una startup de vibe-coding que pasó de ser una plataforma de programación asistida por IA a construir herramientas de agentes, con respaldo de Y Combinator. La operación refleja la tendencia de grandes plataformas de diseño y desarrollo que incorporan capacidades de IA generativa vía M&A en lugar de desarrollo interno. No se revelaron términos económicos.",
+      "por_que_importa": "Las adquisiciones de equipos de YC por empresas consolidadas son un patrón de exit relevante que estudiantes de VC deben seguir como señal de mercado.",
+      "link": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Tendencias",
+      "titulo_es": "Microsoft reduce su dependencia de modelos de IA externos y apuesta por sus propios modelos para bajar costos",
+      "resumen": "Microsoft anunció un giro estratégico hacia el uso de sus propios modelos de inteligencia artificial en lugar de depender de proveedores externos, en línea con una tendencia más amplia de reducción de costos en IA entre las grandes tecnológicas. La movida tiene implicancias directas para OpenAI, socio estratégico de Microsoft, y para el mercado de API de modelos fundacionales. Es parte de una ola de eficiencia que está redefiniendo los modelos de negocio en el sector.",
+      "por_que_importa": "La estrategia de build vs. buy en IA de los grandes players define qué espacio queda para startups independientes de modelos y APIs, incluyendo las de LatAm.",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "Por qué el auge del open source en IA todavía no está dañando el negocio de Anthropic",
+      "resumen": "Un análisis de TechCrunch explora por qué el éxito de modelos de código abierto como Llama no está canibalizando a los laboratorios frontier como Anthropic, sino que ambos capturan distintas fases del ciclo de adopción de IA. Los modelos open source dominan la experimentación y el fine-tuning, mientras los modelos propietarios retienen los casos de uso empresariales de alto valor. El artículo incluye datos concretos sobre retención de clientes y casos de uso diferenciados.",
+      "por_que_importa": "Comprender la dinámica open source vs. propietario es clave para evaluar el posicionamiento competitivo de startups de IA que buscan financiamiento.",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Global",
+      "titulo_es": "ZML, startup francesa avalada por Yann LeCun, lanza software gratuito para acelerar la inferencia de IA en múltiples chips",
+      "resumen": "ZML lanzó ZML/LLMD, un software open source diseñado para optimizar la inferencia de modelos de lenguaje de gran escala en distintos tipos de chips de IA, lo que podría reducir significativamente los costos operativos de correr IA. La startup cuenta con el respaldo explícito de Yann LeCun, ganador del Premio Turing y jefe científico de IA de Meta. La estrategia de lanzar un producto gratuito apunta a capturar adopción masiva antes de monetizar servicios premium.",
+      "por_que_importa": "Las herramientas que reducen el costo de inferencia democratizan el acceso a IA para startups de LatAm con menor capacidad de inversión en infraestructura.",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 21,
+      "categoria": "Tendencias",
+      "titulo_es": "Las métricas SaaS son un resultado, no una estrategia: por qué LTV/CAC y ARR no alcanzan para tomar decisiones",
+      "resumen": "Un artículo de Crunchbase News, escrito por el especialista Itay Sagie, argumenta que métricas estándar de SaaS como LTV/CAC, NRR, GRR y la Regla de los 40 son indicadores de desempeño pero no sustituyen a una estrategia de negocio sólida. El texto propone que founders y directorios deben formular las preguntas correctas detrás de los números para evitar optimizar métricas en lugar de construir valor real. Incluye ejemplos concretos de cómo mal interpretar estas métricas lleva a decisiones erróneas.",
+      "por_que_importa": "Para estudiantes que analizan startups o preparan casos de inversión, entender la limitación de las métricas SaaS es una habilidad crítica de due diligence.",
+      "link": "https://news.crunchbase.com/saas/metrics-unit-economics-questions-sagie/",
+      "fuente": "Crunchbase News"
     }
   ]
 }
