@@ -1,93 +1,93 @@
 {
-  "titular_del_dia": "El financiamiento a startups en Norteamérica rompe todos los récords en el primer semestre de 2026, impulsado por la ola de IA",
+  "titular_del_dia": "Paradigm levanta U$S 1.200M y el VC global apuesta fuerte a AI, robotics y nuevos fondos técnicos",
   "items": [
     {
-      "indice": 22,
-      "categoria": "Tendencias",
-      "titulo_es": "El financiamiento a startups en Norteamérica batió récords históricos en el primer semestre de 2026, con USD 392.000 millones invertidos",
-      "resumen": "Según datos de Crunchbase, la inversión en startups de EE.UU. y Canadá alcanzó USD 392.000 millones en el primer semestre de 2026, superando ampliamente cualquier cifra anterior. El motor principal fue la inteligencia artificial, que concentró la mayor parte del capital desplegado. El dato sirve como termómetro del ciclo global de VC que impacta directamente en el apetito inversor hacia mercados emergentes como LatAm.",
-      "por_que_importa": "Entender el contexto macro del capital global es esencial para analizar cómo y cuándo esos flujos se trasladan a fondos y startups de la región.",
-      "link": "https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 20,
-      "categoria": "Tendencias",
-      "titulo_es": "Ranking Q2 2026: quiénes fueron los inversores de venture más activos en Estados Unidos",
-      "resumen": "Crunchbase publicó su ranking de inversores de venture más activos en el segundo trimestre de 2026, con General Catalyst y Andreessen Horowitz liderando tanto en volumen de deals como en capital desplegado. El informe incluye rankings de lead investors, mayores gastadores y fondos más prolíficos. Estos datos permiten mapear qué firmas globales están más activas y con mayor capacidad de co-invertir o levantar deals en LatAm.",
-      "por_que_importa": "Conocer el ranking de inversores activos ayuda a identificar qué fondos globales podrían ser socios o competidores relevantes para el ecosistema regional.",
-      "link": "https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 13,
+      "indice": 17,
       "categoria": "Fondos",
-      "titulo_es": "Chemistry Ventures, fundada por exsocios de Bessemer, Index y a16z, sale a levantar un segundo fondo de USD 500 millones",
-      "resumen": "Chemistry Ventures, la firma de VC lanzada por alumni de Bessemer Venture Partners, Index Ventures y Andreessen Horowitz, está en proceso de fundraising para su segundo fondo con un objetivo de USD 500 millones. El primer fondo de la firma ya fue desplegado y el lanzamiento del segundo marca una consolidación rápida del vehículo. La firma se posiciona en etapas tempranas con foco en tecnología.",
-      "por_que_importa": "El lanzamiento de nuevos fondos por parte de ex-partners de firmas tier-1 ilustra la dinámica de spinoffs en VC, un patrón que también empieza a verse en LatAm.",
-      "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Rondas",
-      "titulo_es": "SambaNova, fabricante de chips para IA, levanta USD 1.000 millones y alcanza una valoración de USD 11.000 millones",
-      "resumen": "SambaNova Systems cerró una Serie F con una primera liquidación de USD 1.000 millones, valuando la compañía en USD 11.000 millones, apenas cinco meses después de su ronda anterior. La noticia llega luego de que Intel había sido mencionada como potencial compradora en torno a USD 1.600 millones, valuación que hoy parece muy por debajo del mercado. El deal reafirma que la infraestructura de IA —chips y hardware especializado— sigue atrayendo capital masivo.",
-      "por_que_importa": "Las megavalorizaciones en infraestructura de IA condicionan el ecosistema global de VC y señalan dónde se concentra el capital que compite con otras verticales.",
-      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 14,
-      "categoria": "Rondas",
-      "titulo_es": "Norm, startup de IA legal, recauda USD 120 millones en Serie C y alcanza valoración unicornio de USD 1.200 millones",
-      "resumen": "Norm, una startup que aplica inteligencia artificial a servicios legales, cerró una ronda Serie C de USD 120 millones liderada por Khosla Ventures, alcanzando una valoración de USD 1.200 millones. El hito convierte a Norm en el más reciente unicornio del segmento legaltech con IA. La vertical de AI + servicios profesionales (legal, contable, médico) está mostrando tracción creciente con inversores institucionales.",
-      "por_que_importa": "El auge de legaltech con IA es directamente relevante para LatAm, donde el acceso a servicios legales es costoso y hay oportunidad para startups locales en el segmento.",
-      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 8,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Figma adquiere el equipo detrás de una app de vibe-coding respaldada por Y Combinator",
-      "resumen": "Figma anunció la adquisición del equipo fundador de una startup de vibe-coding que pasó de ser una plataforma de programación asistida por IA a construir herramientas de agentes, con respaldo de Y Combinator. La operación refleja la tendencia de grandes plataformas de diseño y desarrollo que incorporan capacidades de IA generativa vía M&A en lugar de desarrollo interno. No se revelaron términos económicos.",
-      "por_que_importa": "Las adquisiciones de equipos de YC por empresas consolidadas son un patrón de exit relevante que estudiantes de VC deben seguir como señal de mercado.",
-      "link": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Tendencias",
-      "titulo_es": "Microsoft reduce su dependencia de modelos de IA externos y apuesta por sus propios modelos para bajar costos",
-      "resumen": "Microsoft anunció un giro estratégico hacia el uso de sus propios modelos de inteligencia artificial en lugar de depender de proveedores externos, en línea con una tendencia más amplia de reducción de costos en IA entre las grandes tecnológicas. La movida tiene implicancias directas para OpenAI, socio estratégico de Microsoft, y para el mercado de API de modelos fundacionales. Es parte de una ola de eficiencia que está redefiniendo los modelos de negocio en el sector.",
-      "por_que_importa": "La estrategia de build vs. buy en IA de los grandes players define qué espacio queda para startups independientes de modelos y APIs, incluyendo las de LatAm.",
-      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Tendencias",
-      "titulo_es": "Por qué el auge del open source en IA todavía no está dañando el negocio de Anthropic",
-      "resumen": "Un análisis de TechCrunch explora por qué el éxito de modelos de código abierto como Llama no está canibalizando a los laboratorios frontier como Anthropic, sino que ambos capturan distintas fases del ciclo de adopción de IA. Los modelos open source dominan la experimentación y el fine-tuning, mientras los modelos propietarios retienen los casos de uso empresariales de alto valor. El artículo incluye datos concretos sobre retención de clientes y casos de uso diferenciados.",
-      "por_que_importa": "Comprender la dinámica open source vs. propietario es clave para evaluar el posicionamiento competitivo de startups de IA que buscan financiamiento.",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
-      "categoria": "Global",
-      "titulo_es": "ZML, startup francesa avalada por Yann LeCun, lanza software gratuito para acelerar la inferencia de IA en múltiples chips",
-      "resumen": "ZML lanzó ZML/LLMD, un software open source diseñado para optimizar la inferencia de modelos de lenguaje de gran escala en distintos tipos de chips de IA, lo que podría reducir significativamente los costos operativos de correr IA. La startup cuenta con el respaldo explícito de Yann LeCun, ganador del Premio Turing y jefe científico de IA de Meta. La estrategia de lanzar un producto gratuito apunta a capturar adopción masiva antes de monetizar servicios premium.",
-      "por_que_importa": "Las herramientas que reducen el costo de inferencia democratizan el acceso a IA para startups de LatAm con menor capacidad de inversión en infraestructura.",
-      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "titulo_es": "Paradigm cierra fondo de U$S 1.200M para invertir en startups de 'frontera técnica': AI, robótica y cripto",
+      "resumen": "La firma cripto-nativa Paradigm cerró un fondo de U$S 1.200 millones, expandiendo su tesis más allá de criptomonedas hacia robótica e inteligencia artificial. Es uno de los cierres de fondos de VC más grandes del año y refleja la convergencia entre cripto, AI y hardware avanzado.",
+      "por_que_importa": "Marca una tendencia clave en VC: los fondos especializados están ampliando su tesis hacia deep tech, algo que los estudiantes deben entender al analizar cómo evolucionan las estrategias de inversión.",
+      "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 21,
+      "categoria": "Global",
+      "titulo_es": "Europa tuvo su trimestre de mayor financiamiento VC en 4 años: U$S 24.000M en Q2 2026",
+      "resumen": "Según datos de Crunchbase, las startups europeas levantaron U$S 24.000 millones en Q2 2026, un incremento de aproximadamente un tercio respecto al mismo período del año anterior. El Reino Unido lideró el crecimiento y la actividad de M&A se mantuvo sólida. El dato consolida la recuperación del ecosistema europeo tras años de contracción.",
+      "por_que_importa": "El análisis de tendencias regionales en VC es esencial para entender cómo se comporta el capital global, con potencial de lecciones aplicables al ecosistema LatAm.",
+      "link": "https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 23,
       "categoria": "Tendencias",
-      "titulo_es": "Las métricas SaaS son un resultado, no una estrategia: por qué LTV/CAC y ARR no alcanzan para tomar decisiones",
-      "resumen": "Un artículo de Crunchbase News, escrito por el especialista Itay Sagie, argumenta que métricas estándar de SaaS como LTV/CAC, NRR, GRR y la Regla de los 40 son indicadores de desempeño pero no sustituyen a una estrategia de negocio sólida. El texto propone que founders y directorios deben formular las preguntas correctas detrás de los números para evitar optimizar métricas en lugar de construir valor real. Incluye ejemplos concretos de cómo mal interpretar estas métricas lleva a decisiones erróneas.",
-      "por_que_importa": "Para estudiantes que analizan startups o preparan casos de inversión, entender la limitación de las métricas SaaS es una habilidad crítica de due diligence.",
+      "titulo_es": "General Catalyst y a16z lideran el ranking de inversores más activos en EE.UU. durante Q2 2026",
+      "resumen": "Crunchbase publicó su ranking de inversores de venture más activos en Estados Unidos durante el segundo trimestre de 2026, con General Catalyst y Andreessen Horowitz encabezando las posiciones por volumen de deals y capital desplegado. El análisis incluye rankings de lead investors y mayores gastadores del período.",
+      "por_que_importa": "Conocer qué firmas lideran el mercado en cada ciclo permite a los estudiantes entender el poder de señalización de ciertos inversores y cómo se forman las dinámicas competitivas en el VC.",
+      "link": "https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 18,
+      "categoria": "Rondas",
+      "titulo_es": "Prime Intellect levanta U$S 130M en Serie A para que empresas entrenen sus propios agentes de AI",
+      "resumen": "Prime Intellect, fundada en 2024, cerró una Serie A de U$S 130 millones con el objetivo de dar a organizaciones la capacidad de entrenar sistemas agénticos propios sin depender de los grandes laboratorios de AI. La startup apunta al segmento enterprise con una propuesta de soberanía sobre modelos de inteligencia artificial.",
+      "por_que_importa": "La infraestructura de AI para empresas es uno de los sectores más activos en VC hoy; entender sus modelos de negocio y rondas es clave para analizar oportunidades de inversión en la capa de habilitación tecnológica.",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Rondas",
+      "titulo_es": "Lovable negocia ronda de U$S 300M que duplicaría su valuación a U$S 13.200M",
+      "resumen": "La startup de desarrollo de software con AI Lovable estaría en conversaciones para cerrar una ronda de U$S 300 millones liderada por Menlo Ventures, según reportó Sifted. De cerrarse, la operación llevaría su valuación a U$S 13.200 millones, el doble de su última valoración. El caso ilustra el boom de valuaciones en el segmento de AI-native dev tools.",
+      "por_que_importa": "Lovable es un ejemplo paradigmático de la velocidad con que escalan valuaciones en el segmento de AI aplicada al desarrollo de software, un debate central en el VC actual sobre si existe una burbuja.",
+      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 20,
+      "categoria": "Tendencias",
+      "titulo_es": "Las startups de AI que crecen más rápido están acelerando su ritmo de crecimiento de ingresos",
+      "resumen": "TechCrunch analiza cómo un grupo selecto de startups de inteligencia artificial no solo crece rápido, sino que está acelerando su tasa de crecimiento de ingresos trimestre a trimestre. El fenómeno diferencia a las compañías con tracción real de las que simplemente se benefician del hype del sector.",
+      "por_que_importa": "Aprender a distinguir entre startups con crecimiento sostenible y las que solo cabalgan el ciclo de hype es una habilidad fundamental para cualquier analista de VC o emprendedor.",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
+      "categoria": "Tendencias",
+      "titulo_es": "General Intuition apuesta a que la robótica tendrá su momento ChatGPT con datos de videojuegos",
+      "resumen": "La startup General Intuition está desarrollando modelos fundacionales para 'physical AI' entrenados con millones de horas de datos de videojuegos, reduciendo la necesidad de datos del mundo real. La propuesta busca democratizar el desarrollo de robots inteligentes y está atrayendo inversión significativa.",
+      "por_que_importa": "Physical AI y robótica son las próximas grandes fronteras de inversión en VC; entender los enfoques tecnológicos y de datos que los habilitan es esencial para anticipar tendencias de inversión.",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Fondos",
+      "titulo_es": "Solo GP Ashley Smith cierra su segundo fondo de U$S 25M enfocado en AI y ciberseguridad",
+      "resumen": "Vermilion Cliffs Ventures anunció el cierre de su Fondo II de U$S 25 millones, manejado por un único socio general. El fondo apunta a startups en etapa temprana en inteligencia artificial, seguridad y sectores adyacentes. El caso ejemplifica el modelo emergente de 'solo GP funds' como alternativa a las firmas tradicionales.",
+      "por_que_importa": "El modelo de solo GP está ganando popularidad en el VC global y representa una estructura que los estudiantes deben conocer al analizar la diversidad de vehículos de inversión disponibles.",
+      "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "fuente": "TechCrunch Venture"
+    },
+    {
+      "indice": 1,
+      "categoria": "Fondos",
+      "titulo_es": "Fundamentum lanza su tercer fondo de U$S 200M para AI y fintech en India, con cambios en liderazgo",
+      "resumen": "La firma india Fundamentum cerró su Fondo III de U$S 200 millones orientado a startups de AI y fintech, mientras su fundador Nandan Nilekani dejó el rol de GP para convertirse en inversor ancla. La transición implica una renovación del equipo de liderazgo y una expansión de la tesis de inversión.",
+      "por_que_importa": "El mercado indio comparte dinámicas con LatAm en términos de ecosistemas emergentes, regulación fintech y crecimiento de AI; sus fondos y estrategias ofrecen referencias comparativas valiosas.",
+      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 24,
+      "categoria": "Tendencias",
+      "titulo_es": "Las métricas de SaaS son un resultado, no una estrategia: cómo interpretar LTV/CAC, NRR y Rule of 40",
+      "resumen": "El artículo de Crunchbase argumenta que indicadores clave como LTV/CAC, Net Revenue Retention y la Regla de 40 son señales de salud del negocio pero no sustituyen a una estrategia sólida. El autor invita a líderes e inversores a ir más allá de los números para entender la lógica competitiva detrás de cada métrica.",
+      "por_que_importa": "Para estudiantes que analizan startups o preparan casos de inversión, entender los límites de las métricas estándar de SaaS es fundamental para hacer due diligence de calidad.",
       "link": "https://news.crunchbase.com/saas/metrics-unit-economics-questions-sagie/",
       "fuente": "Crunchbase News"
     }
