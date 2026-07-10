@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "Paradigm levanta U$S 1.200M y el VC global apuesta fuerte a AI, robotics y nuevos fondos técnicos",
+  "titular_del_dia": "Europa cierra su mejor trimestre de VC en 4 años con USD 24.000M y la IA sigue dominando las rondas globales",
   "items": [
     {
-      "indice": 17,
-      "categoria": "Fondos",
-      "titulo_es": "Paradigm cierra fondo de U$S 1.200M para invertir en startups de 'frontera técnica': AI, robótica y cripto",
-      "resumen": "La firma cripto-nativa Paradigm cerró un fondo de U$S 1.200 millones, expandiendo su tesis más allá de criptomonedas hacia robótica e inteligencia artificial. Es uno de los cierres de fondos de VC más grandes del año y refleja la convergencia entre cripto, AI y hardware avanzado.",
-      "por_que_importa": "Marca una tendencia clave en VC: los fondos especializados están ampliando su tesis hacia deep tech, algo que los estudiantes deben entender al analizar cómo evolucionan las estrategias de inversión.",
-      "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 21,
-      "categoria": "Global",
-      "titulo_es": "Europa tuvo su trimestre de mayor financiamiento VC en 4 años: U$S 24.000M en Q2 2026",
-      "resumen": "Según datos de Crunchbase, las startups europeas levantaron U$S 24.000 millones en Q2 2026, un incremento de aproximadamente un tercio respecto al mismo período del año anterior. El Reino Unido lideró el crecimiento y la actividad de M&A se mantuvo sólida. El dato consolida la recuperación del ecosistema europeo tras años de contracción.",
-      "por_que_importa": "El análisis de tendencias regionales en VC es esencial para entender cómo se comporta el capital global, con potencial de lecciones aplicables al ecosistema LatAm.",
+      "indice": 22,
+      "categoria": "Tendencias",
+      "titulo_es": "Europa registró su trimestre de financiamiento VC más fuerte en 4 años: USD 24.000M en Q2 2026",
+      "resumen": "Las startups europeas captaron USD 24.000M en Q2 2026, un incremento de aproximadamente un tercio respecto al trimestre anterior, según datos de Crunchbase. El Reino Unido lideró las ganancias y la actividad de M&A también se mantuvo sólida durante el período.",
+      "por_que_importa": "Entender los ciclos de VC en mercados comparables a LatAm ayuda a anticipar cuándo el capital global podría rotar hacia mercados emergentes como Argentina y la región.",
       "link": "https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 23,
-      "categoria": "Tendencias",
-      "titulo_es": "General Catalyst y a16z lideran el ranking de inversores más activos en EE.UU. durante Q2 2026",
-      "resumen": "Crunchbase publicó su ranking de inversores de venture más activos en Estados Unidos durante el segundo trimestre de 2026, con General Catalyst y Andreessen Horowitz encabezando las posiciones por volumen de deals y capital desplegado. El análisis incluye rankings de lead investors y mayores gastadores del período.",
-      "por_que_importa": "Conocer qué firmas lideran el mercado en cada ciclo permite a los estudiantes entender el poder de señalización de ciertos inversores y cómo se forman las dinámicas competitivas en el VC.",
-      "link": "https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/",
-      "fuente": "Crunchbase News"
+      "indice": 0,
+      "categoria": "Fondos",
+      "titulo_es": "Fundamentum lanza su tercer fondo de USD 200M y reestructura su liderazgo: Nilekani pasa a rol de anchor investor",
+      "resumen": "La firma india Fundamentum anunció el cierre de su tercer fondo de USD 200M con foco en startups de IA y fintech. Su cofundador Nandan Nilekani abandona el rol de GP pero permanece como principal inversor ancla, mientras la firma amplía su equipo de liderazgo.",
+      "por_que_importa": "El caso ilustra cómo los founders institucionales escalan firmas de VC y estructuran la transición de liderazgo, un modelo relevante para fondos emergentes en LatAm.",
+      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "fuente": "TechCrunch Venture"
     },
     {
-      "indice": 18,
+      "indice": 6,
       "categoria": "Rondas",
-      "titulo_es": "Prime Intellect levanta U$S 130M en Serie A para que empresas entrenen sus propios agentes de AI",
-      "resumen": "Prime Intellect, fundada en 2024, cerró una Serie A de U$S 130 millones con el objetivo de dar a organizaciones la capacidad de entrenar sistemas agénticos propios sin depender de los grandes laboratorios de AI. La startup apunta al segmento enterprise con una propuesta de soberanía sobre modelos de inteligencia artificial.",
-      "por_que_importa": "La infraestructura de AI para empresas es uno de los sectores más activos en VC hoy; entender sus modelos de negocio y rondas es clave para analizar oportunidades de inversión en la capa de habilitación tecnológica.",
-      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "titulo_es": "Lyzr recaudó USD 100M usando su propio agente de IA para gestionar el proceso de fundraising",
+      "resumen": "Lyzr, startup de agentes de IA para empresas, cerró una ronda de USD 100M y utilizó su propio producto —un agente de IA— para coordinar el proceso de captación de fondos. La iniciativa funciona como demostración tangible del valor del producto ante inversores.",
+      "por_que_importa": "Muestra una tendencia emergente donde las startups usan su propio stack tecnológico como proof-of-concept en el fundraising, algo que los founders de LatAm pueden replicar.",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 4,
+      "indice": 15,
       "categoria": "Rondas",
-      "titulo_es": "Lovable negocia ronda de U$S 300M que duplicaría su valuación a U$S 13.200M",
-      "resumen": "La startup de desarrollo de software con AI Lovable estaría en conversaciones para cerrar una ronda de U$S 300 millones liderada por Menlo Ventures, según reportó Sifted. De cerrarse, la operación llevaría su valuación a U$S 13.200 millones, el doble de su última valoración. El caso ilustra el boom de valuaciones en el segmento de AI-native dev tools.",
-      "por_que_importa": "Lovable es un ejemplo paradigmático de la velocidad con que escalan valuaciones en el segmento de AI aplicada al desarrollo de software, un debate central en el VC actual sobre si existe una burbuja.",
-      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "titulo_es": "Mercor negocia una valoración de USD 20.000M, duplicando su valuación en menos de un año",
+      "resumen": "La startup de contratación impulsada por IA Mercor estaría en conversaciones para levantar capital a una valoración de USD 20.000M, frente a los USD 10.000M que alcanzó en octubre pasado. El salto refleja el apetito sostenido del mercado por plataformas de talento y trabajo potenciadas por IA.",
+      "por_que_importa": "La velocidad de crecimiento en valuación de Mercor ejemplifica cómo el segmento de IA aplicada al futuro del trabajo está atrayendo capital de crecimiento a escala, con potencial paralelo en LatAm.",
+      "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 20,
+      "indice": 17,
+      "categoria": "Rondas",
+      "titulo_es": "Gradium, startup francesa de voz con IA respaldada por Nvidia, cerró una seed de USD 100M",
+      "resumen": "La parisina Gradium anunció una ronda seed de USD 100M con participación de Nvidia, convirtiéndola en una de las mayores rondas seed en el segmento de voz con IA. Con el capital planea abrir oficinas en el Bay Area para competir por talento.",
+      "por_que_importa": "Una seed de USD 100M respaldada por un fabricante de chips marca un nuevo estándar en la etapa temprana de startups de infraestructura de IA, relevante para entender cómo se valoriza el talento técnico globalmente.",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 9,
       "categoria": "Tendencias",
-      "titulo_es": "Las startups de AI que crecen más rápido están acelerando su ritmo de crecimiento de ingresos",
-      "resumen": "TechCrunch analiza cómo un grupo selecto de startups de inteligencia artificial no solo crece rápido, sino que está acelerando su tasa de crecimiento de ingresos trimestre a trimestre. El fenómeno diferencia a las compañías con tracción real de las que simplemente se benefician del hype del sector.",
-      "por_que_importa": "Aprender a distinguir entre startups con crecimiento sostenible y las que solo cabalgan el ciclo de hype es una habilidad fundamental para cualquier analista de VC o emprendedor.",
-      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "titulo_es": "El debate sobre el ROI de la IA escala a USD 3 billones: ¿cuándo se ven los retornos?",
+      "resumen": "El mercado retoma la discusión sobre si la inversión masiva en IA está generando retornos proporcionales, con cifras de impacto proyectado que ya superan los USD 3 billones. El artículo analiza los indicadores que inversores y empresas están usando para medir productividad real versus hype.",
+      "por_que_importa": "Comprender el debate de ROI en IA es clave para evaluar tesis de inversión en startups del sector, especialmente a medida que fondos de LatAm aumentan su exposición al segmento.",
+      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 11,
       "categoria": "Tendencias",
-      "titulo_es": "General Intuition apuesta a que la robótica tendrá su momento ChatGPT con datos de videojuegos",
-      "resumen": "La startup General Intuition está desarrollando modelos fundacionales para 'physical AI' entrenados con millones de horas de datos de videojuegos, reduciendo la necesidad de datos del mundo real. La propuesta busca democratizar el desarrollo de robots inteligentes y está atrayendo inversión significativa.",
-      "por_que_importa": "Physical AI y robótica son las próximas grandes fronteras de inversión en VC; entender los enfoques tecnológicos y de datos que los habilitan es esencial para anticipar tendencias de inversión.",
-      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "titulo_es": "Charles Hudson de Precursor Ventures comparte los errores más comunes tras invertir en más de 500 startups",
+      "resumen": "En un episodio del podcast Build Mode, el GP de Precursor Ventures —firma enfocada en etapa pre-seed— reflexiona sobre los principales errores de founders en el entorno actual y los factores que hacen fracasar a startups en etapas tempranas. Hudson ha invertido en más de 500 compañías.",
+      "por_que_importa": "Las lecciones de un inversor con más de 500 deals en etapa temprana ofrecen marcos prácticos directamente aplicables para founders y analistas de VC en formación.",
+      "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 0,
-      "categoria": "Fondos",
-      "titulo_es": "Solo GP Ashley Smith cierra su segundo fondo de U$S 25M enfocado en AI y ciberseguridad",
-      "resumen": "Vermilion Cliffs Ventures anunció el cierre de su Fondo II de U$S 25 millones, manejado por un único socio general. El fondo apunta a startups en etapa temprana en inteligencia artificial, seguridad y sectores adyacentes. El caso ejemplifica el modelo emergente de 'solo GP funds' como alternativa a las firmas tradicionales.",
-      "por_que_importa": "El modelo de solo GP está ganando popularidad en el VC global y representa una estructura que los estudiantes deben conocer al analizar la diversidad de vehículos de inversión disponibles.",
-      "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-      "fuente": "TechCrunch Venture"
-    },
-    {
-      "indice": 1,
-      "categoria": "Fondos",
-      "titulo_es": "Fundamentum lanza su tercer fondo de U$S 200M para AI y fintech en India, con cambios en liderazgo",
-      "resumen": "La firma india Fundamentum cerró su Fondo III de U$S 200 millones orientado a startups de AI y fintech, mientras su fundador Nandan Nilekani dejó el rol de GP para convertirse en inversor ancla. La transición implica una renovación del equipo de liderazgo y una expansión de la tesis de inversión.",
-      "por_que_importa": "El mercado indio comparte dinámicas con LatAm en términos de ecosistemas emergentes, regulación fintech y crecimiento de AI; sus fondos y estrategias ofrecen referencias comparativas valiosas.",
-      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "indice": 5,
+      "categoria": "Global",
+      "titulo_es": "OpenAI lanzó GPT-5.6 y una nueva familia de modelos con mejoras en ciberseguridad",
+      "resumen": "OpenAI presentó GPT-5.6 como cabeza de su nueva familia de modelos, con avances en razonamiento, capacidades agénticas y ciberseguridad. El lanzamiento se produce en un momento de incertidumbre interna tras la salida de su segunda ejecutiva, Fidji Simo.",
+      "por_que_importa": "Cada nuevo lanzamiento de modelos foundation redefine el piso tecnológico sobre el que se construyen startups de IA en LatAm, afectando directamente las tesis de inversión en la capa de aplicaciones.",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 24,
-      "categoria": "Tendencias",
-      "titulo_es": "Las métricas de SaaS son un resultado, no una estrategia: cómo interpretar LTV/CAC, NRR y Rule of 40",
-      "resumen": "El artículo de Crunchbase argumenta que indicadores clave como LTV/CAC, Net Revenue Retention y la Regla de 40 son señales de salud del negocio pero no sustituyen a una estrategia sólida. El autor invita a líderes e inversores a ir más allá de los números para entender la lógica competitiva detrás de cada métrica.",
-      "por_que_importa": "Para estudiantes que analizan startups o preparan casos de inversión, entender los límites de las métricas estándar de SaaS es fundamental para hacer due diligence de calidad.",
-      "link": "https://news.crunchbase.com/saas/metrics-unit-economics-questions-sagie/",
+      "indice": 21,
+      "categoria": "Rondas",
+      "titulo_es": "Cinco deals de startups destacados: IA para biología, defensa subterránea y automatización de mercados privados",
+      "resumen": "Crunchbase seleccionó cinco rondas notables del último mes, incluyendo una startup que desarrolla modelos de IA para biología, una de tecnología de defensa y otra orientada a reducir la burocracia en mercados privados. El segmento de automatización de procesos en mercados de capital privado es especialmente relevante.",
+      "por_que_importa": "La automatización de procesos en private equity y venture —due diligence, reporting, compliance— es una oportunidad de negocio emergente con aplicación directa en la industria que estudian los miembros del club.",
+      "link": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare/",
       "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 3,
+      "categoria": "Tendencias",
+      "titulo_es": "Dos nuevos ETFs excluyen explícitamente a empresas lideradas por Elon Musk, incluidas Tesla y SpaceX",
+      "resumen": "Se lanzaron dos ETFs diseñados para inversores que no quieren exposición a compañías fundadas, controladas o dirigidas por Elon Musk, excluyendo Tesla, SpaceX y xAI. El producto responde a una demanda creciente de inversión con criterios de valores en mercados públicos.",
+      "por_que_importa": "La aparición de vehículos de inversión temáticos basados en criterios de gobernanza y valores ilustra cómo las preferencias de los LPs y los inversores retail están reformando la estructuración de productos financieros.",
+      "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+      "fuente": "TechCrunch"
     }
   ]
 }
