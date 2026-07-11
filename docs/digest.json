@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "Europa cierra su mejor trimestre de VC en 4 años con USD 24.000M y la IA sigue dominando las rondas globales",
+  "titular_del_dia": "Computación cuántica y ciberseguridad acaparan las rondas más grandes de la semana global, mientras el ecosistema AI reorganiza su cúpula directiva",
   "items": [
     {
-      "indice": 22,
+      "indice": 12,
+      "categoria": "Rondas",
+      "titulo_es": "Oratomic levanta USD 300M para construir una computadora cuántica viable con solo 20.000 qubits",
+      "resumen": "La ronda fue co-liderada por ARCH Venture Partners, Spark Capital y Khosla Ventures. Oratomic apuesta a una arquitectura que reduce drásticamente la cantidad de qubits necesarios respecto a competidores. Es una de las rondas de hardware deeptech más grandes del año.",
+      "por_que_importa": "Ilustra cómo los fondos de VC tier-1 están apostando a infraestructura cuántica como la próxima gran ola de inversión en deeptech, un sector emergente con alta relevancia para portfolios futuros.",
+      "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 21,
       "categoria": "Tendencias",
-      "titulo_es": "Europa registró su trimestre de financiamiento VC más fuerte en 4 años: USD 24.000M en Q2 2026",
-      "resumen": "Las startups europeas captaron USD 24.000M en Q2 2026, un incremento de aproximadamente un tercio respecto al trimestre anterior, según datos de Crunchbase. El Reino Unido lideró las ganancias y la actividad de M&A también se mantuvo sólida durante el período.",
-      "por_que_importa": "Entender los ciclos de VC en mercados comparables a LatAm ayuda a anticipar cuándo el capital global podría rotar hacia mercados emergentes como Argentina y la región.",
-      "link": "https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/",
+      "titulo_es": "Las 10 rondas de inversión más grandes de la semana: ciberseguridad e infraestructura de IA lideran con dos deals de más de USD 1.000M",
+      "resumen": "Cinco de las diez rondas más grandes correspondieron a startups de IA, incluyendo dos financiamientos de más de mil millones de dólares en infraestructura de IA y ciberseguridad. Keyfactor y SambaNova figuran entre los protagonistas. La concentración de capital en IA sigue acelerándose semana a semana.",
+      "por_que_importa": "El resumen semanal de Crunchbase es una herramienta de referencia directa para seguir hacia dónde fluye el capital de riesgo global y qué sectores están atrayendo los cheques más grandes.",
+      "link": "https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 0,
-      "categoria": "Fondos",
-      "titulo_es": "Fundamentum lanza su tercer fondo de USD 200M y reestructura su liderazgo: Nilekani pasa a rol de anchor investor",
-      "resumen": "La firma india Fundamentum anunció el cierre de su tercer fondo de USD 200M con foco en startups de IA y fintech. Su cofundador Nandan Nilekani abandona el rol de GP pero permanece como principal inversor ancla, mientras la firma amplía su equipo de liderazgo.",
-      "por_que_importa": "El caso ilustra cómo los founders institucionales escalan firmas de VC y estructuran la transición de liderazgo, un modelo relevante para fondos emergentes en LatAm.",
-      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "fuente": "TechCrunch Venture"
-    },
-    {
-      "indice": 6,
-      "categoria": "Rondas",
-      "titulo_es": "Lyzr recaudó USD 100M usando su propio agente de IA para gestionar el proceso de fundraising",
-      "resumen": "Lyzr, startup de agentes de IA para empresas, cerró una ronda de USD 100M y utilizó su propio producto —un agente de IA— para coordinar el proceso de captación de fondos. La iniciativa funciona como demostración tangible del valor del producto ante inversores.",
-      "por_que_importa": "Muestra una tendencia emergente donde las startups usan su propio stack tecnológico como proof-of-concept en el fundraising, algo que los founders de LatAm pueden replicar.",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 15,
-      "categoria": "Rondas",
-      "titulo_es": "Mercor negocia una valoración de USD 20.000M, duplicando su valuación en menos de un año",
-      "resumen": "La startup de contratación impulsada por IA Mercor estaría en conversaciones para levantar capital a una valoración de USD 20.000M, frente a los USD 10.000M que alcanzó en octubre pasado. El salto refleja el apetito sostenido del mercado por plataformas de talento y trabajo potenciadas por IA.",
-      "por_que_importa": "La velocidad de crecimiento en valuación de Mercor ejemplifica cómo el segmento de IA aplicada al futuro del trabajo está atrayendo capital de crecimiento a escala, con potencial paralelo en LatAm.",
-      "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 17,
-      "categoria": "Rondas",
-      "titulo_es": "Gradium, startup francesa de voz con IA respaldada por Nvidia, cerró una seed de USD 100M",
-      "resumen": "La parisina Gradium anunció una ronda seed de USD 100M con participación de Nvidia, convirtiéndola en una de las mayores rondas seed en el segmento de voz con IA. Con el capital planea abrir oficinas en el Bay Area para competir por talento.",
-      "por_que_importa": "Una seed de USD 100M respaldada por un fabricante de chips marca un nuevo estándar en la etapa temprana de startups de infraestructura de IA, relevante para entender cómo se valoriza el talento técnico globalmente.",
-      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 9,
-      "categoria": "Tendencias",
-      "titulo_es": "El debate sobre el ROI de la IA escala a USD 3 billones: ¿cuándo se ven los retornos?",
-      "resumen": "El mercado retoma la discusión sobre si la inversión masiva en IA está generando retornos proporcionales, con cifras de impacto proyectado que ya superan los USD 3 billones. El artículo analiza los indicadores que inversores y empresas están usando para medir productividad real versus hype.",
-      "por_que_importa": "Comprender el debate de ROI en IA es clave para evaluar tesis de inversión en startups del sector, especialmente a medida que fondos de LatAm aumentan su exposición al segmento.",
-      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 11,
-      "categoria": "Tendencias",
-      "titulo_es": "Charles Hudson de Precursor Ventures comparte los errores más comunes tras invertir en más de 500 startups",
-      "resumen": "En un episodio del podcast Build Mode, el GP de Precursor Ventures —firma enfocada en etapa pre-seed— reflexiona sobre los principales errores de founders en el entorno actual y los factores que hacen fracasar a startups en etapas tempranas. Hudson ha invertido en más de 500 compañías.",
-      "por_que_importa": "Las lecciones de un inversor con más de 500 deals en etapa temprana ofrecen marcos prácticos directamente aplicables para founders y analistas de VC en formación.",
-      "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
+      "indice": 7,
+      "categoria": "Global",
+      "titulo_es": "SK Hynix recauda USD 26.500M en el IPO extranjero más grande de la historia de Wall Street",
+      "resumen": "El fabricante surcoreano de chips de memoria, clave en el boom de IA por su producción de HBM, completó la salida a bolsa más grande de un empresa extranjera en EE.UU. El gobierno y legisladores estadounidenses presionaron simultáneamente para que SK Hynix y Samsung construyan fábricas locales. El deal refleja la intersección entre geopolítica, cadenas de suministro de chips y mercados de capitales.",
+      "por_que_importa": "Un exit de esta escala en el sector semiconductores muestra cómo los mercados de capitales valúan la infraestructura de IA, un dato clave para entender valuaciones y múltiplos en el ecosistema tech.",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 5,
       "categoria": "Global",
-      "titulo_es": "OpenAI lanzó GPT-5.6 y una nueva familia de modelos con mejoras en ciberseguridad",
-      "resumen": "OpenAI presentó GPT-5.6 como cabeza de su nueva familia de modelos, con avances en razonamiento, capacidades agénticas y ciberseguridad. El lanzamiento se produce en un momento de incertidumbre interna tras la salida de su segunda ejecutiva, Fidji Simo.",
-      "por_que_importa": "Cada nuevo lanzamiento de modelos foundation redefine el piso tecnológico sobre el que se construyen startups de IA en LatAm, afectando directamente las tesis de inversión en la capa de aplicaciones.",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "titulo_es": "Apple demanda a OpenAI por presunto robo de secretos comerciales",
+      "resumen": "Apple alega que empleados que pasaron a OpenAI se llevaron información confidencial, y que la conducta fue dirigida por líderes senior de la compañía. La demanda escala las tensiones legales entre las dos empresas más valiosas del ecosistema de IA. El caso puede sentar precedentes sobre movilidad de talento e IP en el sector.",
+      "por_que_importa": "El litigio plantea preguntas fundamentales sobre propiedad intelectual y non-competes en startups de IA, temas críticos para cualquier emprendedor o inversor que estructure acuerdos con empleados clave.",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 21,
-      "categoria": "Rondas",
-      "titulo_es": "Cinco deals de startups destacados: IA para biología, defensa subterránea y automatización de mercados privados",
-      "resumen": "Crunchbase seleccionó cinco rondas notables del último mes, incluyendo una startup que desarrolla modelos de IA para biología, una de tecnología de defensa y otra orientada a reducir la burocracia en mercados privados. El segmento de automatización de procesos en mercados de capital privado es especialmente relevante.",
-      "por_que_importa": "La automatización de procesos en private equity y venture —due diligence, reporting, compliance— es una oportunidad de negocio emergente con aplicación directa en la industria que estudian los miembros del club.",
+      "indice": 16,
+      "categoria": "Tendencias",
+      "titulo_es": "El CEO de Hugging Face explica por qué las empresas están abandonando el modelo de 'alquilar' IA",
+      "resumen": "Clem Delangue argumenta que las empresas están migrando hacia IA open source para evitar dependencia de proveedores como OpenAI o Google. Hugging Face se consolidó como el equivalente a GitHub para modelos de IA, con millones de descargas semanales. La tendencia impacta directamente los modelos de negocio y valuaciones de los grandes players de IA propietaria.",
+      "por_que_importa": "Entender el debate open source vs. propietario es esencial para analizar la sostenibilidad de los modelos de negocio de startups de IA en las que los fondos invierten hoy.",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Tendencias",
+      "titulo_es": "Startup Fizz demanda a un VC de Maveron por compartir información confidencial con un competidor durante un proceso de fundraising",
+      "resumen": "Fizz expandió su demanda legal contra Sidechat alegando que un socio del fondo Maveron compartió datos sensibles obtenidos en una reunión de due diligence con la startup rival. El caso expone una zona gris crítica en la relación fundador-inversor durante procesos de levantamiento de capital. Es uno de los pocos casos documentados públicamente de este tipo de conflicto de interés.",
+      "por_que_importa": "Para estudiantes que van a levantar capital o hacer due diligence, este caso es un ejemplo concreto de los riesgos de confidencialidad en fundraising y la importancia de los NDAs.",
+      "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 22,
+      "categoria": "Tendencias",
+      "titulo_es": "Cinco deals de startups poco conocidos que vale la pena seguir: IA para biología, defensa subterránea y simplificación de mercados privados",
+      "resumen": "Crunchbase destaca cinco rondas fuera del radar mediático del último mes, incluyendo una startup que desarrolla modelos de IA para biología, una de tecnología para guerras subterráneas y otra enfocada en reducir la burocracia de los mercados privados de capital. Las rondas ilustran la diversificación sectorial del VC más allá de IA generativa. Los montos y etapas varían entre seed y Serie A.",
+      "por_que_importa": "Seguir deals 'bajo el radar' es una habilidad clave en VC; este listado entrena el ojo para identificar tendencias antes de que sean mainstream.",
       "link": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 3,
-      "categoria": "Tendencias",
-      "titulo_es": "Dos nuevos ETFs excluyen explícitamente a empresas lideradas por Elon Musk, incluidas Tesla y SpaceX",
-      "resumen": "Se lanzaron dos ETFs diseñados para inversores que no quieren exposición a compañías fundadas, controladas o dirigidas por Elon Musk, excluyendo Tesla, SpaceX y xAI. El producto responde a una demanda creciente de inversión con criterios de valores en mercados públicos.",
-      "por_que_importa": "La aparición de vehículos de inversión temáticos basados en criterios de gobernanza y valores ilustra cómo las preferencias de los LPs y los inversores retail están reformando la estructuración de productos financieros.",
-      "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+      "indice": 20,
+      "categoria": "Global",
+      "titulo_es": "Fidji Simo deja su cargo como número dos de OpenAI tras una baja médica prolongada",
+      "resumen": "Simo, quien había sido contratada como CEO de aplicaciones y segunda al mando de Sam Altman, confirmó su salida definitiva luego de que su licencia médica se extendiera más de lo esperado. La partida genera un vacío de liderazgo en un momento sensible, con OpenAI en medio de su transición a empresa con fines de lucro y negociaciones con Microsoft. Es el segundo cambio de liderazgo significativo en la cúpula de OpenAI en menos de un año.",
+      "por_que_importa": "La estabilidad del equipo directivo es un factor determinante en la valuación y riesgo de startups en etapa avanzada; este caso es un ejemplo real para analizar governance en unicornios.",
+      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "fuente": "TechCrunch"
+    },
+    {
+      "indice": 14,
+      "categoria": "Global",
+      "titulo_es": "La UE amenaza a Meta con multas por funciones adictivas en Facebook e Instagram que violan la Ley de Servicios Digitales",
+      "resumen": "La Comisión Europea determinó que Meta incumple el Digital Services Act al mantener funciones como scroll infinito, autoplay y algoritmos de recomendación hiperpersonalizados. Las multas pueden llegar al 6% de la facturación global anual. El caso marca una escalada en la regulación de plataformas con implicancias directas para startups que operan en Europa.",
+      "por_que_importa": "El avance regulatorio europeo sobre diseño de producto fija un precedente que eventualmente llegará a LatAm, afectando cómo startups de consumo diseñan sus experiencias de usuario.",
+      "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "Internet Court: un consorcio de 27 empresas busca crear la infraestructura legal para el comercio autónomo entre agentes de IA",
+      "resumen": "Un consorcio que incluye a GenLayer y otras 26 compañías de infraestructura descentralizada lanzó Internet Court, una iniciativa para establecer un marco legal y de resolución de disputas para transacciones ejecutadas por agentes de IA sin intervención humana. El proyecto apunta a resolver el vacío legal que surge cuando dos AIs acuerdan y ejecutan contratos comerciales. Es una apuesta de infraestructura para la economía agéntica que comienza a tomar forma.",
+      "por_que_importa": "El comercio entre agentes autónomos de IA es una tendencia que creará nuevas categorías de inversión en los próximos años; entender su infraestructura legal es una ventaja analítica temprana.",
+      "link": "https://contxto.com/en/inteligencia-artificial/internet-court-aims-to-become-the-legal-infrastructure-for-agentic-commerce/",
+      "fuente": "Contxto"
     }
   ]
 }
