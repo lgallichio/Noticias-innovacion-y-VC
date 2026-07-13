@@ -1,49 +1,31 @@
 {
-  "titular_del_dia": "Semana sin noticias de rondas LatAm: el ecosistema global muestra tendencias en AI, biotech y controversias en startups de consumo",
+  "titular_del_dia": "La era del 'demostrá que funciona': cómo el capital institucional filtra las startups de IA en 2026",
   "items": [
-    {
-      "indice": 0,
-      "categoria": "Fondos",
-      "titulo_es": "Yosemite, el fondo de biotech de Reed Jobs, madura su tesis y apuesta por la cura del cáncer",
-      "resumen": "Reed Jobs, hijo de Steve Jobs, fundó Yosemite como fondo de venture capital especializado en biotecnología oncológica. La firma ha consolidado su posición desde su lanzamiento hace casi tres años, en un período de recuperación del sector biotech tras el crash post-pandemia. La entrevista revela la evolución de su tesis de inversión y el estado actual del portafolio.",
-      "por_que_importa": "Ilustra cómo un fondo de VC de tesis sectorial muy específica (biotech/oncología) construye convicción y navega ciclos de mercado adversos, un caso de estudio relevante para entender fund building.",
-      "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 3,
-      "categoria": "Tendencias",
-      "titulo_es": "OpenAI expande ChatGPT hacia el mercado familiar y de adultos mayores con un producto dedicado",
-      "resumen": "OpenAI publicó una búsqueda de product manager especializado en experiencias para familias, cuidadores y adultos mayores, señalando una expansión deliberada hacia segmentos de consumo masivo más allá del usuario tecnológico típico. Esta movida sugiere que la compañía apuesta por penetrar hogares completos como unidad de monetización. Es una señal clara de la próxima fase de crecimiento del producto de AI más usado del mundo.",
-      "por_que_importa": "La estrategia de expansión de mercado de OpenAI define qué verticales de AI-first startups tendrán viento a favor o enfrentarán competencia directa, información clave para analizar oportunidades de inversión en la región.",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Tendencias",
-      "titulo_es": "Phia, la startup de compras de la hija de Bill Gates, acusada de fraude en afiliados mediante 'cookie stuffing'",
-      "resumen": "Phia, startup de shopping fundada por Phoebe Gates y Sophia Kianni, enfrenta acusaciones de 'cookie stuffing': una práctica que le permitía atribuirse comisiones de afiliados por compras en las que no tuvo influencia real. La controversia pone en duda la integridad de sus métricas de conversión y el modelo de negocio sobre el que captó inversión. Es un caso con implicancias legales y reputacionales significativas.",
-      "por_que_importa": "Es un caso concreto de due diligence fallida y métricas manipuladas en una startup respaldada por inversores de perfil alto, exactamente el tipo de red flag que un analista de VC debe saber identificar.",
-      "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Tendencias",
-      "titulo_es": "Meta revierte función de AI en Instagram tras fuerte rechazo de usuarios y creadores",
-      "resumen": "Meta eliminó una funcionalidad de inteligencia artificial en Instagram que permitía usar contenido público de creadores como referencia para generación de imágenes, luego de una ola de críticas. La empresa reconoció que su intención era ofrecer una herramienta creativa con control del usuario, pero el backlash fue suficiente para dar marcha atrás. El episodio refleja la tensión entre innovación en AI y consentimiento sobre datos.",
-      "por_que_importa": "El choque entre adopción de AI y regulación informal por presión de usuarios es un patrón que afecta directamente a startups de AI generativa en LatAm que deben anticipar estos riesgos reputacionales y legales.",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "fuente": "TechCrunch"
-    },
     {
       "indice": 2,
       "categoria": "Tendencias",
-      "titulo_es": "Even Realities lanza anteojos inteligentes sin cámara y apuesta por la productividad sobre la vigilancia",
-      "resumen": "La startup Even Realities presentó smart glasses orientadas a profesionales en reuniones, presentaciones y viajes internacionales, con funciones de traducción y asistencia pero sin cámara integrada. La decisión de omitir la cámara es una apuesta de diferenciación frente a competidores como Meta Ray-Ban, priorizando contextos corporativos donde grabar es inapropiado. El producto apunta a un segmento B2B de wearables de productividad.",
-      "por_que_importa": "Muestra cómo una startup de hardware puede encontrar un nicho defensible dentro de una categoría dominada por grandes jugadores, una lección de posicionamiento aplicable al análisis de oportunidades en deep tech.",
-      "link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "titulo_es": "Sapphire Ventures: qué diferencia a las startups de IA que realmente levantan capital institucional",
+      "resumen": "Anders Ranum, partner de Sapphire Ventures, describe un cambio de ciclo en VC: los inversores ya no financian promesas de IA, sino métricas concretas de retención, expansión de ingresos y camino a rentabilidad. La brecha entre valuaciones públicas y privadas en software de IA obliga a los fundadores a justificar múltiplos con datos reales. El artículo incluye criterios específicos que usa Sapphire para diferenciar ganadores de perdedores en el segmento B2B.",
+      "por_que_importa": "Entender qué exige hoy el capital institucional a las startups de IA es esencial para cualquier estudiante que quiera trabajar en VC o levantar su propia ronda.",
+      "link": "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 0,
+      "categoria": "Global",
+      "titulo_es": "Uber y Waymo se enfrentan en Washington por el futuro regulatorio de los robotaxis",
+      "resumen": "Uber y Waymo están en conflicto directo en el Congreso de EE.UU. por marcos regulatorios que definirán quién puede operar flotas autónomas a escala nacional. Uber presiona por reglas que permitan a plataformas de ride-hailing integrar vehículos autónomos de terceros, mientras Waymo defiende un modelo más cerrado. El resultado legislativo impactará directamente las estrategias de inversión en movilidad autónoma globalmente.",
+      "por_que_importa": "El desenlace regulatorio en EE.UU. suele marcar el camino para marcos similares en LatAm, y la movilidad autónoma es uno de los sectores con mayor actividad de VC en la región.",
+      "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "Tendencias",
+      "titulo_es": "El ultimátum de los robotaxis: los operadores deben probar viabilidad comercial o perder el mercado",
+      "resumen": "El newsletter de movilidad de TechCrunch analiza cómo los principales players de robotaxis enfrentan presión simultánea de inversores y reguladores para demostrar unit economics sostenibles antes de escalar. Se repasan los casos de Waymo, Zoox y competidores internacionales, y se señala que 2026 es el año bisagra para definir qué modelos de negocio sobreviven. El análisis tiene implicancias directas para fondos con exposición a movilidad.",
+      "por_que_importa": "Es un caso de estudio concreto sobre cómo los inversores evalúan la transición de 'deep tech' a negocio escalable, un dilema que también enfrentan startups de movilidad en LatAm.",
+      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
       "fuente": "TechCrunch"
     }
   ]
