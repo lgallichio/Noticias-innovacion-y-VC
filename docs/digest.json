@@ -1,31 +1,94 @@
 {
-  "titular_del_dia": "La era del 'demostrá que funciona': cómo el capital institucional filtra las startups de IA en 2026",
+  "titular_del_dia": "La IA sigue atrayendo capital récord: agentes, video generativo y la advertencia de Nadella sobre dependencia tecnológica marcan la agenda global",
   "items": [
     {
-      "indice": 2,
+      "indice": 20,
       "categoria": "Tendencias",
-      "titulo_es": "Sapphire Ventures: qué diferencia a las startups de IA que realmente levantan capital institucional",
-      "resumen": "Anders Ranum, partner de Sapphire Ventures, describe un cambio de ciclo en VC: los inversores ya no financian promesas de IA, sino métricas concretas de retención, expansión de ingresos y camino a rentabilidad. La brecha entre valuaciones públicas y privadas en software de IA obliga a los fundadores a justificar múltiplos con datos reales. El artículo incluye criterios específicos que usa Sapphire para diferenciar ganadores de perdedores en el segmento B2B.",
-      "por_que_importa": "Entender qué exige hoy el capital institucional a las startups de IA es esencial para cualquier estudiante que quiera trabajar en VC o levantar su propia ronda.",
+      "titulo_es": "La era del 'demuéstralo': cómo los VCs institucionales separan las startups de IA ganadoras del ruido",
+      "resumen": "Anders Ranum, socio de Sapphire Ventures, explica cómo el capital institucional navega la brecha entre los múltiplos de IA en mercados públicos y las valuaciones privadas. El análisis distingue qué características concretas —tracción de revenue, retención, diferenciación técnica— separan a los ganadores en B2B IA. Es una lectura directa sobre cómo los VCs toman decisiones de inversión hoy.",
+      "por_que_importa": "Entender los criterios reales de selección de un fondo institucional es exactamente el tipo de framework que un analista de VC necesita para evaluar deals y construir tesis de inversión.",
       "link": "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 0,
-      "categoria": "Global",
-      "titulo_es": "Uber y Waymo se enfrentan en Washington por el futuro regulatorio de los robotaxis",
-      "resumen": "Uber y Waymo están en conflicto directo en el Congreso de EE.UU. por marcos regulatorios que definirán quién puede operar flotas autónomas a escala nacional. Uber presiona por reglas que permitan a plataformas de ride-hailing integrar vehículos autónomos de terceros, mientras Waymo defiende un modelo más cerrado. El resultado legislativo impactará directamente las estrategias de inversión en movilidad autónoma globalmente.",
-      "por_que_importa": "El desenlace regulatorio en EE.UU. suele marcar el camino para marcos similares en LatAm, y la movilidad autónoma es uno de los sectores con mayor actividad de VC en la región.",
+      "indice": 6,
+      "categoria": "Tendencias",
+      "titulo_es": "Nadella advierte a las empresas sobre el riesgo de depender de los grandes laboratorios de IA propietaria",
+      "resumen": "El CEO de Microsoft alertó que las compañías que construyen sobre modelos de IA propietarios de grandes labs enfrentan un riesgo estratégico significativo de lock-in y pérdida de control. La advertencia llega en un contexto donde startups y corporaciones en LatAm están definiendo su stack tecnológico de IA. El debate tiene implicancias directas sobre build vs. buy y open source vs. propietario.",
+      "por_que_importa": "Para fundadores y operadores en Argentina y LatAm que están eligiendo su infraestructura de IA, esta señal de uno de los mayores players del mercado es estratégicamente crítica.",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 3,
+      "categoria": "Rondas",
+      "titulo_es": "PixVerse recauda USD 439M y supera una valuación de USD 2.000M en generación de video con IA",
+      "resumen": "La startup de video generativo PixVerse cerró una ronda de USD 439 millones, con valuación que supera los USD 2.000 millones. Los fondos se destinarán a expandir su oferta de 'world models' y escalar geográficamente. La ronda refleja el apetito sostenido del mercado por infraestructura de IA generativa multimedia.",
+      "por_que_importa": "Es un benchmark de valuación y tamaño de ronda en el segmento de IA generativa que sirve como referencia para entender hacia dónde fluye el capital global en 2026.",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Rondas",
+      "titulo_es": "Nous Research, creadora del agente Hermes, negocia ronda de USD 75M a valuación de USD 1.500M",
+      "resumen": "Nous Research, conocida por sus modelos de agentes de IA como Hermes, está en conversaciones para levantar al menos USD 75 millones liderados por Robot Ventures, con participación significativa de Union Square Ventures (USV). La valuación llegaría a USD 1.500 millones. El deal consolida la tesis de inversión en agentes de IA como categoría diferenciada.",
+      "por_que_importa": "La participación de USV, uno de los fondos más referenciales en Web3 y ahora en IA, es una señal de qué tipo de apuestas en agentes considera de alto potencial el capital sofisticado.",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 19,
+      "categoria": "Tendencias",
+      "titulo_es": "El financiamiento a startups de ciberseguridad suma USD 4.400M solo en el segundo trimestre de 2026",
+      "resumen": "Según Crunchbase, el primer semestre de 2026 fue sólido para el sector: Q1 fue más robusto que Q2, pero las startups de privacidad y ciberseguridad igualmente captaron USD 4.400 millones en Q2 en etapas seed a growth. El dato confirma que la categoría mantiene resiliencia incluso en un entorno de mayor selectividad del capital. Para LatAm, donde la ciberseguridad corporativa sigue siendo un mercado subdesarrollado, el contraste es relevante.",
+      "por_que_importa": "Ciberseguridad es uno de los sectores con mayor demanda insatisfecha en empresas latinoamericanas; conocer el volumen de inversión global ayuda a identificar oportunidades de replicación regional.",
+      "link": "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 10,
+      "categoria": "Exits/M&A",
+      "titulo_es": "General Fusion debuta en Nasdaq como la primera empresa de fusión nuclear que cotiza en bolsa",
+      "resumen": "General Fusion comenzó a cotizar en el Nasdaq tras completar un reverse merger, convirtiéndose en la primera compañía de fusión nuclear en acceder a los mercados públicos. El debut tuvo altas redenciones pero los inversores respondieron con entusiasmo en el precio. El evento marca un hito en la maduración del sector de energía de fusión como clase de activo.",
+      "por_que_importa": "El acceso de compañías de deep tech y energía a mercados públicos vía SPACs o reverse mergers es un mecanismo de exit que estudiantes de VC deben entender, especialmente con el auge de startups de energía en LatAm.",
+      "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 14,
+      "categoria": "Tendencias",
+      "titulo_es": "Anthropic localiza precios de Claude en rupias para India, su segundo mercado más grande tras EE.UU.",
+      "resumen": "Anthropic comenzó a ofrecer suscripciones de Claude denominadas en rupias indias, reconociendo a India como su mayor mercado fuera de Estados Unidos. La decisión implica una estrategia deliberada de penetración en mercados emergentes con pricing local. El movimiento es comparable a estrategias que grandes labs podrían eventualmente replicar en LatAm.",
+      "por_que_importa": "La localización de pricing en mercados emergentes es exactamente el tipo de decisión estratégica que startups y fondos en Argentina y LatAm deben monitorear como señal de expansión de los grandes players hacia la región.",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
+      "categoria": "Exits/M&A",
+      "titulo_es": "12 estados de EE.UU. demandan para bloquear la fusión de USD 110.000M entre Paramount y Warner Bros.",
+      "resumen": "Doce estados presentaron acciones legales para impedir la mega-fusión entre Paramount y Warner Bros., argumentando daños a cines, distribuidores de cable básico y audiencias. El deal, valuado en USD 110.000 millones, sería una de las mayores consolidaciones en la industria del entretenimiento. El caso suma evidencia sobre el endurecimiento del escrutinio antimonopolio en M&A de gran escala.",
+      "por_que_importa": "Entender cómo el riesgo regulatorio puede frenar o reconfigurar deals de M&A masivos es una competencia central para cualquiera que analice exits y consolidación de mercados.",
+      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Tendencias",
+      "titulo_es": "Uber y Waymo chocan en Washington por el lobby regulatorio de los robotaxis",
+      "resumen": "Uber y Waymo han convertido a Washington D.C. en campo de batalla por posiciones regulatorias opuestas en torno a los vehículos autónomos. Uber busca marcos que permitan competencia abierta, mientras Waymo defiende su posición dominante. El conflicto ilustra cómo la regulación se convierte en ventaja competitiva en industrias emergentes.",
+      "por_que_importa": "La dinámica de lobby y regulación en movilidad autónoma es un caso de estudio directo sobre cómo las startups y scale-ups utilizan el entorno normativo como foso competitivo, algo relevante para entender el ecosistema de movilidad en LatAm.",
       "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
       "categoria": "Tendencias",
-      "titulo_es": "El ultimátum de los robotaxis: los operadores deben probar viabilidad comercial o perder el mercado",
-      "resumen": "El newsletter de movilidad de TechCrunch analiza cómo los principales players de robotaxis enfrentan presión simultánea de inversores y reguladores para demostrar unit economics sostenibles antes de escalar. Se repasan los casos de Waymo, Zoox y competidores internacionales, y se señala que 2026 es el año bisagra para definir qué modelos de negocio sobreviven. El análisis tiene implicancias directas para fondos con exposición a movilidad.",
-      "por_que_importa": "Es un caso de estudio concreto sobre cómo los inversores evalúan la transición de 'deep tech' a negocio escalable, un dilema que también enfrentan startups de movilidad en LatAm.",
-      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "titulo_es": "Los grandes ganadores de la era tech vuelven a fundar startups para no perderse el momento de la IA",
+      "resumen": "Una nueva ola de emprendedores ya exitosos y ricos —fundadores de unicornios, ex-ejecutivos de big tech— está volviendo a construir compañías, impulsados por el temor a perderse el momento definitorio de la IA. El fenómeno combina FOMO con incentivos financieros reales ante valuaciones que vuelven a escalar. El patrón tiene implicancias directas sobre quién accede a capital en las primeras etapas.",
+      "por_que_importa": "Comprender por qué el capital de riesgo fluye más fácilmente hacia fundadores con historial previo es clave para entender las asimetrías del ecosistema emprendedor y cómo navegar el fundraising desde cero.",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
       "fuente": "TechCrunch"
     }
   ]
