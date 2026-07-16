@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "El fintech global capta 23% más capital en H1 2026 mientras el CVC se polariza y la AI redefine la infraestructura de identidad y cómputo",
+  "titular_del_dia": "Fintech global en alza y una agtech argentina conquista Brasil: el capital se mueve donde hay tracción real",
   "items": [
     {
-      "indice": 21,
+      "indice": 20,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Stripe y Advent International ofrecen comprar PayPal por USD 53.400 millones",
+      "resumen": "Stripe, la fintech de pagos valorada en ~USD 91.000M, y el fondo de private equity Advent International habrían presentado una oferta conjunta para adquirir PayPal por aproximadamente USD 53.400M. De concretarse, sería una de las mayores operaciones de M&A en la historia del sector fintech. PayPal ha perdido relevancia frente a competidores más ágiles en los últimos años.",
+      "por_que_importa": "Es un caso de manual sobre cómo el PE y el venture-stage capital convergen en un exit masivo; ilustra dinámicas de consolidación sectorial que son centrales en cualquier curso de VC/PE.",
+      "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 26,
       "categoria": "Tendencias",
-      "titulo_es": "El financiamiento a fintechs creció 23% en la primera mitad de 2026, pero con menos deals y tickets más grandes",
-      "resumen": "Según datos de Crunchbase, el venture capital en fintech subió casi 23% interanual en H1 2026, aunque la cantidad de rondas cayó más del 25%. El patrón refleja una concentración: los inversores apuestan fuerte en pocas compañías, priorizando infraestructura financiera y aplicaciones de IA. Esta dinámica es especialmente relevante para LatAm, donde el fintech sigue siendo el sector con mayor actividad de VC.",
-      "por_que_importa": "Entender que sube el capital pero bajan los deals es clave para analizar hacia dónde se mueve el dinero en el sector más activo de la región.",
+      "titulo_es": "El financiamiento global a fintechs creció 23% en el primer semestre de 2026, pero con menos deals y tickets más grandes",
+      "resumen": "Según datos de Crunchbase, el capital invertido en startups fintech subió casi 23% interanual en H1 2026, aunque la cantidad de rondas cayó más del 25%. Esto refleja una tendencia de concentración: los inversores escriben cheques más grandes para menos compañías, priorizando infraestructura financiera y aplicaciones de IA. Para LatAm, donde el fintech es el sector más financiado, la señal es relevante.",
+      "por_que_importa": "Entender que más capital no significa más deals ayuda a calibrar qué tipo de startups fintech latinoamericanas tienen chances reales de levantar en este entorno selectivo.",
       "link": "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/",
       "fuente": "Crunchbase News"
     },
     {
+      "indice": 0,
+      "categoria": "LatAm",
+      "titulo_es": "Una agtech argentina superó las validaciones más exigentes del agro brasileño y avanza en ese mercado",
+      "resumen": "Endeavor Argentina documenta el caso de una startup agtech local que logró penetrar el mercado agrícola brasileño —el más competitivo y técnicamente exigente de la región— tras superar estrictos procesos de validación. El artículo detalla la estrategia de entrada al mercado y los aprendizajes del proceso de internacionalización. Brasil representa el mayor mercado agro de LatAm y uno de los destinos prioritarios para el agtech regional.",
+      "por_que_importa": "El go-to-market de Argentina a Brasil es uno de los caminos de expansión más estudiados en el ecosistema; este caso ofrece datos concretos sobre cómo una startup local escala regionalmente.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-como-una-agtech-argentina-paso-el-examen-mas-duro-de-la-agricultura-brasilena/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
       "indice": 22,
       "categoria": "Tendencias",
-      "titulo_es": "El Corporate Venture Capital se divide en dos: gigantes concentran poder mientras los fondos pequeños quedan afuera",
-      "resumen": "Los cierres de los brazos de CVC de PayPal y Fidelity International no representan una retirada general, sino una polarización: los grandes CVCs corporativos acumulan más poder mientras los fondos más chicos pierden terreno. El análisis de Crunchbase advierte que esta concentración afectará primero a los fondos menores y a los ecosistemas emergentes que dependen de ellos. LatAm, donde el CVC tiene presencia creciente, podría sentir el impacto.",
-      "por_que_importa": "La estructura del CVC global impacta directamente en qué tipo de capital llega a startups de la región y en qué condiciones.",
+      "titulo_es": "Por qué las rondas seed de mil millones de dólares raramente generan retornos venture: el análisis de Crunchbase",
+      "resumen": "Un análisis de Crunchbase muestra que las mega-rondas seed —impulsadas por AI y biotech— históricamente producen retornos por debajo del promedio del venture, porque las valuaciones de entrada ya dejan poco upside para los inversores. Los datos históricos indican que cuanto mayor es la valuación inicial, menor la probabilidad de generar retornos 10x o más. El fenómeno se está acelerando en el ciclo actual de AI.",
+      "por_que_importa": "Desafía la narrativa de que levantar a mayor valuación siempre es mejor; es una lectura esencial para entender la economía real de los fondos de VC.",
+      "link": "https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 7,
+      "categoria": "Fondos",
+      "titulo_es": "Greylock cierra su nuevo fondo en USD 1.500 millones y rechaza capital adicional para mantener disciplina de inversión",
+      "resumen": "Greylock Partners lanzó un nuevo fondo de USD 1.500M con la decisión deliberada de no superar ese monto, pese a que podría haber captado más capital. La estrategia es limitar la cartera a alrededor de 25 inversiones por fondo para poder ser un socio activo y diferenciado para los founders. La firma argumenta que fondos más grandes obligan a hacer más deals, diluyendo la atención y el valor agregado.",
+      "por_que_importa": "La decisión de Greylock ilustra el trade-off entre tamaño de fondo y estrategia de valor agregado, un debate central en el diseño de cualquier vehículo de VC.",
+      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 27,
+      "categoria": "Tendencias",
+      "titulo_es": "El corporate venture capital se bifurca: los grandes se consolidan y los pequeños quedan afuera",
+      "resumen": "El cierre de los brazos de CVC de PayPal y Fidelity International no refleja una retirada general del corporate venture, sino una concentración de poder en los fondos corporativos más grandes y mejor capitalizados. Según el análisis, los CVCs medianos y pequeños serán los más afectados por esta polarización. La tendencia implica que solo los corporativos con mandatos claros y recursos suficientes sobrevivirán el ciclo.",
+      "por_que_importa": "Para el ecosistema LatAm, donde varios corporativos locales tienen brazos de CVC incipientes, entender esta dinámica global ayuda a anticipar qué tipo de socios corporativos serán viables en el mediano plazo.",
       "link": "https://news.crunchbase.com/venture/corporate-vc-splitting-paypal-fidelity-brotman-alpha/",
       "fuente": "Crunchbase News"
     },
     {
+      "indice": 10,
+      "categoria": "Rondas",
+      "titulo_es": "Neko Health, la startup de escaneo corporal del fundador de Spotify, recauda USD 700 millones en nueva ronda",
+      "resumen": "Neko Health, fundada por Daniel Ek (Spotify), cerró una ronda de USD 700M para expandir su tecnología de escaneo corporal preventivo combinada con análisis de sangre. La compañía opera centros de salud donde los usuarios reciben un chequeo integral en minutos. La ronda eleva la valuación de la startup y consolida la tesis de healthtech preventivo como categoría de inversión de alto interés.",
+      "por_que_importa": "La magnitud de la ronda y el perfil del fundador hacen de este caso un ejemplo de cómo el capital de riesgo sigue fluyendo hacia healthtech cuando hay tecnología propietaria y tracción demostrable.",
+      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Rondas",
+      "titulo_es": "Applied Computing levanta USD 20 millones Serie A para construir un modelo de IA fundacional para petróleo y gas",
+      "resumen": "La startup Applied Computing cerró una Serie A de USD 20M con el objetivo de desarrollar un modelo de IA específico para operadores de plantas de petróleo, gas y petroquímica. La apuesta es que los modelos verticales —entrenados con datos industriales específicos— superan en performance a los modelos generalistas para casos de uso críticos. El sector energético representa una oportunidad masiva para el AI industrial.",
+      "por_que_importa": "Con Argentina y LatAm siendo productores relevantes de hidrocarburos, la tesis de AI vertical para industria pesada tiene aplicación directa en la región y abre oportunidades para startups locales.",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "fuente": "TechCrunch"
+    },
+    {
       "indice": 23,
-      "categoria": "Tendencias",
-      "titulo_es": "El financiamiento a startups de ciberseguridad se mantiene sólido en 2026, con USD 4.400 M captados solo en Q2",
-      "resumen": "Las startups de privacidad y ciberseguridad levantaron USD 4.400 millones en Q2 2026 (seed a growth stage), aunque el primer trimestre fue más robusto. El contexto de proliferación de agentes de IA está impulsando la demanda de soluciones de identidad y seguridad. El sector se consolida como uno de los más atractivos para inversores institucionales en 2026.",
-      "por_que_importa": "Ciberseguridad es una de las verticales con mayor potencial de crecimiento para founders y fondos de LatAm que buscan oportunidades en infraestructura digital.",
-      "link": "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/",
+      "categoria": "Global",
+      "titulo_es": "El financiamiento a startups en Asia alcanzó un pico de varios años en Q2 2026, impulsado por China e inteligencia artificial",
+      "resumen": "Los inversores volcaron USD 42.800 millones en startups asiáticas durante el segundo trimestre de 2026, el nivel trimestral más alto en años, según Crunchbase. La ronda de USD 7.400M de DeepSeek explicó gran parte del salto, pero el dinamismo de AI en toda la región fue el factor estructural. El dato contrasta con la moderación del venture en mercados occidentales durante el mismo período.",
+      "por_que_importa": "Comparar los ciclos de funding entre regiones ayuda a entender dónde está el capital global y qué lecciones pueden extraer los ecosistemas emergentes como LatAm sobre cómo atraer inversión en categorías de alto crecimiento.",
+      "link": "https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 1,
+      "indice": 5,
       "categoria": "Rondas",
-      "titulo_es": "Oak recauda USD 60 M en seed para resolver los problemas de identidad que los agentes de IA están agravando",
-      "resumen": "La startup israelí Oak salió del modo stealth con una ronda seed de USD 60 millones, cofundada por el empresario en serie Shai Morag. Su propuesta apunta a gestionar identidades en entornos donde los agentes de IA operan de forma autónoma, un problema de seguridad creciente. Es una de las rondas seed más grandes del año en el espacio de infraestructura de seguridad.",
-      "por_que_importa": "Una ronda seed de USD 60 M ilustra perfectamente el tamaño de los cheques que los inversores están dispuestos a escribir en infraestructura de IA, una señal útil para entender valuaciones y tesis de inversión actuales.",
-      "link": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 14,
-      "categoria": "Rondas",
-      "titulo_es": "DeepSeek negocia levantar USD 1.500 M a una valuación de USD 71.000 M y planea un IPO en 2027",
-      "resumen": "El desarrollador chino de modelos de lenguaje DeepSeek estaría en conversaciones para captar alrededor de USD 1.500 millones en una nueva ronda privada, con miras a debutar en bolsa en 2027. La valuación implícita sería de USD 71.000 millones, lo que lo convertiría en uno de los unicornios de IA más valiosos del mundo. El movimiento llega meses después de que DeepSeek sacudió al mercado global con modelos de bajo costo.",
-      "por_que_importa": "El recorrido de DeepSeek —de disruptor de bajo costo a candidato a IPO multibillonario— es un caso de estudio obligatorio sobre cómo la competencia en IA redefine valuaciones y estrategias de salida.",
-      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 20,
-      "categoria": "Rondas",
-      "titulo_es": "Reflection AI firma un acuerdo de cómputo por USD 1.000 M con Nebius para desarrollar IA open source",
-      "resumen": "Reflection AI, fundada en 2024 y enfocada en tecnología de IA de código abierto, firmó un deal de USD 1.000 millones con Nebius para acceder a capacidad de cómputo. El acuerdo no es una ronda de equity tradicional sino un contrato de infraestructura, un modelo de financiamiento que se está volviendo común en el sector. Refleja cómo el acceso a GPUs se convirtió en un activo estratégico tan relevante como el capital.",
-      "por_que_importa": "Los deals de cómputo como forma de financiamiento alternativo al equity son una tendencia nueva que todo analista de VC necesita comprender para evaluar startups de IA.",
-      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
-      "categoria": "Fondos",
-      "titulo_es": "General Catalyst aporta USD 1.000 M a la startup de salud de David Beckham mediante su inusual fondo de valor para clientes",
-      "resumen": "El Customer Value Fund (CVF) de General Catalyst desembolsó USD 1.000 millones en IM8, la startup de bebidas de longevidad respaldada por David Beckham. A diferencia de los fondos de VC tradicionales, el CVF no toma equity sino que opera como financiamiento basado en ingresos u otros mecanismos no dilutivos. Es una apuesta inusual que combina celebrity branding con un vehículo de inversión no convencional.",
-      "por_que_importa": "El CVF de General Catalyst es un ejemplo concreto de cómo los grandes fondos están experimentando con estructuras de capital alternativas al equity clásico, algo relevante para entender la evolución del VC.",
-      "link": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
-      "fuente": "TechCrunch Venture"
-    },
-    {
-      "indice": 17,
-      "categoria": "Global",
-      "titulo_es": "Nueva York se convierte en el primer estado de EE.UU. en suspender la construcción de nuevos data centers",
-      "resumen": "La gobernadora Kathy Hochul ordenó una pausa temporal en la aprobación de grandes data centers en Nueva York, argumentando que el boom impulsado por la IA no puede trasladar sus costos energéticos a los consumidores. La medida es la primera de este tipo a nivel estatal en EE.UU. y podría marcar un precedente regulatorio para otros estados y países, incluyendo mercados emergentes con ambiciones de infraestructura de IA.",
-      "por_que_importa": "La regulación de infraestructura de IA es un tema que Argentina y LatAm deberán enfrentar; este caso ofrece un marco concreto para anticipar tensiones entre inversión tecnológica, energía y política pública.",
-      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 13,
-      "categoria": "Global",
-      "titulo_es": "El CEO de DeepMind propone crear un organismo internacional independiente para regular los modelos de IA de frontera",
-      "resumen": "Demis Hassabis, CEO de DeepMind, planteó la creación de un 'standards body' para IA inspirado en FINRA, que teste modelos de frontera y desarrolle mejores prácticas antes de su lanzamiento. La propuesta apunta a llenar el vacío regulatorio global en un momento en que los gobiernos aún no acordaron marcos comunes. Es una señal de que los propios actores del sector están presionando por institucionalización.",
-      "por_que_importa": "Para quienes estudian VC e innovación, entender cómo se están diseñando los marcos regulatorios de IA es esencial para anticipar el entorno en el que operarán las startups del futuro.",
-      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
-      "categoria": "Rondas",
-      "titulo_es": "Un ex ingeniero de SpaceX levanta USD 65 M para modernizar los arneses de cables en cohetes y satélites",
-      "resumen": "Una startup fundada por un veterano de SpaceX captó USD 65 millones para actualizar la fabricación de arneses de cables —los haces de cableado que van en cohetes, misiles y satélites—, un componente crítico que aún se produce con métodos de la Guerra Fría. La ronda apunta a automatizar y escalar una parte del hardware aeroespacial que históricamente ha sido un cuello de botella productivo. El deal refleja el apetito inversor por deep tech y defensa.",
-      "por_que_importa": "El auge del financiamiento en deep tech aeroespacial y defensa es una tendencia global que está atrayendo capital de VC hacia sectores históricamente dominados por contratistas estatales, con implicancias para fondos de la región.",
-      "link": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
+      "titulo_es": "Lululemon lidera una Serie A de USD 30 millones en Syntetica, startup francesa de reciclaje de nylon",
+      "resumen": "Syntetica, startup francesa de tecnología de reciclaje de nylon, cerró una Serie A de USD 30M con Lululemon como inversor ancla. La compañía desarrolló un proceso novedoso de reciclaje químico para textiles sintéticos, apuntando al problema de los residuos de la industria de la moda. La participación de un cliente estratégico como inversor reduce el riesgo de go-to-market.",
+      "por_que_importa": "El modelo de corporate-led investment como señal de validación comercial —y no solo financiera— es una estructura cada vez más común en cleantech y climatetech, sectores en expansión en LatAm.",
+      "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
       "fuente": "TechCrunch"
     }
   ]
