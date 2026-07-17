@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "Fintech global en alza y una agtech argentina conquista Brasil: el capital se mueve donde hay tracción real",
+  "titular_del_dia": "Semana cargada de rondas en LatAm: Addi levanta USD 85M, Infinia suma a Bain Capital e Y Combinator, y el ecosistema regional acelera",
   "items": [
     {
-      "indice": 20,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Stripe y Advent International ofrecen comprar PayPal por USD 53.400 millones",
-      "resumen": "Stripe, la fintech de pagos valorada en ~USD 91.000M, y el fondo de private equity Advent International habrían presentado una oferta conjunta para adquirir PayPal por aproximadamente USD 53.400M. De concretarse, sería una de las mayores operaciones de M&A en la historia del sector fintech. PayPal ha perdido relevancia frente a competidores más ágiles en los últimos años.",
-      "por_que_importa": "Es un caso de manual sobre cómo el PE y el venture-stage capital convergen en un exit masivo; ilustra dinámicas de consolidación sectorial que son centrales en cualquier curso de VC/PE.",
-      "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 26,
-      "categoria": "Tendencias",
-      "titulo_es": "El financiamiento global a fintechs creció 23% en el primer semestre de 2026, pero con menos deals y tickets más grandes",
-      "resumen": "Según datos de Crunchbase, el capital invertido en startups fintech subió casi 23% interanual en H1 2026, aunque la cantidad de rondas cayó más del 25%. Esto refleja una tendencia de concentración: los inversores escriben cheques más grandes para menos compañías, priorizando infraestructura financiera y aplicaciones de IA. Para LatAm, donde el fintech es el sector más financiado, la señal es relevante.",
-      "por_que_importa": "Entender que más capital no significa más deals ayuda a calibrar qué tipo de startups fintech latinoamericanas tienen chances reales de levantar en este entorno selectivo.",
-      "link": "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 0,
-      "categoria": "LatAm",
-      "titulo_es": "Una agtech argentina superó las validaciones más exigentes del agro brasileño y avanza en ese mercado",
-      "resumen": "Endeavor Argentina documenta el caso de una startup agtech local que logró penetrar el mercado agrícola brasileño —el más competitivo y técnicamente exigente de la región— tras superar estrictos procesos de validación. El artículo detalla la estrategia de entrada al mercado y los aprendizajes del proceso de internacionalización. Brasil representa el mayor mercado agro de LatAm y uno de los destinos prioritarios para el agtech regional.",
-      "por_que_importa": "El go-to-market de Argentina a Brasil es uno de los caminos de expansión más estudiados en el ecosistema; este caso ofrece datos concretos sobre cómo una startup local escala regionalmente.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-como-una-agtech-argentina-paso-el-examen-mas-duro-de-la-agricultura-brasilena/",
-      "fuente": "Endeavor Argentina"
-    },
-    {
-      "indice": 22,
-      "categoria": "Tendencias",
-      "titulo_es": "Por qué las rondas seed de mil millones de dólares raramente generan retornos venture: el análisis de Crunchbase",
-      "resumen": "Un análisis de Crunchbase muestra que las mega-rondas seed —impulsadas por AI y biotech— históricamente producen retornos por debajo del promedio del venture, porque las valuaciones de entrada ya dejan poco upside para los inversores. Los datos históricos indican que cuanto mayor es la valuación inicial, menor la probabilidad de generar retornos 10x o más. El fenómeno se está acelerando en el ciclo actual de AI.",
-      "por_que_importa": "Desafía la narrativa de que levantar a mayor valuación siempre es mejor; es una lectura esencial para entender la economía real de los fondos de VC.",
-      "link": "https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 7,
-      "categoria": "Fondos",
-      "titulo_es": "Greylock cierra su nuevo fondo en USD 1.500 millones y rechaza capital adicional para mantener disciplina de inversión",
-      "resumen": "Greylock Partners lanzó un nuevo fondo de USD 1.500M con la decisión deliberada de no superar ese monto, pese a que podría haber captado más capital. La estrategia es limitar la cartera a alrededor de 25 inversiones por fondo para poder ser un socio activo y diferenciado para los founders. La firma argumenta que fondos más grandes obligan a hacer más deals, diluyendo la atención y el valor agregado.",
-      "por_que_importa": "La decisión de Greylock ilustra el trade-off entre tamaño de fondo y estrategia de valor agregado, un debate central en el diseño de cualquier vehículo de VC.",
-      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 27,
-      "categoria": "Tendencias",
-      "titulo_es": "El corporate venture capital se bifurca: los grandes se consolidan y los pequeños quedan afuera",
-      "resumen": "El cierre de los brazos de CVC de PayPal y Fidelity International no refleja una retirada general del corporate venture, sino una concentración de poder en los fondos corporativos más grandes y mejor capitalizados. Según el análisis, los CVCs medianos y pequeños serán los más afectados por esta polarización. La tendencia implica que solo los corporativos con mandatos claros y recursos suficientes sobrevivirán el ciclo.",
-      "por_que_importa": "Para el ecosistema LatAm, donde varios corporativos locales tienen brazos de CVC incipientes, entender esta dinámica global ayuda a anticipar qué tipo de socios corporativos serán viables en el mediano plazo.",
-      "link": "https://news.crunchbase.com/venture/corporate-vc-splitting-paypal-fidelity-brotman-alpha/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 10,
+      "indice": 9,
       "categoria": "Rondas",
-      "titulo_es": "Neko Health, la startup de escaneo corporal del fundador de Spotify, recauda USD 700 millones en nueva ronda",
-      "resumen": "Neko Health, fundada por Daniel Ek (Spotify), cerró una ronda de USD 700M para expandir su tecnología de escaneo corporal preventivo combinada con análisis de sangre. La compañía opera centros de salud donde los usuarios reciben un chequeo integral en minutos. La ronda eleva la valuación de la startup y consolida la tesis de healthtech preventivo como categoría de inversión de alto interés.",
-      "por_que_importa": "La magnitud de la ronda y el perfil del fundador hacen de este caso un ejemplo de cómo el capital de riesgo sigue fluyendo hacia healthtech cuando hay tecnología propietaria y tracción demostrable.",
-      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Rondas",
-      "titulo_es": "Applied Computing levanta USD 20 millones Serie A para construir un modelo de IA fundacional para petróleo y gas",
-      "resumen": "La startup Applied Computing cerró una Serie A de USD 20M con el objetivo de desarrollar un modelo de IA específico para operadores de plantas de petróleo, gas y petroquímica. La apuesta es que los modelos verticales —entrenados con datos industriales específicos— superan en performance a los modelos generalistas para casos de uso críticos. El sector energético representa una oportunidad masiva para el AI industrial.",
-      "por_que_importa": "Con Argentina y LatAm siendo productores relevantes de hidrocarburos, la tesis de AI vertical para industria pesada tiene aplicación directa en la región y abre oportunidades para startups locales.",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 23,
-      "categoria": "Global",
-      "titulo_es": "El financiamiento a startups en Asia alcanzó un pico de varios años en Q2 2026, impulsado por China e inteligencia artificial",
-      "resumen": "Los inversores volcaron USD 42.800 millones en startups asiáticas durante el segundo trimestre de 2026, el nivel trimestral más alto en años, según Crunchbase. La ronda de USD 7.400M de DeepSeek explicó gran parte del salto, pero el dinamismo de AI en toda la región fue el factor estructural. El dato contrasta con la moderación del venture en mercados occidentales durante el mismo período.",
-      "por_que_importa": "Comparar los ciclos de funding entre regiones ayuda a entender dónde está el capital global y qué lecciones pueden extraer los ecosistemas emergentes como LatAm sobre cómo atraer inversión en categorías de alto crecimiento.",
-      "link": "https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/",
-      "fuente": "Crunchbase News"
+      "titulo_es": "Addi levanta USD 85M en Serie D liderada por Citius y BTG Pactual",
+      "resumen": "La plataforma colombiana de comercio y servicios financieros Addi cerró una ronda Serie D de USD 85M co-liderada por Citius y BTG Pactual, con participación de Monashees y GIC. Es una de las rondas más grandes de fintech en LatAm en lo que va del año. Addi opera en Colombia y México ofreciendo BNPL y servicios financieros integrados al comercio.",
+      "por_que_importa": "Muestra la consolidación del segmento BNPL/embedded finance en LatAm y el rol creciente de bancos regionales como BTG Pactual como inversores de growth.",
+      "link": "https://www.lavca.org/citius-and-btg-pactual-co-lead-usd85m-series-d-for-addi/",
+      "fuente": "LAVCA"
     },
     {
       "indice": 5,
       "categoria": "Rondas",
-      "titulo_es": "Lululemon lidera una Serie A de USD 30 millones en Syntetica, startup francesa de reciclaje de nylon",
-      "resumen": "Syntetica, startup francesa de tecnología de reciclaje de nylon, cerró una Serie A de USD 30M con Lululemon como inversor ancla. La compañía desarrolló un proceso novedoso de reciclaje químico para textiles sintéticos, apuntando al problema de los residuos de la industria de la moda. La participación de un cliente estratégico como inversor reduce el riesgo de go-to-market.",
-      "por_que_importa": "El modelo de corporate-led investment como señal de validación comercial —y no solo financiera— es una estructura cada vez más común en cleantech y climatetech, sectores en expansión en LatAm.",
-      "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "titulo_es": "Infinia (Uruguay) levanta USD 13,5M Serie A con Bain Capital, Variant Fund e Y Combinator",
+      "resumen": "Infinia, plataforma de infraestructura de finanzas digitales con base en Uruguay, cerró una Serie A de USD 13,5M liderada por Bain Capital y Variant Fund, con participación de Y Combinator, Lattice, Varrock y Reverie, entre otros. La combinación de un fondo de PE global como Bain Capital junto a YC y fondos cripto-nativos como Variant es inusual y refleja el perfil híbrido de la empresa.",
+      "por_que_importa": "Un deal con este line-up de inversores para una empresa del Río de la Plata es un hito relevante para entender cómo el ecosistema uruguayo-argentino puede atraer capital de primer nivel global.",
+      "link": "https://www.lavca.org/bain-capital-variant-fund-lead-usd13-5m-series-a-for-infinia/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 4,
+      "categoria": "Rondas",
+      "titulo_es": "Mercado Bitcoin cierra Serie C de USD 20M liderada por Tether con participación de SoftBank",
+      "resumen": "La plataforma brasileña de activos digitales Mercado Bitcoin recibió USD 20M en una Serie C liderada por Tether, el mayor emisor de stablecoins del mundo, con participación de SoftBank. La ronda apunta a escalar la infraestructura de la plataforma en Brasil y expandirse regionalmente. Es notable la entrada de Tether como lead investor en equity de una empresa LatAm.",
+      "por_que_importa": "La participación de Tether como inversor estratégico señala la convergencia entre infraestructura cripto global y plataformas de activos digitales regionales, una tendencia a monitorear.",
+      "link": "https://www.lavca.org/tether-leads-usd20m-series-c-for-mercado-bitcoin/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 7,
+      "categoria": "Rondas",
+      "titulo_es": "Aviva (México) recibe USD 18M Serie A liderada por Valor Capital con apoyo del BID Lab",
+      "resumen": "Aviva, plataforma mexicana de servicios financieros, cerró una Serie A de USD 18M liderada por Valor Capital Group, con participación de IDB Lab, Caravela Capital y ALIVE Ventures. La ronda apunta a escalar su oferta de servicios financieros para segmentos desatendidos en México. La participación del BID Lab indica un componente de impacto en el modelo.",
+      "por_que_importa": "Ilustra cómo el capital de desarrollo (multilaterales como BID) se combina con VC privado para escalar inclusión financiera en LatAm, un patrón frecuente en la región.",
+      "link": "https://www.lavca.org/valor-capital-group-leads-usd18m-series-a-round-for-aviva/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 1,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Tilt adquiere la fintech brasileña Blipay para expandir su plataforma de crédito alternativo",
+      "resumen": "Tilt adquirió Blipay, startup brasileña de adelanto de salarios respaldada por VC, con el objetivo de ampliar su plataforma de crédito alternativo en América Latina. La operación representa un exit para los inversores de Blipay y consolida el segmento de earned wage access en la región. No se divulgó el monto de la transacción.",
+      "por_que_importa": "Es un ejemplo concreto de consolidación M&A en el ecosistema fintech latinoamericano, relevante para entender cómo se dan los exits en el segmento de crédito alternativo.",
+      "link": "https://www.lavca.org/tilt-acquires-vc-backed-blipay/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 10,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Cómo una agtech argentina conquistó el mercado agrícola brasileño",
+      "resumen": "Endeavor Argentina publicó el caso de una agtech argentina que logró validar su tecnología en Brasil, uno de los mercados agrícolas más exigentes y competitivos del mundo. La nota detalla el proceso de expansión regional y los desafíos de escalar desde Argentina hacia el agro brasileño. El caso ilustra el potencial de las agtechs del Río de la Plata para internacionalizarse.",
+      "por_que_importa": "Argentina tiene ventaja comparativa en agtech; este caso muestra un camino concreto de go-to-market regional que puede replicarse, útil para quienes analizan startups del sector.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-como-una-agtech-argentina-paso-el-examen-mas-duro-de-la-agricultura-brasilena/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
+      "indice": 3,
+      "categoria": "Exits/M&A",
+      "titulo_es": "MxO Capital adquiere participación mayoritaria en AMCO, edtech mexicana con presencia en LatAm",
+      "resumen": "El fondo de PE MxO Capital adquirió una participación mayoritaria en AMCO, empresa mexicana de tecnología educativa para escuelas K-12 con operaciones en toda América Latina. La operación es un ejemplo de PE regional invirtiendo en edtech con escala regional. No se divulgaron los montos de la transacción.",
+      "por_que_importa": "Muestra el interés del private equity regional en el sector edtech con modelos B2B escalables, un segmento que combina impacto social y retornos financieros.",
+      "link": "https://www.lavca.org/mxo-capital-acquires-majority-stake-in-amco/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 11,
+      "categoria": "Tendencias",
+      "titulo_es": "Greylock cierra su nuevo fondo en USD 1.500M pese a poder haber levantado más: la lógica detrás de la disciplina de tamaño",
+      "resumen": "Greylock Partners limitó intencionalmente su nuevo fondo a USD 1.500M, rechazando capital adicional disponible, para mantener su estrategia de realizar aproximadamente 25 inversiones por fondo y ser el socio más relevante para sus fundadores. La decisión va a contramano de la tendencia de mega-fondos y refleja una apuesta por concentración sobre diversificación. Es una señal sobre cómo los mejores fondos piensan la relación entre tamaño y retornos.",
+      "por_que_importa": "Entiender por qué un top-tier VC rechaza capital es clave para comprender la economía de los fondos y el trade-off entre AUM, ownership y retornos.",
+      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "fuente": "TechCrunch Venture"
+    },
+    {
+      "indice": 18,
+      "categoria": "Tendencias",
+      "titulo_es": "BP cierra su brazo de corporate venture capital tras 20 años de retornos decepcionantes",
+      "resumen": "BP Ventures, el fondo de corporate venture de la petrolera británica BP, anunció su cierre tras casi 20 años de operación y rendimientos considerados por debajo de las expectativas. El cierre pone en el centro del debate la viabilidad de los CVC corporativos de grandes empresas industriales y su capacidad real de generar alpha en VC. Es una señal en un momento en que muchas corporaciones latinoamericanas están lanzando sus propios CVCs.",
+      "por_que_importa": "Plantea preguntas críticas sobre el modelo de CVC que son directamente aplicables a las corporaciones latinoamericanas que hoy exploran esta herramienta de innovación abierta.",
+      "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
       "fuente": "TechCrunch"
+    },
+    {
+      "indice": 33,
+      "categoria": "Global",
+      "titulo_es": "Por qué las rondas semilla de USD 1.000M raramente producen retornos para el VC",
+      "resumen": "Un análisis de Crunchbase con datos históricos muestra que las primeras rondas de financiamiento muy grandes (mega-seeds) rara vez generan retornos a escala de venture, porque las valuaciones de entrada elevadas comprimen el upside del inversor. El fenómeno se observa especialmente en AI y biotech, donde el hype impulsa valuaciones iniciales desconectadas de la tracción. El artículo cuestiona si el capital abundante en etapa temprana es una ventaja o una trampa.",
+      "por_que_importa": "Es un análisis con datos concretos que desafía el consenso sobre mega-rondas y es fundamental para entender la mecánica de retornos en VC, independientemente de la geografía.",
+      "link": "https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/",
+      "fuente": "Crunchbase News"
     }
   ]
 }
