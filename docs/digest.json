@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "Semana cargada de rondas en LatAm: Addi levanta USD 85M, Infinia suma a Bain Capital e Y Combinator, y el ecosistema regional acelera",
+  "titular_del_dia": "Databricks alcanza valuación de US$188B mientras el capital de IA busca nuevos destinos: qué implica para el ecosistema emprendedor",
   "items": [
     {
-      "indice": 9,
-      "categoria": "Rondas",
-      "titulo_es": "Addi levanta USD 85M en Serie D liderada por Citius y BTG Pactual",
-      "resumen": "La plataforma colombiana de comercio y servicios financieros Addi cerró una ronda Serie D de USD 85M co-liderada por Citius y BTG Pactual, con participación de Monashees y GIC. Es una de las rondas más grandes de fintech en LatAm en lo que va del año. Addi opera en Colombia y México ofreciendo BNPL y servicios financieros integrados al comercio.",
-      "por_que_importa": "Muestra la consolidación del segmento BNPL/embedded finance en LatAm y el rol creciente de bancos regionales como BTG Pactual como inversores de growth.",
-      "link": "https://www.lavca.org/citius-and-btg-pactual-co-lead-usd85m-series-d-for-addi/",
-      "fuente": "LAVCA"
-    },
-    {
-      "indice": 5,
-      "categoria": "Rondas",
-      "titulo_es": "Infinia (Uruguay) levanta USD 13,5M Serie A con Bain Capital, Variant Fund e Y Combinator",
-      "resumen": "Infinia, plataforma de infraestructura de finanzas digitales con base en Uruguay, cerró una Serie A de USD 13,5M liderada por Bain Capital y Variant Fund, con participación de Y Combinator, Lattice, Varrock y Reverie, entre otros. La combinación de un fondo de PE global como Bain Capital junto a YC y fondos cripto-nativos como Variant es inusual y refleja el perfil híbrido de la empresa.",
-      "por_que_importa": "Un deal con este line-up de inversores para una empresa del Río de la Plata es un hito relevante para entender cómo el ecosistema uruguayo-argentino puede atraer capital de primer nivel global.",
-      "link": "https://www.lavca.org/bain-capital-variant-fund-lead-usd13-5m-series-a-for-infinia/",
-      "fuente": "LAVCA"
-    },
-    {
-      "indice": 4,
-      "categoria": "Rondas",
-      "titulo_es": "Mercado Bitcoin cierra Serie C de USD 20M liderada por Tether con participación de SoftBank",
-      "resumen": "La plataforma brasileña de activos digitales Mercado Bitcoin recibió USD 20M en una Serie C liderada por Tether, el mayor emisor de stablecoins del mundo, con participación de SoftBank. La ronda apunta a escalar la infraestructura de la plataforma en Brasil y expandirse regionalmente. Es notable la entrada de Tether como lead investor en equity de una empresa LatAm.",
-      "por_que_importa": "La participación de Tether como inversor estratégico señala la convergencia entre infraestructura cripto global y plataformas de activos digitales regionales, una tendencia a monitorear.",
-      "link": "https://www.lavca.org/tether-leads-usd20m-series-c-for-mercado-bitcoin/",
-      "fuente": "LAVCA"
-    },
-    {
-      "indice": 7,
-      "categoria": "Rondas",
-      "titulo_es": "Aviva (México) recibe USD 18M Serie A liderada por Valor Capital con apoyo del BID Lab",
-      "resumen": "Aviva, plataforma mexicana de servicios financieros, cerró una Serie A de USD 18M liderada por Valor Capital Group, con participación de IDB Lab, Caravela Capital y ALIVE Ventures. La ronda apunta a escalar su oferta de servicios financieros para segmentos desatendidos en México. La participación del BID Lab indica un componente de impacto en el modelo.",
-      "por_que_importa": "Ilustra cómo el capital de desarrollo (multilaterales como BID) se combina con VC privado para escalar inclusión financiera en LatAm, un patrón frecuente en la región.",
-      "link": "https://www.lavca.org/valor-capital-group-leads-usd18m-series-a-round-for-aviva/",
-      "fuente": "LAVCA"
-    },
-    {
-      "indice": 1,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Tilt adquiere la fintech brasileña Blipay para expandir su plataforma de crédito alternativo",
-      "resumen": "Tilt adquirió Blipay, startup brasileña de adelanto de salarios respaldada por VC, con el objetivo de ampliar su plataforma de crédito alternativo en América Latina. La operación representa un exit para los inversores de Blipay y consolida el segmento de earned wage access en la región. No se divulgó el monto de la transacción.",
-      "por_que_importa": "Es un ejemplo concreto de consolidación M&A en el ecosistema fintech latinoamericano, relevante para entender cómo se dan los exits en el segmento de crédito alternativo.",
-      "link": "https://www.lavca.org/tilt-acquires-vc-backed-blipay/",
-      "fuente": "LAVCA"
-    },
-    {
-      "indice": 10,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Cómo una agtech argentina conquistó el mercado agrícola brasileño",
-      "resumen": "Endeavor Argentina publicó el caso de una agtech argentina que logró validar su tecnología en Brasil, uno de los mercados agrícolas más exigentes y competitivos del mundo. La nota detalla el proceso de expansión regional y los desafíos de escalar desde Argentina hacia el agro brasileño. El caso ilustra el potencial de las agtechs del Río de la Plata para internacionalizarse.",
-      "por_que_importa": "Argentina tiene ventaja comparativa en agtech; este caso muestra un camino concreto de go-to-market regional que puede replicarse, útil para quienes analizan startups del sector.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-como-una-agtech-argentina-paso-el-examen-mas-duro-de-la-agricultura-brasilena/",
-      "fuente": "Endeavor Argentina"
+      "indice": 21,
+      "categoria": "Ecosistema AR | LatAm",
+      "titulo_es": "Argentina y España en comparación: cómo están posicionados sus ecosistemas de startups",
+      "resumen": "Crunchbase publicó un análisis comparativo del financiamiento de startups en Argentina y España, dos países que comparten lazos históricos pero trayectorias de VC distintas. El reporte incluye datos de rondas recientes, tendencias de inversión y el peso relativo de cada país en el ecosistema regional y global. Argentina mantiene un rol destacado en LatAm, aunque con brechas significativas respecto a mercados más maduros.",
+      "por_que_importa": "Es el artículo más directo sobre el ecosistema argentino de la semana, con datos concretos de funding que todo estudiante de VC local debería conocer.",
+      "link": "https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data/",
+      "fuente": "Crunchbase News"
     },
     {
       "indice": 3,
-      "categoria": "Exits/M&A",
-      "titulo_es": "MxO Capital adquiere participación mayoritaria en AMCO, edtech mexicana con presencia en LatAm",
-      "resumen": "El fondo de PE MxO Capital adquirió una participación mayoritaria en AMCO, empresa mexicana de tecnología educativa para escuelas K-12 con operaciones en toda América Latina. La operación es un ejemplo de PE regional invirtiendo en edtech con escala regional. No se divulgaron los montos de la transacción.",
-      "por_que_importa": "Muestra el interés del private equity regional en el sector edtech con modelos B2B escalables, un segmento que combina impacto social y retornos financieros.",
-      "link": "https://www.lavca.org/mxo-capital-acquires-majority-stake-in-amco/",
-      "fuente": "LAVCA"
+      "categoria": "Rondas",
+      "titulo_es": "Databricks alcanza una valuación de US$188.000 millones y se consolida como referente de IA empresarial",
+      "resumen": "Databricks cerró una nueva ronda que eleva su valuación a US$188.000 millones, convirtiéndola en una de las empresas privadas más valiosas del mundo. La compañía ha pivoteado exitosamente hacia IA, publicando además investigación propia sobre el ahorro de costos que ofrecen modelos de código abierto. Este resultado refleja el apetito inversor por infraestructura de IA a escala empresarial.",
+      "por_que_importa": "Estudiar cómo Databricks reposicionó su narrativa hacia IA es un caso de manual para entender cómo las startups de datos captan capital en el ciclo actual.",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 11,
+      "indice": 20,
+      "categoria": "Rondas",
+      "titulo_es": "Las 10 rondas más grandes de la semana: US$1.500 millones para Fireworks AI lidera un flujo constante de capital",
+      "resumen": "Fireworks AI cerró la ronda más grande de la semana con US$1.500 millones, en una semana dominada por inversiones en IA empresarial, defensa, fintech y robótica. Crunchbase reporta que no hubo desaceleración estival en el flujo de capital de riesgo. El reporte ofrece un panorama rápido de hacia dónde se está moviendo el dinero globalmente.",
+      "por_que_importa": "El resumen semanal de Crunchbase es una herramienta clave para hacer seguimiento de tendencias de inversión globales y detectar sectores en ebullición.",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 0,
       "categoria": "Tendencias",
-      "titulo_es": "Greylock cierra su nuevo fondo en USD 1.500M pese a poder haber levantado más: la lógica detrás de la disciplina de tamaño",
-      "resumen": "Greylock Partners limitó intencionalmente su nuevo fondo a USD 1.500M, rechazando capital adicional disponible, para mantener su estrategia de realizar aproximadamente 25 inversiones por fondo y ser el socio más relevante para sus fundadores. La decisión va a contramano de la tendencia de mega-fondos y refleja una apuesta por concentración sobre diversificación. Es una señal sobre cómo los mejores fondos piensan la relación entre tamaño y retornos.",
-      "por_que_importa": "Entiender por qué un top-tier VC rechaza capital es clave para comprender la economía de los fondos y el trade-off entre AUM, ownership y retornos.",
-      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-      "fuente": "TechCrunch Venture"
+      "titulo_es": "Neil Rimer de Index Ventures: la riqueza generada por la IA deberá redistribuirse, voluntaria o forzosamente",
+      "resumen": "Neil Rimer, cofundador de Index Ventures —uno de los fondos de VC más influyentes de Europa—, sostiene que la concentración de riqueza generada por la IA en Silicon Valley es insostenible a largo plazo. Plantea que los flujos de capital eventualmente tendrán que redistribuirse, ya sea por presión de mercado, regulación o decisión propia de los actores del ecosistema. La perspectiva proviene de uno de los inversores con mayor track record en startups tecnológicas globales.",
+      "por_que_importa": "La visión de un VC de primer nivel sobre los desequilibrios estructurales del boom de IA es esencial para entender hacia dónde puede ir el mercado de capitales privados en los próximos años.",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
+      "categoria": "Rondas",
+      "titulo_es": "Valar Atomics negocia nueva ronda a valuación de US$6.000 millones y revela complejidad creciente en funding de startups nucleares",
+      "resumen": "La startup de energía nuclear Valar Atomics estaría en conversaciones para levantar capital fresco a una valuación de US$6.000 millones. El artículo destaca una tendencia preocupante: rondas multi-etapa estructuralmente complejas que oscurecen el precio real de entrada para los inversores. El sector nuclear privado sigue atrayendo capital de riesgo como alternativa energética para centros de datos de IA.",
+      "por_que_importa": "Entender cómo se estructuran rondas complejas para startups deeptech —y sus riesgos de opacidad— es una habilidad crítica para cualquier futuro analista de VC.",
+      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "fuente": "TechCrunch"
     },
     {
       "indice": 18,
       "categoria": "Tendencias",
-      "titulo_es": "BP cierra su brazo de corporate venture capital tras 20 años de retornos decepcionantes",
-      "resumen": "BP Ventures, el fondo de corporate venture de la petrolera británica BP, anunció su cierre tras casi 20 años de operación y rendimientos considerados por debajo de las expectativas. El cierre pone en el centro del debate la viabilidad de los CVC corporativos de grandes empresas industriales y su capacidad real de generar alpha en VC. Es una señal en un momento en que muchas corporaciones latinoamericanas están lanzando sus propios CVCs.",
-      "por_que_importa": "Plantea preguntas críticas sobre el modelo de CVC que son directamente aplicables a las corporaciones latinoamericanas que hoy exploran esta herramienta de innovación abierta.",
-      "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+      "titulo_es": "Los primeros financiadores de GPUs giran hacia chips de inferencia en un deal de US$400 millones",
+      "resumen": "Un préstamo respaldado por chips de inferencia por US$400 millones señala la próxima ola de financiamiento de infraestructura de IA, diferente al modelo de deuda garantizada por GPUs que dominó los últimos años. El deal evidencia que el mercado está madurando: la demanda de inferencia —correr modelos ya entrenados— supera en crecimiento a la de entrenamiento. Esto abre una nueva categoría de activos para fondos e inversores especializados.",
+      "por_que_importa": "La evolución de los instrumentos financieros para infraestructura de IA es un área emergente que puede generar oportunidades de inversión también en LatAm, donde el costo de inferencia es un factor clave.",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 33,
+      "indice": 16,
+      "categoria": "Tendencias",
+      "titulo_es": "Cómo conseguir financiamiento pre-seed sin producto: narrativa y convicción en la era de la IA",
+      "resumen": "En el contexto de TechCrunch Disrupt 2026, una sesión aborda el desafío de levantar capital en etapas pre-seed cuando las startups de IA están absorbiendo una porción desproporcionada del funding disponible. Los panelistas discuten técnicas de storytelling y construcción de convicción ante inversores cuando aún no existe un MVP. El fenómeno está redefiniendo los criterios de selección de los VCs en etapas tempranas.",
+      "por_que_importa": "Para emprendedores y aspirantes a VC del club, entender cómo se evalúa una startup sin producto en el contexto actual es directamente aplicable a sus propios proyectos o tesis de inversión.",
+      "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 10,
       "categoria": "Global",
-      "titulo_es": "Por qué las rondas semilla de USD 1.000M raramente producen retornos para el VC",
-      "resumen": "Un análisis de Crunchbase con datos históricos muestra que las primeras rondas de financiamiento muy grandes (mega-seeds) rara vez generan retornos a escala de venture, porque las valuaciones de entrada elevadas comprimen el upside del inversor. El fenómeno se observa especialmente en AI y biotech, donde el hype impulsa valuaciones iniciales desconectadas de la tracción. El artículo cuestiona si el capital abundante en etapa temprana es una ventaja o una trampa.",
-      "por_que_importa": "Es un análisis con datos concretos que desafía el consenso sobre mega-rondas y es fundamental para entender la mecánica de retornos en VC, independientemente de la geografía.",
-      "link": "https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/",
-      "fuente": "Crunchbase News"
+      "titulo_es": "La demanda de Apple contra OpenAI podría complicar los planes de IPO de la startup de IA",
+      "resumen": "Apple presentó una demanda por secretos comerciales contra OpenAI, con alegaciones que involucran directamente a su liderazgo. Según el análisis, el litigio podría generar incertidumbre regulatoria y reputacional en un momento en que OpenAI está explorando una salida a bolsa. El caso tiene implicancias para el ecosistema de IA en general, ya que involucra a dos de los actores más influyentes del sector.",
+      "por_que_importa": "Los conflictos legales entre gigantes tecnológicos afectan la dinámica de IPOs y valoraciones privadas, temas centrales para quien estudia el ciclo de vida del capital en startups.",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 17,
+      "categoria": "Global",
+      "titulo_es": "Zoox emite un recall de software tras un incidente de su robotaxi con humo denso",
+      "resumen": "Zoox, la unidad de vehículos autónomos de Amazon, emitió un retiro voluntario de software luego de que uno de sus robotaxis reaccionara de forma errónea ante una situación de humo espeso en la vía pública. El incidente se produce en un momento de mayor escrutinio regulatorio sobre vehículos autónomos en EE.UU., con advertencias activas del regulador de seguridad automotriz. El caso suma presión sobre toda la industria de movilidad autónoma.",
+      "por_que_importa": "El riesgo regulatorio en deeptech automotriz es un factor determinante para inversores en el sector; este caso ilustra cómo un incidente operativo puede impactar la trayectoria de una startup respaldada por un gigante tecnológico.",
+      "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 14,
+      "categoria": "Global",
+      "titulo_es": "Patreon deja de pedir a los bots que no raspen su contenido y empieza a bloquearlos activamente",
+      "resumen": "Patreon anunció un cambio de estrategia frente al scraping de IA: en lugar de depender del protocolo robots.txt, comenzará a bloquear activamente los bots que recopilan contenido de creadores mediante una alianza con Cloudflare. La medida refleja una tensión creciente entre plataformas de contenido y empresas de IA sobre los derechos de uso de datos. El modelo puede convertirse en referencia para otras plataformas de economía creadora.",
+      "por_que_importa": "La disputa por los datos de entrenamiento de IA está redefiniendo los modelos de negocio de plataformas digitales, un tema con impacto directo en startups de contenido y IA en LatAm.",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "fuente": "TechCrunch"
     }
   ]
 }
