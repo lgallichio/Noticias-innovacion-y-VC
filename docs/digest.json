@@ -1,94 +1,58 @@
 {
-  "titular_del_dia": "Databricks alcanza valuación de US$188B mientras el capital de IA busca nuevos destinos: qué implica para el ecosistema emprendedor",
+  "titular_del_dia": "El capital de IA vuelve al mercado: por qué la redistribución de la riqueza tecnológica define la próxima era del venture capital",
   "items": [
     {
-      "indice": 21,
-      "categoria": "Ecosistema AR | LatAm",
-      "titulo_es": "Argentina y España en comparación: cómo están posicionados sus ecosistemas de startups",
-      "resumen": "Crunchbase publicó un análisis comparativo del financiamiento de startups en Argentina y España, dos países que comparten lazos históricos pero trayectorias de VC distintas. El reporte incluye datos de rondas recientes, tendencias de inversión y el peso relativo de cada país en el ecosistema regional y global. Argentina mantiene un rol destacado en LatAm, aunque con brechas significativas respecto a mercados más maduros.",
-      "por_que_importa": "Es el artículo más directo sobre el ecosistema argentino de la semana, con datos concretos de funding que todo estudiante de VC local debería conocer.",
-      "link": "https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 3,
-      "categoria": "Rondas",
-      "titulo_es": "Databricks alcanza una valuación de US$188.000 millones y se consolida como referente de IA empresarial",
-      "resumen": "Databricks cerró una nueva ronda que eleva su valuación a US$188.000 millones, convirtiéndola en una de las empresas privadas más valiosas del mundo. La compañía ha pivoteado exitosamente hacia IA, publicando además investigación propia sobre el ahorro de costos que ofrecen modelos de código abierto. Este resultado refleja el apetito inversor por infraestructura de IA a escala empresarial.",
-      "por_que_importa": "Estudiar cómo Databricks reposicionó su narrativa hacia IA es un caso de manual para entender cómo las startups de datos captan capital en el ciclo actual.",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 20,
-      "categoria": "Rondas",
-      "titulo_es": "Las 10 rondas más grandes de la semana: US$1.500 millones para Fireworks AI lidera un flujo constante de capital",
-      "resumen": "Fireworks AI cerró la ronda más grande de la semana con US$1.500 millones, en una semana dominada por inversiones en IA empresarial, defensa, fintech y robótica. Crunchbase reporta que no hubo desaceleración estival en el flujo de capital de riesgo. El reporte ofrece un panorama rápido de hacia dónde se está moviendo el dinero globalmente.",
-      "por_que_importa": "El resumen semanal de Crunchbase es una herramienta clave para hacer seguimiento de tendencias de inversión globales y detectar sectores en ebullición.",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 0,
+      "indice": 5,
       "categoria": "Tendencias",
-      "titulo_es": "Neil Rimer de Index Ventures: la riqueza generada por la IA deberá redistribuirse, voluntaria o forzosamente",
-      "resumen": "Neil Rimer, cofundador de Index Ventures —uno de los fondos de VC más influyentes de Europa—, sostiene que la concentración de riqueza generada por la IA en Silicon Valley es insostenible a largo plazo. Plantea que los flujos de capital eventualmente tendrán que redistribuirse, ya sea por presión de mercado, regulación o decisión propia de los actores del ecosistema. La perspectiva proviene de uno de los inversores con mayor track record en startups tecnológicas globales.",
-      "por_que_importa": "La visión de un VC de primer nivel sobre los desequilibrios estructurales del boom de IA es esencial para entender hacia dónde puede ir el mercado de capitales privados en los próximos años.",
+      "titulo_es": "El cofundador de Index Ventures anticipa una redistribución masiva del capital generado por la IA",
+      "resumen": "Neil Rimer, cofundador de Index Ventures —uno de los fondos de VC europeos más influyentes— sostiene que la riqueza histórica que está generando la IA en Silicon Valley deberá redistribuirse, de forma voluntaria o forzada por regulación o presión social. Rimer argumenta que este ciclo se asemeja a los grandes momentos de acumulación de capital previos que eventualmente reconfiguraron el ecosistema inversor global. La tesis tiene implicancias directas sobre dónde fluirá el capital de riesgo en los próximos años.",
+      "por_que_importa": "Entender cómo los grandes fondos leen el ciclo de IA ayuda a anticipar hacia dónde se moverán las oportunidades de inversión en mercados emergentes como LatAm.",
       "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 8,
-      "categoria": "Rondas",
-      "titulo_es": "Valar Atomics negocia nueva ronda a valuación de US$6.000 millones y revela complejidad creciente en funding de startups nucleares",
-      "resumen": "La startup de energía nuclear Valar Atomics estaría en conversaciones para levantar capital fresco a una valuación de US$6.000 millones. El artículo destaca una tendencia preocupante: rondas multi-etapa estructuralmente complejas que oscurecen el precio real de entrada para los inversores. El sector nuclear privado sigue atrayendo capital de riesgo como alternativa energética para centros de datos de IA.",
-      "por_que_importa": "Entender cómo se estructuran rondas complejas para startups deeptech —y sus riesgos de opacidad— es una habilidad crítica para cualquier futuro analista de VC.",
-      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
+      "indice": 1,
       "categoria": "Tendencias",
-      "titulo_es": "Los primeros financiadores de GPUs giran hacia chips de inferencia en un deal de US$400 millones",
-      "resumen": "Un préstamo respaldado por chips de inferencia por US$400 millones señala la próxima ola de financiamiento de infraestructura de IA, diferente al modelo de deuda garantizada por GPUs que dominó los últimos años. El deal evidencia que el mercado está madurando: la demanda de inferencia —correr modelos ya entrenados— supera en crecimiento a la de entrenamiento. Esto abre una nueva categoría de activos para fondos e inversores especializados.",
-      "por_que_importa": "La evolución de los instrumentos financieros para infraestructura de IA es un área emergente que puede generar oportunidades de inversión también en LatAm, donde el costo de inferencia es un factor clave.",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "titulo_es": "Moonshot AI lanza nueva versión de Kimi y reaviva el debate sobre la competencia china en inteligencia artificial",
+      "resumen": "La empresa china Moonshot AI presentó una nueva versión de su modelo Kimi, intensificando la discusión sobre el avance acelerado de los modelos de IA de código abierto o bajo costo provenientes de China. El lanzamiento generó reacciones en el ecosistema global sobre el impacto en la competitividad de startups occidentales que construyen sobre modelos propietarios costosos. Para founders en LatAm, la proliferación de modelos chinos de alto rendimiento representa tanto una amenaza competitiva como una oportunidad de infraestructura más accesible.",
+      "por_que_importa": "La disponibilidad de modelos de IA de frontera a menor costo cambia el stack tecnológico y los márgenes de las startups de IA en la región.",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 16,
+      "indice": 3,
+      "categoria": "Global",
+      "titulo_es": "EE.UU. permite a empleados federales reinstalar TikTok en dispositivos de trabajo",
+      "resumen": "El Departamento de Justicia de Estados Unidos autorizó nuevamente a los empleados federales a descargar TikTok en sus teléfonos oficiales, revirtiendo una restricción previa. La decisión refleja la volatilidad regulatoria en torno a plataformas tecnológicas con origen en China y la tensión entre seguridad nacional e industria digital. Este vaivén regulatorio es un caso de estudio sobre cómo la política pública puede afectar valuaciones y estrategias de go-to-market de plataformas con presencia global.",
+      "por_que_importa": "El caso TikTok ilustra cómo el riesgo regulatorio geopolítico impacta directamente en la estrategia y valuación de plataformas digitales, una variable crítica para cualquier analista de VC.",
+      "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
       "categoria": "Tendencias",
-      "titulo_es": "Cómo conseguir financiamiento pre-seed sin producto: narrativa y convicción en la era de la IA",
-      "resumen": "En el contexto de TechCrunch Disrupt 2026, una sesión aborda el desafío de levantar capital en etapas pre-seed cuando las startups de IA están absorbiendo una porción desproporcionada del funding disponible. Los panelistas discuten técnicas de storytelling y construcción de convicción ante inversores cuando aún no existe un MVP. El fenómeno está redefiniendo los criterios de selección de los VCs en etapas tempranas.",
-      "por_que_importa": "Para emprendedores y aspirantes a VC del club, entender cómo se evalúa una startup sin producto en el contexto actual es directamente aplicable a sus propios proyectos o tesis de inversión.",
-      "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+      "titulo_es": "Los cortes de luz dejan en evidencia la vulnerabilidad operativa de Waymo en San Francisco",
+      "resumen": "Waymo interrumpió su servicio de robottaxis en San Francisco durante aproximadamente una hora a raíz de un corte de energía, un incidente que se repite en su historial operativo. El episodio pone en foco los desafíos de resiliencia de infraestructura que enfrentan los servicios de movilidad autónoma al escalar en entornos urbanos reales. Para inversores en movilidad y tecnología de autonomía, estos eventos son señales clave sobre los riesgos operativos y de reputación en etapas de expansión.",
+      "por_que_importa": "Analizar los puntos de falla de startups en etapa de escala es esencial para entender la diferencia entre product-market fit y viabilidad operativa a largo plazo.",
+      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 10,
-      "categoria": "Global",
-      "titulo_es": "La demanda de Apple contra OpenAI podría complicar los planes de IPO de la startup de IA",
-      "resumen": "Apple presentó una demanda por secretos comerciales contra OpenAI, con alegaciones que involucran directamente a su liderazgo. Según el análisis, el litigio podría generar incertidumbre regulatoria y reputacional en un momento en que OpenAI está explorando una salida a bolsa. El caso tiene implicancias para el ecosistema de IA en general, ya que involucra a dos de los actores más influyentes del sector.",
-      "por_que_importa": "Los conflictos legales entre gigantes tecnológicos afectan la dinámica de IPOs y valoraciones privadas, temas centrales para quien estudia el ciclo de vida del capital en startups.",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "indice": 2,
+      "categoria": "Tendencias",
+      "titulo_es": "El mercado de vehículos eléctricos en EE.UU. se contrae: Honda y otras marcas discontinúan modelos en 2026",
+      "resumen": "Honda anunció que el Prologue dejará de comercializarse en Estados Unidos, sumándose a una lista creciente de modelos eléctricos descontinuados en 2026. La retracción refleja una corrección del mercado EV luego de años de expansión acelerada impulsada por subsidios y expectativas de demanda que no se materializaron al ritmo esperado. El fenómeno abre preguntas sobre la sostenibilidad de los modelos de negocio de startups y OEMs en el sector de electromovilidad.",
+      "por_que_importa": "La consolidación del mercado EV en EE.UU. es un recordatorio de cómo los ciclos de hype pueden distorsionar decisiones de inversión y señales de mercado, algo directamente aplicable al análisis de sectores emergentes en LatAm.",
+      "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 17,
-      "categoria": "Global",
-      "titulo_es": "Zoox emite un recall de software tras un incidente de su robotaxi con humo denso",
-      "resumen": "Zoox, la unidad de vehículos autónomos de Amazon, emitió un retiro voluntario de software luego de que uno de sus robotaxis reaccionara de forma errónea ante una situación de humo espeso en la vía pública. El incidente se produce en un momento de mayor escrutinio regulatorio sobre vehículos autónomos en EE.UU., con advertencias activas del regulador de seguridad automotriz. El caso suma presión sobre toda la industria de movilidad autónoma.",
-      "por_que_importa": "El riesgo regulatorio en deeptech automotriz es un factor determinante para inversores en el sector; este caso ilustra cómo un incidente operativo puede impactar la trayectoria de una startup respaldada por un gigante tecnológico.",
-      "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 14,
-      "categoria": "Global",
-      "titulo_es": "Patreon deja de pedir a los bots que no raspen su contenido y empieza a bloquearlos activamente",
-      "resumen": "Patreon anunció un cambio de estrategia frente al scraping de IA: en lugar de depender del protocolo robots.txt, comenzará a bloquear activamente los bots que recopilan contenido de creadores mediante una alianza con Cloudflare. La medida refleja una tensión creciente entre plataformas de contenido y empresas de IA sobre los derechos de uso de datos. El modelo puede convertirse en referencia para otras plataformas de economía creadora.",
-      "por_que_importa": "La disputa por los datos de entrenamiento de IA está redefiniendo los modelos de negocio de plataformas digitales, un tema con impacto directo en startups de contenido y IA en LatAm.",
-      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "La carga rápida de autos eléctricos en EE.UU. ya es confiable: datos de un viaje de 1.000 kilómetros",
+      "resumen": "Un recorrido de largo aliento en vehículo eléctrico en Estados Unidos evidenció mejoras sustanciales en velocidad y confiabilidad de la red de carga DC Fast, un cuello de botella histórico para la adopción masiva. Los datos del viaje muestran tiempos de carga significativamente menores que hace dos años y una tasa de fallas en estaciones mucho más baja. Este avance tiene implicancias para startups de infraestructura energética y movilidad eléctrica que buscan replicar modelos en mercados emergentes.",
+      "por_que_importa": "La madurez de la infraestructura EV en mercados desarrollados marca la hoja de ruta para oportunidades de inversión en electromovilidad en Argentina y LatAm.",
+      "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
       "fuente": "TechCrunch"
     }
   ]
