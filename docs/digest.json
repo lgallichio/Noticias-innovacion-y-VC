@@ -1,58 +1,58 @@
 {
-  "titular_del_dia": "El capital de IA vuelve al mercado: por qué la redistribución de la riqueza tecnológica define la próxima era del venture capital",
+  "titular_del_dia": "México lidera el financiamiento VC en LatAm con USD 944M en Q2 2026, creciendo 131% interanual",
   "items": [
+    {
+      "indice": 6,
+      "categoria": "LatAm",
+      "titulo_es": "México consolida su liderazgo en VC latinoamericano: USD 944M en Q2 2026 con creciente entrada de fondos globales",
+      "resumen": "Los startups mexicanos captaron USD 944 millones en el segundo trimestre de 2026, un 131% más que los USD 409M del Q2 2025 y un 136% más que el trimestre anterior. México superó ampliamente a Brasil como principal destino de venture capital en la región, atrayendo además a nuevos inversores globales. El informe de Crunchbase posiciona a LatAm como una región en clara aceleración para el capital de riesgo.",
+      "por_que_importa": "Entender qué está traccionando el capital hacia México —y no hacia Argentina o Brasil— es clave para analizar las dinámicas del ecosistema regional y las oportunidades de inversión en LatAm.",
+      "link": "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 0,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Netflix adquiere startup de producción cinematográfica con IA por USD 587 millones",
+      "resumen": "Netflix pagó USD 587 millones en efectivo por InterPositive, una startup cofundada por Ben Affleck dedicada al uso de inteligencia artificial en la producción de contenido audiovisual. La operación representa uno de los exits más significativos en el segmento de IA aplicada al entretenimiento. El acuerdo refleja el interés de los grandes estudios y plataformas por internalizar capacidades de IA generativa.",
+      "por_que_importa": "Es un caso de estudio concreto sobre cómo se valúan y se produce el exit de startups de IA, con implicancias para emprendedores del sector creativo y tecnológico en la región.",
+      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "fuente": "TechCrunch"
+    },
     {
       "indice": 5,
       "categoria": "Tendencias",
-      "titulo_es": "El cofundador de Index Ventures anticipa una redistribución masiva del capital generado por la IA",
-      "resumen": "Neil Rimer, cofundador de Index Ventures —uno de los fondos de VC europeos más influyentes— sostiene que la riqueza histórica que está generando la IA en Silicon Valley deberá redistribuirse, de forma voluntaria o forzada por regulación o presión social. Rimer argumenta que este ciclo se asemeja a los grandes momentos de acumulación de capital previos que eventualmente reconfiguraron el ecosistema inversor global. La tesis tiene implicancias directas sobre dónde fluirá el capital de riesgo en los próximos años.",
-      "por_que_importa": "Entender cómo los grandes fondos leen el ciclo de IA ayuda a anticipar hacia dónde se moverán las oportunidades de inversión en mercados emergentes como LatAm.",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "titulo_es": "Current AI: la organización sin fines de lucro que quiere construir una 'internet abierta' para modelos de IA",
+      "resumen": "Current AI es una organización no lucrativa que desarrolla infraestructura de IA accesible para todas las culturas e idiomas, incluyendo dispositivos, chat y más. Su propuesta apunta a democratizar el acceso a la IA fuera del ecosistema dominado por grandes corporaciones tecnológicas. El proyecto avanza rápidamente y se posiciona como alternativa al modelo cerrado de los principales labs.",
+      "por_que_importa": "Para mercados como Argentina y LatAm, donde el acceso a tecnología de punta suele ser asimétrico, iniciativas de IA abierta pueden habilitar nuevas oportunidades para startups locales.",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
-      "categoria": "Tendencias",
-      "titulo_es": "Moonshot AI lanza nueva versión de Kimi y reaviva el debate sobre la competencia china en inteligencia artificial",
-      "resumen": "La empresa china Moonshot AI presentó una nueva versión de su modelo Kimi, intensificando la discusión sobre el avance acelerado de los modelos de IA de código abierto o bajo costo provenientes de China. El lanzamiento generó reacciones en el ecosistema global sobre el impacto en la competitividad de startups occidentales que construyen sobre modelos propietarios costosos. Para founders en LatAm, la proliferación de modelos chinos de alto rendimiento representa tanto una amenaza competitiva como una oportunidad de infraestructura más accesible.",
-      "por_que_importa": "La disponibilidad de modelos de IA de frontera a menor costo cambia el stack tecnológico y los márgenes de las startups de IA en la región.",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "categoria": "Global",
+      "titulo_es": "La visita de Jensen Huang a Japón abre un nuevo capítulo en la expansión global de NVIDIA",
+      "resumen": "El CEO de NVIDIA cerró acuerdos con actores clave del ecosistema tecnológico japonés durante su visita a Tokio, abarcando desde semiconductores hasta infraestructura de IA. Los deals refuerzan la estrategia de NVIDIA de construir alianzas soberanas en distintos países. La movida tiene implicancias para el mapa global de infraestructura de IA y la geopolítica tecnológica.",
+      "por_que_importa": "Comprender cómo los grandes proveedores de infraestructura de IA negocian acuerdos país por país ayuda a analizar qué tipo de ecosistema tecnológico puede desarrollarse en economías emergentes como las latinoamericanas.",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 3,
-      "categoria": "Global",
-      "titulo_es": "EE.UU. permite a empleados federales reinstalar TikTok en dispositivos de trabajo",
-      "resumen": "El Departamento de Justicia de Estados Unidos autorizó nuevamente a los empleados federales a descargar TikTok en sus teléfonos oficiales, revirtiendo una restricción previa. La decisión refleja la volatilidad regulatoria en torno a plataformas tecnológicas con origen en China y la tensión entre seguridad nacional e industria digital. Este vaivén regulatorio es un caso de estudio sobre cómo la política pública puede afectar valuaciones y estrategias de go-to-market de plataformas con presencia global.",
-      "por_que_importa": "El caso TikTok ilustra cómo el riesgo regulatorio geopolítico impacta directamente en la estrategia y valuación de plataformas digitales, una variable crítica para cualquier analista de VC.",
-      "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
       "categoria": "Tendencias",
-      "titulo_es": "Los cortes de luz dejan en evidencia la vulnerabilidad operativa de Waymo en San Francisco",
-      "resumen": "Waymo interrumpió su servicio de robottaxis en San Francisco durante aproximadamente una hora a raíz de un corte de energía, un incidente que se repite en su historial operativo. El episodio pone en foco los desafíos de resiliencia de infraestructura que enfrentan los servicios de movilidad autónoma al escalar en entornos urbanos reales. Para inversores en movilidad y tecnología de autonomía, estos eventos son señales clave sobre los riesgos operativos y de reputación en etapas de expansión.",
-      "por_que_importa": "Analizar los puntos de falla de startups en etapa de escala es esencial para entender la diferencia entre product-market fit y viabilidad operativa a largo plazo.",
-      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "titulo_es": "La batalla regulatoria por los robotaxis: quién define las reglas del transporte autónomo",
+      "resumen": "El sector de vehículos autónomos enfrenta una disputa regulatoria creciente en Estados Unidos, con múltiples actores —empresas, estados y el gobierno federal— pujando por definir el marco legal. La IA juega un rol central tanto en la tecnología como en los argumentos de cada bando. El resultado de este debate moldeará el ritmo de adopción del transporte autónomo a nivel global.",
+      "por_que_importa": "El análisis de cómo se regula tecnología disruptiva en mercados maduros ofrece lecciones directas para anticipar desafíos regulatorios de startups deeptech en LatAm.",
+      "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "El mercado de vehículos eléctricos en EE.UU. se contrae: Honda y otras marcas discontinúan modelos en 2026",
-      "resumen": "Honda anunció que el Prologue dejará de comercializarse en Estados Unidos, sumándose a una lista creciente de modelos eléctricos descontinuados en 2026. La retracción refleja una corrección del mercado EV luego de años de expansión acelerada impulsada por subsidios y expectativas de demanda que no se materializaron al ritmo esperado. El fenómeno abre preguntas sobre la sostenibilidad de los modelos de negocio de startups y OEMs en el sector de electromovilidad.",
-      "por_que_importa": "La consolidación del mercado EV en EE.UU. es un recordatorio de cómo los ciclos de hype pueden distorsionar decisiones de inversión y señales de mercado, algo directamente aplicable al análisis de sectores emergentes en LatAm.",
-      "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Tendencias",
-      "titulo_es": "La carga rápida de autos eléctricos en EE.UU. ya es confiable: datos de un viaje de 1.000 kilómetros",
-      "resumen": "Un recorrido de largo aliento en vehículo eléctrico en Estados Unidos evidenció mejoras sustanciales en velocidad y confiabilidad de la red de carga DC Fast, un cuello de botella histórico para la adopción masiva. Los datos del viaje muestran tiempos de carga significativamente menores que hace dos años y una tasa de fallas en estaciones mucho más baja. Este avance tiene implicancias para startups de infraestructura energética y movilidad eléctrica que buscan replicar modelos en mercados emergentes.",
-      "por_que_importa": "La madurez de la infraestructura EV en mercados desarrollados marca la hoja de ruta para oportunidades de inversión en electromovilidad en Argentina y LatAm.",
-      "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "categoria": "Global",
+      "titulo_es": "Apple demanda a OpenAI: ¿puede frenar sus planes de hardware y salida a bolsa?",
+      "resumen": "Apple presentó una demanda legal contra OpenAI que podría complicar los planes de la compañía de ingresar al mercado de hardware y avanzar hacia una IPO. El conflicto expone las tensiones entre los grandes players del ecosistema de IA a medida que compiten por el control del hardware de consumo. La resolución del litigio podría redefinir alianzas y valuaciones en el sector.",
+      "por_que_importa": "Seguir cómo los litigios entre grandes tecnológicas afectan valuaciones y planes de salida a bolsa es esencial para quienes analizan el mercado de VC y los caminos hacia el exit.",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "fuente": "TechCrunch"
     }
   ]
