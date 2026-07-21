@@ -1,59 +1,95 @@
 {
-  "titular_del_dia": "México lidera el financiamiento VC en LatAm con USD 944M en Q2 2026, creciendo 131% interanual",
+  "titular_del_dia": "México lidera VC en LatAm con $944M en Q2 2026, mientras el ecosistema global enfrenta nuevos paradigmas en pagos con IA y regulación de modelos abiertos",
   "items": [
     {
-      "indice": 6,
+      "indice": 20,
       "categoria": "LatAm",
-      "titulo_es": "México consolida su liderazgo en VC latinoamericano: USD 944M en Q2 2026 con creciente entrada de fondos globales",
-      "resumen": "Los startups mexicanos captaron USD 944 millones en el segundo trimestre de 2026, un 131% más que los USD 409M del Q2 2025 y un 136% más que el trimestre anterior. México superó ampliamente a Brasil como principal destino de venture capital en la región, atrayendo además a nuevos inversores globales. El informe de Crunchbase posiciona a LatAm como una región en clara aceleración para el capital de riesgo.",
-      "por_que_importa": "Entender qué está traccionando el capital hacia México —y no hacia Argentina o Brasil— es clave para analizar las dinámicas del ecosistema regional y las oportunidades de inversión en LatAm.",
+      "titulo_es": "México supera a Brasil y lidera el venture capital en LatAm: $944M recaudados en el Q2 2026",
+      "resumen": "Las startups mexicanas captaron $944 millones en el segundo trimestre de 2026, un incremento del 131% respecto al Q2 2025 y del 136% frente al Q1 2026. México consolida su liderazgo en la región, impulsado por la entrada de fondos globales de VC al mercado latinoamericano. Brasil, históricamente el líder regional, quedó rezagado en el trimestre.",
+      "por_que_importa": "Entender el desplazamiento del eje de capital hacia México es clave para cualquier estudiante que analice dónde fluye el dinero en LatAm y qué factores atraen a inversores globales a la región.",
       "link": "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 0,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Netflix adquiere startup de producción cinematográfica con IA por USD 587 millones",
-      "resumen": "Netflix pagó USD 587 millones en efectivo por InterPositive, una startup cofundada por Ben Affleck dedicada al uso de inteligencia artificial en la producción de contenido audiovisual. La operación representa uno de los exits más significativos en el segmento de IA aplicada al entretenimiento. El acuerdo refleja el interés de los grandes estudios y plataformas por internalizar capacidades de IA generativa.",
-      "por_que_importa": "Es un caso de estudio concreto sobre cómo se valúan y se produce el exit de startups de IA, con implicancias para emprendedores del sector creativo y tecnológico en la región.",
-      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Tendencias",
-      "titulo_es": "Current AI: la organización sin fines de lucro que quiere construir una 'internet abierta' para modelos de IA",
-      "resumen": "Current AI es una organización no lucrativa que desarrolla infraestructura de IA accesible para todas las culturas e idiomas, incluyendo dispositivos, chat y más. Su propuesta apunta a democratizar el acceso a la IA fuera del ecosistema dominado por grandes corporaciones tecnológicas. El proyecto avanza rápidamente y se posiciona como alternativa al modelo cerrado de los principales labs.",
-      "por_que_importa": "Para mercados como Argentina y LatAm, donde el acceso a tecnología de punta suele ser asimétrico, iniciativas de IA abierta pueden habilitar nuevas oportunidades para startups locales.",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "indice": 8,
+      "categoria": "Rondas",
+      "titulo_es": "Natural recauda $30M para crear infraestructura de pagos diseñada para agentes de IA",
+      "resumen": "La startup de un año de vida Natural cerró una ronda de $30 millones con el objetivo de reinventar la arquitectura financiera para transacciones autónomas realizadas por agentes de IA, apuntando directamente a competir con Stripe. La propuesta central es que los sistemas de pago actuales no están diseñados para operar sin intervención humana. El cierre refleja el creciente interés inversor en infraestructura habilitadora del ecosistema agentic.",
+      "por_que_importa": "Las fintech de infraestructura para IA agentic son una categoría emergente con alto potencial en LatAm, donde el mercado de pagos digitales ya es sofisticado y Stripe tiene presencia activa.",
+      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
-      "categoria": "Global",
-      "titulo_es": "La visita de Jensen Huang a Japón abre un nuevo capítulo en la expansión global de NVIDIA",
-      "resumen": "El CEO de NVIDIA cerró acuerdos con actores clave del ecosistema tecnológico japonés durante su visita a Tokio, abarcando desde semiconductores hasta infraestructura de IA. Los deals refuerzan la estrategia de NVIDIA de construir alianzas soberanas en distintos países. La movida tiene implicancias para el mapa global de infraestructura de IA y la geopolítica tecnológica.",
-      "por_que_importa": "Comprender cómo los grandes proveedores de infraestructura de IA negocian acuerdos país por país ayuda a analizar qué tipo de ecosistema tecnológico puede desarrollarse en economías emergentes como las latinoamericanas.",
-      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 3,
       "categoria": "Tendencias",
-      "titulo_es": "La batalla regulatoria por los robotaxis: quién define las reglas del transporte autónomo",
-      "resumen": "El sector de vehículos autónomos enfrenta una disputa regulatoria creciente en Estados Unidos, con múltiples actores —empresas, estados y el gobierno federal— pujando por definir el marco legal. La IA juega un rol central tanto en la tecnología como en los argumentos de cada bando. El resultado de este debate moldeará el ritmo de adopción del transporte autónomo a nivel global.",
-      "por_que_importa": "El análisis de cómo se regula tecnología disruptiva en mercados maduros ofrece lecciones directas para anticipar desafíos regulatorios de startups deeptech en LatAm.",
-      "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "titulo_es": "Anthropic cierra un acuerdo histórico de $1.500M por derechos de autor en entrenamiento de IA",
+      "resumen": "Un tribunal aprobó el acuerdo de Anthropic por $1.500 millones para resolver una demanda relacionada con el uso de obras con derechos de autor en el entrenamiento de sus modelos de IA. Si bien resuelve un caso puntual, el fallo no sienta precedente definitivo sobre la legalidad de entrenar modelos con contenido protegido. Es el acuerdo de mayor monto en litigios de propiedad intelectual vinculados a IA hasta la fecha.",
+      "por_que_importa": "Este caso define el riesgo legal y financiero que enfrentan empresas de IA en etapas de crecimiento, un factor crítico para la valuación y el due diligence en inversiones del sector.",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 2,
-      "categoria": "Global",
-      "titulo_es": "Apple demanda a OpenAI: ¿puede frenar sus planes de hardware y salida a bolsa?",
-      "resumen": "Apple presentó una demanda legal contra OpenAI que podría complicar los planes de la compañía de ingresar al mercado de hardware y avanzar hacia una IPO. El conflicto expone las tensiones entre los grandes players del ecosistema de IA a medida que compiten por el control del hardware de consumo. La resolución del litigio podría redefinir alianzas y valuaciones en el sector.",
-      "por_que_importa": "Seguir cómo los litigios entre grandes tecnológicas afectan valuaciones y planes de salida a bolsa es esencial para quienes analizan el mercado de VC y los caminos hacia el exit.",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "categoria": "Rondas",
+      "titulo_es": "Colossal Biosciences negocia nueva ronda que llevaría su valuación a entre $20.000M y $30.000M",
+      "resumen": "La startup de de-extinción Colossal Biosciences estaría en conversaciones para levantar capital fresco a una valuación de entre $20.000 y $30.000 millones, lo que representaría entre el doble y el triple de su valuación anterior. La empresa, conocida por proyectos como el regreso del mamut lanudo, se posiciona como un actor de biotech de frontera con alto perfil inversor. La ronda aún no está confirmada oficialmente.",
+      "por_que_importa": "Colossal ejemplifica cómo el capital de riesgo puede fluir hacia ciencia de frontera con narrativas potentes, un caso de estudio sobre valuación, storytelling y riesgo tecnológico en etapas tempranas.",
+      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
       "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Rondas",
+      "titulo_es": "Gritt sale del stealth con $34M para automatizar la construcción de plantas solares con robots",
+      "resumen": "Gritt anunció su salida del modo stealth con una ronda de $34 millones destinada a desarrollar robots que automaticen las tareas más complejas en obras de construcción, comenzando por plantas de energía solar. La compañía planea expandir sus capacidades hacia la construcción en general una vez validada la tecnología en el segmento energético. La apuesta combina robótica, construcción y transición energética.",
+      "por_que_importa": "La intersección entre automatización, construcción e infraestructura de energías renovables es una tesis de inversión relevante para LatAm, donde la brecha de infraestructura y la expansión solar son tendencias reales.",
+      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 13,
+      "categoria": "Rondas",
+      "titulo_es": "Infinity recauda $15M a valuación de $100M para infraestructura de inferencia de IA",
+      "resumen": "La startup de infraestructura de IA Infinity cerró una ronda de $15 millones a una valuación de $100 millones, con participación de Touring Capital, Principal VC e investigadores de OpenAI y Anthropic. La empresa se especializa en optimizar los procesos de inferencia de modelos de lenguaje, una capa crítica del stack de IA que determina costos operativos. La participación de researchers de labs líderes como ángeles es una señal de validación técnica.",
+      "por_que_importa": "La infraestructura de inferencia es una categoría de inversión en auge: entender por qué los VCs apuestan a la capa de ejecución —y no solo a los modelos— es fundamental para analizar el stack de IA con criterio inversor.",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "OpenAI presiona para restringir modelos open-weight chinos: ¿negocio o geopolítica?",
+      "resumen": "OpenAI ha manifestado preocupación por la proliferación de modelos de código abierto de origen chino, impulsando conversaciones sobre posibles restricciones regulatorias en Estados Unidos. El análisis de TechCrunch señala que la posición de OpenAI mezcla argumentos de seguridad nacional con intereses comerciales legítimos, dado que los modelos open-weight gratuitos erosionan su modelo de negocio. El debate plantea tensiones entre apertura tecnológica, competencia y soberanía digital.",
+      "por_que_importa": "La disputa open vs. closed source en IA tiene implicancias directas para startups latinoamericanas que construyen sobre modelos fundacionales: define costos, dependencias y posibles restricciones de acceso futuras.",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 9,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Un juez suspende la fusión de $110.000M entre Paramount y Warner Bros.",
+      "resumen": "Un tribunal federal emitió una pausa cautelar sobre la megafusión entre Paramount y Warner Bros. Discovery, valorada en $110.000 millones, tras una demanda de varios estados que alega daños a cines, distribuidoras de cable y audiencias. La resolución judicial introduce incertidumbre sobre uno de los M&A más grandes de la industria del entretenimiento en años. El caso pone de relieve el creciente activismo antimonopolio estatal en EE.UU.",
+      "por_que_importa": "Este caso es un ejemplo de manual sobre riesgo regulatorio en operaciones de M&A a gran escala, un concepto central en el análisis de exits y consolidaciones que todo estudiante de VC/PE debe comprender.",
+      "link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 19,
+      "categoria": "Global",
+      "titulo_es": "Dell Technologies Capital: por qué la IA no va a matar al SaaS y cómo construir deep tech para mercados que aún no existen",
+      "resumen": "Daniel Docter, Managing Director de Dell Technologies Capital, argumenta que el modelo de negocio SaaS no desaparecerá por la irrupción de la IA, sino que se transformará y coexistirá con nuevas arquitecturas. Además, comparte su visión sobre cómo fondos corporativos de VC abordan inversiones en deep tech cuando el mercado objetivo aún no está maduro. La entrevista ofrece perspectivas concretas sobre tesis de inversión en etapas de incertidumbre tecnológica.",
+      "por_que_importa": "La perspectiva de un CVC (Corporate Venture Capital) sobre SaaS y deep tech es muy útil para entender cómo grandes corporaciones articulan su estrategia de inversión en contextos de disruption tecnológica acelerada.",
+      "link": "https://news.crunchbase.com/ai/saas-deep-tech-startup-qa-docter-dell-technologies-capital/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 18,
+      "categoria": "Global",
+      "titulo_es": "Fundadores afroamericanos recaudan $643M en 2026, pero la brecha en Series A persiste",
+      "resumen": "Startups fundadas por emprendedores afroamericanos captaron aproximadamente $643 millones hasta fines de mayo de 2026, el trimestre más fuerte desde mediados de 2022, aunque el avance estuvo concentrado en pocas compañías. El análisis de Crunchbase identifica que la brecha más crítica no está en el financiamiento semilla sino en la transición hacia Series A, donde la tasa de conversión sigue siendo significativamente menor para estos fundadores. La era de la IA presenta tanto oportunidades como nuevos riesgos de exclusión.",
+      "por_que_importa": "Analizar brechas estructurales en el acceso al capital es esencial para entender la dinámica real del ecosistema de VC más allá de los grandes titulares, con lecciones directas aplicables al contexto latinoamericano.",
+      "link": "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/",
+      "fuente": "Crunchbase News"
     }
   ]
 }
