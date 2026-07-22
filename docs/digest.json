@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "México lidera VC en LatAm con $944M en Q2 2026, mientras el ecosistema global enfrenta nuevos paradigmas en pagos con IA y regulación de modelos abiertos",
+  "titular_del_dia": "Dimension Capital cierra fondo de $800M y nuevos unicornios AI lideran el tablero global de Crunchbase en junio 2026",
   "items": [
     {
-      "indice": 20,
-      "categoria": "LatAm",
-      "titulo_es": "México supera a Brasil y lidera el venture capital en LatAm: $944M recaudados en el Q2 2026",
-      "resumen": "Las startups mexicanas captaron $944 millones en el segundo trimestre de 2026, un incremento del 131% respecto al Q2 2025 y del 136% frente al Q1 2026. México consolida su liderazgo en la región, impulsado por la entrada de fondos globales de VC al mercado latinoamericano. Brasil, históricamente el líder regional, quedó rezagado en el trimestre.",
-      "por_que_importa": "Entender el desplazamiento del eje de capital hacia México es clave para cualquier estudiante que analice dónde fluye el dinero en LatAm y qué factores atraen a inversores globales a la región.",
-      "link": "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 8,
-      "categoria": "Rondas",
-      "titulo_es": "Natural recauda $30M para crear infraestructura de pagos diseñada para agentes de IA",
-      "resumen": "La startup de un año de vida Natural cerró una ronda de $30 millones con el objetivo de reinventar la arquitectura financiera para transacciones autónomas realizadas por agentes de IA, apuntando directamente a competir con Stripe. La propuesta central es que los sistemas de pago actuales no están diseñados para operar sin intervención humana. El cierre refleja el creciente interés inversor en infraestructura habilitadora del ecosistema agentic.",
-      "por_que_importa": "Las fintech de infraestructura para IA agentic son una categoría emergente con alto potencial en LatAm, donde el mercado de pagos digitales ya es sofisticado y Stripe tiene presencia activa.",
-      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "indice": 5,
+      "categoria": "Fondos",
+      "titulo_es": "Dimension Capital cierra su tercer fondo de $800M apostando a la convergencia entre ciencia y computación",
+      "resumen": "La firma de cuatro años cerró un fondo 60% más grande que su vehículo anterior de hace 18 meses, consolidando la tesis de que deep tech y compute son los sectores más atractivos del ciclo actual. El tamaño del fondo refleja una aceleración notable en la captación de capital institucional hacia esta intersección. Es una señal clara de hacia dónde fluye el dinero de los LPs más sofisticados.",
+      "por_que_importa": "Entender qué tesis convencen a los LPs para comprometer $800M da una hoja de ruta sobre qué sectores y narrativas dominarán el dealflow global en los próximos 3-5 años.",
+      "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 1,
+      "indice": 22,
       "categoria": "Tendencias",
-      "titulo_es": "Anthropic cierra un acuerdo histórico de $1.500M por derechos de autor en entrenamiento de IA",
-      "resumen": "Un tribunal aprobó el acuerdo de Anthropic por $1.500 millones para resolver una demanda relacionada con el uso de obras con derechos de autor en el entrenamiento de sus modelos de IA. Si bien resuelve un caso puntual, el fallo no sienta precedente definitivo sobre la legalidad de entrenar modelos con contenido protegido. Es el acuerdo de mayor monto en litigios de propiedad intelectual vinculados a IA hasta la fecha.",
-      "por_que_importa": "Este caso define el riesgo legal y financiero que enfrentan empresas de IA en etapas de crecimiento, un factor crítico para la valuación y el due diligence en inversiones del sector.",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "titulo_es": "34 nuevos unicornios en junio: 10 laboratorios de IA sumaron $65.000M de valuación en un solo mes",
+      "resumen": "En junio de 2026, 34 empresas ingresaron al tablero de unicornios de Crunchbase, añadiendo más de $110.000M en valor combinado; 10 de ellas son laboratorios de IA liderados por DeepSeek. La concentración de valor en labs de IA y semiconductores marca un patrón estructural del ciclo. El dato contrasta con la sequía de unicornios de 2022-2023 y sugiere una reactivación sostenida del mercado.",
+      "por_que_importa": "El ritmo de creación de unicornios y la distribución sectorial son métricas clave para entender el estado del mercado de VC global y anticipar tendencias que eventualmente llegan a LatAm.",
+      "link": "https://news.crunchbase.com/venture/new-unicorn-board-startups-exits-ai-semiconductors-june-2026/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 0,
+      "categoria": "LatAm",
+      "titulo_es": "StarApps adquiere AppMaker y consolida su posición en el ecosistema Shopify de LatAm",
+      "resumen": "StarApps, empresa del ecosistema Shopify con presencia en América Latina, anunció la adquisición de AppMaker en un movimiento de consolidación del mercado de e-commerce tools. La operación se da en un contexto donde las ventas globales de e-commerce proyectan $5,24 billones para 2026, con el comercio directo al consumidor y mobile como segmentos de mayor crecimiento. Es el primer exit/M&A relevante del ecosistema Shopify Partners en la región en este ciclo.",
+      "por_que_importa": "Es un ejemplo concreto de M&A en el ecosistema tech latinoamericano, mostrando cómo las empresas de la región ejecutan estrategias de consolidación en verticales de alto crecimiento.",
+      "link": "https://contxto.com/en/news/starapps-expands-its-shopify-ecosystem-with-appmaker-acquisition/",
+      "fuente": "Contxto"
+    },
+    {
+      "indice": 11,
+      "categoria": "Rondas",
+      "titulo_es": "Sila recauda $300M para escalar su fábrica de materiales de baterías de silicio-carbono",
+      "resumen": "Sila cerró una ronda de $300M para expandir su planta de producción de ánodos de silicio-carbono, suficiente para equipar más de 100.000 vehículos eléctricos. La ronda se da contracorriente de una desaceleración general en el sector EV, lo que refuerza la tesis de que los materiales y la cadena de suministro de baterías son el verdadero cuello de botella de la transición energética. La empresa posiciona su tecnología como superior al grafito convencional.",
+      "por_que_importa": "Las apuestas de capital en deep materials science muestran dónde los inversores ven ventajas competitivas duraderas, una discusión central en los fondos de climate tech que están emergiendo en LatAm.",
+      "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 2,
       "categoria": "Rondas",
-      "titulo_es": "Colossal Biosciences negocia nueva ronda que llevaría su valuación a entre $20.000M y $30.000M",
-      "resumen": "La startup de de-extinción Colossal Biosciences estaría en conversaciones para levantar capital fresco a una valuación de entre $20.000 y $30.000 millones, lo que representaría entre el doble y el triple de su valuación anterior. La empresa, conocida por proyectos como el regreso del mamut lanudo, se posiciona como un actor de biotech de frontera con alto perfil inversor. La ronda aún no está confirmada oficialmente.",
-      "por_que_importa": "Colossal ejemplifica cómo el capital de riesgo puede fluir hacia ciencia de frontera con narrativas potentes, un caso de estudio sobre valuación, storytelling y riesgo tecnológico en etapas tempranas.",
-      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "titulo_es": "Glow sale del sigilo valuada en $1.200M para redefinir la seguridad de endpoints en la era de los agentes de IA",
+      "resumen": "Glow emergió con una valuación de $1.200M apuntando a una nueva clase de riesgos de seguridad generados por la adopción masiva de agentes de IA y herramientas de desarrollo dentro de las empresas. La startup identifica un gap que las soluciones de endpoint tradicionales no cubren: los vectores de ataque que los propios modelos de IA crean al operar con acceso a sistemas corporativos. El lanzamiento en stealth con valuación unicornio refleja la urgencia que los inversores asignan al problema.",
+      "por_que_importa": "La seguridad en la capa de AI agents es una de las verticales de mayor crecimiento en enterprise SaaS; entender por qué atrae capital a valuaciones unicornio desde el día uno es clave para analizar deals en ciberseguridad.",
+      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 0,
-      "categoria": "Rondas",
-      "titulo_es": "Gritt sale del stealth con $34M para automatizar la construcción de plantas solares con robots",
-      "resumen": "Gritt anunció su salida del modo stealth con una ronda de $34 millones destinada a desarrollar robots que automaticen las tareas más complejas en obras de construcción, comenzando por plantas de energía solar. La compañía planea expandir sus capacidades hacia la construcción en general una vez validada la tecnología en el segmento energético. La apuesta combina robótica, construcción y transición energética.",
-      "por_que_importa": "La intersección entre automatización, construcción e infraestructura de energías renovables es una tesis de inversión relevante para LatAm, donde la brecha de infraestructura y la expansión solar son tendencias reales.",
-      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 13,
-      "categoria": "Rondas",
-      "titulo_es": "Infinity recauda $15M a valuación de $100M para infraestructura de inferencia de IA",
-      "resumen": "La startup de infraestructura de IA Infinity cerró una ronda de $15 millones a una valuación de $100 millones, con participación de Touring Capital, Principal VC e investigadores de OpenAI y Anthropic. La empresa se especializa en optimizar los procesos de inferencia de modelos de lenguaje, una capa crítica del stack de IA que determina costos operativos. La participación de researchers de labs líderes como ángeles es una señal de validación técnica.",
-      "por_que_importa": "La infraestructura de inferencia es una categoría de inversión en auge: entender por qué los VCs apuestan a la capa de ejecución —y no solo a los modelos— es fundamental para analizar el stack de IA con criterio inversor.",
-      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 7,
+      "indice": 25,
       "categoria": "Tendencias",
-      "titulo_es": "OpenAI presiona para restringir modelos open-weight chinos: ¿negocio o geopolítica?",
-      "resumen": "OpenAI ha manifestado preocupación por la proliferación de modelos de código abierto de origen chino, impulsando conversaciones sobre posibles restricciones regulatorias en Estados Unidos. El análisis de TechCrunch señala que la posición de OpenAI mezcla argumentos de seguridad nacional con intereses comerciales legítimos, dado que los modelos open-weight gratuitos erosionan su modelo de negocio. El debate plantea tensiones entre apertura tecnológica, competencia y soberanía digital.",
-      "por_que_importa": "La disputa open vs. closed source en IA tiene implicancias directas para startups latinoamericanas que construyen sobre modelos fundacionales: define costos, dependencias y posibles restricciones de acceso futuras.",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 9,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Un juez suspende la fusión de $110.000M entre Paramount y Warner Bros.",
-      "resumen": "Un tribunal federal emitió una pausa cautelar sobre la megafusión entre Paramount y Warner Bros. Discovery, valorada en $110.000 millones, tras una demanda de varios estados que alega daños a cines, distribuidoras de cable y audiencias. La resolución judicial introduce incertidumbre sobre uno de los M&A más grandes de la industria del entretenimiento en años. El caso pone de relieve el creciente activismo antimonopolio estatal en EE.UU.",
-      "por_que_importa": "Este caso es un ejemplo de manual sobre riesgo regulatorio en operaciones de M&A a gran escala, un concepto central en el análisis de exits y consolidaciones que todo estudiante de VC/PE debe comprender.",
-      "link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 19,
-      "categoria": "Global",
-      "titulo_es": "Dell Technologies Capital: por qué la IA no va a matar al SaaS y cómo construir deep tech para mercados que aún no existen",
-      "resumen": "Daniel Docter, Managing Director de Dell Technologies Capital, argumenta que el modelo de negocio SaaS no desaparecerá por la irrupción de la IA, sino que se transformará y coexistirá con nuevas arquitecturas. Además, comparte su visión sobre cómo fondos corporativos de VC abordan inversiones en deep tech cuando el mercado objetivo aún no está maduro. La entrevista ofrece perspectivas concretas sobre tesis de inversión en etapas de incertidumbre tecnológica.",
-      "por_que_importa": "La perspectiva de un CVC (Corporate Venture Capital) sobre SaaS y deep tech es muy útil para entender cómo grandes corporaciones articulan su estrategia de inversión en contextos de disruption tecnológica acelerada.",
+      "titulo_es": "El managing director de Dell Technologies Capital explica por qué la IA no matará al SaaS y cómo construir deep tech para mercados que aún no existen",
+      "resumen": "Daniel Docter de Dell Technologies Capital argumenta que la IA remodela el SaaS pero no lo elimina, y que el verdadero desafío del deep tech es construir para mercados que todavía no están listos. La entrevista ofrece un marco práctico sobre cómo los fondos corporativos evalúan startups en etapas tempranas con horizontes de adopción largos. Docter señala que los costos marginales cercanos a cero que habilita la IA crean nuevos modelos de negocio, no la destrucción de los existentes.",
+      "por_que_importa": "Para estudiantes que analizan deals, el framework de 'mercado no listo aún' es una herramienta concreta para evaluar el timing de inversión, uno de los factores más críticos en VC.",
       "link": "https://news.crunchbase.com/ai/saas-deep-tech-startup-qa-docter-dell-technologies-capital/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 18,
+      "indice": 19,
       "categoria": "Global",
-      "titulo_es": "Fundadores afroamericanos recaudan $643M en 2026, pero la brecha en Series A persiste",
-      "resumen": "Startups fundadas por emprendedores afroamericanos captaron aproximadamente $643 millones hasta fines de mayo de 2026, el trimestre más fuerte desde mediados de 2022, aunque el avance estuvo concentrado en pocas compañías. El análisis de Crunchbase identifica que la brecha más crítica no está en el financiamiento semilla sino en la transición hacia Series A, donde la tasa de conversión sigue siendo significativamente menor para estos fundadores. La era de la IA presenta tanto oportunidades como nuevos riesgos de exclusión.",
-      "por_que_importa": "Analizar brechas estructurales en el acceso al capital es esencial para entender la dinámica real del ecosistema de VC más allá de los grandes titulares, con lecciones directas aplicables al contexto latinoamericano.",
-      "link": "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/",
+      "titulo_es": "EE.UU. amenaza con sanciones a modelos de IA chinos de código abierto por robo de propiedad intelectual",
+      "resumen": "El secretario del Tesoro Scott Bessent anunció que EE.UU. podría sancionar modelos de IA chinos open source como parte de la campaña de la administración Trump para frenar el avance tecnológico de China. La medida apuntaría directamente a modelos como DeepSeek y su ecosistema de derivados, con implicancias para toda la cadena de valor de startups que los utilizan como base. Es una escalada significativa en la guerra tecnológica que podría fragmentar el mercado global de modelos fundacionales.",
+      "por_que_importa": "La fragmentación del ecosistema de IA open source afecta directamente las decisiones de build vs. buy de las startups latinoamericanas que hoy construyen sobre modelos chinos por razones de costo.",
+      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Exits/M&A",
+      "titulo_es": "El rumor Anthropic-Physical Intelligence revela la agresiva estrategia de adquisiciones de los labs de IA en 2026",
+      "resumen": "Un rumor sobre una posible adquisición de Physical Intelligence por parte de Anthropic sacudió la comunidad de IA, en un contexto donde tanto Anthropic como OpenAI llevan adelante estrategias de M&A agresivas durante 2026. Physical Intelligence es una de las startups más destacadas en robótica fundacional con IA, valuada en miles de millones. El episodio ilustra cómo los labs de frontier AI están usando M&A para adquirir capacidades en robótica, multimodalidad y hardware.",
+      "por_que_importa": "Entender la lógica de adquisición de los grandes labs de IA es fundamental para anticipar qué startups tienen valor estratégico de exit más allá del crecimiento orgánico.",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 23,
+      "categoria": "Tendencias",
+      "titulo_es": "Por qué la ola de IA en servicios financieros es diferente a todo lo anterior, según un veterano de 40 años del sector",
+      "resumen": "Nigel Morris de QED Investors argumenta que la IA reescribirá fundamentalmente la cadena de valor financiera global, llevando los costos operativos marginales a casi cero y permitiendo productos altamente personalizados que antes eran imposibles. A diferencia de ciclos anteriores de fintech, el cambio no es incremental sino estructural, afectando underwriting, distribución y servicio simultáneamente. QED es uno de los fondos de fintech más activos en LatAm, lo que hace su perspectiva especialmente relevante para la región.",
+      "por_que_importa": "QED tiene portfolio activo en LatAm (Nubank, entre otros); su tesis sobre AI en fintech anticipa hacia dónde irá el capital en la vertical que más startups produce en la región.",
+      "link": "https://news.crunchbase.com/fintech/ai-wave-banking-innovation-morris-qed/",
       "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 14,
+      "categoria": "Tendencias",
+      "titulo_es": "Los data centers consumirán cuatro veces más electricidad en 2035: el negocio de la infraestructura de IA se acelera",
+      "resumen": "Un nuevo reporte proyecta que los data centers construidos hasta 2033 podrían consumir tanta electricidad como la India entera, cuadruplicando el consumo actual del sector para 2035. La demanda está impulsada por el entrenamiento e inferencia de modelos de IA de gran escala, creando oportunidades masivas en energía, refrigeración y materiales de construcción. El dato reencuadra la inversión en infraestructura energética como una apuesta directa al crecimiento de la IA.",
+      "por_que_importa": "Para LatAm, con abundancia de recursos energéticos renovables y terreno disponible, este dato abre una conversación concreta sobre oportunidades de inversión en infraestructura de IA en la región.",
+      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "fuente": "TechCrunch"
     }
   ]
 }
