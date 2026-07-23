@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "Dimension Capital cierra fondo de $800M y nuevos unicornios AI lideran el tablero global de Crunchbase en junio 2026",
+  "titular_del_dia": "El capital de riesgo se concentra: el 60% del financiamiento global en 2026 ya va a rondas de más de USD 1.000 millones",
   "items": [
-    {
-      "indice": 5,
-      "categoria": "Fondos",
-      "titulo_es": "Dimension Capital cierra su tercer fondo de $800M apostando a la convergencia entre ciencia y computación",
-      "resumen": "La firma de cuatro años cerró un fondo 60% más grande que su vehículo anterior de hace 18 meses, consolidando la tesis de que deep tech y compute son los sectores más atractivos del ciclo actual. El tamaño del fondo refleja una aceleración notable en la captación de capital institucional hacia esta intersección. Es una señal clara de hacia dónde fluye el dinero de los LPs más sofisticados.",
-      "por_que_importa": "Entender qué tesis convencen a los LPs para comprometer $800M da una hoja de ruta sobre qué sectores y narrativas dominarán el dealflow global en los próximos 3-5 años.",
-      "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
-      "fuente": "TechCrunch"
-    },
     {
       "indice": 22,
       "categoria": "Tendencias",
-      "titulo_es": "34 nuevos unicornios en junio: 10 laboratorios de IA sumaron $65.000M de valuación en un solo mes",
-      "resumen": "En junio de 2026, 34 empresas ingresaron al tablero de unicornios de Crunchbase, añadiendo más de $110.000M en valor combinado; 10 de ellas son laboratorios de IA liderados por DeepSeek. La concentración de valor en labs de IA y semiconductores marca un patrón estructural del ciclo. El dato contrasta con la sequía de unicornios de 2022-2023 y sugiere una reactivación sostenida del mercado.",
-      "por_que_importa": "El ritmo de creación de unicornios y la distribución sectorial son métricas clave para entender el estado del mercado de VC global y anticipar tendencias que eventualmente llegan a LatAm.",
-      "link": "https://news.crunchbase.com/venture/new-unicorn-board-startups-exits-ai-semiconductors-june-2026/",
+      "titulo_es": "Las rondas de más de USD 1.000 millones ya concentran el 60% del financiamiento global en lo que va de 2026",
+      "resumen": "Según datos de Crunchbase, aproximadamente USD 320.000 millones del total de financiamiento global en el primer semestre de 2026 correspondieron a rondas superiores a USD 1.000 millones, impulsadas por AI, fintech y healthcare. Esta concentración marca un cambio estructural en cómo se distribuye el capital de riesgo a nivel mundial. El fenómeno plantea preguntas clave sobre el acceso al capital para startups en etapas tempranas y mercados emergentes como LatAm.",
+      "por_que_importa": "Entender esta polarización del capital es esencial para cualquier aspirante a VC o fundador en LatAm, donde las rondas grandes son la excepción y la competencia por capital early-stage se vuelve más intensa.",
+      "link": "https://news.crunchbase.com/venture/billion-dollar-plus-round-counts-rising-ai-fintech-healthcare-h1-2026/",
       "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 0,
-      "categoria": "LatAm",
-      "titulo_es": "StarApps adquiere AppMaker y consolida su posición en el ecosistema Shopify de LatAm",
-      "resumen": "StarApps, empresa del ecosistema Shopify con presencia en América Latina, anunció la adquisición de AppMaker en un movimiento de consolidación del mercado de e-commerce tools. La operación se da en un contexto donde las ventas globales de e-commerce proyectan $5,24 billones para 2026, con el comercio directo al consumidor y mobile como segmentos de mayor crecimiento. Es el primer exit/M&A relevante del ecosistema Shopify Partners en la región en este ciclo.",
-      "por_que_importa": "Es un ejemplo concreto de M&A en el ecosistema tech latinoamericano, mostrando cómo las empresas de la región ejecutan estrategias de consolidación en verticales de alto crecimiento.",
-      "link": "https://contxto.com/en/news/starapps-expands-its-shopify-ecosystem-with-appmaker-acquisition/",
-      "fuente": "Contxto"
     },
     {
       "indice": 11,
       "categoria": "Rondas",
-      "titulo_es": "Sila recauda $300M para escalar su fábrica de materiales de baterías de silicio-carbono",
-      "resumen": "Sila cerró una ronda de $300M para expandir su planta de producción de ánodos de silicio-carbono, suficiente para equipar más de 100.000 vehículos eléctricos. La ronda se da contracorriente de una desaceleración general en el sector EV, lo que refuerza la tesis de que los materiales y la cadena de suministro de baterías son el verdadero cuello de botella de la transición energética. La empresa posiciona su tecnología como superior al grafito convencional.",
-      "por_que_importa": "Las apuestas de capital en deep materials science muestran dónde los inversores ven ventajas competitivas duraderas, una discusión central en los fondos de climate tech que están emergiendo en LatAm.",
-      "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
+      "titulo_es": "La empresa de robótica de Travis Kalanick levanta USD 1.700 millones liderado por a16z con participación de Uber",
+      "resumen": "Atoms, la startup de robótica e inteligencia artificial industrial fundada por el ex CEO de Uber Travis Kalanick, cerró una ronda de USD 1.700 millones liderada por Andreessen Horowitz. Uber también participó como inversor estratégico. La compañía apunta a modernizar industrias físicas mediante IA industrial, aunque sus comunicaciones públicas han sido poco específicas sobre su tecnología.",
+      "por_que_importa": "Es una de las rondas más grandes de la semana y ejemplifica cómo a16z continúa apostando fuerte por la convergencia entre IA y robótica industrial, una tendencia con potencial aplicación en sectores clave de LatAm como logística y manufactura.",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 2,
-      "categoria": "Rondas",
-      "titulo_es": "Glow sale del sigilo valuada en $1.200M para redefinir la seguridad de endpoints en la era de los agentes de IA",
-      "resumen": "Glow emergió con una valuación de $1.200M apuntando a una nueva clase de riesgos de seguridad generados por la adopción masiva de agentes de IA y herramientas de desarrollo dentro de las empresas. La startup identifica un gap que las soluciones de endpoint tradicionales no cubren: los vectores de ataque que los propios modelos de IA crean al operar con acceso a sistemas corporativos. El lanzamiento en stealth con valuación unicornio refleja la urgencia que los inversores asignan al problema.",
-      "por_que_importa": "La seguridad en la capa de AI agents es una de las verticales de mayor crecimiento en enterprise SaaS; entender por qué atrae capital a valuaciones unicornio desde el día uno es clave para analizar deals en ciberseguridad.",
-      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "fuente": "TechCrunch"
+      "indice": 1,
+      "categoria": "Fondos",
+      "titulo_es": "Dimension Capital lanza un fondo de USD 800 millones para startups en la intersección de ciencia y computación",
+      "resumen": "La firma de cuatro años de antigüedad cerró su tercer fondo con USD 800 millones, un 60% más grande que su vehículo anterior lanzado hace 18 meses. El fondo apuesta por startups que combinan investigación científica profunda con infraestructura computacional avanzada. El crecimiento acelerado del fondo refleja el apetito inversor por deep tech y compute-intensive startups.",
+      "por_que_importa": "El tamaño y la velocidad de crecimiento de este fondo ilustran hacia dónde fluye el capital institucional globalmente, lo que marca las tendencias que eventualmente llegarán a fondos de LatAm.",
+      "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+      "fuente": "TechCrunch Venture"
     },
     {
       "indice": 25,
       "categoria": "Tendencias",
-      "titulo_es": "El managing director de Dell Technologies Capital explica por qué la IA no matará al SaaS y cómo construir deep tech para mercados que aún no existen",
-      "resumen": "Daniel Docter de Dell Technologies Capital argumenta que la IA remodela el SaaS pero no lo elimina, y que el verdadero desafío del deep tech es construir para mercados que todavía no están listos. La entrevista ofrece un marco práctico sobre cómo los fondos corporativos evalúan startups en etapas tempranas con horizontes de adopción largos. Docter señala que los costos marginales cercanos a cero que habilita la IA crean nuevos modelos de negocio, no la destrucción de los existentes.",
-      "por_que_importa": "Para estudiantes que analizan deals, el framework de 'mercado no listo aún' es una herramienta concreta para evaluar el timing de inversión, uno de los factores más críticos en VC.",
-      "link": "https://news.crunchbase.com/ai/saas-deep-tech-startup-qa-docter-dell-technologies-capital/",
+      "titulo_es": "34 nuevos unicornios en junio: 10 son laboratorios de IA liderados por DeepSeek, sumando más de USD 110.000 millones en valor",
+      "resumen": "En junio de 2026, 34 empresas ingresaron al tablero de unicornios de Crunchbase, agregando más de USD 110.000 millones en valuación combinada. Diez de esas compañías son laboratorios de IA con una valuación colectiva de USD 65.000 millones, con DeepSeek encabezando la lista. El dato confirma que la carrera por construir modelos de IA frontier sigue siendo el principal motor de creación de valor en el ecosistema global.",
+      "por_que_importa": "Monitorear qué categorías generan unicornios y a qué velocidad es clave para anticipar dónde se concentrará el talento y el capital en los próximos años, incluso en LatAm.",
+      "link": "https://news.crunchbase.com/venture/new-unicorn-board-startups-exits-ai-semiconductors-june-2026/",
       "fuente": "Crunchbase News"
     },
     {
       "indice": 19,
       "categoria": "Global",
-      "titulo_es": "EE.UU. amenaza con sanciones a modelos de IA chinos de código abierto por robo de propiedad intelectual",
-      "resumen": "El secretario del Tesoro Scott Bessent anunció que EE.UU. podría sancionar modelos de IA chinos open source como parte de la campaña de la administración Trump para frenar el avance tecnológico de China. La medida apuntaría directamente a modelos como DeepSeek y su ecosistema de derivados, con implicancias para toda la cadena de valor de startups que los utilizan como base. Es una escalada significativa en la guerra tecnológica que podría fragmentar el mercado global de modelos fundacionales.",
-      "por_que_importa": "La fragmentación del ecosistema de IA open source afecta directamente las decisiones de build vs. buy de las startups latinoamericanas que hoy construyen sobre modelos chinos por razones de costo.",
-      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "titulo_es": "OpenAI elevó su plan de gasto en infraestructura a USD 750.000 millones hasta 2030",
+      "resumen": "OpenAI actualizó su proyección de inversión en infraestructura hasta 2030, alcanzando una cifra equivalente al PBI de Suecia. Este gasto abarca centros de datos, chips y energía necesaria para sostener el entrenamiento de modelos de próxima generación. La escala del compromiso financiero subraya las barreras de entrada para competir en el segmento de modelos frontier.",
+      "por_que_importa": "Esta escala de capex define quiénes pueden competir en IA de base y quiénes deben enfocarse en aplicaciones verticales, lo cual es la ventana de oportunidad más realista para startups y fondos de LatAm.",
+      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 4,
-      "categoria": "Exits/M&A",
-      "titulo_es": "El rumor Anthropic-Physical Intelligence revela la agresiva estrategia de adquisiciones de los labs de IA en 2026",
-      "resumen": "Un rumor sobre una posible adquisición de Physical Intelligence por parte de Anthropic sacudió la comunidad de IA, en un contexto donde tanto Anthropic como OpenAI llevan adelante estrategias de M&A agresivas durante 2026. Physical Intelligence es una de las startups más destacadas en robótica fundacional con IA, valuada en miles de millones. El episodio ilustra cómo los labs de frontier AI están usando M&A para adquirir capacidades en robótica, multimodalidad y hardware.",
-      "por_que_importa": "Entender la lógica de adquisición de los grandes labs de IA es fundamental para anticipar qué startups tienen valor estratégico de exit más allá del crecimiento orgánico.",
-      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 23,
+      "indice": 26,
       "categoria": "Tendencias",
-      "titulo_es": "Por qué la ola de IA en servicios financieros es diferente a todo lo anterior, según un veterano de 40 años del sector",
-      "resumen": "Nigel Morris de QED Investors argumenta que la IA reescribirá fundamentalmente la cadena de valor financiera global, llevando los costos operativos marginales a casi cero y permitiendo productos altamente personalizados que antes eran imposibles. A diferencia de ciclos anteriores de fintech, el cambio no es incremental sino estructural, afectando underwriting, distribución y servicio simultáneamente. QED es uno de los fondos de fintech más activos en LatAm, lo que hace su perspectiva especialmente relevante para la región.",
-      "por_que_importa": "QED tiene portfolio activo en LatAm (Nubank, entre otros); su tesis sobre AI en fintech anticipa hacia dónde irá el capital en la vertical que más startups produce en la región.",
+      "titulo_es": "Por qué la IA en servicios financieros es diferente a cualquier ola tecnológica anterior, según el cofundador de QED Investors",
+      "resumen": "Nigel Morris, cofundador de QED Investors —uno de los principales fondos de fintech con presencia activa en LatAm—, argumenta que la IA reescribirá la cadena de valor financiera global al llevar los costos operativos marginales casi a cero y habilitar productos altamente personalizados. A diferencia de olas anteriores como internet o mobile, el impacto sería simultáneo en front, middle y back office. El artículo ofrece un marco analítico respaldado por 40 años de experiencia en servicios financieros.",
+      "por_que_importa": "QED tiene portfolio activo en LatAm (Nubank, entre otros) y la visión de Morris sobre IA en fintech es directamente aplicable para entender hacia dónde irán las inversiones en la región.",
       "link": "https://news.crunchbase.com/fintech/ai-wave-banking-innovation-morris-qed/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 14,
-      "categoria": "Tendencias",
-      "titulo_es": "Los data centers consumirán cuatro veces más electricidad en 2035: el negocio de la infraestructura de IA se acelera",
-      "resumen": "Un nuevo reporte proyecta que los data centers construidos hasta 2033 podrían consumir tanta electricidad como la India entera, cuadruplicando el consumo actual del sector para 2035. La demanda está impulsada por el entrenamiento e inferencia de modelos de IA de gran escala, creando oportunidades masivas en energía, refrigeración y materiales de construcción. El dato reencuadra la inversión en infraestructura energética como una apuesta directa al crecimiento de la IA.",
-      "por_que_importa": "Para LatAm, con abundancia de recursos energéticos renovables y terreno disponible, este dato abre una conversación concreta sobre oportunidades de inversión en infraestructura de IA en la región.",
-      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "indice": 15,
+      "categoria": "Global",
+      "titulo_es": "Monday.com despide al 20% de su plantilla —unas 630 personas— para pivotar hacia una plataforma de trabajo basada en IA",
+      "resumen": "Monday.com anunció una reducción de headcount del 20%, equivalente a aproximadamente 630 empleados, con el objetivo de construir un modelo operativo más eficiente centrado en su producto AI Work Platform. La empresa justificó los despidos como una reorganización estratégica y no como una señal de dificultades financieras. El movimiento se suma a una tendencia creciente de SaaS companies que reemplazan funciones humanas con automatización propia.",
+      "por_que_importa": "Los despidos en SaaS maduro asociados a pivotes de IA son un patrón que estudiar: ilustra cómo la IA está comprimiendo estructuras de costos y redefiniendo los modelos de negocio de software.",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Global",
+      "titulo_es": "Google justifica su inversión masiva en IA con resultados récord en su negocio de nube",
+      "resumen": "Alphabet reportó ganancias récord impulsadas por el crecimiento acelerado de Google Cloud, que se beneficia de la adopción empresarial de servicios de IA e infraestructura. La empresa usa estos resultados para defender ante inversores su estrategia de gasto intensivo en IA. El caso de Google ilustra cómo la monetización de IA en cloud está validando las tesis de inversión de los grandes hyperscalers.",
+      "por_que_importa": "El modelo de negocio cloud+IA de Google es el benchmark que usan inversores de VC para proyectar el potencial de startups de infraestructura y aplicaciones AI en mercados como LatAm.",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 3,
+      "categoria": "Rondas",
+      "titulo_es": "ServiceNow invierte USD 40 millones en la startup india de software bancario BusinessNext a una valuación de USD 700 millones",
+      "resumen": "ServiceNow realizó una inversión estratégica de USD 40 millones en BusinessNext, especializada en software bancario potenciado por IA, valuando a la compañía en USD 700 millones. La inversión busca ampliar la presencia de ServiceNow en servicios financieros a escala global. El deal combina corporate venture con expansión de producto, un modelo cada vez más frecuente entre grandes tecnológicas.",
+      "por_que_importa": "Este tipo de inversiones estratégicas de corporates en fintech B2B es un modelo replicable en LatAm, donde bancos y fintechs buscan soluciones de software especializado con IA para modernizar operaciones.",
+      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 9,
+      "categoria": "Exits/M&A",
+      "titulo_es": "SoundCloud adquiere Nina Protocol, plataforma de música descentralizada que había cerrado meses atrás",
+      "resumen": "SoundCloud anunció la adquisición de Nina Protocol, una plataforma de música basada en blockchain que había anunciado su cierre meses antes. El deal incorpora a SoundCloud los artistas, el archivo editorial y las herramientas de descubrimiento musical de Nina. La operación es un ejemplo de acqui-hire o asset acquisition post-shutdown, una táctica que permite a compradores obtener tecnología y comunidad a precio de liquidación.",
+      "por_que_importa": "El caso ilustra un mecanismo de exit poco convencional pero valioso para el ecosistema: las adquisiciones de activos de startups fallidas son oportunidades que los inversores y fundadores deben conocer y saber estructurar.",
+      "link": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
       "fuente": "TechCrunch"
     }
   ]
