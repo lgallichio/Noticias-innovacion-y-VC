@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "Cashea capta USD 100M y las mega-rondas de más de USD 1.000M ya concentran el 60% del capital global en 2026",
+  "titular_del_dia": "Semana de megavaloruaciones en VC global: Anduril apunta a USD 100B mientras el debate por la IA abierta sacude a Washington",
   "items": [
     {
-      "indice": 0,
-      "categoria": "LatAm",
-      "titulo_es": "Cashea, fintech venezolana de BNPL, cierra una ronda de USD 100 millones liderada por FinSight Ventures",
-      "resumen": "Cashea, la plataforma de compra ahora, paga después (BNPL) originada en Venezuela, levantó USD 100 millones en una ronda liderada por FinSight Ventures con participación de inversores globales. La operación es una de las rondas de fintech más grandes del ecosistema venezolano y latinoamericano reciente. El capital se destinará a expansión regional y profundización de producto.",
-      "por_que_importa": "Demuestra que el capital de riesgo global sigue apostando por fintechs de inclusión financiera en mercados emergentes de LatAm, incluso en contextos macroeconómicos adversos como Venezuela.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-cashea-levanta-capital-100-millones-dolares/",
-      "fuente": "Endeavor Argentina"
-    },
-    {
-      "indice": 23,
-      "categoria": "Tendencias",
-      "titulo_es": "Las rondas de más de USD 1.000 millones ya concentran el 60% del capital global de venture en lo que va de 2026",
-      "resumen": "Según datos de Crunchbase, alrededor de USD 320.000 millones del financiamiento global a startups en el primer semestre de 2026 correspondieron a rondas de USD 1.000 millones o más, representando el 60% del total. Los sectores que más concentraron estas mega-rondas fueron AI, fintech y healthcare. La tendencia refleja una polarización del capital hacia compañías en etapas avanzadas.",
-      "por_que_importa": "Entender esta concentración del capital es clave para anticipar qué tipo de startups y fondos tienen acceso real al ecosistema global, y qué implica para los emprendedores latinoamericanos que buscan escalar.",
-      "link": "https://news.crunchbase.com/venture/billion-dollar-plus-round-counts-rising-ai-fintech-healthcare-h1-2026/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 21,
-      "categoria": "Tendencias",
-      "titulo_es": "General Catalyst supera a Y Combinator como el inversor más activo en deals de fintech de USD 5M o más en Q2 2026",
-      "resumen": "Por primera vez en varios trimestres, General Catalyst encabezó el ranking de inversores con mayor número de operaciones fintech de USD 5 millones o más durante el segundo trimestre de 2026, según Crunchbase. El dato marca un cambio en el liderazgo del ecosistema fintech global respecto al rol histórico de Y Combinator. El trimestre también mostró un repunte general en el volumen de deals fintech.",
-      "por_que_importa": "Monitorear qué fondos lideran en fintech es esencial para quienes quieren entender hacia dónde fluye el capital y qué tipo de tesis de inversión están dominando el mercado.",
-      "link": "https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 17,
-      "categoria": "Global",
-      "titulo_es": "Etched, startup de chips de IA sin GPU, alcanza una valuación de USD 10.300 millones tras nueva ronda",
-      "resumen": "Etched, fundada por tres ex estudiantes de Harvard, desarrolla chips y componentes de memoria especializados para acelerar la inferencia de modelos de IA sin depender de GPUs tradicionales. La compañía cerró una ronda que la valúa en USD 10.300 millones, con participación de inversores de primer nivel. El hito desafía el dominio casi monopólico de Nvidia en la infraestructura de IA.",
-      "por_que_importa": "La carrera por la infraestructura de IA es uno de los mayores drivers de inversión en VC global hoy; comprender qué apuestas alternativas a Nvidia están surgiendo es clave para analizar el sector.",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "indice": 9,
+      "categoria": "Rondas",
+      "titulo_es": "Anduril negocia una ronda que la valoraría en USD 100.000 millones, más del triple que el año pasado",
+      "resumen": "La startup de defensa y tecnología Anduril estaría en conversaciones para levantar capital a una valuación de aproximadamente USD 100.000 millones, según Reuters. Eso representaría más de 3x su valuación de 2025, consolidándola como uno de los unicornios de mayor crecimiento en el ecosistema de defensa tech. La ronda refleja el renovado apetito inversor por deep tech y dual-use technology.",
+      "por_que_importa": "Es un caso de estudio en tiempo real sobre cómo el capital de riesgo está migrando hacia sectores no tradicionales como defensa, con múltiplos de valuación que desafían los estándares históricos del VC.",
+      "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 6,
-      "categoria": "Global",
-      "titulo_es": "Corgi, startup de seguros con IA, completa su tercera ronda en ocho semanas y alcanza una valuación de USD 4.000 millones",
-      "resumen": "Corgi, una insurtech basada en inteligencia artificial, cerró su tercera ronda de financiamiento en apenas ocho semanas, alcanzando una valuación de USD 4.000 millones. El caso es inusual incluso dentro de la euforia de financiamiento de AI de 2026, y refleja la velocidad con que algunos inversores están desplegando capital en compañías de este sector. No se revelaron los montos exactos de la última ronda.",
-      "por_que_importa": "Ilustra la dinámica extrema de valuaciones y velocidad de rondas en el ecosistema de AI actual, un fenómeno que los futuros inversores y fundadores deben saber leer críticamente.",
-      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
-      "categoria": "Global",
-      "titulo_es": "AegisAI, fundada por ex ejecutivos de seguridad de Google, levanta USD 36 millones para combatir el phishing impulsado por IA",
-      "resumen": "AegisAI cerró una ronda de USD 36 millones para escalar su plataforma de detección de spear phishing potenciada por agentes de inteligencia artificial. La compañía fue fundada por ex líderes de seguridad de Google y su sistema analiza mensajes en tiempo real imitando el razonamiento humano para detectar anomalías sutiles. La ronda refleja el creciente interés inversor en ciberseguridad aplicada a amenazas generadas por IA.",
-      "por_que_importa": "La intersección entre IA y ciberseguridad es uno de los sectores con mayor tracción inversora en 2026 y tiene aplicaciones directas para empresas latinoamericanas que digitalizan operaciones.",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 12,
-      "categoria": "Tendencias",
-      "titulo_es": "Runway lanza un router de modelos de IA generativa que elige automáticamente el mejor modelo según precio, velocidad o calidad",
-      "resumen": "Runway presentó Media Router, una herramienta que selecciona automáticamente el modelo de generación de imágenes, video o audio más adecuado para cada solicitud en función de si el desarrollador prioriza calidad, velocidad o costo. El lanzamiento responde a la creciente saturación del mercado de IA generativa con múltiples proveedores compitiendo. Es un paso hacia la comoditización de la capa de modelos y el valor agregado en la orquestación.",
-      "por_que_importa": "La tendencia al routing y abstracción de modelos de IA define nuevas oportunidades de negocio en la capa de middleware, relevante para startups de software en LatAm que construyen sobre IA.",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 14,
-      "categoria": "Tendencias",
-      "titulo_es": "Los robotaxis de Tesla retroceden: los kilómetros pagos cayeron 36% en el segundo trimestre pese a la expansión geográfica",
-      "resumen": "Según cifras de la propia Tesla, los kilómetros recorridos en viajes pagos con robotaxis cayeron un 36% en el segundo trimestre de 2026 respecto al trimestre anterior, a pesar de haberse expandido a nuevas ciudades. El dato contrasta con las expectativas del mercado y genera dudas sobre la viabilidad comercial de corto plazo del negocio de movilidad autónoma de la compañía. El retroceso operativo tiene implicancias para la narrativa de valuación de Tesla como empresa de tecnología.",
-      "por_que_importa": "Analizar métricas operativas reales versus narrativas de valuación es una habilidad central en VC y PE; el caso Tesla robotaxi es un ejemplo empírico ideal para ese ejercicio.",
-      "link": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Global",
-      "titulo_es": "Patreon despide al 20% de su plantilla para ajustar su estructura de costos ante cambios en el mercado",
-      "resumen": "Patreon, la plataforma de monetización para creadores de contenido, anunció el despido del 20% de su fuerza laboral. En un memo interno publicado en línea, el CEO reconoció que el negocio principal es sólido pero que la compañía debe adaptarse a cambios del mercado y reducir costos para mantener la estabilidad. El caso se suma a una serie de recortes en plataformas de la economía creadora.",
-      "por_que_importa": "Los recortes en plataformas de la economía creadora ilustran cómo incluso modelos de negocio consolidados deben reinventarse ante presiones de mercado, un aprendizaje clave sobre gestión de startups en etapa de crecimiento.",
-      "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+      "indice": 2,
+      "categoria": "Rondas",
+      "titulo_es": "El nuevo laboratorio de IA de Reid Hoffman y Mark Pincus busca levantar USD 100 millones",
+      "resumen": "Prentis, un 'neolab' de inteligencia artificial cofundado por Reid Hoffman (LinkedIn, Greylock) y Mark Pincus (Zynga), está en negociaciones para cerrar una ronda de USD 100 millones. La apuesta de la compañía es que la automatización de tareas rutinarias en computadoras superará al coding como el caso de uso más importante de la IA. La ronda en etapa temprana a esa escala refleja el peso del track record de los fundadores en el ecosistema.",
+      "por_que_importa": "Muestra cómo los fundadores seriales con credenciales probadas pueden atraer capital masivo en etapas muy tempranas, un fenómeno relevante para entender la dinámica del fundraising en VC.",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 20,
       "categoria": "Tendencias",
-      "titulo_es": "Gemini de Google se acerca a los 1.000 millones de usuarios mensuales y consolida su posición en el mercado de IA conversacional",
-      "resumen": "El asistente de inteligencia artificial Gemini de Google superó los 750 millones de usuarios mensuales en febrero de 2026 y continúa su crecimiento hacia la barrera de los 1.000 millones, según datos de la compañía. El avance posiciona a Gemini como el principal competidor de ChatGPT en escala de adopción masiva. La carrera por usuarios en IA conversacional tiene implicancias directas para el ecosistema de startups que construyen sobre estos modelos.",
-      "por_que_importa": "La adopción masiva de plataformas de IA conversacional redefine el mercado para startups que desarrollan productos B2C o B2B sobre estos modelos, un dato estructural para cualquier análisis de ecosistema tech.",
-      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "titulo_es": "Las 10 rondas más grandes de la semana: Physical AI, biotech, ciberseguridad y fintech lideran el flujo de capital",
+      "resumen": "Según Crunchbase, la semana estuvo marcada por una distribución sectorial variada en las rondas de mayor tamaño, con el startup de Physical AI Atoms a la cabeza. Los sectores con mayor tracción fueron Physical AI, biotecnología, infraestructura de IA, ciberseguridad y fintech. El reporte ofrece una foto del estado del apetito inversor global en el tercer trimestre de 2026.",
+      "por_que_importa": "Permite identificar qué sectores están captando capital institucional en este momento, información clave para quienes analizan tendencias de asignación en VC.",
+      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 21,
+      "categoria": "Tendencias",
+      "titulo_es": "General Catalyst supera a Y Combinator como el inversor más activo en fintech de más de USD 5 millones en Q2 2026",
+      "resumen": "Por primera vez en varios trimestres, General Catalyst lideró el ranking de participación en rondas de fintech de USD 5 millones o más durante el segundo trimestre de 2026, desplazando a Y Combinator, según datos de Crunchbase. El dato señala un posible cambio en la estrategia de despliegue de capital de los fondos líderes hacia deals de mayor tamaño en fintech. YC históricamente había dominado este segmento por volumen de deals.",
+      "por_que_importa": "Entender qué fondos lideran por sector y etapa es fundamental para quienes quieren mapear el ecosistema inversor y anticipar hacia dónde fluye el capital en fintech, uno de los sectores más relevantes para LatAm.",
+      "link": "https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 14,
+      "categoria": "Rondas",
+      "titulo_es": "World, la startup biométrica de Sam Altman, recauda USD 52,5 millones mediante una venta de criptomonedas",
+      "resumen": "World, el proyecto paralelo de Sam Altman que busca crear identificadores digitales únicos a partir del escaneo del iris humano, levantó USD 52,5 millones a través de una venta de tokens cripto. La operación es relevante tanto por el monto como por el mecanismo de financiamiento, que combina biometría, identidad digital y criptoactivos. World ya tiene presencia operativa en varios países, incluyendo expansiones en mercados emergentes.",
+      "por_que_importa": "Ilustra cómo estructuras de financiamiento híbridas entre VC tradicional y crypto están ganando terreno, con implicancias directas para startups de identidad digital en LatAm.",
+      "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
+      "categoria": "Tendencias",
+      "titulo_es": "Anthropic lanza Opus 5: más barato y menos restrictivo que su modelo anterior",
+      "resumen": "Anthropic presentó Opus 5, su nuevo modelo de lenguaje de gran escala, que promete ser más económico y con menos restricciones de uso que Fable, su antecesor. El lanzamiento intensifica la competencia en el mercado de modelos de IA de frontera, donde OpenAI, Google y nuevos actores chinos como Moonshot también están activos. La reducción de costos tiene implicancias directas para startups que construyen productos sobre APIs de IA.",
+      "por_que_importa": "Menores costos de acceso a modelos de frontera reducen la barrera de entrada para startups de IA en LatAm que compiten contra empresas con más recursos.",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 15,
+      "categoria": "Global",
+      "titulo_es": "La industria presiona a Washington para evitar restricciones amplias sobre modelos de IA de código abierto",
+      "resumen": "Compañías como Nvidia y Mistral presentaron argumentos ante reguladores estadounidenses en contra de imponer restricciones amplias a los modelos de IA de código abierto (open-weight), en el contexto del debate sobre cómo responder al avance de la IA china. El debate regulatorio podría redefinir quién tiene acceso a las herramientas de IA más potentes a nivel global. Una restricción en modelos open-weight afectaría desproporcionadamente a ecosistemas con menor acceso a capital como LatAm.",
+      "por_que_importa": "Las decisiones regulatorias de EE.UU. sobre IA open-source tienen consecuencias directas en el acceso tecnológico de startups latinoamericanas que dependen de modelos abiertos para construir productos competitivos.",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Cognition adquiere Poke para sumar 'personalidad' a su agente de coding Devin",
+      "resumen": "Cognition, creadora del agente de programación Devin, adquirió Poke, una startup enfocada en el diseño conversacional y el estilo de interacción de sistemas de IA. La adquisición refleja una tesis emergente en el sector: que la personalidad y la forma en que los agentes de IA interactúan con usuarios es una ventaja competitiva tan importante como la performance técnica. Es una de las primeras M&A del segmento de AI agents centrada explícitamente en UX.",
+      "por_que_importa": "Señala una nueva dimensión de diferenciación en el mercado de AI agents, relevante para fundadores y analistas que estudian estrategias de producto y consolidación en el sector.",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Midjourney adquiere Co-Star, la popular app de astrología con millones de usuarios",
+      "resumen": "El laboratorio de IA generativa Midjourney anunció la adquisición de Co-Star, una aplicación de astrología con base de usuarios masiva, en un movimiento que busca expandir su presencia más allá de la generación de imágenes y video. La operación es inusual y sugiere que Midjourney apuesta por el engagement de consumo y las comunidades de nicho como vector de crecimiento. El monto de la transacción no fue revelado.",
+      "por_que_importa": "Es un ejemplo de M&A estratégica no convencional que muestra cómo los laboratorios de IA están buscando distribución y base de usuarios a través de adquisiciones de apps de consumo.",
+      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Tendencias",
+      "titulo_es": "Waymo estudiaría terminar su alianza con Uber cuando venza el contrato en 2028",
+      "resumen": "Waymo, la unidad de vehículos autónomos de Alphabet, estaría evaluando no renovar su acuerdo de distribución con Uber cuando el contrato expire en mayo de 2028, según fuentes citadas por TechCrunch. La eventual ruptura revelaría la tensión entre plataformas de movilidad y fabricantes de tecnología autónoma, que compiten por controlar la capa de distribución del mercado. Waymo ha expandido agresivamente su operación directa en varias ciudades de EE.UU.",
+      "por_que_importa": "La dinámica entre incumbentes de movilidad y startups de autonomía es un caso de estudio clave sobre estrategias de go-to-market y conflictos de canal en tecnología de plataforma.",
+      "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
       "fuente": "TechCrunch"
     }
   ]
