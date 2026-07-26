@@ -1,94 +1,85 @@
 {
-  "titular_del_dia": "Semana de megavaloruaciones en VC global: Anduril apunta a USD 100B mientras el debate por la IA abierta sacude a Washington",
+  "titular_del_dia": "La IA redefine el mercado laboral tech: más de 20 empresas globales atribuyen despidos masivos a la automatización",
   "items": [
     {
-      "indice": 9,
-      "categoria": "Rondas",
-      "titulo_es": "Anduril negocia una ronda que la valoraría en USD 100.000 millones, más del triple que el año pasado",
-      "resumen": "La startup de defensa y tecnología Anduril estaría en conversaciones para levantar capital a una valuación de aproximadamente USD 100.000 millones, según Reuters. Eso representaría más de 3x su valuación de 2025, consolidándola como uno de los unicornios de mayor crecimiento en el ecosistema de defensa tech. La ronda refleja el renovado apetito inversor por deep tech y dual-use technology.",
-      "por_que_importa": "Es un caso de estudio en tiempo real sobre cómo el capital de riesgo está migrando hacia sectores no tradicionales como defensa, con múltiplos de valuación que desafían los estándares históricos del VC.",
-      "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
-      "categoria": "Rondas",
-      "titulo_es": "El nuevo laboratorio de IA de Reid Hoffman y Mark Pincus busca levantar USD 100 millones",
-      "resumen": "Prentis, un 'neolab' de inteligencia artificial cofundado por Reid Hoffman (LinkedIn, Greylock) y Mark Pincus (Zynga), está en negociaciones para cerrar una ronda de USD 100 millones. La apuesta de la compañía es que la automatización de tareas rutinarias en computadoras superará al coding como el caso de uso más importante de la IA. La ronda en etapa temprana a esa escala refleja el peso del track record de los fundadores en el ecosistema.",
-      "por_que_importa": "Muestra cómo los fundadores seriales con credenciales probadas pueden atraer capital masivo en etapas muy tempranas, un fenómeno relevante para entender la dinámica del fundraising en VC.",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 20,
+      "indice": 0,
       "categoria": "Tendencias",
-      "titulo_es": "Las 10 rondas más grandes de la semana: Physical AI, biotech, ciberseguridad y fintech lideran el flujo de capital",
-      "resumen": "Según Crunchbase, la semana estuvo marcada por una distribución sectorial variada en las rondas de mayor tamaño, con el startup de Physical AI Atoms a la cabeza. Los sectores con mayor tracción fueron Physical AI, biotecnología, infraestructura de IA, ciberseguridad y fintech. El reporte ofrece una foto del estado del apetito inversor global en el tercer trimestre de 2026.",
-      "por_que_importa": "Permite identificar qué sectores están captando capital institucional en este momento, información clave para quienes analizan tendencias de asignación en VC.",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms/",
-      "fuente": "Crunchbase News"
+      "titulo_es": "Más de 20 empresas tecnológicas atribuyen despidos masivos a la inteligencia artificial en 2026",
+      "resumen": "Monday.com se suma a una lista creciente de compañías tech que en 2026 justifican recortes de personal por la adopción de IA. TechCrunch documenta en orden cronológico inverso los casos más relevantes del año. El fenómeno marca un punto de inflexión en cómo las empresas comunican y justifican la reestructuración de sus equipos ante inversores y el público.",
+      "por_que_importa": "Entender cómo la IA impacta la estructura de costos y el capital humano en empresas tech es clave para analizar valuaciones, due diligence y el futuro del empleo en startups respaldadas por VC.",
+      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 21,
-      "categoria": "Tendencias",
-      "titulo_es": "General Catalyst supera a Y Combinator como el inversor más activo en fintech de más de USD 5 millones en Q2 2026",
-      "resumen": "Por primera vez en varios trimestres, General Catalyst lideró el ranking de participación en rondas de fintech de USD 5 millones o más durante el segundo trimestre de 2026, desplazando a Y Combinator, según datos de Crunchbase. El dato señala un posible cambio en la estrategia de despliegue de capital de los fondos líderes hacia deals de mayor tamaño en fintech. YC históricamente había dominado este segmento por volumen de deals.",
-      "por_que_importa": "Entender qué fondos lideran por sector y etapa es fundamental para quienes quieren mapear el ecosistema inversor y anticipar hacia dónde fluye el capital en fintech, uno de los sectores más relevantes para LatAm.",
-      "link": "https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 14,
+      "indice": 3,
       "categoria": "Rondas",
-      "titulo_es": "World, la startup biométrica de Sam Altman, recauda USD 52,5 millones mediante una venta de criptomonedas",
-      "resumen": "World, el proyecto paralelo de Sam Altman que busca crear identificadores digitales únicos a partir del escaneo del iris humano, levantó USD 52,5 millones a través de una venta de tokens cripto. La operación es relevante tanto por el monto como por el mecanismo de financiamiento, que combina biometría, identidad digital y criptoactivos. World ya tiene presencia operativa en varios países, incluyendo expansiones en mercados emergentes.",
-      "por_que_importa": "Ilustra cómo estructuras de financiamiento híbridas entre VC tradicional y crypto están ganando terreno, con implicancias directas para startups de identidad digital en LatAm.",
-      "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "titulo_es": "The Boring Company de Elon Musk busca financiamiento con una valuación de 20.000 millones de dólares",
+      "resumen": "La startup de túneles de Elon Musk estaría en negociaciones para cerrar una ronda de inversión significativa que la valuaría en 20.000 millones de dólares. De confirmarse, sería una de las rondas de infraestructura más grandes del año en el ecosistema de startups deep tech. El contexto político y empresarial de Musk agrega una capa de complejidad al análisis del deal.",
+      "por_que_importa": "Es un caso de estudio sobre valuación de startups de infraestructura y deep tech, un segmento que está atrayendo cada vez más atención de fondos de VC y PE a nivel global, incluido LatAm.",
+      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 11,
+      "indice": 6,
       "categoria": "Tendencias",
-      "titulo_es": "Anthropic lanza Opus 5: más barato y menos restrictivo que su modelo anterior",
-      "resumen": "Anthropic presentó Opus 5, su nuevo modelo de lenguaje de gran escala, que promete ser más económico y con menos restricciones de uso que Fable, su antecesor. El lanzamiento intensifica la competencia en el mercado de modelos de IA de frontera, donde OpenAI, Google y nuevos actores chinos como Moonshot también están activos. La reducción de costos tiene implicancias directas para startups que construyen productos sobre APIs de IA.",
-      "por_que_importa": "Menores costos de acceso a modelos de frontera reducen la barrera de entrada para startups de IA en LatAm que compiten contra empresas con más recursos.",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 15,
-      "categoria": "Global",
-      "titulo_es": "La industria presiona a Washington para evitar restricciones amplias sobre modelos de IA de código abierto",
-      "resumen": "Compañías como Nvidia y Mistral presentaron argumentos ante reguladores estadounidenses en contra de imponer restricciones amplias a los modelos de IA de código abierto (open-weight), en el contexto del debate sobre cómo responder al avance de la IA china. El debate regulatorio podría redefinir quién tiene acceso a las herramientas de IA más potentes a nivel global. Una restricción en modelos open-weight afectaría desproporcionadamente a ecosistemas con menor acceso a capital como LatAm.",
-      "por_que_importa": "Las decisiones regulatorias de EE.UU. sobre IA open-source tienen consecuencias directas en el acceso tecnológico de startups latinoamericanas que dependen de modelos abiertos para construir productos competitivos.",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 7,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Cognition adquiere Poke para sumar 'personalidad' a su agente de coding Devin",
-      "resumen": "Cognition, creadora del agente de programación Devin, adquirió Poke, una startup enfocada en el diseño conversacional y el estilo de interacción de sistemas de IA. La adquisición refleja una tesis emergente en el sector: que la personalidad y la forma en que los agentes de IA interactúan con usuarios es una ventaja competitiva tan importante como la performance técnica. Es una de las primeras M&A del segmento de AI agents centrada explícitamente en UX.",
-      "por_que_importa": "Señala una nueva dimensión de diferenciación en el mercado de AI agents, relevante para fundadores y analistas que estudian estrategias de producto y consolidación en el sector.",
-      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Midjourney adquiere Co-Star, la popular app de astrología con millones de usuarios",
-      "resumen": "El laboratorio de IA generativa Midjourney anunció la adquisición de Co-Star, una aplicación de astrología con base de usuarios masiva, en un movimiento que busca expandir su presencia más allá de la generación de imágenes y video. La operación es inusual y sugiere que Midjourney apuesta por el engagement de consumo y las comunidades de nicho como vector de crecimiento. El monto de la transacción no fue revelado.",
-      "por_que_importa": "Es un ejemplo de M&A estratégica no convencional que muestra cómo los laboratorios de IA están buscando distribución y base de usuarios a través de adquisiciones de apps de consumo.",
-      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "titulo_es": "La dependencia energética de los data centers de IA expone vulnerabilidades críticas en la infraestructura eléctrica",
+      "resumen": "Un incidente con una línea de energía caída en Northern Virginia reveló que los data centers de IA no están preparados para manejar interrupciones en la red eléctrica. El artículo analiza soluciones técnicas y regulatorias para un problema que amenaza la escalabilidad de la infraestructura de IA. La demanda energética de los centros de datos ya es uno de los mayores cuellos de botella para el crecimiento del sector.",
+      "por_que_importa": "La infraestructura energética es una restricción real para el despliegue de IA en LatAm y abre oportunidades de inversión en soluciones de energía, resiliencia de red y data centers regionales.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 5,
       "categoria": "Tendencias",
-      "titulo_es": "Waymo estudiaría terminar su alianza con Uber cuando venza el contrato en 2028",
-      "resumen": "Waymo, la unidad de vehículos autónomos de Alphabet, estaría evaluando no renovar su acuerdo de distribución con Uber cuando el contrato expire en mayo de 2028, según fuentes citadas por TechCrunch. La eventual ruptura revelaría la tensión entre plataformas de movilidad y fabricantes de tecnología autónoma, que compiten por controlar la capa de distribución del mercado. Waymo ha expandido agresivamente su operación directa en varias ciudades de EE.UU.",
-      "por_que_importa": "La dinámica entre incumbentes de movilidad y startups de autonomía es un caso de estudio clave sobre estrategias de go-to-market y conflictos de canal en tecnología de plataforma.",
-      "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+      "titulo_es": "Bibliotecas de EE.UU. registran demanda récord en talleres para evitar el uso de inteligencia artificial",
+      "resumen": "Talleres llamados 'Avoiding AI' organizados en bibliotecas públicas de Estados Unidos están generando una demanda sin precedentes entre ciudadanos hartos de la gran tecnología. El fenómeno refleja una resistencia cultural creciente a la adopción forzada de herramientas de IA en servicios cotidianos. Esta contracorriente podría tener implicancias regulatorias y de adopción de producto para startups de IA.",
+      "por_que_importa": "Para fundadores e inversores en startups de IA, comprender la resistencia del usuario final es tan importante como entender la tecnología: afecta el go-to-market y la regulación futura.",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
+      "categoria": "Tendencias",
+      "titulo_es": "SpaceX lanza los primeros satélites Starlink V3 pero falla nuevamente el aterrizaje del propulsor",
+      "resumen": "El segundo vuelo de Starship V3 completó con éxito el despliegue de nuevos satélites Starlink de tercera generación, pero SpaceX volvió a experimentar un fallo en el reencendido de los motores del propulsor durante el regreso. La misión avanza en la validación de la plataforma V3, aunque los fallos repetidos en la recuperación del booster generan dudas sobre la cadencia de lanzamientos. Starlink V3 promete mayor capacidad de banda ancha por satélite.",
+      "por_que_importa": "La expansión de Starlink es un habilitador directo de conectividad en zonas rurales de LatAm, lo que abre mercados para startups de agtech, fintech rural y educación digital en la región.",
+      "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "Kalshi exige a Netflix retirar el tráiler de un documental que la acusa de prácticas cuestionables en mercados de predicción",
+      "resumen": "La plataforma de mercados de predicción Kalshi envió una carta legal a Netflix afirmando que el tráiler del documental 'Prediction Games' contiene documentos falsos y declaraciones engañosas. El conflicto pone en el centro del debate la regulación y la reputación de los mercados de predicción, un segmento que creció explosivamente tras su legalización en EE.UU. Kalshi recaudó más de 45 millones de dólares en rondas recientes.",
+      "por_que_importa": "Los mercados de predicción son un modelo de negocio emergente en la intersección de fintech y datos; entender sus conflictos regulatorios y reputacionales es relevante para analizar su potencial en LatAm.",
+      "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "Tendencias",
+      "titulo_es": "Warner Bros. demanda a Amazon por reclutar ejecutivos ilegalmente y reabre el debate sobre contratos laborales en California",
+      "resumen": "Warner Bros. presentó una demanda contra Amazon alegando que la compañía reclutó ilegalmente a altos ejecutivos en violación de acuerdos de empleo a término. El caso pone nuevamente en cuestión la ejecutabilidad de los contratos de no competencia y permanencia bajo la ley de California. Es un litigio de alto perfil que involucra a dos de los mayores players del entretenimiento y el cloud.",
+      "por_que_importa": "Los acuerdos de empleo y cláusulas de no competencia afectan directamente la dinámica de talento en el ecosistema tech; entenderlos es esencial para fundadores que contratan y para fondos que invierten en empresas con equipos clave.",
+      "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 2,
+      "categoria": "Tendencias",
+      "titulo_es": "Phineas Fisher: el hacktivista que expuso a dos empresas de spyware gubernamental y nunca fue atrapado",
+      "resumen": "TechCrunch publica un perfil extenso sobre Phineas Fisher, el hacker que vulneró a Hacking Team y Gamma Group, dos de los principales proveedores de spyware para gobiernos, filtrando millones de documentos internos. Considerado uno de los hacktivistas más prolíficos de la historia, su identidad sigue siendo desconocida. El caso ilustra las vulnerabilidades de la industria de ciberseguridad ofensiva y el mercado gris de vigilancia digital.",
+      "por_que_importa": "La ciberseguridad es uno de los sectores con mayor inversión de VC en LatAm; conocer los casos más resonantes del ecosistema ayuda a entender los riesgos y oportunidades del vertical.",
+      "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "OpenAI lanza un teclado numérico con IA integrada orientado a desarrolladores de software",
+      "resumen": "OpenAI presentó un nuevo periférico físico —un keypad con IA integrada— diseñado principalmente para agilizar flujos de trabajo de programadores. La reseña de TechCrunch señala que su utilidad es muy específica para perfiles técnicos y probablemente confusa para el usuario general. El lanzamiento forma parte de la estrategia de OpenAI de expandirse hacia hardware y puntos de acceso físicos a sus modelos.",
+      "por_que_importa": "La apuesta de OpenAI por el hardware propio es una señal estratégica sobre cómo las empresas de IA buscan capturar más valor en la cadena; relevante para analizar el posicionamiento competitivo del sector.",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
       "fuente": "TechCrunch"
     }
   ]
