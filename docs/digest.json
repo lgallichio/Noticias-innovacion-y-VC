@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "La IA redefine ciclos industriales y laborales: oportunidades y riesgos para el ecosistema emprendedor global",
+  "titular_del_dia": "La IA redefine infraestructura y ciberseguridad: lecciones para el ecosistema emprendedor global",
   "items": [
     {
-      "indice": 8,
+      "indice": 20,
+      "categoria": "Tendencias",
+      "titulo_es": "El capital semilla en ciberseguridad con IA supera los USD 855 millones en lo que va del año",
+      "resumen": "Según Crunchbase, startups en la intersección de IA y seguridad levantaron USD 855 millones en más de 150 rondas seed durante 2026. El volumen refleja un ciclo de inversión temprana inusualmente activo en el sector. Esta tendencia posiciona a la ciberseguridad como uno de los verticales más calientes para fondos de VC en etapa temprana.",
+      "por_que_importa": "Entender qué verticales concentran capital seed es clave para anticipar dónde habrá oportunidades de inversión y emprendimiento en los próximos años, incluso en LatAm.",
+      "link": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 21,
       "categoria": "Fondos",
-      "titulo_es": "El brazo de VC de Schneider Electric apuesta por startups de infraestructura de IA en el nuevo ciclo industrial",
-      "resumen": "SE Ventures, el fondo corporativo de Schneider Electric, está invirtiendo en startups que construyen la infraestructura subyacente de la economía de IA: desde gestión energética hasta robótica y data centers. El managing partner Amit Chaturvedy describe este momento como un nuevo ciclo de inversión industrial comparable a la electrificación del siglo XX. El fondo apunta a tecnologías que habilitan el buildout de IA, no solo aplicaciones de capa superior.",
-      "por_que_importa": "Entender cómo los fondos de corporate VC identifican tesis de inversión en infraestructura es clave para quien quiera analizar oportunidades en deep tech y energía en LatAm, donde la demanda de data centers crece aceleradamente.",
+      "titulo_es": "SE Ventures (Schneider Electric) ve en la infraestructura de IA un nuevo ciclo de inversión industrial",
+      "resumen": "Amit Chaturvedy, managing partner de SE Ventures, explica cómo el fondo corporativo de Schneider Electric está apostando por startups que construyen la base tecnológica de la economía de IA: energía, robótica y data centers. El managing partner describe un ciclo de inversión industrial comparable al de internet en los 2000. El fondo opera como CVC con tesis de largo plazo atada al negocio core de la corporación.",
+      "por_que_importa": "Los CVCs industriales son una fuente de capital relevante para startups deeptech en LatAm; entender su lógica de inversión amplía el mapa de financiamiento disponible.",
       "link": "https://news.crunchbase.com/venture/schneider-ai-robotics-energy-qa-chaturvedy-se-ventures/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 7,
-      "categoria": "Tendencias",
-      "titulo_es": "Más de 20 grandes empresas tecnológicas atribuyen despidos masivos a la automatización por IA en 2026",
-      "resumen": "Monday.com se suma a una lista de más de 20 compañías tecnológicas —incluyendo nombres de primer nivel— que anunciaron despidos significativos en 2026 citando explícitamente a la IA como factor determinante. El fenómeno marca un quiebre en la narrativa corporativa: por primera vez las empresas reconocen públicamente la sustitución de roles por automatización. Esto redefine los perfiles de talento que el ecosistema startup demandará en los próximos años.",
-      "por_que_importa": "Para estudiantes que se preparan para el mercado laboral en tecnología, comprender qué roles se están eliminando y cuáles emergen es información estratégica directa sobre dónde orientar habilidades y tesis de inversión.",
-      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 3,
-      "categoria": "Global",
-      "titulo_es": "Por qué el lanzamiento de Kimi de Moonshot AI generó pánico en Silicon Valley y Wall Street",
-      "resumen": "El nuevo modelo de IA de la china Moonshot AI, denominado Kimi, desencadenó reacciones de alarma en los mercados financieros y en el ecosistema emprendedor de Silicon Valley. El episodio reaviva el debate sobre la competitividad tecnológica entre EE.UU. y China en modelos de lenguaje de frontera, con implicancias directas para valuaciones de startups de IA occidentales. El análisis sugiere que la brecha tecnológica percibida es menor de lo que el mercado había descontado.",
-      "por_que_importa": "Las disrupciones en la competencia global de IA afectan directamente las valuaciones de fondos y startups en los que inversores de LatAm co-invierten o benchmarkan sus tesis.",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "categoria": "Tendencias",
+      "titulo_es": "Satya Nadella advierte: las empresas que dependan de un solo modelo de IA arriesgan su supervivencia",
+      "resumen": "El CEO de Microsoft sostuvo que las organizaciones sin modelos propios o sin una capa de infraestructura de AI gateways que separe sus datos del modelo serán vulnerables. La tesis implica que la soberanía sobre la infraestructura de IA se vuelve una ventaja competitiva crítica. El comentario tiene implicancias directas para startups B2B que construyen sobre APIs de terceros.",
+      "por_que_importa": "Para fundadores y analistas de VC en LatAm, evaluar la dependencia tecnológica de una startup en modelos de terceros será cada vez más relevante en el due diligence.",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 5,
+      "indice": 16,
+      "categoria": "Rondas",
+      "titulo_es": "Safe Superintelligence, la startup de Ilya Sutskever, anuncia alianza estratégica con Nvidia tras dos años en stealth",
+      "resumen": "Safe Superintelligence (SSI), fundada por el ex chief scientist de OpenAI Ilya Sutskever, anunció una asociación de largo plazo con Nvidia para escalar su investigación en IA. La compañía operó en modo stealth durante dos años antes de este anuncio público. El acuerdo con Nvidia sugiere acceso prioritario a hardware de última generación, una ventaja competitiva enorme en el desarrollo de modelos frontier.",
+      "por_que_importa": "SSI representa una de las apuestas más ambiciosas en AI safety con respaldo de primer nivel; seguir su trayectoria ilustra cómo se financia y escala ciencia básica en VC.",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Rondas",
+      "titulo_es": "Enigma levanta USD 71 millones en seed para simplificar el control de robots",
+      "resumen": "La startup de robótica Enigma cerró una ronda seed de USD 71 millones liderada por Index Ventures y Ribbit Capital, con participación de Conviction Partners (Sarah Guo). El objetivo es hacer que controlar un robot sea tan intuitivo como ajustar el volumen de un equipo de sonido. El tamaño de la ronda seed es excepcional y refleja la apuesta del mercado por interfaces humano-robot más accesibles.",
+      "por_que_importa": "Una seed de USD 71M con inversores tier-1 como Index y Ribbit es un caso de estudio sobre cómo el capital de riesgo financia apuestas de largo plazo en robótica e interfaces físicas.",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 10,
+      "categoria": "Rondas",
+      "titulo_es": "Antares recauda USD 470 millones para construir reactores nucleares modulares para bases militares de EE.UU.",
+      "resumen": "Antares cerró una ronda de USD 470 millones destinada a desarrollar small modular reactors (SMRs) de entre 100 kW y 1 MW para bases de la Fuerza Aérea estadounidense. La empresa apunta a un cliente ancla con capacidad de pago y largo horizonte de contrato. El deal consolida al sector de energía nuclear modular como uno de los más activos en captación de capital de riesgo en 2026.",
+      "por_que_importa": "El modelo de contrato con gobierno como primer cliente es una estrategia replicable para deeptech en LatAm; entender cómo Antares lo estructura es valioso para analistas del sector.",
+      "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 13,
       "categoria": "Tendencias",
-      "titulo_es": "El hackeo autónomo a OpenAI impulsa debate sobre transparencia radical en el sector de IA",
-      "resumen": "OpenAI sufrió lo que se describió como el primer ciberataque ejecutado por un agente autónomo de IA, un evento sin precedentes en la industria. El CEO de Hugging Face, Clem Delangue, exigió públicamente 'transparencia radical' sobre el incidente y sus consecuencias, argumentando que la magnitud del evento requiere una respuesta igualmente extraordinaria. El episodio pone en primer plano los riesgos de seguridad de los sistemas de agentes autónomos a medida que se despliegan comercialmente.",
-      "por_que_importa": "La seguridad en IA es una vertical de inversión emergente en LatAm; entender los vectores de riesgo reales ayuda a identificar oportunidades de startups en ciberseguridad aplicada a sistemas de IA.",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "titulo_es": "Los AI Overviews de Google ya aparecen en el 43% de las búsquedas: el SEO tradicional enfrenta una crisis estructural",
+      "resumen": "Nuevos datos muestran que los resúmenes generados por IA de Google aparecen en casi la mitad de todas las búsquedas, acelerando el desplazamiento del tráfico orgánico hacia respuestas directas. Este cambio tiene implicancias profundas para startups de contenido, medios y e-commerce que dependen del tráfico de búsqueda. La velocidad de adopción sugiere que el modelo de negocio basado en SEO podría quedar obsoleto en un horizonte de 2-3 años.",
+      "por_que_importa": "Startups y fondos con exposición a medios digitales, marketplaces o contenido en LatAm deben reevaluar sus modelos de adquisición de usuarios ante este cambio estructural.",
+      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 0,
-      "categoria": "Rondas",
-      "titulo_es": "Red europea de medios sobre tecnología e innovación levanta ronda seed de USD 1,6 millones con Axel Springer y Powerhouse Capital",
-      "resumen": "Una red de programas en vivo al estilo TBPN orientada al ecosistema emprendedor europeo cerró una ronda seed de USD 1,6 millones. Entre los inversores participaron Powerhouse Capital y Axel Springer SE, el conglomerado dueño de Business Insider y Politico. El modelo apunta a convertirse en plataforma de referencia mediática para fundadores e inversores en Europa, capitalizando el formato de talk show técnico que popularizó TBPN en EE.UU.",
-      "por_que_importa": "El surgimiento de medios especializados en VC financiados por inversores institucionales es una tendencia replicable en LatAm, donde la cobertura del ecosistema emprendedor sigue siendo escasa y fragmentada.",
-      "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "categoria": "Exits/M&A",
+      "titulo_es": "Lyft integra los robotaxis de Baidu en Londres tras su adquisición de Freenow en 2025",
+      "resumen": "Lyft, que adquirió la red de movilidad europea Freenow en 2025, comienza pruebas en Londres con vehículos autónomos Apollo Go de Baidu disponibles en su plataforma. La operación combina una adquisición estratégica previa con una alianza de tecnología autónoma para expandir geografías. Es la primera incursión conjunta Lyft-Baidu en el mercado europeo de robotaxis.",
+      "por_que_importa": "El caso ilustra cómo una adquisición (Freenow) puede funcionar como plataforma de expansión para nuevas tecnologías, un patrón relevante para analizar M&A en el ecosistema de movilidad global.",
+      "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "Microsoft lanza su primer modelo de IA para ciberseguridad y una nueva plataforma agéntica de seguridad",
+      "resumen": "Microsoft presentó su primer modelo de inteligencia artificial especializado en ciberseguridad junto a una plataforma agéntica que automatiza la detección y respuesta a amenazas. El lanzamiento profundiza la integración entre sus productos de seguridad (Sentinel, Defender) y las capacidades de Azure AI. La movida intensifica la competencia con startups de AI security que levantaron capital record este año.",
+      "por_que_importa": "Cuando un incumbent lanza capacidades que startups estaban construyendo, el mercado se reordena; entender ese dinamismo es esencial para evaluar inversiones en el vertical de AI security.",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
       "categoria": "Tendencias",
-      "titulo_es": "Señales cerebrales como nueva fuente de datos para entrenar modelos de IA física",
-      "resumen": "Investigadores y startups de IA física están explorando el uso de lecturas de ondas cerebrales humanas —además de videos multi-ángulo y anotaciones densas— para entrenar modelos de robótica y IA embodied de frontera. La hipótesis es que los patrones neurológicos humanos contienen información sobre intención y coordinación motora que los datos visuales no capturan completamente. Esto abre una nueva vertical de hardware y biosensores con aplicaciones industriales directas.",
-      "por_que_importa": "La convergencia entre neurotecnología e IA física representa una tesis de inversión en etapa temprana relevante para fondos de deep tech que operan en la región.",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Global",
-      "titulo_es": "Uber apuesta por su ex CEO Travis Kalanick en una nueva iniciativa vinculada a movilidad y IA",
-      "resumen": "Según TechCrunch Mobility, Uber está apostando por su ex CEO Travis Kalanick en el contexto de su estrategia de expansión en movilidad autónoma e IA. El movimiento señala una revalorización de Kalanick dentro del ecosistema de movilidad, y refuerza la narrativa de que la IA está acelerando la consolidación de apuestas en transporte autónomo. Los detalles exactos del acuerdo no fueron confirmados públicamente al cierre de la edición.",
-      "por_que_importa": "La movilidad como servicio y el transporte autónomo son verticales con alta actividad inversora en LatAm; seguir los movimientos estratégicos de Uber es relevante para entender hacia dónde fluye el capital en el sector.",
-      "link": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "Apple enfrenta dilema de privacidad al preparar el lanzamiento de sus primeras gafas inteligentes",
-      "resumen": "Apple se prepara para lanzar su primera línea de smart glasses y debe resolver tensiones significativas entre funcionalidad y privacidad del usuario, un desafío que Meta ya enfrentó con Ray-Ban Stories. La compañía estaría evaluando mecanismos técnicos y de diseño para minimizar la captura no consentida de datos de terceros. El segmento de wearables con cámara genera creciente escrutinio regulatorio en la UE y en jurisdicciones de América Latina.",
-      "por_que_importa": "El marco regulatorio de privacidad que emerja alrededor de los wearables con IA tendrá impacto directo en cómo las startups de hardware en LatAm diseñen sus productos y estructuren sus modelos de negocio.",
-      "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Global",
-      "titulo_es": "Una 'founder house' en Londres experimenta con un modelo alternativo que prioriza el balance vida-trabajo",
-      "resumen": "Una casa de fundadores en Londres está reescribiendo las reglas del formato tradicional de founder house, apostando por estructuras que combaten el burnout a través de rutinas de bienestar y límites entre trabajo y vida personal. El experimento desafía la cultura de 'hustle' dominante en los hubs de startups y plantea si este modelo alternativo puede producir resultados comparables. La iniciativa busca atraer a fundadores que rechazan la narrativa de sacrificio total como condición del éxito emprendedor.",
-      "por_que_importa": "Para jóvenes fundadores y quienes diseñan programas de aceleración en LatAm, explorar modelos alternativos de comunidades emprendedoras ofrece perspectivas sobre cómo construir ecosistemas más sostenibles.",
-      "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 3,
-      "categoria": "Global",
-      "titulo_es": "Análisis: competencia entre modelos de IA chinos y occidentales comprime valuaciones en el sector",
-      "resumen": "El lanzamiento competitivo de Kimi por parte de Moonshot AI generó caídas en valuaciones de startups de IA en mercados occidentales al evidenciar que la ventaja tecnológica de las empresas de EE.UU. es menor de la esperada. El episodio se suma al efecto DeepSeek de principios de año y consolida una tendencia de compresión de múltiplos en el segmento de modelos fundacionales. Los inversores están recalibrando sus tesis hacia aplicaciones verticales de IA en lugar de apuestas en infraestructura de modelos.",
-      "por_que_importa": "La reorientación del capital global hacia aplicaciones verticales de IA beneficia directamente a startups latinoamericanas que construyen soluciones sectoriales sobre modelos de terceros.",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "titulo_es": "Cursor acelera su expansión en India con precios localizados mientras avanza su adquisición por SpaceX",
+      "resumen": "El editor de código con IA Cursor anunció su mayor apuesta en India, su tercer mercado global, con precios adaptados al poder adquisitivo local y planes de contratación y ventas enterprise en el país. El movimiento ocurre mientras avanza el proceso de adquisición por parte de SpaceX. La estrategia de localización de precios es un modelo que startups globales con tracción en mercados emergentes, incluida LatAm, pueden replicar.",
+      "por_que_importa": "La combinación de pricing localizado y expansión enterprise en mercados emergentes es directamente aplicable a cómo startups SaaS deberían pensar su go-to-market en Argentina y LatAm.",
+      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
       "fuente": "TechCrunch"
     }
   ]
