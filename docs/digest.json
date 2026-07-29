@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "La IA redefine infraestructura y ciberseguridad: lecciones para el ecosistema emprendedor global",
+  "titular_del_dia": "Semana de megadeals en ciberseguridad e IA: Cyera compra Oasis por USD 1.000M y los seeds en AI-security superan los USD 855M en 2026",
   "items": [
     {
-      "indice": 20,
+      "indice": 2,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Cyera adquiere Oasis Security por USD 1.000M para proteger agentes de IA",
+      "resumen": "Cyera, startup de seguridad de datos, acordó comprar Oasis Security por USD 1.000 millones, convirtiéndose en su tercera adquisición en lo que va de 2026. La operación apunta a cubrir la creciente superficie de ataque que generan los agentes de IA autónomos en entornos corporativos. El deal consolida la tesis de que la seguridad para sistemas de IA es uno de los sectores con mayor actividad de M&A.",
+      "por_que_importa": "Ilustra cómo las empresas de ciberseguridad usan adquisiciones en serie para capturar mercados emergentes —un patrón de roll-up que es clave entender en PE y growth equity.",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 23,
       "categoria": "Tendencias",
-      "titulo_es": "El capital semilla en ciberseguridad con IA supera los USD 855 millones en lo que va del año",
-      "resumen": "Según Crunchbase, startups en la intersección de IA y seguridad levantaron USD 855 millones en más de 150 rondas seed durante 2026. El volumen refleja un ciclo de inversión temprana inusualmente activo en el sector. Esta tendencia posiciona a la ciberseguridad como uno de los verticales más calientes para fondos de VC en etapa temprana.",
-      "por_que_importa": "Entender qué verticales concentran capital seed es clave para anticipar dónde habrá oportunidades de inversión y emprendimiento en los próximos años, incluso en LatAm.",
+      "titulo_es": "Los seeds en IA + ciberseguridad ya superan los USD 855M en 2026, según Crunchbase",
+      "resumen": "Según datos de Crunchbase, startups en la intersección de IA y seguridad recaudaron USD 855 millones en más de 150 rondas seed reportadas solo en 2026. La tendencia refleja que los inversores early-stage están apostando fuerte al problema de seguridad que la propia IA genera. El deal de Cyera/Oasis (artículo anterior) es la expresión en etapa growth de este mismo fenómeno.",
+      "por_que_importa": "Ofrece datos duros sobre dónde fluye el capital seed global hoy, lo que es directamente útil para entender tesis de inversión en el sector tech.",
       "link": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 21,
-      "categoria": "Fondos",
-      "titulo_es": "SE Ventures (Schneider Electric) ve en la infraestructura de IA un nuevo ciclo de inversión industrial",
-      "resumen": "Amit Chaturvedy, managing partner de SE Ventures, explica cómo el fondo corporativo de Schneider Electric está apostando por startups que construyen la base tecnológica de la economía de IA: energía, robótica y data centers. El managing partner describe un ciclo de inversión industrial comparable al de internet en los 2000. El fondo opera como CVC con tesis de largo plazo atada al negocio core de la corporación.",
-      "por_que_importa": "Los CVCs industriales son una fuente de capital relevante para startups deeptech en LatAm; entender su lógica de inversión amplía el mapa de financiamiento disponible.",
-      "link": "https://news.crunchbase.com/venture/schneider-ai-robotics-energy-qa-chaturvedy-se-ventures/",
+      "indice": 3,
+      "categoria": "Rondas",
+      "titulo_es": "Spur Intelligence recauda USD 200M de Insight Partners para detectar tráfico de bots",
+      "resumen": "Spur Intelligence levantó una ronda de USD 200 millones liderada por Insight Partners para escalar su tecnología de distinción entre tráfico humano legítimo y bots automatizados. La ronda marca uno de los tickets más grandes del segmento de detección de fraude digital en lo que va del año. Insight Partners, uno de los fondos de growth más activos a nivel global —con presencia en LatAm—, lideró la operación.",
+      "por_que_importa": "El tamaño de la ronda y el nombre del fondo lideran muestran el apetito de capital growth por infraestructura de confianza digital, un sector con aplicación directa en fintechs y e-commerce de la región.",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 19,
+      "categoria": "Tendencias",
+      "titulo_es": "Recursive Superintelligence firma un acuerdo de cómputo con Amazon por USD 410M",
+      "resumen": "Recursive Superintelligence, enfocada en sistemas de IA auto-mejorables, cerró un contrato de infraestructura de cómputo con Amazon por USD 410 millones. A diferencia del modelo tradicional, la compañía destina la mayor parte de su presupuesto a cómputo en lugar de headcount, apostando a automatizar sus propias operaciones. El deal ejemplifica cómo las empresas de IA de frontier están estructurando sus costos de forma radicalmente distinta.",
+      "por_que_importa": "Entender la economía de unit economics de las AI labs —donde el cómputo reemplaza al capital humano— es esencial para analizar valuaciones y modelos de negocio en este sector.",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 20,
+      "categoria": "Tendencias",
+      "titulo_es": "Por qué el mayor retorno de la era IA podría estar en las empresas medianas de tecnología",
+      "resumen": "Brad Bernstein, managing partner de FTV Capital, argumenta con datos que las ganancias estructurales de largo plazo de la IA no irán a los grandes incumbentes ni a las AI-native startups, sino a empresas tecnológicas de mercado medio —los 'middleweights'— que adoptan IA para mejorar márgenes y eficiencia. El análisis se basa en patrones históricos de adopción tecnológica y múltiplos de salida en middle market. FTV Capital gestiona más de USD 6.000M bajo este enfoque.",
+      "por_que_importa": "Desafía la narrativa dominante del VC y ofrece una tesis de inversión alternativa relevante para pensar en oportunidades de PE y growth en LatAm, donde abundan empresas tech de escala media.",
+      "link": "https://news.crunchbase.com/ai/era-middle-market-contenders-bernstein-ftv/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 3,
-      "categoria": "Tendencias",
-      "titulo_es": "Satya Nadella advierte: las empresas que dependan de un solo modelo de IA arriesgan su supervivencia",
-      "resumen": "El CEO de Microsoft sostuvo que las organizaciones sin modelos propios o sin una capa de infraestructura de AI gateways que separe sus datos del modelo serán vulnerables. La tesis implica que la soberanía sobre la infraestructura de IA se vuelve una ventaja competitiva crítica. El comentario tiene implicancias directas para startups B2B que construyen sobre APIs de terceros.",
-      "por_que_importa": "Para fundadores y analistas de VC en LatAm, evaluar la dependencia tecnológica de una startup en modelos de terceros será cada vez más relevante en el due diligence.",
-      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 16,
+      "indice": 17,
       "categoria": "Rondas",
-      "titulo_es": "Safe Superintelligence, la startup de Ilya Sutskever, anuncia alianza estratégica con Nvidia tras dos años en stealth",
-      "resumen": "Safe Superintelligence (SSI), fundada por el ex chief scientist de OpenAI Ilya Sutskever, anunció una asociación de largo plazo con Nvidia para escalar su investigación en IA. La compañía operó en modo stealth durante dos años antes de este anuncio público. El acuerdo con Nvidia sugiere acceso prioritario a hardware de última generación, una ventaja competitiva enorme en el desarrollo de modelos frontier.",
-      "por_que_importa": "SSI representa una de las apuestas más ambiciosas en AI safety con respaldo de primer nivel; seguir su trayectoria ilustra cómo se financia y escala ciencia básica en VC.",
-      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "titulo_es": "Fish Audio recauda USD 52M en ronda seed para modelos de voz con IA para creadores y empresas",
+      "resumen": "Fish Audio cerró una ronda seed de USD 52 millones para escalar sus modelos de voz generativa, disponibles tanto en versión open source como hosted. La startup ya cuenta con más de 8 millones de usuarios y genera USD 21 millones de ARR, métricas inusuales para una compañía en etapa seed. Los modelos apuntan a creadores de contenido y casos de uso enterprise.",
+      "por_que_importa": "El perfil de métricas —USD 21M ARR en seed— ilustra cómo el umbral de lo que se considera 'listo para levantar' cambió en la era de la IA generativa, algo crucial para entender las dinámicas de valoración actuales.",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 18,
+      "indice": 21,
       "categoria": "Rondas",
-      "titulo_es": "Enigma levanta USD 71 millones en seed para simplificar el control de robots",
-      "resumen": "La startup de robótica Enigma cerró una ronda seed de USD 71 millones liderada por Index Ventures y Ribbit Capital, con participación de Conviction Partners (Sarah Guo). El objetivo es hacer que controlar un robot sea tan intuitivo como ajustar el volumen de un equipo de sonido. El tamaño de la ronda seed es excepcional y refleja la apuesta del mercado por interfaces humano-robot más accesibles.",
-      "por_que_importa": "Una seed de USD 71M con inversores tier-1 como Index y Ribbit es un caso de estudio sobre cómo el capital de riesgo financia apuestas de largo plazo en robótica e interfaces físicas.",
-      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "fuente": "TechCrunch"
+      "titulo_es": "Freehand levanta USD 75M en Serie B para automatizar el gasto en supply chain de empresas Fortune 500",
+      "resumen": "Freehand (antes Pando) cerró una Serie B de USD 75 millones para escalar agentes de IA autónomos que gestionan el gasto en cadena de suministro y operaciones de back-office para grandes corporaciones. La startup apunta al segmento enterprise de Fortune 500, donde el ciclo de venta es largo pero el contrato promedio es significativo. El funding consolida la tesis de agentes de IA aplicados a procesos B2B complejos.",
+      "por_que_importa": "La automatización de supply chain con IA es un vertical con alta relevancia para empresas industriales y de retail en LatAm, lo que abre oportunidades para startups regionales con modelos similares.",
+      "link": "https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/",
+      "fuente": "Crunchbase News"
     },
     {
-      "indice": 10,
-      "categoria": "Rondas",
-      "titulo_es": "Antares recauda USD 470 millones para construir reactores nucleares modulares para bases militares de EE.UU.",
-      "resumen": "Antares cerró una ronda de USD 470 millones destinada a desarrollar small modular reactors (SMRs) de entre 100 kW y 1 MW para bases de la Fuerza Aérea estadounidense. La empresa apunta a un cliente ancla con capacidad de pago y largo horizonte de contrato. El deal consolida al sector de energía nuclear modular como uno de los más activos en captación de capital de riesgo en 2026.",
-      "por_que_importa": "El modelo de contrato con gobierno como primer cliente es una estrategia replicable para deeptech en LatAm; entender cómo Antares lo estructura es valioso para analistas del sector.",
-      "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 13,
+      "indice": 14,
       "categoria": "Tendencias",
-      "titulo_es": "Los AI Overviews de Google ya aparecen en el 43% de las búsquedas: el SEO tradicional enfrenta una crisis estructural",
-      "resumen": "Nuevos datos muestran que los resúmenes generados por IA de Google aparecen en casi la mitad de todas las búsquedas, acelerando el desplazamiento del tráfico orgánico hacia respuestas directas. Este cambio tiene implicancias profundas para startups de contenido, medios y e-commerce que dependen del tráfico de búsqueda. La velocidad de adopción sugiere que el modelo de negocio basado en SEO podría quedar obsoleto en un horizonte de 2-3 años.",
-      "por_que_importa": "Startups y fondos con exposición a medios digitales, marketplaces o contenido en LatAm deben reevaluar sus modelos de adquisición de usuarios ante este cambio estructural.",
-      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "titulo_es": "PayPal abre la puerta a una oferta de adquisición tras superar estimaciones en Q2 2026",
+      "resumen": "Tras reportar resultados del segundo trimestre por encima de las expectativas, PayPal señaló que evaluaría una operación corporativa que genere más valor para sus accionistas, dejando abierta la posibilidad de una adquisición. La compañía había estado bajo presión competitiva de billeteras digitales nativas de IA y nuevos players de pagos. La declaración generó especulación sobre posibles compradores estratégicos o de PE.",
+      "por_que_importa": "Un posible M&A sobre PayPal tendría efectos directos en el ecosistema de pagos de LatAm, donde la compañía opera y compite con fintechs regionales como Mercado Pago.",
+      "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 0,
-      "categoria": "Exits/M&A",
-      "titulo_es": "Lyft integra los robotaxis de Baidu en Londres tras su adquisición de Freenow en 2025",
-      "resumen": "Lyft, que adquirió la red de movilidad europea Freenow en 2025, comienza pruebas en Londres con vehículos autónomos Apollo Go de Baidu disponibles en su plataforma. La operación combina una adquisición estratégica previa con una alianza de tecnología autónoma para expandir geografías. Es la primera incursión conjunta Lyft-Baidu en el mercado europeo de robotaxis.",
-      "por_que_importa": "El caso ilustra cómo una adquisición (Freenow) puede funcionar como plataforma de expansión para nuevas tecnologías, un patrón relevante para analizar M&A en el ecosistema de movilidad global.",
-      "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 7,
+      "indice": 5,
       "categoria": "Tendencias",
-      "titulo_es": "Microsoft lanza su primer modelo de IA para ciberseguridad y una nueva plataforma agéntica de seguridad",
-      "resumen": "Microsoft presentó su primer modelo de inteligencia artificial especializado en ciberseguridad junto a una plataforma agéntica que automatiza la detección y respuesta a amenazas. El lanzamiento profundiza la integración entre sus productos de seguridad (Sentinel, Defender) y las capacidades de Azure AI. La movida intensifica la competencia con startups de AI security que levantaron capital record este año.",
-      "por_que_importa": "Cuando un incumbent lanza capacidades que startups estaban construyendo, el mercado se reordena; entender ese dinamismo es esencial para evaluar inversiones en el vertical de AI security.",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "titulo_es": "Sam Altman pide desacelerar el desarrollo de IA tras su primer incidente de seguridad grave",
+      "resumen": "El CEO de OpenAI declaró estar dispuesto a desacelerar el ritmo de desarrollo de IA luego de experimentar 'de forma muy visceral' su primer incidente de seguridad serio. El cambio de postura de uno de los principales aceleracionistas del sector marca un giro discursivo relevante en el debate sobre gobernanza de IA. La declaración llega en un contexto de creciente presión regulatoria global sobre los labs de IA frontier.",
+      "por_que_importa": "El posicionamiento de Altman influye en la narrativa regulatoria y en las tesis de inversión de los fondos que apuestan por IA responsable —un factor que empieza a impactar valuaciones y due diligence.",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
-      "categoria": "Tendencias",
-      "titulo_es": "Cursor acelera su expansión en India con precios localizados mientras avanza su adquisición por SpaceX",
-      "resumen": "El editor de código con IA Cursor anunció su mayor apuesta en India, su tercer mercado global, con precios adaptados al poder adquisitivo local y planes de contratación y ventas enterprise en el país. El movimiento ocurre mientras avanza el proceso de adquisición por parte de SpaceX. La estrategia de localización de precios es un modelo que startups globales con tracción en mercados emergentes, incluida LatAm, pueden replicar.",
-      "por_que_importa": "La combinación de pricing localizado y expansión enterprise en mercados emergentes es directamente aplicable a cómo startups SaaS deberían pensar su go-to-market en Argentina y LatAm.",
-      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "categoria": "Rondas",
+      "titulo_es": "Pangram recauda USD 9M para detectar contenido generado por IA en texto e imágenes",
+      "resumen": "Pangram levantó USD 9 millones para escalar su software de detección de contenido generado por IA, lanzando simultáneamente su modelo Pangram 4 para texto y un modelo de detección de imágenes en preview. La startup opera en un mercado que crece en paralelo a la proliferación de contenido sintético en medios, plataformas y procesos corporativos. El funding llega en un momento de alta demanda por herramientas de verificación de autenticidad.",
+      "por_que_importa": "La detección de contenido IA es un problema que afecta directamente a medios, educación y compliance —sectores donde startups de LatAm podrían desarrollar soluciones localizadas con esta tesis.",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
       "fuente": "TechCrunch"
     }
   ]
