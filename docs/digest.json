@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "Endeavor lanza nueva edición de ScaleUp mientras la IA redefine oportunidades para startups en todos los segmentos",
+  "titular_del_dia": "L Catterton cierra fondo de USD 550M para LatAm y Tether entra en Ualá: semana cargada de capital para la región",
   "items": [
     {
-      "indice": 0,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Cinco nuevas compañías se suman al programa ScaleUp 2026 de Endeavor Argentina",
-      "resumen": "Endeavor Argentina seleccionó cinco compañías para la nueva edición de su programa ScaleUp, uno de los principales programas de aceleración para empresas en etapa de crecimiento del país. El programa apunta a emprendedores de alto impacto que buscan escalar sus operaciones con el respaldo de la red global de Endeavor.",
-      "por_que_importa": "ScaleUp es una de las puertas de entrada más relevantes al ecosistema de scale-ups argentino, y conocer qué empresas selecciona Endeavor cada año es clave para entender hacia dónde fluye el apoyo institucional local.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-scaleup-program-seleccionados-2026-endeavor/",
-      "fuente": "Endeavor Argentina"
+      "indice": 4,
+      "categoria": "Fondos",
+      "titulo_es": "L Catterton alcanza el cierre final de su Fondo Latinoamérica IV con USD 550 millones",
+      "resumen": "L Catterton cerró su cuarto fondo dedicado a América Latina con aproximadamente USD 550 millones, enfocado en inversiones en empresas de consumo en toda la región. Es uno de los fondos de PE de consumo más grandes levantados para LatAm en años recientes.",
+      "por_que_importa": "Muestra que los grandes fondos de PE globales siguen apostando fuerte al consumo latinoamericano, una señal clave sobre el apetito institucional por la región.",
+      "link": "https://www.lavca.org/l-catterton-reaches-usd550m-final-close-for-latin-america-fund-iv/",
+      "fuente": "LAVCA"
     },
     {
-      "indice": 22,
-      "categoria": "Tendencias",
-      "titulo_es": "Por qué las empresas tecnológicas medianas serán las grandes ganadoras de la era de la IA según un managing partner de FTV Capital",
-      "resumen": "Brad Bernstein, managing partner de FTV Capital, argumenta con datos que las mayores ganancias de la IA a largo plazo no irán a los gigantes incumbentes ni a las startups nativas de IA, sino a empresas tecnológicas de mercado medio ('middleweights') con bases de clientes establecidas y capacidad de integrar IA en productos maduros. El análisis desafía la narrativa dominante que concentra el valor en los modelos fundacionales.",
-      "por_que_importa": "Este marco conceptual es directamente aplicable al análisis de oportunidades de inversión en LatAm, donde predominan empresas tecnológicas de tamaño medio con potencial de adopción de IA.",
-      "link": "https://news.crunchbase.com/ai/era-middle-market-contenders-bernstein-ftv/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 23,
+      "indice": 8,
       "categoria": "Rondas",
-      "titulo_es": "Freehand recauda USD 75 millones en Serie B para automatizar la cadena de suministro de grandes corporaciones con agentes de IA",
-      "resumen": "Freehand cerró una ronda Serie B de 75 millones de dólares para escalar agentes de IA autónomos que gestionan el gasto en cadena de suministro y operaciones de back-office para empresas Fortune 500. La startup compite en el segmento de automatización de procurement empresarial, uno de los de mayor tracción en IA aplicada.",
-      "por_que_importa": "Ilustra el tamaño de las rondas que están levantando startups de IA en vertical B2B, un modelo replicable en LatAm donde la digitalización de supply chains corporativas sigue siendo una oportunidad abierta.",
-      "link": "https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/",
-      "fuente": "Crunchbase News"
+      "titulo_es": "Tether invierte USD 20 millones en Ualá, valuada en USD 3.200 millones",
+      "resumen": "Tether, la empresa detrás de la stablecoin USDT, realizó una inversión de USD 20 millones en Ualá, la fintech argentina, como parte de una ronda mayor de USD 197 millones anunciada en marzo. La inversión consolida la valuación de Ualá en USD 3.200 millones.",
+      "por_que_importa": "La entrada de Tether en una fintech argentina es un hito que conecta el ecosistema cripto global con el emprendimiento local y refuerza el perfil de Ualá como uno de los unicornios más relevantes de la región.",
+      "link": "https://www.lavca.org/tether-invests-usd20m-in-uala/",
+      "fuente": "LAVCA"
     },
     {
-      "indice": 17,
+      "indice": 5,
+      "categoria": "Fondos",
+      "titulo_es": "CAF ancla el Fondo Vela con USD 20 millones para inversión de impacto en LatAm",
+      "resumen": "CAF comprometió USD 20 millones para anclar el Fondo Vela, un vehículo con objetivo de USD 150 millones co-gestionado por Sonen Capital y Fondo de Fondos, orientado a inversiones sostenibles y de impacto en América Latina y el Caribe. El fondo busca catalizar capital privado hacia la región.",
+      "por_que_importa": "Ilustra el rol creciente de los bancos de desarrollo como anclas de fondos de impacto en LatAm, un modelo relevante para entender cómo se estructura el ecosistema de capital de riesgo regional.",
+      "link": "https://www.lavca.org/caf-launches-vela-fund-with-usd20m-anchor-commitment/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 7,
       "categoria": "Rondas",
-      "titulo_es": "Encore AI levanta USD 30 millones para crear agentes de ventas que aprenden de llamadas con clientes",
-      "resumen": "Encore AI cerró una ronda de 30 millones de dólares para desarrollar agentes de IA que analizan llamadas, mensajes y datos de CRM para identificar técnicas de ventas efectivas y convertirlas en playbooks automatizados. La startup apunta al mercado de revenue intelligence y sales enablement empresarial.",
-      "por_que_importa": "El modelo de IA aplicada a ventas B2B tiene alta transferibilidad a mercados latinoamericanos, donde empresas locales de SaaS buscan diferenciarse en eficiencia comercial.",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 3,
-      "categoria": "Global",
-      "titulo_es": "Microsoft obtuvo USD 3.200 millones de su inversión en Anthropic, mientras que su apuesta en OpenAI mostró resultados mixtos",
-      "resumen": "En sus resultados del cuarto trimestre fiscal 2026, Microsoft reveló que su inversión en Anthropic generó 3.200 millones de dólares, mientras que su posición en OpenAI arrojó resultados menos claros. El dato pone en evidencia la lógica de portafolio con la que los grandes tecnológicos están apostando al ecosistema de IA fundacional.",
-      "por_que_importa": "Entender cómo los corporates estructuran sus inversiones en IA como portafolios de venture es una lección directa de estrategia de VC aplicada a escala global.",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Global",
-      "titulo_es": "Microsoft compite abiertamente con OpenAI y Anthropic al presentar sus propios modelos de IA ante Wall Street",
-      "resumen": "Microsoft presentó a inversores su línea de modelos de IA de desarrollo propio, incluyendo herramientas y un competidor directo a Mythos, señalando que planea seguir creciendo en el segmento sin depender exclusivamente de sus socios OpenAI y Anthropic. El movimiento marca un cambio estratégico significativo en la arquitectura de alianzas del ecosistema de IA.",
-      "por_que_importa": "La competencia entre Microsoft y sus propios investees redefine las dinámicas de poder en el ecosistema IA global, con implicancias para cualquier startup que construya sobre estos modelos fundacionales.",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 21,
-      "categoria": "Rondas",
-      "titulo_es": "Ex ingenieros de Meta y Slack levantan USD 15 millones para Centralize, un 'GPS para ventas enterprise'",
-      "resumen": "Centralize, una plataforma de ventas enterprise fundada por ex ingenieros de Meta y Slack, salió del modo stealth y anunció una ronda Serie A de 15 millones de dólares. La startup busca mapear y gestionar los complejos ciclos de ventas B2B mediante IA, posicionándose como infraestructura de go-to-market para empresas tecnológicas.",
-      "por_que_importa": "El perfil fundador (ex Big Tech) y el segmento (sales intelligence B2B) es un patrón de startup que varios emprendedores latinoamericanos están comenzando a replicar desde la diáspora tecnológica regional.",
-      "link": "https://news.crunchbase.com/sales-marketing/centralize-enterprise-sales-gtm-startup-funding-slack-meta-alums/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 12,
-      "categoria": "Tendencias",
-      "titulo_es": "EE.UU. prohíbe la importación de robots humanoides, perros robóticos e inversores solares fabricados en el extranjero por razones de seguridad nacional",
-      "resumen": "El gobierno de Estados Unidos emitió una prohibición sobre nuevas importaciones de robots humanoides, robot dogs e inversores solares de fabricación extranjera, apuntando principalmente a productos chinos que dominan esos mercados globales. La medida tiene implicancias directas para la cadena de suministro de hardware robótico y energía renovable a nivel mundial.",
-      "por_que_importa": "Las restricciones de hardware por razones geopolíticas abren oportunidades de manufactura y ensamblado alternativo en países como Brasil, México y Argentina, lo que puede atraer inversión industrial hacia LatAm.",
-      "link": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-      "fuente": "TechCrunch"
+      "titulo_es": "Cashea, la plataforma BNPL venezolana, levanta USD 100 millones en financiamientos combinados",
+      "resumen": "FinSight Ventures lideró una Serie B de USD 60 millones para Cashea, plataforma de compra ahora-paga después con base en Venezuela, con participación de Endeavor Catalyst, Plug and Play y NuMundo Ventures, entre otros. El total de financiamientos alcanzó los USD 100 millones incluyendo instrumentos adicionales.",
+      "por_que_importa": "Es un caso extraordinario de startup de alto crecimiento emergiendo desde Venezuela, demostrando que el capital de riesgo puede fluir hacia mercados no convencionales de LatAm cuando el modelo es sólido.",
+      "link": "https://www.lavca.org/finsight-ventures-spice-expeditions-lead-usd100m-in-financings-for-cashea/",
+      "fuente": "LAVCA"
     },
     {
       "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "Zuckerberg proyecta que miles de millones de personas tendrán agentes de IA personales en los próximos cinco años",
-      "resumen": "En la llamada de resultados del segundo trimestre de Meta, Mark Zuckerberg argumentó ante inversores que los agentes de IA personales alcanzarán adopción masiva en un horizonte de cinco años, respaldando así las inversiones millonarias de la compañía en infraestructura de IA. Meta invirtió decenas de miles de millones en infraestructura de IA durante 2026.",
-      "por_que_importa": "La tesis de adopción masiva de agentes IA que describe Zuckerberg define el mercado en el que deberán competir las startups latinoamericanas de IA en los próximos años.",
-      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "fuente": "TechCrunch"
+      "categoria": "Exits/M&A",
+      "titulo_es": "CPP Investments vende su participación en Ultrapar por BRL 1.300 millones (USD 253 millones) en la B3",
+      "resumen": "CPP Investments, el fondo de pensiones canadiense, realizó un exit completo de Ultrapar, empresa brasileña listada en bolsa, mediante un block trade en la B3 por aproximadamente USD 253 millones. La operación es uno de los exits de PE más significativos en Brasil en lo que va del año.",
+      "por_que_importa": "Ejemplifica cómo los grandes fondos institucionales ejecutan exits a través del mercado público, un mecanismo relevante para entender las estrategias de salida en PE latinoamericano.",
+      "link": "https://www.lavca.org/cpp-investents-exits-ultrapar-via-brl1-3b-usd253-3m-block-trade/",
+      "fuente": "LAVCA"
     },
     {
-      "indice": 19,
+      "indice": 0,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Ruta N y Coolwater Capital lanzan convocatoria abierta para formar y expandir fondos de VC",
+      "resumen": "Ruta N y Coolwater Capital abrieron una convocatoria para seleccionar 20 family offices, ángeles, fondos emergentes e inversores corporativos para un programa gratuito de creación o expansión de vehículos de VC. La iniciativa apunta a fortalecer la base inversora del ecosistema emprendedor de la región.",
+      "por_que_importa": "Es una oportunidad concreta y gratuita para quienes quieran formarse como gestores de fondos o inversores ángeles en LatAm, directamente aplicable para miembros del club.",
+      "link": "https://www.lavca.org/ruta-n-and-coolwater-capital-launch-open-call-for-investors/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 1,
+      "categoria": "Rondas",
+      "titulo_es": "Canary lidera ronda semilla de USD 7,5 millones para Refer, plataforma de reclutamiento con IA fundada por brasileño",
+      "resumen": "Canary lideró una ronda seed de USD 7,5 millones para Refer, una plataforma de reclutamiento basada en IA fundada por el emprendedor brasileño André Hamra y con base en EE.UU. Participaron Goodwater Capital, Salt VC y Norte, entre otros fondos con foco latinoamericano.",
+      "por_que_importa": "Muestra la tendencia de fundadores latinoamericanos construyendo startups de IA en mercados desarrollados con respaldo de fondos regionales, un camino de salida global cada vez más común.",
+      "link": "https://www.lavca.org/canary-leads-usd7-5m-seed-round-for-refer/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 6,
+      "categoria": "Rondas",
+      "titulo_es": "IFC invierte USD 50 millones en Vision One, la red de oftalmología respaldada por XP",
+      "resumen": "La International Finance Corporation (IFC) invirtió USD 50 millones en Vision One, una red brasileña de clínicas de oftalmología creada por el brazo de private equity de XP. La operación combina capital de desarrollo con una estrategia de roll-up en salud.",
+      "por_que_importa": "Ilustra cómo el modelo de roll-up en salud atrae tanto capital de PE local como inversión institucional internacional, una tendencia creciente en el sector de servicios de salud en LatAm.",
+      "link": "https://www.lavca.org/international-finance-corporation-invests-usd50m-in-xp-backed-vision-one/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 3,
+      "categoria": "Exits/M&A",
+      "titulo_es": "Consorcio liderado por fondos de infraestructura completa adquisición de USD 40.000 millones en data centers con presencia en Brasil",
+      "resumen": "AIP, MGX y Global Infrastructure Partners completaron la adquisición de Aligned Data Centers por aproximadamente USD 40.000 millones. La compañía opera infraestructura de data centers en Brasil, lo que vincula esta mega-operación global con la expansión de infraestructura digital en LatAm.",
+      "por_que_importa": "La presencia de Brasil en esta mega-operación refleja el interés global en construir infraestructura de IA en la región, con implicancias directas para el ecosistema tech latinoamericano.",
+      "link": "https://www.lavca.org/aip-mgx-gip-complete-usd40b-acquisition-of-aligned-data-centers/",
+      "fuente": "LAVCA"
+    },
+    {
+      "indice": 24,
       "categoria": "Tendencias",
-      "titulo_es": "DoorDash recibe aprobación de la FAA y construye su propio negocio de entrega con drones en EE.UU.",
-      "resumen": "DoorDash obtuvo la aprobación regulatoria de la Administración Federal de Aviación (FAA) para operar un servicio comercial de entrega con drones en Estados Unidos, avanzando hacia la integración vertical de su logística de última milla. El movimiento implica dejar de depender de terceros proveedores de drones para construir capacidad propia.",
-      "por_que_importa": "El modelo de integración vertical en logística de última milla con drones es una tendencia a seguir de cerca para emprendedores y fondos enfocados en logística y retail tech en LatAm.",
-      "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
+      "titulo_es": "Startup de usuarios sintéticos Simile levanta USD 200 millones a valuación de USD 2.000 millones, cinco meses después de su Serie A",
+      "resumen": "Simile, una startup que reemplaza investigación de usuarios con perfiles sintéticos generados por IA, cerró una ronda de USD 200 millones a una valuación de USD 2.000 millones, apenas cinco meses después de levantar USD 100 millones en su Serie A. El crecimiento refleja el ritmo acelerado de valuaciones en IA.",
+      "por_que_importa": "El caso Simile es un ejemplo extremo del fenómeno de compresión de tiempos entre rondas en startups de IA, una dinámica que los futuros inversores de VC deben entender para evaluar valuaciones correctamente.",
+      "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
       "fuente": "TechCrunch"
     }
   ]
