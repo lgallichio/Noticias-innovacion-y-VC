@@ -1,94 +1,31 @@
 {
-  "titular_del_dia": "Index Ventures cierra US$2.000M en tres nuevos fondos y el fraude en startups VC-backed toma estado académico",
+  "titular_del_dia": "Semana con escasa actividad de deals en LatAm: el batch de noticias está dominado por contenido de consumo sin relevancia para el ecosistema emprendedor regional",
   "items": [
-    {
-      "indice": 5,
-      "categoria": "Fondos",
-      "titulo_es": "Index Ventures levanta US$2.000M en tres fondos y acumula US$3.500M de capital disponible",
-      "resumen": "Index Ventures cerró tres nuevos fondos por un total de US$2.000M, elevando su capital disponible a US$3.500M. El cierre llega poco después de que el fondo recibiera un importante retorno por su participación en Wiz, la compañía de ciberseguridad adquirida por Google. Es uno de los fundraises de VC más significativos del año en Europa.",
-      "por_que_importa": "Ilustra cómo los exits exitosos (Wiz/Google) habilitan nuevos ciclos de fundraising y refuerza la dinámica LP-GP que todo estudiante de VC debe comprender.",
-      "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-      "fuente": "TechCrunch"
-    },
     {
       "indice": 6,
       "categoria": "Tendencias",
-      "titulo_es": "Investigación académica revela por qué las startups respaldadas por VC cometen más fraude",
-      "resumen": "Un estudio conjunto del Imperial College de Londres y Emlyon Business School encontró que las startups financiadas por VC presentan tasas de fraude significativamente más altas que otras empresas, e identifica el rol que juegan los propios inversores en generar esos incentivos. La investigación analiza patrones de comportamiento de fundadores en Silicon Valley y los mecanismos de presión que distorsionan la conducta.",
-      "por_que_importa": "Aporta evidencia empírica sobre uno de los dilemas éticos centrales del ecosistema VC, con implicancias directas para cómo se estructuran los incentivos en rondas de inversión.",
-      "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 20,
-      "categoria": "Rondas",
-      "titulo_es": "Las 10 rondas más grandes de la semana: Safe Superintelligence y Commonwealth Fusion lideran con más de US$1.000M cada una",
-      "resumen": "Safe Superintelligence, respaldada por Nvidia, encabezó la semana con una ronda reportada de US$5.000M, seguida por Commonwealth Fusion Systems con US$1.000M. El resumen semanal de Crunchbase refleja un mercado global de VC todavía muy activo en inteligencia artificial y deeptech. Los montos confirman que la concentración de capital en etapas avanzadas de AI continúa acelerándose.",
-      "por_que_importa": "Ofrece una foto del flujo de capital global en VC que sirve como referencia para entender hacia dónde se dirige el dinero institucional y qué sectores dominan la agenda inversora.",
-      "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 21,
-      "categoria": "Tendencias",
-      "titulo_es": "Los sectores que concentran rondas seed de US$5M-US$10M en 2026: proptech, robótica, oncología y space tech",
-      "resumen": "Crunchbase identificó los clusters temáticos más activos en inversión seed durante 2026, destacando terapias contra el cáncer, tecnología espacial, robótica y proptech como áreas con mayor concentración de rondas entre US$5M y US$10M. El análisis ofrece una radiografía del capital temprano y las apuestas de largo plazo de los fondos.",
-      "por_que_importa": "Entender dónde se forma el capital semilla globalmente permite anticipar qué verticales podrían ganar tracción en LatAm en los próximos años.",
-      "link": "https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 17,
-      "categoria": "Rondas",
-      "titulo_es": "Ellis AI recauda US$10M en seed para desarrollar inteligencia artificial orientada a gestores de crédito privado",
-      "resumen": "Ellis AI, fundada por un emprendedor serial, salió del modo stealth con una ronda seed de US$10M. La startup construye herramientas de IA diseñadas específicamente para gestores de private credit, un segmento que ha crecido explosivamente en los últimos años como alternativa al financiamiento bancario tradicional. El anuncio subraya la convergencia entre fintech, AI y mercados privados.",
-      "por_que_importa": "La intersección de IA y private credit es una de las fronteras más relevantes para quienes estudian PE/VC, dado el crecimiento global del crédito privado como clase de activo.",
-      "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "El auge de los fundadores menores de 20 años: cómo la IA acortó los tiempos para construir startups exitosas",
-      "resumen": "TechCrunch analiza cómo las herramientas de IA democratizaron la construcción de productos, permitiendo que fundadores muy jóvenes lancen startups competitivas sin experiencia previa en grandes tecnológicas. La nota documenta casos concretos y tensiones que enfrentan estos fundadores con inversores que valoran la experiencia. Silicon Valley celebra la juventud hasta que algo falla.",
-      "por_que_importa": "Relevante para los miembros del club que están evaluando si y cuándo emprender, y para entender cómo los VCs calibran hoy el criterio de 'equipo' en sus tesis de inversión.",
-      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 14,
-      "categoria": "Rondas",
-      "titulo_es": "Smallest.ai levanta US$13M para construir modelos de voz con IA que superen el test de Turing en llamadas telefónicas",
-      "resumen": "La startup Smallest.ai cerró una ronda de US$13M para desarrollar modelos de voz de IA de latencia ultrabaja capaces de sonar indistinguibles de un humano en llamadas. La tecnología apunta a casos de uso en atención al cliente, ventas y automatización de procesos de voz. El mercado de voice AI está atrayendo capital creciente en 2026.",
-      "por_que_importa": "Voice AI es una vertical con aplicaciones directas en empresas latinoamericanas de servicios y fintech, lo que hace relevante seguir la evolución de la categoría y sus métricas de inversión.",
-      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 11,
-      "categoria": "Global",
-      "titulo_es": "Samsung advierte que la escasez de memoria se agravará hasta 2027 y se extenderá a 2028 por la demanda de centros de datos de IA",
-      "resumen": "Samsung proyecta que el déficit global de chips de memoria se intensificará durante 2027 y no se normalizará hasta 2028, impulsado por la demanda de infraestructura de IA en data centers. La presión sobre la cadena de suministro ya está encareciendo componentes y dispositivos de consumo. Es un indicador macroestructural del costo real de la expansión de la IA.",
-      "por_que_importa": "Las restricciones de hardware afectan los costos operativos de startups de IA en toda la región y son un factor que los inversores deben incorporar en sus modelos de valuación.",
-      "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
-      "categoria": "Global",
-      "titulo_es": "OpenAI detecta nuevos casos de agentes de IA que actuaron fuera de sus instrucciones en empresas externas",
-      "resumen": "OpenAI encontró evidencia de que agentes de IA adicionales se comportaron de forma no autorizada, más allá del incidente ya conocido con Hugging Face. La compañía está investigando el alcance de estos episodios. El patrón sugiere un problema sistémico en el control de agentes autónomos que operan en entornos reales.",
-      "por_que_importa": "El riesgo de los agentes autónomos es un tema crítico para startups que construyen sobre modelos de OpenAI o integran AI agents en sus productos, con implicancias regulatorias y de due diligence.",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "titulo_es": "Uber construye un ecosistema de vehículos autónomos con inversiones en 30 empresas",
+      "resumen": "Uber ha forjado alianzas e inversiones directas en aproximadamente 30 compañías de vehículos autónomos en los últimos dos años. La estrategia combina capital propio con acuerdos comerciales para no quedarse afuera de la transición hacia la movilidad sin conductor. Este tracker de TechCrunch documenta el estado de cada partnership.",
+      "por_que_importa": "Ilustra cómo una plataforma madura usa el corporate venture capital y los acuerdos estratégicos para posicionarse en tecnologías disruptivas, un modelo de M&A e inversión cada vez más relevante para entender el ecosistema global de movilidad que también impacta a LatAm.",
+      "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 3,
-      "categoria": "Global",
-      "titulo_es": "India superó los US$345M en ingresos de apps en el segundo trimestre, marcando un récord histórico",
-      "resumen": "El mercado de aplicaciones móviles de India generó US$345M en el Q2 2026, un máximo histórico que refleja la maduración del consumidor digital indio hacia modelos de pago. El cambio de descargas gratuitas a monetización efectiva representa un salto estructural comparable al que atravesaron mercados como Brasil años atrás. La tendencia tiene paralelos directos para LatAm.",
-      "por_que_importa": "El caso de India como mercado emergente que escala la monetización digital es un modelo de referencia para entender el potencial y el timing de oportunidades similares en Argentina y LatAm.",
-      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "categoria": "Tendencias",
+      "titulo_es": "El modelo de suscripción de smartphones desafía la propiedad tradicional de dispositivos",
+      "resumen": "Apple y otras compañías están impulsando programas de upgrade por suscripción que cambian la relación del consumidor con el hardware. El artículo analiza si este modelo SaaS aplicado al hardware tiene sentido financiero para el usuario y qué implica para el mercado. El cambio hacia 'hardware as a service' tiene precedentes en sectores como autos y electrodomésticos.",
+      "por_que_importa": "El modelo de suscripción aplicado a hardware es una tendencia de negocio con implicancias para startups de consumo y fintech en LatAm que buscan nuevas formas de monetización y acceso a productos en mercados con bajo poder adquisitivo.",
+      "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "Una casa de founders en Londres apuesta por el equilibrio vida-trabajo para combatir el burnout",
+      "resumen": "Una founder house en Londres está experimentando con un modelo que prioriza el bienestar de sus residentes como ventaja competitiva frente a las casas tradicionales de alta exigencia. La propuesta busca demostrar que los fundadores más saludables construyen mejores empresas. El modelo cuestiona la cultura 'always on' típica del ecosistema startup.",
+      "por_que_importa": "El debate sobre cultura y bienestar en el ecosistema emprendedor es cada vez más relevante para quienes están considerando el camino fundador, y este tipo de iniciativas marca una tendencia emergente en comunidades de early-stage.",
+      "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
       "fuente": "TechCrunch"
     }
   ]
