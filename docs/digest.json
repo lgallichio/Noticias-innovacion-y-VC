@@ -1,31 +1,94 @@
 {
-  "titular_del_dia": "Semana con escasa actividad de deals en LatAm: el batch de noticias está dominado por contenido de consumo sin relevancia para el ecosistema emprendedor regional",
+  "titular_del_dia": "La IA redefine el VC global: fondos más grandes, valuaciones récord y el debate sobre el ritmo del desarrollo",
   "items": [
+    {
+      "indice": 8,
+      "categoria": "Fondos",
+      "titulo_es": "Menlo Ventures despliega $3.000M en su nueva tesis de IA: tickets más grandes y apuesta a la próxima ola",
+      "resumen": "Matt Murphy, socio de Menlo Ventures, explica cómo la relación con Anthropic moldeó su visión inversora y por qué la IA está empujando al fondo hacia deals de mayor tamaño. El fondo ve una 'oportunidad histórica de captura de mercado' en la infraestructura y aplicaciones de IA empresarial. El capital a desplegar asciende a $3.000 millones.",
+      "por_que_importa": "Entender la tesis de un fondo top-tier en tiempo real es clave para anticipar qué sectores y etapas van a concentrar capital en los próximos años, incluyendo startups latam que busquen funding internacional.",
+      "link": "https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 0,
+      "categoria": "Rondas",
+      "titulo_es": "Horizon3 alcanza valuación de $2.000M tras levantar $250M en Serie E para ciberseguridad con IA",
+      "resumen": "La startup de ciberseguridad Horizon3 cerró una ronda Serie E de $250 millones que la llevó a una valuación de $2.000 millones. La empresa ofrece validación de seguridad continua impulsada por IA, reemplazando los pentests anuales tradicionales. La escalada de amenazas basadas en IA está acelerando la demanda corporativa por este tipo de solución.",
+      "por_que_importa": "Ilustra cómo la IA está creando nuevas categorías de ciberseguridad con múltiplos de valuación elevados, un vertical que startups latam podrían atacar en mercados locales con menor competencia.",
+      "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 2,
+      "categoria": "Rondas",
+      "titulo_es": "June sale del sigilo con $20M pre-seed respaldada por Marc Benioff para simplificar la adopción de IA empresarial",
+      "resumen": "June recaudó $20 millones en una ronda pre-seed con el fundador de Salesforce entre sus inversores para resolver el problema del despliegue de IA en empresas. La startup apunta a que organizaciones sin equipos técnicos robustos puedan implementar soluciones de IA de forma sencilla. Es una de las rondas pre-seed más grandes reportadas en el segmento de AI ops.",
+      "por_que_importa": "Un pre-seed de $20M evidencia el apetito extremo de capital para soluciones que democraticen la IA empresarial, un dolor relevante también para pymes latinoamericanas.",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "Sam Altman llama a desacelerar el ritmo de desarrollo de IA y reaviva el debate sobre gobernanza del sector",
+      "resumen": "Sam Altman realizó declaraciones públicas instando a la industria a moderar la velocidad de desarrollo de IA, generando un debate interno entre aceleracionistas y quienes abogan por mayor precaución. El episodio refleja tensiones crecientes en el ecosistema sobre regulación, responsabilidad y competencia entre labs. El timing coincide con presiones regulatorias globales que se intensifican en 2026.",
+      "por_que_importa": "El posicionamiento de los líderes de IA influye directamente en el marco regulatorio que enfrentarán startups y fondos, incluyendo los que operen en LatAm bajo normativas inspiradas en estándares globales.",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "fuente": "TechCrunch"
+    },
     {
       "indice": 6,
       "categoria": "Tendencias",
-      "titulo_es": "Uber construye un ecosistema de vehículos autónomos con inversiones en 30 empresas",
-      "resumen": "Uber ha forjado alianzas e inversiones directas en aproximadamente 30 compañías de vehículos autónomos en los últimos dos años. La estrategia combina capital propio con acuerdos comerciales para no quedarse afuera de la transición hacia la movilidad sin conductor. Este tracker de TechCrunch documenta el estado de cada partnership.",
-      "por_que_importa": "Ilustra cómo una plataforma madura usa el corporate venture capital y los acuerdos estratégicos para posicionarse en tecnologías disruptivas, un modelo de M&A e inversión cada vez más relevante para entender el ecosistema global de movilidad que también impacta a LatAm.",
-      "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "titulo_es": "Robotaxis en bifurcación: dos modelos de negocio compiten por definir el futuro del transporte autónomo",
+      "resumen": "El análisis de TechCrunch Mobility describe cómo el mercado de vehículos autónomos se está dividiendo entre operadores de flotas propias y proveedores de tecnología que licencian a terceros. La IA está acelerando la maduración técnica pero los modelos de monetización siguen sin consolidarse. La tensión entre capex intensivo y asset-light define las estrategias de inversión del sector.",
+      "por_que_importa": "La discusión sobre modelos de negocio asset-heavy vs. asset-light en deep tech es directamente aplicable al análisis de cualquier startup de movilidad o logística en LatAm.",
+      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Global",
+      "titulo_es": "Malasia cierra la 'Network School' de Balaji Srinivasan, experimento de comunidad tecnológica offshore",
+      "resumen": "Las autoridades malayas estarían procediendo al cierre de la Network School, el proyecto de Balaji Srinivasan que buscaba construir una comunidad residencial para 'tecno-optimistas' fuera de jurisdicciones tradicionales. El cierre expone los límites regulatorios y soberanos de las iniciativas que buscan crear estructuras paralelas al Estado-nación. El proyecto había atraído atención del ecosistema cripto y libertario de Silicon Valley.",
+      "por_que_importa": "Muestra los riesgos de ejecución y riesgo regulatorio en modelos de innovación que desafían marcos legales existentes, una lección relevante para emprendedores que diseñan startups con componentes regulatorios complejos.",
+      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "Desarrolladores siguen lanzando apps exitosas pese al avance de los agentes de IA",
+      "resumen": "Contrariamente a la narrativa de que los agentes de IA harán obsoletas las aplicaciones tradicionales, el ritmo de lanzamiento de software en las tiendas de apps no ha caído. Herramientas de bookmarking inteligente, marketplaces locales y apps de nicho están encontrando tracción con modelos de negocio sostenibles. El análisis sugiere que IA y apps nativas pueden coexistir y complementarse.",
+      "por_que_importa": "Para estudiantes evaluando oportunidades de venture, entender que el mercado de aplicaciones no está muerto amplía el universo de startups invertibles más allá de pure-play AI.",
+      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "Global",
+      "titulo_es": "Samsung elimina apps de Smart TV que vendían conexiones de usuarios como proxies residenciales",
+      "resumen": "Investigadores de seguridad descubrieron apps en la tienda de Samsung que monetizaban el ancho de banda de los usuarios cediendo su conexión a redes proxy residenciales sin consentimiento explícito. Samsung procedió al ban de las aplicaciones implicadas tras la publicación del reporte. El caso expone vulnerabilidades en los modelos de monetización de apps en plataformas de hardware cerrado.",
+      "por_que_importa": "Revela un vector de riesgo cibernético poco conocido relevante para startups que construyen sobre infraestructura de terceros, y abre conversación sobre debida diligencia de seguridad en inversiones tech.",
+      "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 3,
-      "categoria": "Tendencias",
-      "titulo_es": "El modelo de suscripción de smartphones desafía la propiedad tradicional de dispositivos",
-      "resumen": "Apple y otras compañías están impulsando programas de upgrade por suscripción que cambian la relación del consumidor con el hardware. El artículo analiza si este modelo SaaS aplicado al hardware tiene sentido financiero para el usuario y qué implica para el mercado. El cambio hacia 'hardware as a service' tiene precedentes en sectores como autos y electrodomésticos.",
-      "por_que_importa": "El modelo de suscripción aplicado a hardware es una tendencia de negocio con implicancias para startups de consumo y fintech en LatAm que buscan nuevas formas de monetización y acceso a productos en mercados con bajo poder adquisitivo.",
-      "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "categoria": "Global",
+      "titulo_es": "La escasez global de chips de memoria impacta la disponibilidad del MacBook Air",
+      "resumen": "La crisis de suministro de chips de memoria RAM está generando faltante en el modelo más vendido de Mac de Apple, el MacBook Air. La escasez responde a la concentración de la demanda de memoria en centros de datos de IA, que compiten con el mercado de consumo por capacidad productiva. Analistas anticipan que el problema se extenderá al menos hasta finales de 2026.",
+      "por_que_importa": "La competencia entre IA y hardware de consumo por semiconductores es un driver estructural que afecta costos operativos de startups y valuaciones en el sector de infraestructura tech.",
+      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 0,
+      "indice": 4,
       "categoria": "Tendencias",
-      "titulo_es": "Una casa de founders en Londres apuesta por el equilibrio vida-trabajo para combatir el burnout",
-      "resumen": "Una founder house en Londres está experimentando con un modelo que prioriza el bienestar de sus residentes como ventaja competitiva frente a las casas tradicionales de alta exigencia. La propuesta busca demostrar que los fundadores más saludables construyen mejores empresas. El modelo cuestiona la cultura 'always on' típica del ecosistema startup.",
-      "por_que_importa": "El debate sobre cultura y bienestar en el ecosistema emprendedor es cada vez más relevante para quienes están considerando el camino fundador, y este tipo de iniciativas marca una tendencia emergente en comunidades de early-stage.",
-      "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "titulo_es": "El debate aceleración vs. cautela en IA marca la agenda de los fondos de venture en 2026",
+      "resumen": "Las declaraciones de Altman sobre moderar el ritmo de IA están generando reposicionamiento entre fondos que deben decidir si apostar por velocidad de deployment o por soluciones de governance y safety. El episodio de Equity de TechCrunch analiza las implicancias para el ecosistema inversor. La discusión ya permea decisiones de portfolio en fondos de todas las etapas.",
+      "por_que_importa": "Comprender cómo el debate regulatorio global de IA impacta las tesis de inversión es esencial para analizar el flujo de capital hacia startups de IA en mercados emergentes como LatAm.",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
       "fuente": "TechCrunch"
     }
   ]
