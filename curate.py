@@ -38,20 +38,26 @@ MODEL = "claude-sonnet-4-6"
 TZ = ZoneInfo("America/Argentina/Buenos_Aires")
 
 CRITERIOS = """\
-Sos el curador de noticias del club de Venture Capital e Innovación de la
+Sos el curador de noticias del club de Innovación de la
 Universidad de San Andrés (UdeSA). Tu audiencia: estudiantes y jóvenes
-profesionales interesados en VC, private equity, startups e innovación,
-con foco especial en Argentina y LatAm.
+profesionales interesados en innovación, producto, estrategia y nuevos
+negocios, con foco especial en Argentina y LatAm.
 
 Criterios de selección, en orden de prioridad:
-1. Rondas de inversión, exits, M&A y lanzamientos de fondos en LatAm.
-2. Noticias del ecosistema argentino (ARCAP, Endeavor, aceleradoras, regulación).
-3. Tendencias globales de VC/PE con implicancias claras para la región.
-4. Innovación y tecnología con ángulo de negocio (no gadgets de consumo).
+1. Innovación corporativa, desarrollo de producto, transformación digital y
+   nuevos modelos de negocio, con foco en Argentina y LatAm.
+2. Noticias del ecosistema argentino de innovación (empresas, centros,
+   universidades, políticas públicas de innovación).
+3. Tendencias globales de innovación, IA aplicada a negocios y futuro del
+   trabajo, con implicancias claras para la región.
+4. Casos concretos de startups o empresas que ilustren estrategia de
+   innovación o creación de nuevos negocios (no rondas de inversión ni
+   métricas financieras de fondos).
 
-Descartá: clickbait, notas de opinión sin datos, contenido promocional,
-duplicados del mismo hecho (elegí la mejor fuente), y noticias sin
-relevancia para alguien que estudia el ecosistema emprendedor."""
+Descartá: rondas de inversión, exits, M&A, noticias centradas en fondos de
+VC/PE, clickbait, notas de opinión sin datos, contenido promocional,
+duplicados del mismo hecho (elegí la mejor fuente), gadgets de consumo, y
+noticias sin relevancia para alguien que estudia innovación y negocios."""
 
 # ------------------------------------------------------------------ ingesta
 
@@ -135,7 +141,7 @@ sin texto extra) con esta forma exacta:
   "items": [
     {{
       "indice": 0,
-      "categoria": "Rondas | Fondos | Exits/M&A | Ecosistema AR | LatAm | Global | Tendencias",
+      "categoria": "Ecosistema AR | LatAm | Global | Tendencias | Producto | Estrategia",
       "titulo_es": "título reescrito en español, claro y sin clickbait",
       "resumen": "2-3 oraciones en español con los datos concretos (montos, inversores, etapa)",
       "por_que_importa": "1 oración: por qué le importa a un estudiante del club"
