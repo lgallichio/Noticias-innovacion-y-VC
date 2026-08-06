@@ -8,10 +8,6 @@ fuentes:
     rss: https://contxto.com/en/feed/
     idioma: en
     peso: 3
-  - nombre: LAVCA
-    rss: https://www.lavca.org/feed/
-    idioma: en
-    peso: 3
   - nombre: Endeavor Argentina
     rss: https://www.endeavor.org.ar/feed/
     idioma: es
@@ -36,10 +32,6 @@ fuentes:
     peso: 3
   - nombre: Crunchbase News
     rss: https://news.crunchbase.com/feed/
-    idioma: en
-    peso: 2
-  - nombre: PitchBook News
-    rss: https://pitchbook.com/news/rss
     idioma: en
     peso: 2
 
