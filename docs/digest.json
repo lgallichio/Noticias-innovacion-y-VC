@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "El venture capital global rompe récords: julio 2026 alcanzó los USD 65.000 M con 14 rondas de más de USD 1.000 M, mientras Anthropic cierra un deal de USD 10.000 M en infraestructura cloud",
+  "titular_del_dia": "Rintin levanta USD 6.2M para financiar comerciantes informales y WiseCX desafía a Salesforce desde el interior de Argentina",
   "items": [
     {
-      "indice": 23,
-      "categoria": "Global",
-      "titulo_es": "El venture capital global bate récords en julio 2026: USD 65.000 M y 14 mega-rondas en un solo mes",
-      "resumen": "El financiamiento global de startups totalizó USD 65.000 millones en julio de 2026, duplicando el volumen del mismo mes del año anterior. Fue el mes con mayor cantidad de rondas de más de USD 1.000 millones en la historia del venture capital. La tendencia refleja un ciclo alcista sostenido que contrasta con la sequía de 2022-2023.",
-      "por_que_importa": "Entender el ciclo macro del VC es fundamental para anticipar cómo fluirá el capital hacia LatAm y qué tipo de oportunidades de inversión y empleo surgirán en la región en los próximos 12-18 meses.",
-      "link": "https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026/",
+      "indice": 2,
+      "categoria": "Rondas | Ecosistema AR",
+      "titulo_es": "Rintin levantó USD 6,2 millones para dar crédito a comerciantes excluidos del sistema financiero",
+      "resumen": "La fintech argentina Rintin, scaleup de Endeavor, cerró una ronda de USD 6,2 millones orientada a ofrecer crédito a pequeños comerciantes que no acceden a la banca tradicional. La compañía apunta a un segmento de alta demanda y baja cobertura institucional en Argentina y potencialmente LatAm. No se especificaron los inversores líderes de la ronda en el titular, pero la validación de Endeavor aporta credibilidad al deal.",
+      "por_que_importa": "Es un caso concreto de ronda de capital de riesgo en el ecosistema argentino, con tesis de inversión clara en fintech para segmentos desatendidos, ideal para analizar en el club.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-rintin-scaleup-endeavor-levanta-capital-unicornios/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
+      "indice": 1,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "WiseCX compite con Salesforce desde Las Varillas, un pueblo cordobés de 20 mil habitantes",
+      "resumen": "WiseCX, scaleup de Endeavor Argentina con sede en Las Varillas (Córdoba), desarrolló una plataforma de gestión de experiencia del cliente que le disputa clientes directamente a Salesforce en el segmento de telecomunicaciones. El caso ilustra cómo startups del interior del país pueden escalar globalmente sin necesidad de radicarse en grandes centros urbanos. La empresa es un ejemplo de fundadores que construyen desde contextos de recursos limitados con alto impacto.",
+      "por_que_importa": "Demuestra que el ecosistema emprendedor argentino no se reduce a Buenos Aires y ofrece un modelo de expansión B2B SaaS competitivo a nivel global desde LatAm.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-wisecx-scaleup-endeavor-crecimiento-exito-telecomunicaciones/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
+      "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "La era del 'unicornio de un solo empleado': cómo la IA redefine la escala en las startups",
+      "resumen": "Contxto analiza el fenómeno de empresas que alcanzan valuaciones de unicornio con equipos mínimos gracias a la automatización basada en IA, rompiendo el paradigma de que escalar implica crecer en headcount. Esta tendencia tiene implicancias directas para los modelos de negocio de startups en LatAm, donde el capital es más escaso y la eficiencia operativa es crítica. El artículo tiene perspectiva regional, lo que lo hace especialmente relevante para la audiencia.",
+      "por_que_importa": "Cambia la lógica con la que los VCs evalúan métricas de crecimiento y eficiencia, un concepto clave para entender las inversiones de la próxima década.",
+      "link": "https://contxto.com/en/artificial-intelligence/the-rise-of-the-one-employee-unicorn-and-the-ai-first-software-revolution/",
+      "fuente": "Contxto"
+    },
+    {
+      "indice": 3,
+      "categoria": "Fondos | Global",
+      "titulo_es": "Robinhood lanzará un fondo que permite a inversores minoristas apostar por startups de Y Combinator",
+      "resumen": "Robinhood anunció el listado de un vehículo de inversión que democratiza el acceso a startups de YC, históricamente reservado a fondos institucionales y ángeles acreditados. El producto busca acercar el mundo del venture capital a inversores retail, con todas las implicancias regulatorias y de riesgo que eso conlleva. Es una señal clara de que la frontera entre mercados públicos y privados sigue difuminándose.",
+      "por_que_importa": "Plantea preguntas fundamentales sobre democratización del VC, acceso a deal flow y regulación de mercados de capitales, temas centrales para quienes estudian el ecosistema inversor.",
+      "link": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
+      "fuente": "TechCrunch Venture"
+    },
+    {
+      "indice": 25,
+      "categoria": "Tendencias",
+      "titulo_es": "Los fundadores que repiten en YC crecen: qué muestran los datos sobre los 'second-timers'",
+      "resumen": "Crunchbase analizó una base de 454 fundadores que pasaron por Y Combinator más de una vez, con datos compartidos directamente por YC. Los hallazgos muestran patrones sobre tasas de éxito, recaudación y sectores de los emprendedores seriales dentro del ecosistema. El estudio aporta evidencia cuantitativa sobre el valor de la experiencia previa en la construcción de startups.",
+      "por_que_importa": "Ofrece datos concretos sobre uno de los debates más relevantes del VC: si el track record del fundador predice el éxito de la próxima compañía.",
+      "link": "https://news.crunchbase.com/venture/y-combinator-repeat-founders-numbers-grow-epstein-callaway/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 12,
-      "categoria": "Rondas",
-      "titulo_es": "Anthropic firma un contrato de USD 10.000 M con la startup de cloud de IA Volta",
-      "resumen": "Anthropic, uno de los laboratorios de IA más relevantes del mundo, suscribió un acuerdo de USD 10.000 millones con Volta, una startup especializada en infraestructura cloud para IA. El deal se enmarca en una estrategia agresiva de Anthropic para asegurar capacidad de cómputo frente a competidores como OpenAI y Google. Es una de las transacciones B2B de mayor envergadura en el ecosistema de IA en 2026.",
-      "por_que_importa": "La carrera por la infraestructura de IA está generando oportunidades masivas de inversión y negocio en toda la cadena de valor; comprender estos movimientos ayuda a identificar dónde se están concentrando los retornos en el sector tecnológico global.",
-      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "indice": 14,
+      "categoria": "Global | Tendencias",
+      "titulo_es": "Jeff Dean y otros investigadores clave de Google dejan la empresa para fundar una startup de IA científica",
+      "resumen": "Jeff Dean, figura legendaria de Google AI, lidera la salida de un grupo de investigadores senior para lanzar una startup enfocada en usar inteligencia artificial para acelerar el descubrimiento científico. El movimiento es uno de los más significativos del año en el ecosistema de IA y podría atraer financiamiento de primer nivel. Representa una nueva ola de spinoffs de talento desde Big Tech hacia el venture-backed ecosystem.",
+      "por_que_importa": "Ilustra cómo el talento de investigación de frontera migra al ecosistema emprendedor, una dinámica que define qué áreas recibirán capital de riesgo en los próximos años.",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 9,
-      "categoria": "Global",
-      "titulo_es": "SpaceX duplicó sus ingresos gracias a acuerdos de cómputo con Anthropic y Google, y al crecimiento de Starlink",
-      "resumen": "En su primer reporte trimestral desde su IPO en junio de 2026, SpaceX reveló que duplicó sus ingresos interanuales. El crecimiento estuvo impulsado por contratos de infraestructura de cómputo con Anthropic y Google, sumado a la expansión de su red de internet satelital Starlink. El caso ilustra cómo empresas de infraestructura espacial están pivotando hacia el negocio de la IA.",
-      "por_que_importa": "El primer earnings call de SpaceX como empresa pública es un hito para el ecosistema; analizar cómo una compañía de este perfil genera ingresos y comunica su estrategia a inversores es un ejercicio clave para cualquier futuro profesional de VC o PE.",
-      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 22,
+      "indice": 28,
       "categoria": "Tendencias",
-      "titulo_es": "Integrar IA a tu startup puede destruir valor en un exit: lo que los fundadores deben saber antes de levantar capital",
-      "resumen": "Un análisis de Crunchbase advierte que incorporar IA de manera acrítica a la estrategia de producto puede reducir el valor de salida de una startup, en lugar de incrementarlo. El argumento central es que la IA puede comoditizar ventajas competitivas o generar dependencias que los compradores penalizan en procesos de M&A. El artículo, basado en experiencia de advisors de M&A tecnológico, propone marcos concretos para evaluar cuándo y cómo integrar IA.",
-      "por_que_importa": "Entender cómo la IA impacta en la valuación y el atractivo de una startup para un comprador estratégico o fondo de PE es esencial para cualquier emprendedor o analista que trabaje en deals de tecnología.",
+      "titulo_es": "Integrar IA sin estrategia puede destruir el valor de salida de una startup, advierten asesores",
+      "resumen": "Un análisis en Crunchbase argumenta que muchas startups adoptan IA de forma apresurada para mejorar su valuación, pero que esta estrategia puede reducir el atractivo para potenciales adquirentes si no está alineada con la propuesta de valor central. El autor, asesor en M&A tecnológico, aporta framework sobre cómo evaluar el impacto de la IA en el exit value. La nota incluye datos y perspectiva de deal-making, no solo opinión.",
+      "por_que_importa": "Es un ángulo crítico y poco discutido sobre IA en startups: cómo afecta la estrategia de salida, relevante para quienes piensan en VC desde el lado de exits y M&A.",
       "link": "https://news.crunchbase.com/ai/strategies-enhancing-exit-value-acquisitions-sagie/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 1,
-      "categoria": "Rondas",
-      "titulo_es": "La startup india de movilidad eléctrica River levanta USD 120 M en su Serie C para escalar producción y lanzar nuevos modelos",
-      "resumen": "River, startup india de vehículos eléctricos de dos ruedas, cerró una ronda Serie C de USD 120 millones con el objetivo de construir una nueva planta de producción y lanzar nuevos modelos desde 2027. La compañía apunta a rentabilidad mientras escala, habiendo validado su modelo con un único producto en el mercado. La ronda refleja el apetito inversor por movilidad eléctrica en mercados emergentes.",
-      "por_que_importa": "El caso de River en India es directamente comparable con oportunidades en LatAm, donde la penetración de vehículos eléctricos todavía es baja y el potencial de startups de movilidad es significativo.",
-      "link": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
+      "indice": 10,
+      "categoria": "Rondas | Global",
+      "titulo_es": "Moove levanta USD 250 millones para convertirse en la infraestructura de gestión de flotas de robotaxis",
+      "resumen": "Moove cerró una ronda de USD 250 millones para escalar su negocio de gestión de flotas de vehículos autónomos, con planes de pasar de operar a poseer robotaxis de Waymo en el futuro. La compañía apuesta a ser la capa de infraestructura del ecosistema de movilidad autónoma, un mercado en rápida expansión. La magnitud de la ronda refleja el apetito inversor por la cadena de valor del transporte autónomo más allá de los fabricantes de tecnología.",
+      "por_que_importa": "Muestra cómo se financia la capa de infraestructura en sectores emergentes, un modelo de negocio B2B que puede replicarse en verticales relevantes para LatAm.",
+      "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 21,
-      "categoria": "Rondas",
-      "titulo_es": "MagicSchool AI, fundada por un director de escuela sin perfil técnico, levantó USD 63 M de fondos de VC para edtech con IA",
-      "resumen": "MagicSchool AI recaudó USD 63 millones de inversores de venture capital para escalar su plataforma de inteligencia artificial orientada a educadores, fundada por un exdirector escolar que comenzó explorando el potencial de ChatGPT. El caso abre una serie de Crunchbase sobre fundadores sin background técnico que construyeron startups exitosas. La compañía compite en el segmento de herramientas de IA para docentes, un mercado en rápido crecimiento.",
-      "por_que_importa": "El caso demuestra que el dominio experto en un sector (en este caso, educación) puede ser tan valioso como el background técnico para levantar capital, un mensaje relevante para estudiantes de negocios que quieran emprender.",
-      "link": "https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 11,
-      "categoria": "Tendencias",
-      "titulo_es": "Los modelos de IA de código abierto se acercan a la frontera tecnológica, pero la brecha de seguridad persiste",
-      "resumen": "Un informe de SaferAI revela que el modelo open-weight GLM-5.2 de Z.ai se aproxima en capacidades a los modelos frontier, pero carece de medidas clave de seguridad. Esto renueva el debate sobre si los modelos abiertos y poderosos pueden superar la velocidad de los marcos regulatorios y de gobernanza. La tendencia tiene implicancias directas para startups que construyen sobre modelos open-source.",
-      "por_que_importa": "El ecosistema de IA open-source es la principal vía de acceso para startups de LatAm que no pueden costear APIs de modelos propietarios; entender sus riesgos regulatorios y de seguridad es clave para evaluar inversiones en el sector.",
-      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "indice": 13,
+      "categoria": "Exits/M&A | Global",
+      "titulo_es": "Klaviyo adquiere la agencia de IA de Elias Torres y lo nombra Chief Product Officer",
+      "resumen": "Klaviyo, plataforma de marketing automation para e-commerce, adquirió la agencia de IA fundada por Elias Torres, quien regresa a la empresa donde inició su carrera como CPO para liderar su estrategia de agentes de IA. La operación es notable porque Torres es un fundador serial latinoamericano (de origen dominicano) con exits previos relevantes, incluyendo Drift. El deal combina adquisición de talento, tecnología y liderazgo ejecutivo en un único movimiento estratégico.",
+      "por_que_importa": "Es un caso de M&A con acqui-hire de fundador latino en una empresa de alto crecimiento, relevante para entender cómo se estructuran exits alternativos en el ecosistema de IA.",
+      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 3,
-      "categoria": "Rondas",
-      "titulo_es": "WindBorne Systems levanta USD 37 M en Serie B para escalar globos meteorológicos y pronósticos con IA",
-      "resumen": "WindBorne Systems cerró una Serie B de USD 37 millones para expandir su red de globos estratosféricos y su plataforma de predicción meteorológica basada en inteligencia artificial. La startup busca convertir la mejora en la precisión del clima en un modelo de negocio rentable, apuntando a clientes en energía, agricultura y aviación. El funding llega en un momento en que la demanda de datos climáticos de alta resolución crece globalmente.",
-      "por_que_importa": "El agtech y el análisis climático son verticales de enorme relevancia para LatAm, una región con alta dependencia agrícola; WindBorne ilustra cómo tecnología de observación de la Tierra puede monetizarse a través de VC.",
-      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 20,
-      "categoria": "Tendencias",
-      "titulo_es": "Texas frena la construcción de nuevos data centers y ordena auditorías ante la presión sobre la red eléctrica",
-      "resumen": "El gobernador de Texas ordenó una pausa en la aprobación de nuevos centros de datos y convocó auditorías del impacto energético del sector, luego de que la demanda de infraestructura de IA saturara la red eléctrica del estado. La medida afecta a grandes operadores tecnológicos y plantea un cuello de botella crítico para el crecimiento de la IA en EE.UU. El episodio acelera la búsqueda de jurisdicciones alternativas con energía disponible.",
-      "por_que_importa": "La escasez de infraestructura energética en EE.UU. puede abrir oportunidades para países de LatAm con capacidad energética ociosa —como Argentina con su potencial en gas, renovables e YPF Litio— para atraer inversión en data centers y computo de IA.",
-      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 15,
-      "categoria": "Tendencias",
-      "titulo_es": "Waymo elimina la lista de espera en Dallas y consolida su expansión en robotaxis",
-      "resumen": "Waymo abrió su servicio de robotaxis al público general en Dallas, eliminando la lista de espera que había caracterizado su lanzamiento. La compañía avanza en su estrategia de escalar el servicio en múltiples ciudades de EE.UU., Reino Unido y Europa. El movimiento intensifica la competencia en el mercado de movilidad autónoma y marca un hito en la maduración comercial de la tecnología.",
-      "por_que_importa": "El despliegue comercial masivo de robotaxis es un caso de estudio de cómo una tecnología deep-tech pasa de la fase de I+D a generar ingresos reales, un recorrido que los inversores de VC deben saber analizar.",
-      "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+      "indice": 19,
+      "categoria": "Tendencias | Global",
+      "titulo_es": "Shopify reporta que el tráfico generado por búsqueda en IA se triplicó año a año y ya impulsa ventas reales",
+      "resumen": "Shopify reveló en sus resultados de Q2 que el tráfico y los pedidos provenientes de herramientas de búsqueda basadas en IA se triplicaron interanualmente, desafiando la narrativa de que la IA canibaliza el e-commerce. Lejos de reemplazar a Google, la IA está generando un canal adicional de descubrimiento de productos para los comerciantes en la plataforma. El dato es concreto, proviene de resultados financieros y tiene implicancias para startups de e-commerce y martech en LatAm.",
+      "por_que_importa": "Aporta evidencia cuantitativa sobre cómo la IA está redistribuyendo el tráfico comercial, con implicancias directas para startups de e-commerce y retail tech en la región.",
+      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
       "fuente": "TechCrunch"
     }
   ]
