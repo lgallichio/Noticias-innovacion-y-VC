@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "Rintin levanta USD 6.2M para financiar comerciantes informales y WiseCX desafía a Salesforce desde el interior de Argentina",
+  "titular_del_dia": "IA redefine productos y modelos de negocio: de asistentes ilimitados a fábricas de empresas automatizadas",
   "items": [
     {
-      "indice": 2,
-      "categoria": "Rondas | Ecosistema AR",
-      "titulo_es": "Rintin levantó USD 6,2 millones para dar crédito a comerciantes excluidos del sistema financiero",
-      "resumen": "La fintech argentina Rintin, scaleup de Endeavor, cerró una ronda de USD 6,2 millones orientada a ofrecer crédito a pequeños comerciantes que no acceden a la banca tradicional. La compañía apunta a un segmento de alta demanda y baja cobertura institucional en Argentina y potencialmente LatAm. No se especificaron los inversores líderes de la ronda en el titular, pero la validación de Endeavor aporta credibilidad al deal.",
-      "por_que_importa": "Es un caso concreto de ronda de capital de riesgo en el ecosistema argentino, con tesis de inversión clara en fintech para segmentos desatendidos, ideal para analizar en el club.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-rintin-scaleup-endeavor-levanta-capital-unicornios/",
-      "fuente": "Endeavor Argentina"
-    },
-    {
-      "indice": 1,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "WiseCX compite con Salesforce desde Las Varillas, un pueblo cordobés de 20 mil habitantes",
-      "resumen": "WiseCX, scaleup de Endeavor Argentina con sede en Las Varillas (Córdoba), desarrolló una plataforma de gestión de experiencia del cliente que le disputa clientes directamente a Salesforce en el segmento de telecomunicaciones. El caso ilustra cómo startups del interior del país pueden escalar globalmente sin necesidad de radicarse en grandes centros urbanos. La empresa es un ejemplo de fundadores que construyen desde contextos de recursos limitados con alto impacto.",
-      "por_que_importa": "Demuestra que el ecosistema emprendedor argentino no se reduce a Buenos Aires y ofrece un modelo de expansión B2B SaaS competitivo a nivel global desde LatAm.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-wisecx-scaleup-endeavor-crecimiento-exito-telecomunicaciones/",
-      "fuente": "Endeavor Argentina"
-    },
-    {
-      "indice": 0,
-      "categoria": "Tendencias",
-      "titulo_es": "La era del 'unicornio de un solo empleado': cómo la IA redefine la escala en las startups",
-      "resumen": "Contxto analiza el fenómeno de empresas que alcanzan valuaciones de unicornio con equipos mínimos gracias a la automatización basada en IA, rompiendo el paradigma de que escalar implica crecer en headcount. Esta tendencia tiene implicancias directas para los modelos de negocio de startups en LatAm, donde el capital es más escaso y la eficiencia operativa es crítica. El artículo tiene perspectiva regional, lo que lo hace especialmente relevante para la audiencia.",
-      "por_que_importa": "Cambia la lógica con la que los VCs evalúan métricas de crecimiento y eficiencia, un concepto clave para entender las inversiones de la próxima década.",
-      "link": "https://contxto.com/en/artificial-intelligence/the-rise-of-the-one-employee-unicorn-and-the-ai-first-software-revolution/",
-      "fuente": "Contxto"
-    },
-    {
-      "indice": 3,
-      "categoria": "Fondos | Global",
-      "titulo_es": "Robinhood lanzará un fondo que permite a inversores minoristas apostar por startups de Y Combinator",
-      "resumen": "Robinhood anunció el listado de un vehículo de inversión que democratiza el acceso a startups de YC, históricamente reservado a fondos institucionales y ángeles acreditados. El producto busca acercar el mundo del venture capital a inversores retail, con todas las implicancias regulatorias y de riesgo que eso conlleva. Es una señal clara de que la frontera entre mercados públicos y privados sigue difuminándose.",
-      "por_que_importa": "Plantea preguntas fundamentales sobre democratización del VC, acceso a deal flow y regulación de mercados de capitales, temas centrales para quienes estudian el ecosistema inversor.",
-      "link": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
-      "fuente": "TechCrunch Venture"
-    },
-    {
-      "indice": 25,
-      "categoria": "Tendencias",
-      "titulo_es": "Los fundadores que repiten en YC crecen: qué muestran los datos sobre los 'second-timers'",
-      "resumen": "Crunchbase analizó una base de 454 fundadores que pasaron por Y Combinator más de una vez, con datos compartidos directamente por YC. Los hallazgos muestran patrones sobre tasas de éxito, recaudación y sectores de los emprendedores seriales dentro del ecosistema. El estudio aporta evidencia cuantitativa sobre el valor de la experiencia previa en la construcción de startups.",
-      "por_que_importa": "Ofrece datos concretos sobre uno de los debates más relevantes del VC: si el track record del fundador predice el éxito de la próxima compañía.",
-      "link": "https://news.crunchbase.com/venture/y-combinator-repeat-founders-numbers-grow-epstein-callaway/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 14,
-      "categoria": "Global | Tendencias",
-      "titulo_es": "Jeff Dean y otros investigadores clave de Google dejan la empresa para fundar una startup de IA científica",
-      "resumen": "Jeff Dean, figura legendaria de Google AI, lidera la salida de un grupo de investigadores senior para lanzar una startup enfocada en usar inteligencia artificial para acelerar el descubrimiento científico. El movimiento es uno de los más significativos del año en el ecosistema de IA y podría atraer financiamiento de primer nivel. Representa una nueva ola de spinoffs de talento desde Big Tech hacia el venture-backed ecosystem.",
-      "por_que_importa": "Ilustra cómo el talento de investigación de frontera migra al ecosistema emprendedor, una dinámica que define qué áreas recibirán capital de riesgo en los próximos años.",
-      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "indice": 9,
+      "categoria": "Global",
+      "titulo_es": "ChatGPT habilita chats de texto ilimitados para usuarios gratuitos y suma modo de razonamiento profundo",
+      "resumen": "OpenAI eliminó las restricciones de uso de texto para cuentas gratuitas y Go, democratizando el acceso a su modelo. Además, incorporó un botón de 'pensamiento profundo' para consultas complejas en esos mismos planes. El movimiento apunta a consolidar base de usuarios antes de que competidores como Gemini o Llama ganen más terreno.",
+      "por_que_importa": "Entender cómo OpenAI ajusta su modelo de monetización y acceso masivo es clave para analizar estrategias de crecimiento en productos de IA con efecto de red.",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 28,
+      "indice": 10,
       "categoria": "Tendencias",
-      "titulo_es": "Integrar IA sin estrategia puede destruir el valor de salida de una startup, advierten asesores",
-      "resumen": "Un análisis en Crunchbase argumenta que muchas startups adoptan IA de forma apresurada para mejorar su valuación, pero que esta estrategia puede reducir el atractivo para potenciales adquirentes si no está alineada con la propuesta de valor central. El autor, asesor en M&A tecnológico, aporta framework sobre cómo evaluar el impacto de la IA en el exit value. La nota incluye datos y perspectiva de deal-making, no solo opinión.",
-      "por_que_importa": "Es un ángulo crítico y poco discutido sobre IA en startups: cómo afecta la estrategia de salida, relevante para quienes piensan en VC desde el lado de exits y M&A.",
-      "link": "https://news.crunchbase.com/ai/strategies-enhancing-exit-value-acquisitions-sagie/",
-      "fuente": "Crunchbase News"
+      "titulo_es": "Naïve apuesta a automatizar todo el trabajo operativo de crear y gestionar una empresa",
+      "resumen": "La startup Naïve levantó USD 28,5 millones para construir infraestructura que automatiza tareas administrativas y operativas de lanzar y correr un negocio, yendo un paso más allá del 'vibe-coding'. Su propuesta es que emprendedores puedan enfocarse en estrategia mientras la plataforma resuelve lo operativo. El caso ilustra cómo la IA está redefiniendo qué significa 'emprender'.",
+      "por_que_importa": "Plantea una pregunta estratégica central para futuros fundadores y gerentes: ¿qué tareas seguirán siendo humanas cuando la IA gestione la operación de una empresa?",
+      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 10,
-      "categoria": "Rondas | Global",
-      "titulo_es": "Moove levanta USD 250 millones para convertirse en la infraestructura de gestión de flotas de robotaxis",
-      "resumen": "Moove cerró una ronda de USD 250 millones para escalar su negocio de gestión de flotas de vehículos autónomos, con planes de pasar de operar a poseer robotaxis de Waymo en el futuro. La compañía apuesta a ser la capa de infraestructura del ecosistema de movilidad autónoma, un mercado en rápida expansión. La magnitud de la ronda refleja el apetito inversor por la cadena de valor del transporte autónomo más allá de los fabricantes de tecnología.",
-      "por_que_importa": "Muestra cómo se financia la capa de infraestructura en sectores emergentes, un modelo de negocio B2B que puede replicarse en verticales relevantes para LatAm.",
-      "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "indice": 8,
+      "categoria": "Estrategia",
+      "titulo_es": "Bumble abandona el swipe y apuesta por encuentros en el mundo real para conquistar a la Generación Z",
+      "resumen": "Bumble anunció un giro estratégico alejándose del modelo de deslizamiento que definió la industria de citas digitales, priorizando experiencias sociales presenciales (IRL) para atraer a usuarios más jóvenes. El movimiento responde a la saturación y desencanto de Gen Z con las apps tradicionales. Es un caso concreto de una empresa madura reposicionando su propuesta de valor frente a cambios en el comportamiento del usuario.",
+      "por_que_importa": "Ilustra cómo una empresa de tecnología madura ejecuta una transformación de producto y modelo de negocio en respuesta a cambios generacionales en el consumidor.",
+      "link": "https://techcrunch.com/2026/08/06/bumble-teases-a-swipe-free-future-as-it-doubles-down-on-irl-meetups/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 14,
+      "categoria": "Tendencias",
+      "titulo_es": "Apps de citas para Gen Z reemplazan el swipe con matchmaking por inteligencia artificial",
+      "resumen": "Una nueva generación de aplicaciones como Ditto abandona la lógica del deslizamiento y delega la selección de parejas a algoritmos de IA, apostando a compatibilidades más profundas. El cambio responde al agotamiento masivo de Gen Z con el modelo Tinder y sus derivados. Estas startups están redefiniendo la experiencia de usuario en una categoría de alto volumen.",
+      "por_que_importa": "Es un caso de disrupción de producto dentro de un mercado maduro, útil para analizar cómo nuevos entrantes desafían al incumbente cambiando la lógica de la experiencia central.",
+      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 17,
+      "categoria": "Estrategia",
+      "titulo_es": "eBay registra un trimestre récord en live shopping y acelera su expansión internacional",
+      "resumen": "eBay reportó un crecimiento record en el volumen bruto de mercancía de eBay Live, su canal de compras en vivo, y anunció planes de expansión a nuevos mercados internacionales en los próximos meses. El modelo de live commerce, dominante en Asia, sigue ganando terreno en Occidente como alternativa al e-commerce tradicional. eBay lo posiciona como una apuesta estratégica de diferenciación frente a Amazon.",
+      "por_que_importa": "El live commerce es un modelo con alto potencial en LatAm; entender cómo lo escala un jugador global permite anticipar oportunidades y amenazas para el ecosistema regional.",
+      "link": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 15,
+      "categoria": "Global",
+      "titulo_es": "Tesla y SpaceX invertirán USD 16.800 millones para construir una megafábrica de chips en Texas",
+      "resumen": "Las compañías de Elon Musk anunciaron formalmente 'Terafab', una gigafactoría de semiconductores al norte de Houston, con una inversión inicial de USD 16.800 millones. El proyecto busca reducir la dependencia de chips externos para los vehículos autónomos y los sistemas de IA de ambas empresas. Representa una apuesta de integración vertical masiva en la cadena de valor de la IA y la movilidad.",
+      "por_que_importa": "La carrera por el control de la infraestructura de chips redefine quién tiene ventaja competitiva en IA y hardware; es una tendencia estructural que estudiantes de estrategia deben monitorear.",
+      "link": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 13,
-      "categoria": "Exits/M&A | Global",
-      "titulo_es": "Klaviyo adquiere la agencia de IA de Elias Torres y lo nombra Chief Product Officer",
-      "resumen": "Klaviyo, plataforma de marketing automation para e-commerce, adquirió la agencia de IA fundada por Elias Torres, quien regresa a la empresa donde inició su carrera como CPO para liderar su estrategia de agentes de IA. La operación es notable porque Torres es un fundador serial latinoamericano (de origen dominicano) con exits previos relevantes, incluyendo Drift. El deal combina adquisición de talento, tecnología y liderazgo ejecutivo en un único movimiento estratégico.",
-      "por_que_importa": "Es un caso de M&A con acqui-hire de fundador latino en una empresa de alto crecimiento, relevante para entender cómo se estructuran exits alternativos en el ecosistema de IA.",
-      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "categoria": "Producto",
+      "titulo_es": "Google Wallet incorpora billeteras supervisadas para que padres enseñen educación financiera a sus hijos",
+      "resumen": "Google Wallet lanzó una funcionalidad que permite a los padres crear saldos seguros para sus hijos dentro de la billetera digital, con controles de supervisión y límites de gasto. La feature apunta al segmento de familias como nuevo vector de crecimiento para su ecosistema de pagos. Es un ejemplo de expansión de producto mediante la incorporación de nuevos segmentos de usuario.",
+      "por_que_importa": "Muestra cómo plataformas maduras extienden su propuesta de valor hacia nuevos segmentos (menores, familias) como estrategia de crecimiento sin cambiar el producto central.",
+      "link": "https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 19,
-      "categoria": "Tendencias | Global",
-      "titulo_es": "Shopify reporta que el tráfico generado por búsqueda en IA se triplicó año a año y ya impulsa ventas reales",
-      "resumen": "Shopify reveló en sus resultados de Q2 que el tráfico y los pedidos provenientes de herramientas de búsqueda basadas en IA se triplicaron interanualmente, desafiando la narrativa de que la IA canibaliza el e-commerce. Lejos de reemplazar a Google, la IA está generando un canal adicional de descubrimiento de productos para los comerciantes en la plataforma. El dato es concreto, proviene de resultados financieros y tiene implicancias para startups de e-commerce y martech en LatAm.",
-      "por_que_importa": "Aporta evidencia cuantitativa sobre cómo la IA está redistribuyendo el tráfico comercial, con implicancias directas para startups de e-commerce y retail tech en la región.",
-      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "indice": 18,
+      "categoria": "Tendencias",
+      "titulo_es": "Suno anunciará marcas de agua en canciones generadas por IA en medio de batallas legales por derechos de autor",
+      "resumen": "Suno, plataforma líder de generación musical con IA, anunció que comenzará a aplicar watermarking (marcas de agua digitales) a las canciones creadas en su plataforma mientras enfrenta múltiples litigios de la industria musical. La decisión marca un punto de inflexión en cómo las plataformas de IA generativa gestionan la propiedad intelectual. El debate sobre autoría y derechos en contenido generado por IA está entrando en su fase más concreta.",
+      "por_que_importa": "Las decisiones regulatorias y legales en torno a la IA generativa van a impactar directamente los modelos de negocio de startups creativas; entender este conflicto es estratégicamente relevante.",
+      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 20,
+      "categoria": "Estrategia",
+      "titulo_es": "Y Combinator registra un crecimiento notable de fundadores que emprenden por segunda vez en sus cohortes",
+      "resumen": "Un análisis de datos compartidos por Y Combinator revela que 454 fundadores repetidores han pasado por sus cohortes, y su proporción dentro del programa viene en aumento. Los datos muestran que los 'repeat founders' tienen tasas de éxito y velocidad de ejecución significativamente superiores a los primerizos. El fenómeno refleja cómo el ecosistema valora cada vez más la experiencia acumulada sobre la novedad.",
+      "por_que_importa": "Para estudiantes que aspiran a emprender, entender qué ventajas concretas acumula quien ya fundó una empresa ayuda a pensar en la trayectoria de largo plazo dentro del ecosistema.",
+      "link": "https://news.crunchbase.com/venture/y-combinator-repeat-founders-numbers-grow-epstein-callaway/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 7,
+      "categoria": "Estrategia",
+      "titulo_es": "Ford lanza la pickup eléctrica Fathom a USD 30.000, pero analistas dudan de que sea el punto de inflexión que la empresa necesita",
+      "resumen": "Ford presentó la Fathom, su pickup eléctrica de entrada posicionada desde USD 28.350, que su CEO describió como 'un momento Modelo T' para la compañía. Sin embargo, analistas señalan que el vehículo difícilmente cumpla esas expectativas dado el contexto competitivo y los desafíos de adopción del segmento. El caso ilustra la tensión entre narrativa de innovación disruptiva y la realidad de ejecutar una transformación en una empresa industrial incumbente.",
+      "por_que_importa": "Es un caso de manual sobre cómo los incumbentes comunican (y a veces sobreprometienen) su transición hacia nuevos modelos de negocio, algo crítico de analizar desde la estrategia corporativa.",
+      "link": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
       "fuente": "TechCrunch"
     }
   ]
