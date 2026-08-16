@@ -1,94 +1,40 @@
 {
-  "titular_del_dia": "La IA redefine infraestructura, modelos de negocio y acceso: de GPUs más eficientes a robots en las rutas de Europa",
+  "titular_del_dia": "IA y watermarking: Anthropic establece un nuevo estándar para la autenticidad del contenido generado",
   "items": [
-    {
-      "indice": 7,
-      "categoria": "Estrategia",
-      "titulo_es": "Meta lanza dos modelos de IA con estrategias opuestas: ¿open source para todos o negocio premium?",
-      "resumen": "Meta liberó Glimmer, un modelo de IA de pesos abiertos que cualquiera puede descargar y correr en su propio hardware, mientras mantiene Muse Spark como producto de pago para usuarios más exigentes. La dualidad refleja una tensión estratégica central: democratización como posicionamiento vs. monetización directa. Zuckerberg apuesta a que la apertura genera ecosistema y lock-in indirecto.",
-      "por_que_importa": "Es un caso de libro sobre estrategia de plataforma y modelos de negocio en IA: cómo una misma empresa puede competir en open source y en premium simultáneamente.",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 12,
-      "categoria": "Tendencias",
-      "titulo_es": "Uber y Pony.ai escalan a 2.000 robotaxis en Europa tras el éxito inicial en Croacia",
-      "resumen": "La alianza entre Uber y Pony.ai, que comenzó en Zagreb, se expande a cuatro ciudades europeas adicionales con una flota de 2.000 vehículos autónomos. El caso ilustra cómo una plataforma de movilidad tradicional integra tecnología de conducción autónoma de terceros en lugar de desarrollarla internamente. Es un modelo de innovación abierta aplicado a la movilidad urbana a escala real.",
-      "por_que_importa": "Muestra una estrategia concreta de cómo incumbentes como Uber integran innovación disruptiva sin desarrollarla desde cero, un patrón replicable para pensar innovación corporativa en LatAm.",
-      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-      "fuente": "TechCrunch"
-    },
     {
       "indice": 1,
       "categoria": "Tendencias",
-      "titulo_es": "Camiones autónomos de Aurora y Kodiak obtienen permiso para circular en autopistas de California",
-      "resumen": "Aurora Innovation y Kodiak AI recibieron habilitaciones del Departamento de Vehículos de Motor de California para testear camiones de conducción autónoma en rutas reales. El hito marca el paso de pruebas controladas a operación en infraestructura pública, un salto regulatorio y tecnológico clave para la industria logística. El transporte de carga es uno de los primeros sectores donde la autonomía vehicular tiene caso de negocio probado.",
-      "por_que_importa": "La logística de larga distancia es un sector crítico en economías como la argentina; entender cómo la autonomía vehicular transforma este negocio es estratégicamente relevante para la región.",
-      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 9,
-      "categoria": "Tendencias",
-      "titulo_es": "Startup francesa Kog apuesta a optimizar GPUs para flujos de trabajo agénticos de IA",
-      "resumen": "Kog, una startup francesa, desarrolla software para extraer más rendimiento de inferencia de GPUs existentes, desafiando la idea de que estos chips son inadecuados para workflows agénticos. La propuesta es relevante en un contexto donde el costo de inferencia es uno de los principales cuellos de botella para escalar aplicaciones de IA empresarial. La eficiencia en infraestructura de IA se vuelve una ventaja competitiva clave.",
-      "por_que_importa": "Para equipos de producto en LatAm que construyen sobre IA, entender las palancas de costo de infraestructura es esencial para diseñar modelos de negocio viables.",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
-      "categoria": "Tendencias",
-      "titulo_es": "El gas natural podría triplicar su precio en EE.UU. y encarecer masivamente la infraestructura de IA",
-      "resumen": "Un nuevo pronóstico energético advierte que los precios del gas natural en ciertas regiones de EE.UU. podrían triplicarse, lo que impactaría directamente en los costos operativos de los grandes centros de datos que alimentan la IA. Los hyperscalers —Amazon, Google, Microsoft— apostaron fuerte por el gas como fuente de energía para sus data centers, decisión que ahora podría resultar costosa. El riesgo energético emerge como variable estratégica central para la industria tecnológica.",
-      "por_que_importa": "La infraestructura energética detrás de la IA es un factor estratégico que afecta precios de servicios cloud y, por ende, el costo de desarrollo tecnológico en toda la región.",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 8,
-      "categoria": "Estrategia",
-      "titulo_es": "Apple propone cobrar 15% de comisión por compras realizadas fuera de su App Store",
-      "resumen": "Apple solicitó a un juez federal autorización para aplicar comisiones de hasta 15% sobre compras realizadas mediante enlaces externos en apps iOS, en respuesta a la orden judicial que la obligó a permitir pagos alternativos. La movida muestra cómo la compañía intenta preservar su modelo de negocio de plataforma frente a presión regulatoria. El caso define un precedente sobre el poder de los gatekeepers digitales y sus límites.",
-      "por_que_importa": "Es un caso paradigmático de estrategia de plataforma bajo presión regulatoria, con implicancias directas para desarrolladores de apps en Argentina y LatAm que dependen del ecosistema Apple.",
-      "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Producto",
-      "titulo_es": "Google permitirá eliminar la marca de agua visible en imágenes generadas por su IA",
-      "resumen": "Google actualizó su política para que los usuarios puedan desactivar la marca de agua visible en las imágenes creadas con su IA generativa, aunque aclara que las marcas invisibles de identificación de contenido sintético se mantienen. La decisión responde a demandas de los usuarios de mayor flexibilidad creativa y de uso profesional. Refleja la tensión entre usabilidad del producto y trazabilidad del contenido generado por IA.",
-      "por_que_importa": "Ilustra decisiones de diseño de producto en IA con implicancias éticas y de negocio: cómo las plataformas balancean experiencia de usuario, confianza y regulación emergente.",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
-      "categoria": "Estrategia",
-      "titulo_es": "PayPal en negociaciones avanzadas para ser adquirido por Stripe y la firma de capital privado Advent",
-      "resumen": "PayPal estaría en negociaciones activas para una posible venta a Stripe en conjunto con Advent International, mientras su nuevo CEO busca revertir el estancamiento estratégico de la compañía. El caso ilustra cómo una empresa que fue pionera en pagos digitales perdió ventaja competitiva frente a competidores más ágiles y enfrenta ahora una redefinición forzada. Más allá del M&A, el foco está en el fracaso de innovación continua de un incumbente fintech.",
-      "por_que_importa": "El declive estratégico de PayPal es un caso de estudio sobre por qué las empresas líderes pierden relevancia cuando no renuevan su propuesta de valor, algo muy aplicable al análisis de fintechs en LatAm.",
-      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "titulo_es": "Anthropic explica cómo funcionarán las marcas de agua en el contenido generado por Claude",
+      "resumen": "Anthropic detalló el sistema de watermarking que incorporará Claude para identificar contenido generado por IA. El mecanismo busca ser resistente a ediciones y funcionar también en fragmentos de código. Es una de las primeras implementaciones concretas de trazabilidad en modelos de lenguaje de gran escala.",
+      "por_que_importa": "Define un nuevo estándar técnico y ético para productos basados en IA generativa, con implicancias directas para cualquier empresa o startup que construya sobre estos modelos.",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "Inversor líder advierte que el entusiasmo por la IA está erosionando la disciplina estratégica en el sector",
-      "resumen": "Joshua Kushner, de Thrive Capital, publicó su primera carta anual a inversores advirtiendo que, si bien la oportunidad de la IA es real y enorme, el nivel de euforia actual puede llevar a decisiones de asignación de capital sin rigor. La carta contrasta con el optimismo dominante en Silicon Valley y llama a mantener estándares de evaluación estratégica más exigentes. Es una señal de que el ciclo de hype de IA podría estar alcanzando un punto de inflexión.",
-      "por_que_importa": "Para quienes estudian innovación y nuevos negocios, entender cuándo una tendencia pasa de oportunidad real a burbuja especulativa es una habilidad estratégica central.",
-      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "categoria": "Estrategia",
+      "titulo_es": "SpaceX completa la adquisición de Cursor, la startup de programación asistida por IA",
+      "resumen": "SpaceX cerró oficialmente la compra de Cursor, una de las herramientas de codificación con IA más adoptadas por desarrolladores. La integración apunta a acelerar el desarrollo de software interno en una de las compañías tecnológicas más complejas del mundo. El movimiento consolida la tendencia de grandes corporaciones de incorporar capacidades de IA para ingeniería directamente en su estructura.",
+      "por_que_importa": "Es un caso de estudio sobre cómo la innovación corporativa puede internalizarse comprando producto en lugar de construirlo, un dilema clásico de estrategia de innovación (make vs. buy).",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 4,
-      "categoria": "Producto",
-      "titulo_es": "Pocket, la app de lectura diferida de Mozilla, cierra definitivamente",
-      "resumen": "Pocket, adquirida por Mozilla en 2017, cerrará el 8 de octubre de 2025, dando a sus usuarios tiempo para exportar su contenido guardado. El cierre pone fin a una app que fue referente en el espacio de gestión de contenido personal y gestión del conocimiento digital. El artículo también repasa las mejores alternativas disponibles en el mercado.",
-      "por_que_importa": "El ciclo de vida de Pocket —desde producto innovador hasta discontinuación— es un recordatorio sobre sostenibilidad de modelos de negocio en herramientas de productividad sin monetización clara.",
-      "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "indice": 5,
+      "categoria": "Estrategia",
+      "titulo_es": "Las negociaciones para vender PayPal a Stripe y Advent siguen avanzando",
+      "resumen": "PayPal estaría en conversaciones avanzadas para ser adquirida por Stripe junto al fondo de private equity Advent, en medio de un proceso de reestructuración liderado por su nuevo CEO. La operación representaría una de las consolidaciones más significativas del ecosistema fintech global. El movimiento refleja la presión competitiva que enfrenta PayPal frente a actores más ágiles.",
+      "por_que_importa": "Ilustra cómo incluso plataformas consolidadas deben reinventarse o consolidarse ante disrupciones competitivas, un tema central en estrategia de innovación y ciclos de vida de producto.",
+      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "Caso de abuso con IA generativa reaviva el debate sobre los límites éticos de estas herramientas",
+      "resumen": "Una mujer denunció que su padrastro utilizó Grok para transformar una foto de su infancia en material de abuso sexual. El caso pone en el centro la responsabilidad de las plataformas de IA ante usos maliciosos de herramientas de transformación de imágenes. La situación escala la discusión regulatoria sobre salvaguardas en modelos multimodales.",
+      "por_que_importa": "Todo equipo de producto que trabaje con IA generativa debe incorporar el análisis de riesgos éticos y de seguridad como parte del diseño, no como un add-on posterior.",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "fuente": "TechCrunch"
     }
   ]
