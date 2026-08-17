@@ -1,40 +1,31 @@
 {
-  "titular_del_dia": "IA y watermarking: Anthropic establece un nuevo estándar para la autenticidad del contenido generado",
+  "titular_del_dia": "La crisis de confianza en la IA domina el debate global mientras las grandes empresas tecnológicas buscan definir el futuro del sector",
   "items": [
+    {
+      "indice": 2,
+      "categoria": "Tendencias",
+      "titulo_es": "El CEO de Anthropic afirma que el rechazo a la IA es una crisis de confianza, no de tecnología",
+      "resumen": "Dario Amodei, CEO de Anthropic, sostiene que la resistencia social a la IA no se debe a sus capacidades sino a la falta de credibilidad de quienes la desarrollan. Amodei responde así a críticas que lo acusan de pintar un panorama excesivamente sombrío sobre los riesgos del sector. La discusión refleja un momento bisagra en la relación entre la industria de IA y la sociedad.",
+      "por_que_importa": "Entender por qué la sociedad desconfía de la IA es clave para cualquier innovador que quiera construir productos o negocios basados en esta tecnología, especialmente en mercados como LatAm donde la adopción aún se está formando.",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "fuente": "TechCrunch"
+    },
     {
       "indice": 1,
       "categoria": "Tendencias",
-      "titulo_es": "Anthropic explica cómo funcionarán las marcas de agua en el contenido generado por Claude",
-      "resumen": "Anthropic detalló el sistema de watermarking que incorporará Claude para identificar contenido generado por IA. El mecanismo busca ser resistente a ediciones y funcionar también en fragmentos de código. Es una de las primeras implementaciones concretas de trazabilidad en modelos de lenguaje de gran escala.",
-      "por_que_importa": "Define un nuevo estándar técnico y ético para productos basados en IA generativa, con implicancias directas para cualquier empresa o startup que construya sobre estos modelos.",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "titulo_es": "Por qué la visión de Zuckerberg sobre el futuro con IA no convence a todos",
+      "resumen": "El episodio del podcast Equity de TechCrunch analiza el escepticismo creciente frente a la narrativa de Meta sobre la IA como eje central de la experiencia humana. El debate toca tanto la viabilidad técnica como los dilemas éticos y de negocio detrás de esa visión. La discusión es representativa de una tensión más amplia entre las promesas corporativas y la percepción pública de la IA.",
+      "por_que_importa": "Evaluar críticamente las visiones estratégicas de los grandes líderes tecnológicos es una habilidad fundamental para quienes trabajan en innovación y desarrollo de nuevos negocios.",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 2,
-      "categoria": "Estrategia",
-      "titulo_es": "SpaceX completa la adquisición de Cursor, la startup de programación asistida por IA",
-      "resumen": "SpaceX cerró oficialmente la compra de Cursor, una de las herramientas de codificación con IA más adoptadas por desarrolladores. La integración apunta a acelerar el desarrollo de software interno en una de las compañías tecnológicas más complejas del mundo. El movimiento consolida la tendencia de grandes corporaciones de incorporar capacidades de IA para ingeniería directamente en su estructura.",
-      "por_que_importa": "Es un caso de estudio sobre cómo la innovación corporativa puede internalizarse comprando producto en lugar de construirlo, un dilema clásico de estrategia de innovación (make vs. buy).",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Estrategia",
-      "titulo_es": "Las negociaciones para vender PayPal a Stripe y Advent siguen avanzando",
-      "resumen": "PayPal estaría en conversaciones avanzadas para ser adquirida por Stripe junto al fondo de private equity Advent, en medio de un proceso de reestructuración liderado por su nuevo CEO. La operación representaría una de las consolidaciones más significativas del ecosistema fintech global. El movimiento refleja la presión competitiva que enfrenta PayPal frente a actores más ágiles.",
-      "por_que_importa": "Ilustra cómo incluso plataformas consolidadas deben reinventarse o consolidarse ante disrupciones competitivas, un tema central en estrategia de innovación y ciclos de vida de producto.",
-      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
+      "indice": 3,
       "categoria": "Tendencias",
-      "titulo_es": "Caso de abuso con IA generativa reaviva el debate sobre los límites éticos de estas herramientas",
-      "resumen": "Una mujer denunció que su padrastro utilizó Grok para transformar una foto de su infancia en material de abuso sexual. El caso pone en el centro la responsabilidad de las plataformas de IA ante usos maliciosos de herramientas de transformación de imágenes. La situación escala la discusión regulatoria sobre salvaguardas en modelos multimodales.",
-      "por_que_importa": "Todo equipo de producto que trabaje con IA generativa debe incorporar el análisis de riesgos éticos y de seguridad como parte del diseño, no como un add-on posterior.",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "titulo_es": "Taxis aéreos eléctricos: cómo está evolucionando la industria y hacia dónde va",
+      "resumen": "TechCrunch Mobility repasa el estado actual del mercado de eVTOL (vehículos de despegue y aterrizaje vertical eléctricos), analizando los cambios en las trayectorias de desarrollo y comercialización de las principales empresas del sector. La industria enfrenta desafíos regulatorios, de infraestructura y de adopción que están redefiniendo los plazos originalmente proyectados. Es un caso de estudio sobre cómo escalar innovaciones de movilidad profunda.",
+      "por_que_importa": "Los modelos de negocio de movilidad aérea urbana son un ejemplo concreto de cómo innovaciones radicales deben adaptarse a restricciones regulatorias y de mercado, una tensión muy relevante para quienes estudian estrategia de innovación.",
+      "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
       "fuente": "TechCrunch"
     }
   ]
