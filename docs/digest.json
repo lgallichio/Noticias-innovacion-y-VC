@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "La IA redefine modelos de negocio: Anthropic supera los $65B anualizados mientras Amazon destruye libros raros para entrenar sus modelos",
+  "titular_del_dia": "IA física, nuevos modelos de distribución y seguridad en plataformas: las apuestas del ecosistema global que moldean la agenda de innovación local",
   "items": [
     {
-      "indice": 1,
-      "categoria": "Global",
-      "titulo_es": "Anthropic alcanza $65.000 millones en ingresos anualizados tras sumar $18.000 millones en solo dos meses",
-      "resumen": "Anthropic, creadora del modelo Claude, reportó ingresos anualizados de $65.000 millones, un salto de $18.000 millones en apenas dos meses. El crecimiento refleja la acelerada adopción empresarial de modelos de lenguaje de gran escala. Es uno de los crecimientos de ingresos más rápidos registrados en la historia de la industria tecnológica.",
-      "por_que_importa": "Ilustra con datos concretos la velocidad a la que la IA está generando valor económico real, un contexto clave para entender decisiones de estrategia e innovación corporativa hoy.",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "fuente": "TechCrunch"
+      "indice": 0,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Fundación Banco Nación y Endeavor relanzaron el Premio a la Innovación con Impacto para startups tecnológicas argentinas",
+      "resumen": "La convocatoria, organizada de forma conjunta entre la Fundación Banco Nación y Endeavor Argentina, busca identificar y reconocer startups tecnológicas con foco en impacto. Es una oportunidad concreta para founders y equipos del ecosistema local que buscan visibilidad y acceso a la red de Endeavor.",
+      "por_que_importa": "Es una convocatoria abierta y directamente accionable para estudiantes y jóvenes emprendedores argentinos que estén desarrollando proyectos de base tecnológica.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-convocatoria-abierta-fundacion-banco-nacion-y-endeavor-lanzan-el-premio-a-la-innovacion-con-impacto/",
+      "fuente": "Endeavor Argentina"
     },
     {
-      "indice": 11,
+      "indice": 21,
       "categoria": "Tendencias",
-      "titulo_es": "Amazon destruye libros raros para entrenar sus modelos de IA: el dilema ético del dato escaso",
-      "resumen": "Amazon está digitalizando y destruyendo textos raros e históricos para incorporarlos como datos de entrenamiento en sus modelos de lenguaje, dado que este tipo de material no está disponible en internet. La práctica genera debate sobre propiedad intelectual, preservación cultural y los límites del desarrollo de IA. El caso expone una tensión creciente entre la demanda de datos de calidad y el patrimonio del conocimiento humano.",
-      "por_que_importa": "Abre preguntas estratégicas y éticas fundamentales sobre cómo las empresas obtienen ventajas competitivas en IA, un debate que afecta directamente a quienes diseñen negocios basados en datos.",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "fuente": "TechCrunch"
+      "titulo_es": "La 'IA física' atrae USD 47.400 millones en inversión global en el primer semestre de 2026, casi 4 veces más que el período anterior",
+      "resumen": "Según datos de Crunchbase, el financiamiento global en startups de IA física —robótica, aeroespacial y sistemas autónomos— alcanzó USD 47.400 millones en 521 deals en el primer semestre de 2026, casi cuadruplicando el segundo semestre de 2025. La tendencia señala un desplazamiento del foco inversor desde el software de IA puro hacia aplicaciones en el mundo físico. Esta ola abre preguntas sobre qué sectores industriales se transformarán primero y qué capacidades locales existen para participar.",
+      "por_que_importa": "Entender hacia dónde fluye el capital global en IA permite anticipar qué modelos de negocio y perfiles profesionales serán demandados en los próximos años, también en LatAm.",
+      "link": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+      "fuente": "Crunchbase News"
     },
     {
       "indice": 2,
-      "categoria": "Estrategia",
-      "titulo_es": "Relay, startup de automatización con IA, cierra y su equipo se suma al equipo de Chrome de Google",
-      "resumen": "Relay, una startup de automatización de flujos de trabajo basada en IA, anunció su cierre y la incorporación de todo su equipo al equipo de Chrome de Google. El fundador Jacob Bank anticipó que trabajarán en funciones de IA dentro del navegador para ayudar a los usuarios a completar tareas. El caso ilustra el modelo de 'acqui-hire' como salida estratégica en el ecosistema de startups de IA.",
-      "por_que_importa": "Es un ejemplo concreto de cómo las grandes tecnológicas capturan talento e innovación de startups, y anticipa hacia dónde va la IA integrada en herramientas cotidianas de productividad.",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 12,
-      "categoria": "Estrategia",
-      "titulo_es": "Groq pivotea de chips de IA a neocloud y recauda $350 millones para expandir su infraestructura con GPUs de Nvidia",
-      "resumen": "Groq, conocida por desarrollar chips de inferencia de IA, captó $350 millones a una valuación de $3.500 millones y anunció un giro estratégico hacia el negocio de neocloud, operando centros de datos con hardware de Nvidia. El pivot muestra cómo la competencia en infraestructura de IA fuerza a las empresas a redefinir su propuesta de valor. La decisión implica abandonar la diferenciación por hardware propio para competir en el mercado de acceso a cómputo.",
-      "por_que_importa": "Es un caso de manual sobre pivotes estratégicos bajo presión competitiva, relevante para entender cómo se reposicionan empresas en mercados donde las reglas de juego cambian rápido.",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "categoria": "Producto",
+      "titulo_es": "Cursor lanza una plataforma de alojamiento de código para competir directamente con GitHub",
+      "resumen": "Cursor, conocido por su editor de código con IA, amplió su propuesta de valor al lanzar una plataforma de hosting de repositorios que rivaliza con GitHub, aprovechando el descontento creciente de desarrolladores con Microsoft. El movimiento ilustra una estrategia clásica de expansión de producto: capturar usuarios en un segmento adyacente aprovechando fricción del líder de mercado. Cursor consolida así un ecosistema completo de desarrollo potenciado por IA.",
+      "por_que_importa": "Es un caso de libro sobre cómo una startup puede escalar de una herramienta nicho a una plataforma completa identificando insatisfacción en el mercado del incumbente.",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 16,
-      "categoria": "Producto",
-      "titulo_es": "Uber Eats integra drones de Zipline a su red de delivery y suma una inversión en la compañía",
-      "resumen": "Uber anunció que incorporará los drones de entrega de Zipline a su red de Uber Eats, ampliando su modelo de delivery más allá de los repartidores humanos. La alianza incluye también una inversión de Uber en Zipline. Es uno de los primeros casos de integración de drones autónomos a escala en una plataforma de delivery masiva.",
-      "por_que_importa": "Muestra cómo una plataforma madura puede innovar en su modelo operativo integrando tecnología emergente, algo directamente aplicable al análisis de estrategia de producto y logística en LatAm.",
-      "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
+      "categoria": "Estrategia",
+      "titulo_es": "Cómo la oferta gratuita de Perplexity en India generó un crecimiento sostenido del 60% en ingresos incluso después de terminar la promoción",
+      "resumen": "Perplexity asoció su motor de búsqueda con IA al operador de telecomunicaciones Airtel para ofrecer acceso gratuito en India. Una vez finalizada la promoción para nuevos usuarios, los ingresos de la compañía en el país crecieron un 60%, incluso con una caída en descargas. El caso demuestra que estrategias de entrada freemium bien ejecutadas en mercados masivos pueden generar retención y monetización duradera.",
+      "por_que_importa": "El modelo de distribución vía telco es replicable en LatAm y representa una estrategia concreta de go-to-market para mercados con alta sensibilidad al precio.",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
       "fuente": "TechCrunch"
-    },
-    {
-      "indice": 13,
-      "categoria": "Global",
-      "titulo_es": "Nvidia invierte $1.500 millones en la desarrolladora de centros de datos de SoftBank vinculada al proyecto de OpenAI",
-      "resumen": "Nvidia anunció una inversión de $1.500 millones en la filial de SoftBank que desarrolla centros de datos, asegurando que sus chips alimenten una infraestructura clave para OpenAI. El movimiento consolida la posición de Nvidia como actor central en la cadena de valor de la IA, más allá de la venta de hardware. La operación refleja la creciente integración vertical entre fabricantes de chips, operadores de infraestructura y modelos de IA.",
-      "por_que_importa": "Ayuda a entender la geopolítica y la economía de la infraestructura de IA, un contexto imprescindible para analizar dependencias tecnológicas que afectan también a empresas latinoamericanas.",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 7,
-      "categoria": "Producto",
-      "titulo_es": "Reddit prueba una experiencia de audio y video al estilo TikTok para sus contenidos más populares",
-      "resumen": "Reddit comenzó a testear una funcionalidad que convierte posts populares en versiones de audio y video consumibles en formato vertical, similar al feed de TikTok. El experimento busca capturar audiencias que prefieren consumir contenido sin leer. Es parte de una tendencia más amplia de plataformas tradicionales de texto que adoptan formatos audiovisuales para competir por atención.",
-      "por_que_importa": "Es un caso concreto de innovación de producto en plataformas establecidas para adaptarse a nuevos comportamientos de consumo, útil para analizar estrategias de evolución de producto.",
-      "link": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 19,
-      "categoria": "Tendencias",
-      "titulo_es": "Los gigantes de semiconductores baten récords de inversión en startups de IA y robótica en 2026",
-      "resumen": "Según Crunchbase, empresas como Nvidia e Intel están invirtiendo sumas históricas en startups de inteligencia artificial y robótica durante 2026, impulsadas por ganancias récord derivadas del boom de IA. El fenómeno muestra cómo los líderes de hardware se convierten en actores estratégicos del ecosistema de startups, más allá de su rol de proveedores. Esta dinámica redefine quiénes son los principales financiadores e influenciadores de la innovación tecnológica global.",
-      "por_que_importa": "Comprender qué actores están apostando por qué tecnologías permite anticipar hacia dónde se moverán los recursos y las oportunidades de negocio en los próximos años.",
-      "link": "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
-      "fuente": "Crunchbase News"
     },
     {
       "indice": 5,
-      "categoria": "Producto",
-      "titulo_es": "Spotify lanza 'Playlist Notes': usuarios y editores podrán contar la historia detrás de sus canciones",
-      "resumen": "Spotify introdujo una nueva función llamada Playlist Notes que permite a usuarios y curadores editoriales agregar contexto narrativo a sus listas de reproducción, explicando por qué eligieron cada canción. La funcionalidad ya está disponible en playlists icónicas como RapCaviar. La iniciativa apunta a profundizar el engagement y diferenciar la experiencia de Spotify frente a competidores.",
-      "por_que_importa": "Ilustra cómo una plataforma madura genera valor agregado a través de features de comunidad y contenido, una estrategia de producto replicable en múltiples industrias.",
-      "link": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
+      "categoria": "Tendencias",
+      "titulo_es": "OpenAI refuerza sus protocolos de seguridad en desarrollo de modelos tras la brecha de seguridad en Hugging Face",
+      "resumen": "Tras la brecha que afectó a Hugging Face —la principal plataforma open source de modelos de IA—, OpenAI anunció nuevas salvaguardas que incluyen monitoreo detallado durante el desarrollo de modelos y mayor énfasis en alineación y seguridad en el proceso de post-entrenamiento. El incidente pone en evidencia que la infraestructura de IA se convierte en un vector de ataque crítico a medida que escala su adopción empresarial.",
+      "por_que_importa": "La seguridad en IA ya no es un tema técnico secundario: es una variable estratégica que afecta la confianza de empresas y reguladores, con impacto directo en la adopción corporativa.",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 10,
+      "indice": 8,
       "categoria": "Estrategia",
-      "titulo_es": "Feedly atribuye una semana de fallas técnicas a un bug y no a su controversial pivote hacia IA",
-      "resumen": "Feedly, el agregador de noticias que anunció un pivot estratégico hacia funcionalidades de IA, explicó que la degradación severa de su plataforma durante una semana se debió a un bug técnico y no a los cambios asociados a su nueva dirección. La situación generó desconfianza entre usuarios que asociaron los problemas con el cambio de modelo. El caso expone los riesgos reputacionales que enfrentan las empresas que transicionan su propuesta de valor en público.",
-      "por_que_importa": "Muestra los desafíos de gestión de producto y comunicación durante un pivote estratégico, con lecciones aplicables para cualquier equipo que esté redefiniendo su oferta.",
-      "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+      "titulo_es": "Apple simplifica sus comisiones en la UE y abre la puerta a tiendas de apps alternativas bajo nueva regulación",
+      "resumen": "Apple reemplazó su esquema de tarifa por instalación en la Unión Europea por una comisión del 5% para apps distribuidas fuera de su App Store, y facilitó las reglas para que desarrolladores operen tiendas de apps propias. El cambio responde a la presión regulatoria del Digital Markets Act europeo y anticipa posibles ajustes similares en otras jurisdicciones. Para desarrolladores, implica nuevas opciones de distribución con estructuras de costos más predecibles.",
+      "por_que_importa": "Ilustra cómo la regulación puede reconfigurar modelos de negocio de plataformas dominantes, un fenómeno que tarde o temprano impactará en la forma en que se distribuyen apps en LatAm.",
+      "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 15,
+      "categoria": "Producto",
+      "titulo_es": "OpenAI lanza ChatGPT específico para adolescentes con controles parentales y filtros de seguridad integrados",
+      "resumen": "ChatGPT for Teens incorpora medidas de seguridad adaptadas por edad, controles parentales y herramientas de aprendizaje orientadas a disuadir el uso de IA para hacer trampa académica. El lanzamiento llega años después de que los adolescentes comenzaran a usar la plataforma de forma masiva y sin restricciones. Refleja una tendencia creciente de las plataformas de IA a segmentar su oferta por usuario final para gestionar riesgos regulatorios y reputacionales.",
+      "por_que_importa": "La segmentación de productos de IA por perfil de usuario es una decisión estratégica con implicancias en diseño, regulación y modelo de negocio que vale analizar como caso de producto.",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 14,
+      "categoria": "Producto",
+      "titulo_es": "Warp lanza 'Warp Factories': infraestructura lista para construir pipelines de desarrollo de software con IA",
+      "resumen": "Warp presentó Warp Factories, un sistema de infraestructura diseñado para que equipos de ingeniería construyan 'software factories' —pipelines automatizados de desarrollo con IA— de forma inmediata y sin configuración compleja. El producto apunta a empresas que quieren industrializar su proceso de desarrollo de software con IA, más allá de herramientas de asistencia individual. Compite en el espacio de plataformas de ingeniería empresarial junto a actores como GitHub Actions y GitLab.",
+      "por_que_importa": "La automatización del ciclo de desarrollo de software con IA cambia radicalmente la productividad de los equipos de producto, un conocimiento central para quienes quieran liderar iniciativas de innovación.",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Estrategia",
+      "titulo_es": "Neko Health, la startup de escaneo corporal fundada por el creador de Spotify, desembarca en Nueva York",
+      "resumen": "Neko Health, fundada por Daniel Ek —fundador de Spotify— junto a Hjalmar Ek, abrió su primera oficina en Estados Unidos en Nueva York y planea lanzar operaciones en la ciudad en aproximadamente un mes. La startup ofrece escaneos corporales completos y análisis de sangre como servicio preventivo de salud. Su expansión desde Europa a EE.UU. sigue una trayectoria que muchas healthtechs de LatAm aspiran a replicar en sentido inverso.",
+      "por_que_importa": "El caso de Neko ilustra cómo fundar empresas en sectores regulados (salud) y escalarlas globalmente, con un fundador serial cuya trayectoria es referencia en estrategia de producto.",
+      "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "TikTok explora pagos entre pares dentro de sus mensajes directos para expandir TikTok Pay",
+      "resumen": "Según reportes, TikTok está evaluando incorporar pagos peer-to-peer (P2P) dentro de su función de mensajes directos, utilizando su infraestructura TikTok Pay, ya disponible en el Sudeste Asiático para compras en TikTok Shop. De concretarse, el movimiento convertiría a TikTok en una super-app de pagos sociales, siguiendo el modelo de WeChat en China. TikTok Pay tiene presencia creciente en LatAm, donde la plataforma ya opera TikTok Shop en mercados clave.",
+      "por_que_importa": "La integración de pagos en plataformas de contenido es uno de los modelos de expansión más relevantes para entender el futuro del comercio digital en LatAm.",
+      "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
       "fuente": "TechCrunch"
     }
   ]
