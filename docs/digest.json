@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "IA física, nuevos modelos de distribución y seguridad en plataformas: las apuestas del ecosistema global que moldean la agenda de innovación local",
+  "titular_del_dia": "La IA redefine modelos de negocio: desde pagos y trading autónomo hasta la resistencia del consumidor a adoptarla",
   "items": [
     {
       "indice": 0,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Fundación Banco Nación y Endeavor relanzaron el Premio a la Innovación con Impacto para startups tecnológicas argentinas",
-      "resumen": "La convocatoria, organizada de forma conjunta entre la Fundación Banco Nación y Endeavor Argentina, busca identificar y reconocer startups tecnológicas con foco en impacto. Es una oportunidad concreta para founders y equipos del ecosistema local que buscan visibilidad y acceso a la red de Endeavor.",
-      "por_que_importa": "Es una convocatoria abierta y directamente accionable para estudiantes y jóvenes emprendedores argentinos que estén desarrollando proyectos de base tecnológica.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-convocatoria-abierta-fundacion-banco-nacion-y-endeavor-lanzan-el-premio-a-la-innovacion-con-impacto/",
+      "categoria": "Ecosistema AR | LatAm",
+      "titulo_es": "AgTech argentina: un ecosistema que crece, se diversifica y busca escalar",
+      "resumen": "El ecosistema AgTech argentino muestra señales de madurez con mayor diversificación de soluciones y nuevos actores que apuntan a escalar regional e internacionalmente. Endeavor Rosario y Córdoba documentan el crecimiento del sector, que combina el expertise agropecuario local con tecnología. Argentina se posiciona como referente regional en innovación para el agro.",
+      "por_que_importa": "Es un caso de estudio concreto sobre cómo un país puede construir ventaja competitiva sectorial combinando recursos naturales con innovación tecnológica, altamente relevante para quienes piensan en estrategia de negocios en LatAm.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-crecimiento-industria-agtech-endeavor-rosario-corodba/",
       "fuente": "Endeavor Argentina"
     },
     {
-      "indice": 21,
+      "indice": 10,
       "categoria": "Tendencias",
-      "titulo_es": "La 'IA física' atrae USD 47.400 millones en inversión global en el primer semestre de 2026, casi 4 veces más que el período anterior",
-      "resumen": "Según datos de Crunchbase, el financiamiento global en startups de IA física —robótica, aeroespacial y sistemas autónomos— alcanzó USD 47.400 millones en 521 deals en el primer semestre de 2026, casi cuadruplicando el segundo semestre de 2025. La tendencia señala un desplazamiento del foco inversor desde el software de IA puro hacia aplicaciones en el mundo físico. Esta ola abre preguntas sobre qué sectores industriales se transformarán primero y qué capacidades locales existen para participar.",
-      "por_que_importa": "Entender hacia dónde fluye el capital global en IA permite anticipar qué modelos de negocio y perfiles profesionales serán demandados en los próximos años, también en LatAm.",
-      "link": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
-      "fuente": "Crunchbase News"
+      "titulo_es": "La IA no logra convencer a los consumidores: adopción masiva no equivale a aceptación",
+      "resumen": "A pesar de la penetración generalizada de herramientas de IA, los consumidores muestran creciente escepticismo y desconfianza hacia la tecnología. Silicon Valley descubre que forzar la adopción no genera confianza ni lealtad, y que la brecha entre uso y aceptación genuina plantea un desafío estratégico serio. El artículo presenta datos sobre la evolución de la percepción pública de la IA en los últimos años.",
+      "por_que_importa": "Entender por qué los usuarios resisten la IA es clave para diseñar productos y estrategias de adopción que funcionen, una habilidad central para cualquier innovador o product manager.",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "fuente": "TechCrunch"
     },
     {
       "indice": 2,
+      "categoria": "Estrategia",
+      "titulo_es": "Por qué Stripe compró OpenRouter: la estrategia real detrás de integrar IA en pagos",
+      "resumen": "Stripe adquirió OpenRouter, una startup que enruta prompts entre distintos modelos de IA, con el objetivo de integrar capacidades de IA directamente en su infraestructura de pagos. Más allá del discurso sobre la singularidad tecnológica, la razón estratégica es convertir a Stripe en el sistema operativo financiero para aplicaciones impulsadas por IA. El movimiento refleja cómo las grandes plataformas de pagos buscan capturar valor en la cadena de la IA.",
+      "por_que_importa": "Es un caso ejemplar de cómo una empresa de infraestructura puede redefinir su modelo de negocio adquiriendo capacidades de IA, algo muy útil para pensar estrategia de innovación corporativa.",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
       "categoria": "Producto",
-      "titulo_es": "Cursor lanza una plataforma de alojamiento de código para competir directamente con GitHub",
-      "resumen": "Cursor, conocido por su editor de código con IA, amplió su propuesta de valor al lanzar una plataforma de hosting de repositorios que rivaliza con GitHub, aprovechando el descontento creciente de desarrolladores con Microsoft. El movimiento ilustra una estrategia clásica de expansión de producto: capturar usuarios en un segmento adyacente aprovechando fricción del líder de mercado. Cursor consolida así un ecosistema completo de desarrollo potenciado por IA.",
-      "por_que_importa": "Es un caso de libro sobre cómo una startup puede escalar de una herramienta nicho a una plataforma completa identificando insatisfacción en el mercado del incumbente.",
-      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "titulo_es": "Binance lanza Agent OS: agentes de IA autónomos que operan en mercados de cripto",
+      "resumen": "Binance presentó Agent OS, una plataforma que permite a agentes de IA como ChatGPT, Claude Code y Cursor ejecutar operaciones de trading de forma autónoma. El sistema plantea un desafío de gobernanza significativo: el control de los agentes recae mayormente en los propios usuarios, sin mecanismos robustos de supervisión por parte de la plataforma. Es uno de los primeros despliegues masivos de agentes de IA con consecuencias financieras reales.",
+      "por_que_importa": "La delegación de decisiones financieras a agentes autónomos es una frontera del futuro del trabajo y los negocios digitales, con implicancias directas en diseño de producto, regulación y modelos de responsabilidad.",
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 16,
-      "categoria": "Estrategia",
-      "titulo_es": "Cómo la oferta gratuita de Perplexity en India generó un crecimiento sostenido del 60% en ingresos incluso después de terminar la promoción",
-      "resumen": "Perplexity asoció su motor de búsqueda con IA al operador de telecomunicaciones Airtel para ofrecer acceso gratuito en India. Una vez finalizada la promoción para nuevos usuarios, los ingresos de la compañía en el país crecieron un 60%, incluso con una caída en descargas. El caso demuestra que estrategias de entrada freemium bien ejecutadas en mercados masivos pueden generar retención y monetización duradera.",
-      "por_que_importa": "El modelo de distribución vía telco es replicable en LatAm y representa una estrategia concreta de go-to-market para mercados con alta sensibilidad al precio.",
-      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
       "categoria": "Tendencias",
-      "titulo_es": "OpenAI refuerza sus protocolos de seguridad en desarrollo de modelos tras la brecha de seguridad en Hugging Face",
-      "resumen": "Tras la brecha que afectó a Hugging Face —la principal plataforma open source de modelos de IA—, OpenAI anunció nuevas salvaguardas que incluyen monitoreo detallado durante el desarrollo de modelos y mayor énfasis en alineación y seguridad en el proceso de post-entrenamiento. El incidente pone en evidencia que la infraestructura de IA se convierte en un vector de ataque crítico a medida que escala su adopción empresarial.",
-      "por_que_importa": "La seguridad en IA ya no es un tema técnico secundario: es una variable estratégica que afecta la confianza de empresas y reguladores, con impacto directo en la adopción corporativa.",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "titulo_es": "El reactor nuclear de TerraPower como solución energética para centros de datos de IA",
+      "resumen": "TerraPower desarrolló un reactor nuclear de nueva generación con características técnicas que lo hacen especialmente atractivo para abastecer la creciente demanda energética de los data centers de IA. La compañía lo posiciona como ventaja competitiva frente a otras fuentes de energía limpia en la carrera por contratos con grandes tecnológicas. La demanda energética de la IA está redefiniendo los modelos de negocio en sectores tan distantes como la energía nuclear.",
+      "por_que_importa": "La infraestructura energética se convirtió en un factor estratégico central para el negocio de la IA, mostrando cómo la innovación tecnológica crea oportunidades en industrias adyacentes inesperadas.",
+      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 8,
-      "categoria": "Estrategia",
-      "titulo_es": "Apple simplifica sus comisiones en la UE y abre la puerta a tiendas de apps alternativas bajo nueva regulación",
-      "resumen": "Apple reemplazó su esquema de tarifa por instalación en la Unión Europea por una comisión del 5% para apps distribuidas fuera de su App Store, y facilitó las reglas para que desarrolladores operen tiendas de apps propias. El cambio responde a la presión regulatoria del Digital Markets Act europeo y anticipa posibles ajustes similares en otras jurisdicciones. Para desarrolladores, implica nuevas opciones de distribución con estructuras de costos más predecibles.",
-      "por_que_importa": "Ilustra cómo la regulación puede reconfigurar modelos de negocio de plataformas dominantes, un fenómeno que tarde o temprano impactará en la forma en que se distribuyen apps en LatAm.",
-      "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 15,
-      "categoria": "Producto",
-      "titulo_es": "OpenAI lanza ChatGPT específico para adolescentes con controles parentales y filtros de seguridad integrados",
-      "resumen": "ChatGPT for Teens incorpora medidas de seguridad adaptadas por edad, controles parentales y herramientas de aprendizaje orientadas a disuadir el uso de IA para hacer trampa académica. El lanzamiento llega años después de que los adolescentes comenzaran a usar la plataforma de forma masiva y sin restricciones. Refleja una tendencia creciente de las plataformas de IA a segmentar su oferta por usuario final para gestionar riesgos regulatorios y reputacionales.",
-      "por_que_importa": "La segmentación de productos de IA por perfil de usuario es una decisión estratégica con implicancias en diseño, regulación y modelo de negocio que vale analizar como caso de producto.",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 14,
-      "categoria": "Producto",
-      "titulo_es": "Warp lanza 'Warp Factories': infraestructura lista para construir pipelines de desarrollo de software con IA",
-      "resumen": "Warp presentó Warp Factories, un sistema de infraestructura diseñado para que equipos de ingeniería construyan 'software factories' —pipelines automatizados de desarrollo con IA— de forma inmediata y sin configuración compleja. El producto apunta a empresas que quieren industrializar su proceso de desarrollo de software con IA, más allá de herramientas de asistencia individual. Compite en el espacio de plataformas de ingeniería empresarial junto a actores como GitHub Actions y GitLab.",
-      "por_que_importa": "La automatización del ciclo de desarrollo de software con IA cambia radicalmente la productividad de los equipos de producto, un conocimiento central para quienes quieran liderar iniciativas de innovación.",
-      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Estrategia",
-      "titulo_es": "Neko Health, la startup de escaneo corporal fundada por el creador de Spotify, desembarca en Nueva York",
-      "resumen": "Neko Health, fundada por Daniel Ek —fundador de Spotify— junto a Hjalmar Ek, abrió su primera oficina en Estados Unidos en Nueva York y planea lanzar operaciones en la ciudad en aproximadamente un mes. La startup ofrece escaneos corporales completos y análisis de sangre como servicio preventivo de salud. Su expansión desde Europa a EE.UU. sigue una trayectoria que muchas healthtechs de LatAm aspiran a replicar en sentido inverso.",
-      "por_que_importa": "El caso de Neko ilustra cómo fundar empresas en sectores regulados (salud) y escalarlas globalmente, con un fundador serial cuya trayectoria es referencia en estrategia de producto.",
-      "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
+      "indice": 3,
+      "categoria": "Tendencias",
+      "titulo_es": "Waymo lanza su robotaxi de nueva generación a mayor escala en tres ciudades de EE.UU.",
+      "resumen": "El Waymo Ojai, versión más económica del robotaxi autónomo de la compañía, ya está disponible para todos los usuarios en tres ciudades estadounidenses. El lanzamiento es central en la estrategia de Waymo para alcanzar escala masiva y, eventualmente, rentabilidad. La reducción de costos del vehículo es el hito operativo más importante de la compañía desde su fundación.",
+      "por_que_importa": "El caso Waymo ilustra el desafío clásico de escalar un producto de innovación profunda: cómo reducir costos sin sacrificar seguridad ni experiencia de usuario para alcanzar viabilidad comercial.",
+      "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 4,
       "categoria": "Tendencias",
-      "titulo_es": "TikTok explora pagos entre pares dentro de sus mensajes directos para expandir TikTok Pay",
-      "resumen": "Según reportes, TikTok está evaluando incorporar pagos peer-to-peer (P2P) dentro de su función de mensajes directos, utilizando su infraestructura TikTok Pay, ya disponible en el Sudeste Asiático para compras en TikTok Shop. De concretarse, el movimiento convertiría a TikTok en una super-app de pagos sociales, siguiendo el modelo de WeChat en China. TikTok Pay tiene presencia creciente en LatAm, donde la plataforma ya opera TikTok Shop en mercados clave.",
-      "por_que_importa": "La integración de pagos en plataformas de contenido es uno de los modelos de expansión más relevantes para entender el futuro del comercio digital en LatAm.",
-      "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "titulo_es": "OpenAI y Anthropic compiten por ofrecer las mejores garantías de privacidad a clientes empresariales",
+      "resumen": "OpenAI anunció nuevas protecciones de privacidad para datos de clientes enterprise en respuesta directa a las políticas de Anthropic, inaugurando una competencia explícita en este terreno. La disputa refleja que la confianza corporativa en el manejo de datos se volvió un diferenciador competitivo clave en el mercado B2B de IA. Las grandes empresas ahora evalúan proveedores de IA también por sus políticas de gobernanza de datos.",
+      "por_que_importa": "Para quienes desarrollen productos B2B con IA, entender que la privacidad y la gobernanza de datos son vectores competitivos —no solo requisitos legales— es fundamental para diseñar propuestas de valor.",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 20,
+      "categoria": "Producto",
+      "titulo_es": "Amazon expande Prime Air a casi 500 ciudades de EE.UU. para fin de 2026",
+      "resumen": "Amazon anunció la expansión de su servicio de entrega por drones Prime Air a casi 500 ciudades estadounidenses antes de que termine 2026, un salto masivo respecto a su cobertura actual. El movimiento marca la transición de un piloto experimental a un servicio de logística a escala real. Es uno de los despliegues comerciales de drones de última milla más ambiciosos del mundo.",
+      "por_que_importa": "El caso Amazon Prime Air es un modelo de cómo una empresa escala una innovación desde prueba piloto hasta operación masiva, con implicancias directas para la logística y el comercio electrónico en mercados emergentes como LatAm.",
+      "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 13,
+      "categoria": "Estrategia",
+      "titulo_es": "La startup que ayuda a Wall Street a ponerle precio al cómputo de IA",
+      "resumen": "Una startup emergente desarrolló metodologías para que inversores y empresas puedan valorizar el cómputo de IA (GPUs y data centers) como activo financiero, ante la dificultad de estimar su valor real en un mercado en expansión. Con cientos de miles de millones de dólares invertidos anualmente en infraestructura de IA, el cómputo se convirtió en el mayor costo de cualquier aplicación de IA. El modelo de negocio apunta a ser la capa de inteligencia financiera sobre la economía de la IA.",
+      "por_que_importa": "Entender cómo se valoriza la infraestructura de IA es esencial para quienes piensen en modelos de negocio, estrategia de costos o finanzas de startups tecnológicas en los próximos años.",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
+      "categoria": "Producto",
+      "titulo_es": "Google integra nuevas herramientas de estudio con IA en Search y Gemini",
+      "resumen": "Google lanzó funcionalidades de estudio potenciadas por IA directamente en su buscador y en Gemini, apuntando a capturar el segmento estudiantil en disputa con OpenAI. Las herramientas incluyen asistencia personalizada para aprendizaje y repaso, integradas en los productos que los estudiantes ya usan cotidianamente. El movimiento es parte de la competencia por convertir a Gemini en el asistente de referencia para educación.",
+      "por_que_importa": "La batalla por el usuario estudiante entre Google y OpenAI es un caso en tiempo real de estrategia de producto y adopción, con implicancias directas para el futuro del aprendizaje y la productividad académica.",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
       "fuente": "TechCrunch"
     }
   ]
