@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "La IA redefine modelos de negocio: desde pagos y trading autónomo hasta la resistencia del consumidor a adoptarla",
+  "titular_del_dia": "La IA reescribe las reglas del negocio: desde la autoría web hasta la volatilidad en el gasto enterprise",
   "items": [
     {
-      "indice": 0,
-      "categoria": "Ecosistema AR | LatAm",
-      "titulo_es": "AgTech argentina: un ecosistema que crece, se diversifica y busca escalar",
-      "resumen": "El ecosistema AgTech argentino muestra señales de madurez con mayor diversificación de soluciones y nuevos actores que apuntan a escalar regional e internacionalmente. Endeavor Rosario y Córdoba documentan el crecimiento del sector, que combina el expertise agropecuario local con tecnología. Argentina se posiciona como referente regional en innovación para el agro.",
-      "por_que_importa": "Es un caso de estudio concreto sobre cómo un país puede construir ventaja competitiva sectorial combinando recursos naturales con innovación tecnológica, altamente relevante para quienes piensan en estrategia de negocios en LatAm.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-crecimiento-industria-agtech-endeavor-rosario-corodba/",
-      "fuente": "Endeavor Argentina"
-    },
-    {
-      "indice": 10,
+      "indice": 4,
       "categoria": "Tendencias",
-      "titulo_es": "La IA no logra convencer a los consumidores: adopción masiva no equivale a aceptación",
-      "resumen": "A pesar de la penetración generalizada de herramientas de IA, los consumidores muestran creciente escepticismo y desconfianza hacia la tecnología. Silicon Valley descubre que forzar la adopción no genera confianza ni lealtad, y que la brecha entre uso y aceptación genuina plantea un desafío estratégico serio. El artículo presenta datos sobre la evolución de la percepción pública de la IA en los últimos años.",
-      "por_que_importa": "Entender por qué los usuarios resisten la IA es clave para diseñar productos y estrategias de adopción que funcionen, una habilidad central para cualquier innovador o product manager.",
-      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
-      "categoria": "Estrategia",
-      "titulo_es": "Por qué Stripe compró OpenRouter: la estrategia real detrás de integrar IA en pagos",
-      "resumen": "Stripe adquirió OpenRouter, una startup que enruta prompts entre distintos modelos de IA, con el objetivo de integrar capacidades de IA directamente en su infraestructura de pagos. Más allá del discurso sobre la singularidad tecnológica, la razón estratégica es convertir a Stripe en el sistema operativo financiero para aplicaciones impulsadas por IA. El movimiento refleja cómo las grandes plataformas de pagos buscan capturar valor en la cadena de la IA.",
-      "por_que_importa": "Es un caso ejemplar de cómo una empresa de infraestructura puede redefinir su modelo de negocio adquiriendo capacidades de IA, algo muy útil para pensar estrategia de innovación corporativa.",
-      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Producto",
-      "titulo_es": "Binance lanza Agent OS: agentes de IA autónomos que operan en mercados de cripto",
-      "resumen": "Binance presentó Agent OS, una plataforma que permite a agentes de IA como ChatGPT, Claude Code y Cursor ejecutar operaciones de trading de forma autónoma. El sistema plantea un desafío de gobernanza significativo: el control de los agentes recae mayormente en los propios usuarios, sin mecanismos robustos de supervisión por parte de la plataforma. Es uno de los primeros despliegues masivos de agentes de IA con consecuencias financieras reales.",
-      "por_que_importa": "La delegación de decisiones financieras a agentes autónomos es una frontera del futuro del trabajo y los negocios digitales, con implicancias directas en diseño de producto, regulación y modelos de responsabilidad.",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "titulo_es": "OpenAI gana terreno frente a Anthropic entre usuarios corporativos, pero la fidelidad empresarial a modelos de IA sigue siendo baja",
+      "resumen": "Nuevos datos muestran que las empresas cambian fácilmente entre proveedores de IA según qué laboratorio lanza el modelo más reciente. Esta volatilidad cuestiona cuán 'pegajoso' es realmente el gasto enterprise en IA, lo cual representa un riesgo estratégico tanto para OpenAI como para Anthropic.",
+      "por_que_importa": "Entender por qué los clientes empresariales no se fidelizan a una plataforma de IA es clave para cualquiera que diseñe modelos de negocio o estrategias de producto basados en esta tecnología.",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 16,
       "categoria": "Tendencias",
-      "titulo_es": "El reactor nuclear de TerraPower como solución energética para centros de datos de IA",
-      "resumen": "TerraPower desarrolló un reactor nuclear de nueva generación con características técnicas que lo hacen especialmente atractivo para abastecer la creciente demanda energética de los data centers de IA. La compañía lo posiciona como ventaja competitiva frente a otras fuentes de energía limpia en la carrera por contratos con grandes tecnológicas. La demanda energética de la IA está redefiniendo los modelos de negocio en sectores tan distantes como la energía nuclear.",
-      "por_que_importa": "La infraestructura energética se convirtió en un factor estratégico central para el negocio de la IA, mostrando cómo la innovación tecnológica crea oportunidades en industrias adyacentes inesperadas.",
-      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "titulo_es": "Un tercio de las páginas web publicadas desde el lanzamiento de ChatGPT muestran indicios de autoría por IA",
+      "resumen": "Un estudio detectó que aproximadamente el 33% del contenido web nuevo generado desde fines de 2022 presenta señales de haber sido escrito o editado por modelos de IA como ChatGPT. El fenómeno plantea preguntas profundas sobre la calidad de la información, la economía de los medios y los datos futuros usados para entrenar modelos.",
+      "por_que_importa": "Esta tendencia afecta directamente los modelos de negocio de medios, marketing y educación en LatAm, y genera un debate estratégico sobre confianza, diferenciación y calidad del contenido.",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 3,
-      "categoria": "Tendencias",
-      "titulo_es": "Waymo lanza su robotaxi de nueva generación a mayor escala en tres ciudades de EE.UU.",
-      "resumen": "El Waymo Ojai, versión más económica del robotaxi autónomo de la compañía, ya está disponible para todos los usuarios en tres ciudades estadounidenses. El lanzamiento es central en la estrategia de Waymo para alcanzar escala masiva y, eventualmente, rentabilidad. La reducción de costos del vehículo es el hito operativo más importante de la compañía desde su fundación.",
-      "por_que_importa": "El caso Waymo ilustra el desafío clásico de escalar un producto de innovación profunda: cómo reducir costos sin sacrificar seguridad ni experiencia de usuario para alcanzar viabilidad comercial.",
-      "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+      "indice": 18,
+      "categoria": "Producto",
+      "titulo_es": "Ramp lanza su propio enrutador de modelos de IA para que empresas cambien entre LLMs vía API",
+      "resumen": "La fintech Ramp presentó 'Router', un servicio que permite a usuarios y empresas seleccionar y alternar entre distintos modelos de lenguaje a través de una única API. La herramienta apunta a reducir costos y aumentar la flexibilidad en el uso empresarial de IA, sin depender de un solo proveedor.",
+      "por_que_importa": "Es un caso concreto de cómo una empresa de producto resuelve el problema de lock-in en IA, un desafío estratégico central para cualquier negocio que integre modelos de lenguaje.",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 4,
+      "indice": 10,
+      "categoria": "Estrategia",
+      "titulo_es": "Google ofrece a los medios un nuevo mecanismo para recuperar tráfico perdido ante la búsqueda con IA",
+      "resumen": "Google lanzó un botón que permite a los lectores marcar publicaciones como fuentes preferidas en Search, Discover y Google News, buscando compensar la caída de clics que generó la incorporación de respuestas de IA en los resultados de búsqueda. La medida reconoce implícitamente el daño que el modelo de IA generativa causa al tráfico editorial.",
+      "por_que_importa": "Ilustra cómo la IA fuerza a plataformas establecidas a rediseñar sus modelos de distribución, una dinámica estratégica relevante para medios y negocios digitales en la región.",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
       "categoria": "Tendencias",
-      "titulo_es": "OpenAI y Anthropic compiten por ofrecer las mejores garantías de privacidad a clientes empresariales",
-      "resumen": "OpenAI anunció nuevas protecciones de privacidad para datos de clientes enterprise en respuesta directa a las políticas de Anthropic, inaugurando una competencia explícita en este terreno. La disputa refleja que la confianza corporativa en el manejo de datos se volvió un diferenciador competitivo clave en el mercado B2B de IA. Las grandes empresas ahora evalúan proveedores de IA también por sus políticas de gobernanza de datos.",
-      "por_que_importa": "Para quienes desarrollen productos B2B con IA, entender que la privacidad y la gobernanza de datos son vectores competitivos —no solo requisitos legales— es fundamental para diseñar propuestas de valor.",
-      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "titulo_es": "Nevada autoriza hasta 8.000 robotaxis de Tesla, Uber y Waymo en los próximos 12 meses",
+      "resumen": "Las tres compañías recibieron permisos regulatorios para desplegar conjuntamente miles de vehículos autónomos en Nevada durante el próximo año. Es el despliegue comercial a mayor escala de robotaxis autorizado hasta la fecha en Estados Unidos, y marca un punto de inflexión en la adopción regulatoria de la movilidad autónoma.",
+      "por_que_importa": "El avance regulatorio en movilidad autónoma en EE.UU. anticipa debates y oportunidades que LatAm deberá enfrentar en los próximos años en transporte, logística y planificación urbana.",
+      "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 20,
       "categoria": "Producto",
-      "titulo_es": "Amazon expande Prime Air a casi 500 ciudades de EE.UU. para fin de 2026",
-      "resumen": "Amazon anunció la expansión de su servicio de entrega por drones Prime Air a casi 500 ciudades estadounidenses antes de que termine 2026, un salto masivo respecto a su cobertura actual. El movimiento marca la transición de un piloto experimental a un servicio de logística a escala real. Es uno de los despliegues comerciales de drones de última milla más ambiciosos del mundo.",
-      "por_que_importa": "El caso Amazon Prime Air es un modelo de cómo una empresa escala una innovación desde prueba piloto hasta operación masiva, con implicancias directas para la logística y el comercio electrónico en mercados emergentes como LatAm.",
-      "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+      "titulo_es": "Meta expande Pocket a EE.UU.: la app que permite crear y compartir juegos con IA sin saber programar",
+      "resumen": "Meta lanzó Pocket en Estados Unidos tras haberla probado silenciosamente en Brasil. La aplicación permite a usuarios crear juegos interactivos mediante IA generativa ('vibe-coding') y compartirlos socialmente. El piloto inicial en Brasil sugiere que LatAm figura como mercado de prueba estratégico para Meta.",
+      "por_que_importa": "El caso muestra cómo grandes plataformas usan LatAm como laboratorio de innovación de producto, y abre la conversación sobre creación de contenido generativo como nuevo modelo de negocio.",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 13,
+      "indice": 0,
+      "categoria": "Global",
+      "titulo_es": "a16z apuesta por fundadores internacionales: tener un pie en el país de origen es ventaja competitiva en la era de la IA",
+      "resumen": "Andreessen Horowitz lanzó la red 'Borderless Founder' para apoyar a fundadores inmigrantes e internacionales, argumentando que su doble perspectiva cultural les da ventaja para identificar oportunidades globales potenciadas por IA. La iniciativa reconoce explícitamente el valor del conocimiento local de mercados emergentes.",
+      "por_que_importa": "Para estudiantes y emprendedores latinoamericanos, este enfoque valida el conocimiento del mercado regional como activo estratégico genuino ante fondos globales de primer nivel.",
+      "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
+      "fuente": "TechCrunch Venture"
+    },
+    {
+      "indice": 19,
       "categoria": "Estrategia",
-      "titulo_es": "La startup que ayuda a Wall Street a ponerle precio al cómputo de IA",
-      "resumen": "Una startup emergente desarrolló metodologías para que inversores y empresas puedan valorizar el cómputo de IA (GPUs y data centers) como activo financiero, ante la dificultad de estimar su valor real en un mercado en expansión. Con cientos de miles de millones de dólares invertidos anualmente en infraestructura de IA, el cómputo se convirtió en el mayor costo de cualquier aplicación de IA. El modelo de negocio apunta a ser la capa de inteligencia financiera sobre la economía de la IA.",
-      "por_que_importa": "Entender cómo se valoriza la infraestructura de IA es esencial para quienes piensen en modelos de negocio, estrategia de costos o finanzas de startups tecnológicas en los próximos años.",
-      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "titulo_es": "El Senado de EE.UU. exige explicaciones a TikTok por un experimento que desactivó filtros de contenido dañino para medir engagement",
+      "resumen": "Senadores estadounidenses solicitaron a TikTok que explique un experimento interno en el que desactivó salvaguardas diseñadas para limitar contenido nocivo, con el objetivo de evaluar si esos filtros reducían el tiempo de uso. El caso reabre el debate sobre los límites éticos del diseño de producto orientado a maximizar la retención.",
+      "por_que_importa": "Es un caso de estudio directo sobre las tensiones entre métricas de producto, ética del diseño y responsabilidad corporativa, temas centrales en cualquier curso de innovación responsable.",
+      "link": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 11,
-      "categoria": "Producto",
-      "titulo_es": "Google integra nuevas herramientas de estudio con IA en Search y Gemini",
-      "resumen": "Google lanzó funcionalidades de estudio potenciadas por IA directamente en su buscador y en Gemini, apuntando a capturar el segmento estudiantil en disputa con OpenAI. Las herramientas incluyen asistencia personalizada para aprendizaje y repaso, integradas en los productos que los estudiantes ya usan cotidianamente. El movimiento es parte de la competencia por convertir a Gemini en el asistente de referencia para educación.",
-      "por_que_importa": "La batalla por el usuario estudiante entre Google y OpenAI es un caso en tiempo real de estrategia de producto y adopción, con implicancias directas para el futuro del aprendizaje y la productividad académica.",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "categoria": "Estrategia",
+      "titulo_es": "Rippling y Runlayer retiran sus demandas mutuas: lecciones para fundadores sobre competencia y litigios",
+      "resumen": "Rippling y Runlayer cerraron sus disputas legales sin que mediara pago alguno. Rippling celebró el cierre lanzando un producto competidor directo. El episodio expone cómo los conflictos legales entre startups pueden terminar acelerando la competencia en lugar de frenarla.",
+      "por_que_importa": "Ofrece una lección práctica sobre estrategia competitiva, propiedad intelectual y las consecuencias no deseadas de los litigios entre empresas tecnológicas.",
+      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 2,
+      "categoria": "Tendencias",
+      "titulo_es": "La startup de datos para IA Micro1 alcanza una tasa de ingresos de 500 millones de dólares impulsada por el boom del entrenamiento de modelos",
+      "resumen": "Micro1, especializada en proveer datos de entrenamiento para modelos de IA, reportó una tasa de ingresos brutos anuales de 500 millones de dólares, reflejando la demanda explosiva del sector. La empresa compite en un mercado que crece a medida que los laboratorios de IA necesitan datos humanos de alta calidad a escala.",
+      "por_que_importa": "Ilustra que la cadena de valor de la IA no se limita a los modelos: el negocio de los datos de entrenamiento es una oportunidad concreta para empresas y trabajadores en economías como la argentina.",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "fuente": "TechCrunch"
     }
   ]
