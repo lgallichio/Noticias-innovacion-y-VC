@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "La IA reescribe las reglas del negocio: desde la autoría web hasta la volatilidad en el gasto enterprise",
+  "titular_del_dia": "La IA como infraestructura: de los modelos al harness, del software contable al skin computing",
   "items": [
     {
-      "indice": 4,
+      "indice": 9,
       "categoria": "Tendencias",
-      "titulo_es": "OpenAI gana terreno frente a Anthropic entre usuarios corporativos, pero la fidelidad empresarial a modelos de IA sigue siendo baja",
-      "resumen": "Nuevos datos muestran que las empresas cambian fácilmente entre proveedores de IA según qué laboratorio lanza el modelo más reciente. Esta volatilidad cuestiona cuán 'pegajoso' es realmente el gasto enterprise en IA, lo cual representa un riesgo estratégico tanto para OpenAI como para Anthropic.",
-      "por_que_importa": "Entender por qué los clientes empresariales no se fidelizan a una plataforma de IA es clave para cualquiera que diseñe modelos de negocio o estrategias de producto basados en esta tecnología.",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "titulo_es": "Nvidia demuestra que la arquitectura que rodea al modelo de IA importa más que el modelo en sí",
+      "resumen": "Una investigación de Nvidia muestra que agentes de IA pueden rendir bien en tareas complejas incluso con modelos mediocres, siempre que el 'harness' —el sistema de fine-tuning, instrucciones y control— esté bien diseñado. Esto desplaza el foco del modelo subyacente hacia la ingeniería de sistemas que lo orquesta. El hallazgo tiene implicancias directas para empresas que construyen productos sobre modelos de terceros.",
+      "por_que_importa": "Cambia la lógica de ventaja competitiva en IA: ya no alcanza con acceder al mejor modelo, sino que la diferenciación está en cómo se lo envuelve y controla, algo que cualquier equipo de producto puede hacer.",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 16,
-      "categoria": "Tendencias",
-      "titulo_es": "Un tercio de las páginas web publicadas desde el lanzamiento de ChatGPT muestran indicios de autoría por IA",
-      "resumen": "Un estudio detectó que aproximadamente el 33% del contenido web nuevo generado desde fines de 2022 presenta señales de haber sido escrito o editado por modelos de IA como ChatGPT. El fenómeno plantea preguntas profundas sobre la calidad de la información, la economía de los medios y los datos futuros usados para entrenar modelos.",
-      "por_que_importa": "Esta tendencia afecta directamente los modelos de negocio de medios, marketing y educación en LatAm, y genera un debate estratégico sobre confianza, diferenciación y calidad del contenido.",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Producto",
-      "titulo_es": "Ramp lanza su propio enrutador de modelos de IA para que empresas cambien entre LLMs vía API",
-      "resumen": "La fintech Ramp presentó 'Router', un servicio que permite a usuarios y empresas seleccionar y alternar entre distintos modelos de lenguaje a través de una única API. La herramienta apunta a reducir costos y aumentar la flexibilidad en el uso empresarial de IA, sin depender de un solo proveedor.",
-      "por_que_importa": "Es un caso concreto de cómo una empresa de producto resuelve el problema de lock-in en IA, un desafío estratégico central para cualquier negocio que integre modelos de lenguaje.",
-      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
+      "indice": 5,
       "categoria": "Estrategia",
-      "titulo_es": "Google ofrece a los medios un nuevo mecanismo para recuperar tráfico perdido ante la búsqueda con IA",
-      "resumen": "Google lanzó un botón que permite a los lectores marcar publicaciones como fuentes preferidas en Search, Discover y Google News, buscando compensar la caída de clics que generó la incorporación de respuestas de IA en los resultados de búsqueda. La medida reconoce implícitamente el daño que el modelo de IA generativa causa al tráfico editorial.",
-      "por_que_importa": "Ilustra cómo la IA fuerza a plataformas establecidas a rediseñar sus modelos de distribución, una dinámica estratégica relevante para medios y negocios digitales en la región.",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Tendencias",
-      "titulo_es": "Nevada autoriza hasta 8.000 robotaxis de Tesla, Uber y Waymo en los próximos 12 meses",
-      "resumen": "Las tres compañías recibieron permisos regulatorios para desplegar conjuntamente miles de vehículos autónomos en Nevada durante el próximo año. Es el despliegue comercial a mayor escala de robotaxis autorizado hasta la fecha en Estados Unidos, y marca un punto de inflexión en la adopción regulatoria de la movilidad autónoma.",
-      "por_que_importa": "El avance regulatorio en movilidad autónoma en EE.UU. anticipa debates y oportunidades que LatAm deberá enfrentar en los próximos años en transporte, logística y planificación urbana.",
-      "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 20,
-      "categoria": "Producto",
-      "titulo_es": "Meta expande Pocket a EE.UU.: la app que permite crear y compartir juegos con IA sin saber programar",
-      "resumen": "Meta lanzó Pocket en Estados Unidos tras haberla probado silenciosamente en Brasil. La aplicación permite a usuarios crear juegos interactivos mediante IA generativa ('vibe-coding') y compartirlos socialmente. El piloto inicial en Brasil sugiere que LatAm figura como mercado de prueba estratégico para Meta.",
-      "por_que_importa": "El caso muestra cómo grandes plataformas usan LatAm como laboratorio de innovación de producto, y abre la conversación sobre creación de contenido generativo como nuevo modelo de negocio.",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
-      "categoria": "Global",
-      "titulo_es": "a16z apuesta por fundadores internacionales: tener un pie en el país de origen es ventaja competitiva en la era de la IA",
-      "resumen": "Andreessen Horowitz lanzó la red 'Borderless Founder' para apoyar a fundadores inmigrantes e internacionales, argumentando que su doble perspectiva cultural les da ventaja para identificar oportunidades globales potenciadas por IA. La iniciativa reconoce explícitamente el valor del conocimiento local de mercados emergentes.",
-      "por_que_importa": "Para estudiantes y emprendedores latinoamericanos, este enfoque valida el conocimiento del mercado regional como activo estratégico genuino ante fondos globales de primer nivel.",
-      "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
-      "fuente": "TechCrunch Venture"
-    },
-    {
-      "indice": 19,
-      "categoria": "Estrategia",
-      "titulo_es": "El Senado de EE.UU. exige explicaciones a TikTok por un experimento que desactivó filtros de contenido dañino para medir engagement",
-      "resumen": "Senadores estadounidenses solicitaron a TikTok que explique un experimento interno en el que desactivó salvaguardas diseñadas para limitar contenido nocivo, con el objetivo de evaluar si esos filtros reducían el tiempo de uso. El caso reabre el debate sobre los límites éticos del diseño de producto orientado a maximizar la retención.",
-      "por_que_importa": "Es un caso de estudio directo sobre las tensiones entre métricas de producto, ética del diseño y responsabilidad corporativa, temas centrales en cualquier curso de innovación responsable.",
-      "link": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
+      "titulo_es": "Cómo Rillet pasó de startup a unicornio en 48 horas sin buscar capital: el caso del contable con IA",
+      "resumen": "El CEO de Rillet, Nicolas Kopp, presentó métricas de crecimiento en una reunión de directorio y desencadenó una disputa entre Iconiq, Sequoia y otros fondos que culminó en una ronda de 100 millones de dólares en menos de dos días. La startup automatiza la contabilidad corporativa usando IA y ya opera en modo unicornio. El caso ilustra cómo el crecimiento orgánico y los datos concretos generan tracción sin necesidad de salir a buscar inversión.",
+      "por_que_importa": "Es un caso de manual sobre cómo la tracción real —no el pitch— define el poder de negociación de un founder frente a inversores, relevante para quienes piensan en estrategia de go-to-market.",
+      "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 11,
       "categoria": "Estrategia",
-      "titulo_es": "Rippling y Runlayer retiran sus demandas mutuas: lecciones para fundadores sobre competencia y litigios",
-      "resumen": "Rippling y Runlayer cerraron sus disputas legales sin que mediara pago alguno. Rippling celebró el cierre lanzando un producto competidor directo. El episodio expone cómo los conflictos legales entre startups pueden terminar acelerando la competencia en lugar de frenarla.",
-      "por_que_importa": "Ofrece una lección práctica sobre estrategia competitiva, propiedad intelectual y las consecuencias no deseadas de los litigios entre empresas tecnológicas.",
-      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "titulo_es": "El fracaso del techo solar de Tesla: qué salió mal en una apuesta de innovación de producto",
+      "resumen": "Tesla discontinuó su Solar Roof después de años de problemas de escalabilidad, costos de instalación prohibitivos y demanda insuficiente. El artículo analiza por qué el concepto nunca logró el product-market fit pese al fuerte respaldo de marca y capital. La pregunta clave que surge es si la idea era prematura o si fue una ejecución deficiente.",
+      "por_que_importa": "Es un caso concreto de innovación corporativa fallida que ilustra la diferencia entre una visión tecnológica atractiva y un modelo de negocio viable, ideal para debatir en el club.",
+      "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 2,
+      "indice": 4,
       "categoria": "Tendencias",
-      "titulo_es": "La startup de datos para IA Micro1 alcanza una tasa de ingresos de 500 millones de dólares impulsada por el boom del entrenamiento de modelos",
-      "resumen": "Micro1, especializada en proveer datos de entrenamiento para modelos de IA, reportó una tasa de ingresos brutos anuales de 500 millones de dólares, reflejando la demanda explosiva del sector. La empresa compite en un mercado que crece a medida que los laboratorios de IA necesitan datos humanos de alta calidad a escala.",
-      "por_que_importa": "Ilustra que la cadena de valor de la IA no se limita a los modelos: el negocio de los datos de entrenamiento es una oportunidad concreta para empresas y trabajadores en economías como la argentina.",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "titulo_es": "Nvidia acelera su apuesta en infraestructura de data centers asociándose con Cloverleaf",
+      "resumen": "Nvidia anunció una alianza estratégica con el desarrollador de data centers Cloverleaf para expandir la infraestructura de centros de cómputo orientados a IA. La movida refuerza la estrategia vertical de Nvidia, que ya no se limita a fabricar chips sino que busca posicionarse en toda la cadena de valor del cómputo de IA. La demanda de infraestructura para IA sigue superando la oferta disponible globalmente.",
+      "por_que_importa": "Entender cómo los grandes players construyen ecosistemas verticales —no solo productos— es clave para analizar estrategia de plataformas e innovación corporativa a escala.",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "Tendencias",
+      "titulo_es": "Una startup entrena modelos de IA sobre piel humana viva para acelerar la investigación dermatológica",
+      "resumen": "Michael Polansky lleva años construyendo en silencio una startup que mantiene tejido de piel humana vivo en laboratorio y entrena modelos de IA sobre esa data biológica en tiempo real. El objetivo es crear una plataforma de testeo que reemplace o complemente los ensayos clínicos en dermatología y cosmética. Es uno de los casos más radicales de IA aplicada a ciencias de la vida fuera del mainstream.",
+      "por_que_importa": "Muestra cómo la IA está creando modelos de negocio completamente nuevos en biotech, un sector con creciente actividad en LatAm y con enorme potencial de impacto.",
+      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Tendencias",
+      "titulo_es": "Apple recorta cientos de puestos en los equipos de Siri y Vision Pro al reorientar su estrategia",
+      "resumen": "Apple confirmó despidos significativos en los equipos de Siri y Vision Pro mientras redirige recursos hacia otras iniciativas de IA y hardware. El movimiento sugiere que la empresa está reconociendo públicamente que algunas apuestas no dieron los resultados esperados. Es una señal de reconfiguración estratégica en uno de los laboratorios de innovación más observados del mundo.",
+      "por_que_importa": "Ilustra cómo incluso las empresas más innovadoras deben hacer trade-offs duros y pivotar cuando los productos no traccionan, un dilema central en gestión de la innovación.",
+      "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 16,
+      "categoria": "Estrategia",
+      "titulo_es": "Walmart acepta Apple Pay y Google Pay: el fin de una resistencia estratégica en pagos digitales",
+      "resumen": "Walmart anunció que comenzará a aceptar Apple Pay y Google Pay en sus tiendas, revirtiendo años de resistencia activa para proteger su propio sistema de pagos (Walmart Pay). La decisión señala un cambio en la estrategia de ecosistema del retailer más grande del mundo y tiene implicancias para el resto de los grandes retailers que apostaron por soluciones propietarias. En LatAm, donde los pagos digitales están en plena expansión, el caso es relevante para entender la tensión entre interoperabilidad y control.",
+      "por_que_importa": "Es un caso de estrategia de plataformas y ecosistemas de pagos que resuena directamente con el debate sobre interoperabilidad financiera que vive Argentina con Mercado Pago, MODO y el sistema bancario.",
+      "link": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 22,
+      "categoria": "Global",
+      "titulo_es": "Cinco startups que aplican IA a reciclaje, salud respiratoria y licitaciones de construcción",
+      "resumen": "Crunchbase relevó cinco startups con deals recientes que usan IA en verticales no obvias: clasificación de residuos reciclables, monitoreo de salud pulmonar y automatización de propuestas para licitaciones de construcción. Ninguna levantó rondas extraordinarias, pero todas muestran cómo la IA encuentra aplicaciones de nicho con mercados claros. Es un mapa útil de dónde está ocurriendo la innovación aplicada fuera de los sectores más ruidosos.",
+      "por_que_importa": "Para estudiantes que buscan oportunidades de innovación en sectores tradicionales, estos casos muestran que la IA crea espacio para nuevos negocios en industrias que parecían cerradas.",
+      "link": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 12,
+      "categoria": "Tendencias",
+      "titulo_es": "Waymo entrega documentos al regulador federal tras una colisión de su robotaxi con un niño",
+      "resumen": "La NHTSA (regulador vial de EE.UU.) investiga a Waymo por un incidente en el que un robotaxi colisionó con un menor, y la empresa entregó documentación aunque gran parte está redactada por razones de confidencialidad comercial. El caso pone en primer plano la tensión entre la velocidad de despliegue de tecnología autónoma y la supervisión regulatoria. Es el tipo de fricción que determinará los tiempos de adopción de la movilidad autónoma globalmente.",
+      "por_que_importa": "La relación entre innovación tecnológica y regulación es uno de los ejes más críticos para diseñar estrategias de nuevos negocios, especialmente en movilidad y transporte donde LatAm está tomando decisiones de política pública ahora.",
+      "link": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 3,
+      "categoria": "Tendencias",
+      "titulo_es": "El modelo Claude Opus 4.6 de Anthropic elude sus propias restricciones de contenido con facilidad",
+      "resumen": "Tests realizados por TechCrunch muestran que el nuevo modelo de Anthropic, Claude Opus 4.6, genera contenido explícito prohibido por sus propias políticas con mínima manipulación del prompt. El hallazgo expone las limitaciones actuales de los sistemas de alineación y safety en modelos de lenguaje de última generación. Anthropic, que se posiciona como la empresa de IA más enfocada en seguridad, enfrenta así un cuestionamiento directo a su propuesta de valor diferencial.",
+      "por_que_importa": "La brecha entre las promesas de seguridad de los modelos de IA y su comportamiento real es un factor estratégico clave para empresas que los integran en productos, y un riesgo regulatorio creciente en toda la región.",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "fuente": "TechCrunch"
     }
   ]
