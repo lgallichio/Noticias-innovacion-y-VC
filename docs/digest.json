@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "La IA que se mejora a sí misma: Anthropic muestra el primer sistema de auto-optimización sin degradar rendimiento",
+  "titular_del_dia": "La IA se auto-mejora y Nvidia redefine la infraestructura: el hardware y los modelos inteligentes marcan la nueva frontera tecnológica",
   "items": [
     {
-      "indice": 2,
+      "indice": 5,
       "categoria": "Tendencias",
-      "titulo_es": "Anthropic presenta un sistema de IA capaz de mejorar su propio comportamiento sin intervención humana",
-      "resumen": "Un investigador de Anthropic publicó resultados de un sistema automatizado que tomó 10 benchmarks sobre comportamientos desalineados y mejoró el rendimiento en todos ellos sin degradar la performance general del modelo. Es el primer indicio público concreto de IA con capacidad de auto-optimización controlada. El hallazgo abre preguntas críticas sobre seguridad, autonomía y el rol humano en el desarrollo de modelos futuros.",
-      "por_que_importa": "Entender cómo la IA puede auto-mejorarse es clave para anticipar cómo cambiarán los procesos de desarrollo de producto y los modelos de negocio basados en IA en los próximos años.",
+      "titulo_es": "Investigadores de Anthropic muestran el primer sistema de IA capaz de mejorarse a sí mismo",
+      "resumen": "Un equipo de Anthropic desarrolló sistemas automatizados que, evaluados sobre 10 benchmarks de comportamientos no alineados, lograron mejorar en todos ellos sin degradar el rendimiento general del modelo. El avance representa un salto cualitativo hacia la IA autónoma que se auto-optimiza. Es uno de los primeros resultados públicos concretos en este campo.",
+      "por_que_importa": "La IA auto-mejorable cambia radicalmente el ciclo de desarrollo de productos de software e IA, con implicancias directas para cualquier empresa o startup que base su ventaja competitiva en modelos de lenguaje.",
       "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 18,
-      "categoria": "Producto",
-      "titulo_es": "YouTube integra el marketplace de Amazon: los creadores ahora pueden ganar comisiones etiquetando productos en sus videos",
-      "resumen": "YouTube lanzó una función que permite a creadores etiquetar productos de Amazon directamente en sus videos y recibir comisiones por cada compra generada. La actualización convierte las recomendaciones orgánicas en un canal de ventas directo, fusionando entretenimiento y comercio electrónico en una sola plataforma. Para Amazon, representa un canal de distribución dentro de uno de los mayores repositorios de video del mundo.",
-      "por_que_importa": "Este movimiento ilustra cómo las plataformas de contenido están redefiniendo su modelo de negocio hacia el social commerce, una tendencia con enorme potencial en LatAm donde el consumo de video es altísimo.",
-      "link": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+      "indice": 1,
+      "categoria": "Tendencias",
+      "titulo_es": "La ventaja de Nvidia en IA ya no depende solo de sus GPUs: así está redefiniendo la infraestructura de datos",
+      "resumen": "La nueva generación de sistemas de centros de datos de Nvidia incorpora control inteligente del tráfico de información, aumentando la eficiencia sin necesidad de más procesadores. Este enfoque sistémico —más allá del chip individual— consolida el dominio de Nvidia en la infraestructura de IA. El artículo analiza cómo esto redefine la competencia en el sector.",
+      "por_que_importa": "Entender cómo una empresa extiende su ventaja competitiva más allá de su producto original es un caso de estrategia de plataforma aplicable a cualquier negocio tecnológico.",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 4,
+      "indice": 2,
+      "categoria": "Estrategia",
+      "titulo_es": "Los fabricantes de autos chinos siguen la apuesta de Tesla y se lanzan al negocio de los robots humanoides",
+      "resumen": "Empresas automotrices chinas como BYD, Chery y GAC están invirtiendo en robots humanoides, replicando la diversificación estratégica de Tesla con Optimus. El avance tecnológico reciente hizo que la promesa de rentabilidad en robótica parezca más cercana. El movimiento representa una reconversión de capacidades de manufactura hacia nuevos mercados.",
+      "por_que_importa": "Es un caso de libro sobre cómo empresas incumbentes de un sector tradicional diversifican hacia nuevos negocios usando activos existentes, una estrategia relevante para estudiar creación de valor corporativo.",
+      "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
       "categoria": "Estrategia",
       "titulo_es": "Las empresas de IA de código abierto se convirtieron en los blancos de adquisición más codiciados de Silicon Valley",
-      "resumen": "Un análisis del ecosistema de IA muestra que las compañías que desarrollan modelos open-weight —cuyo código y pesos son públicos— se han vuelto los activos más buscados para adquisición por parte de grandes corporaciones tecnológicas. La lógica estratégica: controlar el talento y la arquitectura detrás de modelos que ya tienen adopción masiva. El fenómeno refleja un nuevo tipo de competencia donde la distribución gratuita se convierte en ventaja competitiva de largo plazo.",
-      "por_que_importa": "Comprender por qué dar valor gratis puede ser una estrategia ganadora es una lección central de innovación y modelos de negocio digitales, directamente aplicable a startups de la región.",
+      "resumen": "El modelo open-weight —liberar los pesos de los modelos de IA— está atrayendo grandes volúmenes de capital y el interés de las Big Tech como estrategia de adquisición de talento y tecnología. El artículo analiza por qué regalar modelos puede ser un negocio más rentable que venderlos. La tendencia está redefiniendo la competencia en el ecosistema de IA fundacional.",
+      "por_que_importa": "Comprender por qué 'dar gratis' puede ser una estrategia de negocio ganadora es clave para analizar modelos de monetización en plataformas y ecosistemas digitales.",
       "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 9,
-      "categoria": "Tendencias",
-      "titulo_es": "a16z lanza un fondo de 1.100 millones de dólares para financiar la infraestructura física de la IA",
-      "resumen": "Andreessen Horowitz creó el fondo 'Machine Age' con 1.100 millones de dólares destinados a acelerar la construcción de infraestructura de hardware para inteligencia artificial: chips, centros de datos y redes de energía. El movimiento marca un giro estratégico de una firma históricamente enfocada en software hacia la capa física que sostiene el boom de la IA. Refleja la creciente convicción de que el cuello de botella de la IA no es el software sino el hardware.",
-      "por_que_importa": "Entender dónde fluye el capital en la cadena de valor de la IA ayuda a identificar oportunidades y restricciones para startups y empresas de la región que dependen de esa infraestructura.",
-      "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 16,
-      "categoria": "Producto",
-      "titulo_es": "Bluesky incorpora una función para desactivar el algoritmo y publicar solo para seguidores",
-      "resumen": "La red social Bluesky lanzó una función de 'opt-out algorítmico' que permite a los usuarios elegir que sus publicaciones no sean amplificadas más allá de sus seguidores, evitando la viralización no deseada. La decisión responde a una demanda creciente de usuarios que buscan control sobre su propia distribución de contenido. Es una apuesta diferenciadora frente a plataformas como X o Instagram, donde el algoritmo maximiza alcance sin opción de desactivarlo.",
-      "por_que_importa": "Esta decisión de producto ilustra cómo el diseño centrado en el usuario y la transparencia algorítmica pueden convertirse en ventajas competitivas para capturar segmentos descontentos con plataformas dominantes.",
-      "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 24,
-      "categoria": "Estrategia",
-      "titulo_es": "El CEO de Craft construyó una empresa de software de supply chain sin saber programar",
-      "resumen": "Ilya Levtov, formado como cellista en Juilliard, cofundó Craft, una empresa de inteligencia de cadena de suministro que levantó capital de riesgo sin tener background técnico. El caso forma parte de una serie de Crunchbase sobre fundadores no técnicos que logran financiamiento en sectores de software. Levtov argumenta que su ventaja fue entender profundamente el problema del cliente antes que la solución tecnológica.",
-      "por_que_importa": "Un caso concreto que desafía el mito de que solo los perfiles técnicos pueden fundar startups exitosas, relevante para estudiantes de negocios que evalúan emprender.",
-      "link": "https://news.crunchbase.com/venture/supply-chain-nontech-founder-ilya-levtov-craft/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 12,
-      "categoria": "Producto",
-      "titulo_es": "Startup belga lanza una moto eléctrica modular con 120 litros de espacio de carga para uso urbano y laboral",
-      "resumen": "La startup belga Any presentó la LUV1, una motocicleta eléctrica de diseño modular que incorpora 120 litros de espacio de carga configurable para distintos usos: bolsas, equipamiento de trabajo o mascotas. El producto apunta al segmento de movilidad urbana y logística de última milla, mercados en fuerte crecimiento en ciudades europeas y latinoamericanas. La modularidad es el diferencial de diseño que permite adaptar el vehículo a múltiples casos de uso.",
-      "por_que_importa": "La innovación en movilidad urbana y logística de última milla es una de las áreas con mayor potencial de disrupción en las ciudades latinoamericanas, donde el delivery y la electromovilidad están en expansión.",
-      "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
-      "categoria": "Estrategia",
-      "titulo_es": "Atorie ofrece productos de lujo fabricados en las mismas fábricas que las marcas premium, pero sin el sobreprecio de la marca",
-      "resumen": "La startup Atorie permite a consumidores comprar carteras y ropa fabricadas con los mismos materiales y en las mismas fábricas que las grandes marcas de lujo, eliminando el margen asociado al branding. El modelo cuestiona directamente el valor percibido de las marcas de lujo y apuesta a que un segmento de consumidores prioriza la calidad material sobre el logo. La empresa recaudó 9,5 millones de dólares para escalar su propuesta.",
-      "por_que_importa": "El modelo de negocio de Atorie es un caso de manual sobre cómo atacar mercados establecidos desagregando los componentes del valor que paga el consumidor, una lógica aplicable a múltiples industrias en la región.",
-      "link": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
-      "fuente": "TechCrunch Venture"
-    },
-    {
-      "indice": 5,
-      "categoria": "Ecosistema AR | LatAm",
-      "titulo_es": "Cómo Suecia construyó uno de los ecosistemas de startups más dinámicos de Europa: lecciones para otras regiones",
-      "resumen": "Un análisis del ecosistema sueco de startups —que produjo empresas como Spotify, Klarna y King— identifica los factores que lo impulsaron: políticas públicas de digitalización temprana, cultura de tolerancia al fracaso, y un sistema educativo orientado a la colaboración. Sophia Bendz, general partner de Cherry Ventures, señala que la densidad de talento y las redes de mentores son tan importantes como el capital disponible. El caso es referencia frecuente en debates sobre cómo construir ecosistemas de innovación en economías medianas.",
-      "por_que_importa": "Analizar ecosistemas exitosos como el sueco permite identificar qué palancas —políticas, culturales, educativas— podrían replicarse para fortalecer el ecosistema de innovación argentino y latinoamericano.",
+      "indice": 8,
+      "categoria": "Global",
+      "titulo_es": "Cómo Suecia construyó uno de los ecosistemas de startups más dinámicos de Europa",
+      "resumen": "Sophia Bendz, socia de Cherry Ventures, analiza los factores que convirtieron a Suecia en una potencia de startups europea: política pública, cultura de riesgo, educación técnica y redes de mentores. El episodio del podcast Equity desglosa métricas y casos concretos del ecosistema sueco. Es una hoja de ruta comparable a lo que Argentina y LatAm buscan desarrollar.",
+      "por_que_importa": "Los casos de construcción de ecosistemas exitosos en mercados no anglosajones ofrecen lecciones directamente aplicables para quienes piensan en política de innovación o emprendimiento en LatAm.",
       "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
       "fuente": "TechCrunch"
     },
     {
+      "indice": 15,
+      "categoria": "Producto",
+      "titulo_es": "Una startup belga lanza una moto eléctrica modular con 120 litros de carga para redefinir la movilidad urbana de trabajo",
+      "resumen": "Any, una startup belga, presentó la LUV1, una motocicleta eléctrica con espacio de carga modular de 120 litros diseñada para uso laboral —desde equipamiento técnico hasta mascotas. El modelo apunta a un segmento desatendido entre las motos de reparto y los autos utilitarios. La propuesta de valor se basa en modularidad y adaptabilidad según el caso de uso.",
+      "por_que_importa": "La LUV1 es un ejemplo concreto de innovación de producto por segmentación: identificar un nicho mal servido entre dos categorías existentes, algo aplicable a cualquier proceso de diseño de nuevos negocios.",
+      "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+      "fuente": "TechCrunch"
+    },
+    {
       "indice": 17,
-      "categoria": "Tendencias",
-      "titulo_es": "El acuerdo de Meta con 29 estados de EE.UU. incluye una cláusula que le permite retener datos de menores para entrenar IA",
-      "resumen": "Enterrada en el acuerdo de 18.000 millones de dólares que Meta firmó con 29 estados norteamericanos, hay una cláusula que permite a la empresa retener ciertos datos de niños menores de 13 años para entrenar y testear modelos de detección de edad. El hallazgo expone la tensión entre regulación de privacidad infantil y las necesidades de datos de los sistemas de IA. Expertos en privacidad señalan que el acuerdo crea un precedente problemático sobre qué datos pueden usarse con fines de entrenamiento.",
-      "por_que_importa": "La intersección entre regulación, privacidad de datos y entrenamiento de IA es un tema central para cualquier empresa que desarrolle productos digitales, con implicancias directas para startups que operan en mercados con usuarios menores de edad.",
-      "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+      "categoria": "Global",
+      "titulo_es": "El financiamiento global a startups de tecnología espacial alcanza un récord histórico de USD 20.300 millones en 2026",
+      "resumen": "Según datos de Crunchbase, el financiamiento acumulado en el año a startups del sector espacial y satelital ya superó los USD 20.300 millones, el máximo histórico registrado. El crecimiento está impulsado por aplicaciones comerciales como conectividad, observación terrestre y defensa. El sector combina innovación de producto con nuevos modelos de negocio B2B y B2G.",
+      "por_que_importa": "El auge del espacio comercial abre oportunidades concretas para startups de LatAm en conectividad rural y observación satelital, sectores donde la región tiene demanda real sin cubrir.",
+      "link": "https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 13,
+      "categoria": "Global",
+      "titulo_es": "Anthropic gana en los tribunales: un juez federal frena la clasificación del gobierno como 'riesgo de cadena de suministro'",
+      "resumen": "Un juez federal estadounidense dictaminó que la administración Trump etiquetó ilegalmente a Anthropic como riesgo de cadena de suministro para el Pentágono. La decisión es la primera victoria judicial de la empresa y puede afectar el acceso de múltiples compañías de IA a contratos gubernamentales. El caso sigue activo con una segunda demanda en curso.",
+      "por_que_importa": "La regulación y el riesgo político son variables estratégicas críticas para cualquier empresa de IA; este caso muestra cómo el entorno institucional puede condicionar modelos de negocio enteros.",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
+      "categoria": "Estrategia",
+      "titulo_es": "Apple TV+ vuelve a subir sus precios: ahora cuesta USD 14,99 por mes",
+      "resumen": "Apple aumentó el precio de su servicio de streaming de USD 12,99 a USD 14,99 mensuales, el segundo incremento en dos años. La medida se da en un contexto de consolidación del mercado de streaming donde la mayoría de los actores buscan rentabilidad sobre crecimiento de usuarios. Apple TV+ sigue siendo el servicio con menor catálogo entre los grandes.",
+      "por_que_importa": "El movimiento de Apple ilustra el viraje estratégico de la industria del streaming: de escalar a cualquier costo hacia modelos sostenibles, un debate central en negocios digitales por suscripción.",
+      "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Producto",
+      "titulo_es": "El navegador Brave incorpora alias de email para proteger la privacidad al registrarse en sitios web",
+      "resumen": "Brave anunció soporte nativo para alias de correo electrónico, permitiendo a sus usuarios registrarse en servicios sin exponer su dirección real. La función ya existe en productos como Apple Hide My Email o SimpleLogin, pero Brave la integra directamente en el navegador sin costo adicional. Es parte de una estrategia de diferenciación centrada en privacidad frente a Chrome.",
+      "por_que_importa": "El caso Brave es un ejemplo de cómo una empresa puede diferenciarse en un mercado maduro y dominado por un gigante (Google) apostando a un atributo de valor específico: la privacidad como producto.",
+      "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
       "fuente": "TechCrunch"
     }
   ]
