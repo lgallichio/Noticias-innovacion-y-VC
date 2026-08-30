@@ -1,94 +1,40 @@
 {
-  "titular_del_dia": "La IA se auto-mejora y Nvidia redefine la infraestructura: el hardware y los modelos inteligentes marcan la nueva frontera tecnológica",
+  "titular_del_dia": "La IA en el centro del debate: entre el control corporativo, los derechos de autor y la ventaja infraestructural de Nvidia",
   "items": [
     {
       "indice": 5,
       "categoria": "Tendencias",
-      "titulo_es": "Investigadores de Anthropic muestran el primer sistema de IA capaz de mejorarse a sí mismo",
-      "resumen": "Un equipo de Anthropic desarrolló sistemas automatizados que, evaluados sobre 10 benchmarks de comportamientos no alineados, lograron mejorar en todos ellos sin degradar el rendimiento general del modelo. El avance representa un salto cualitativo hacia la IA autónoma que se auto-optimiza. Es uno de los primeros resultados públicos concretos en este campo.",
-      "por_que_importa": "La IA auto-mejorable cambia radicalmente el ciclo de desarrollo de productos de software e IA, con implicancias directas para cualquier empresa o startup que base su ventaja competitiva en modelos de lenguaje.",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Tendencias",
-      "titulo_es": "La ventaja de Nvidia en IA ya no depende solo de sus GPUs: así está redefiniendo la infraestructura de datos",
-      "resumen": "La nueva generación de sistemas de centros de datos de Nvidia incorpora control inteligente del tráfico de información, aumentando la eficiencia sin necesidad de más procesadores. Este enfoque sistémico —más allá del chip individual— consolida el dominio de Nvidia en la infraestructura de IA. El artículo analiza cómo esto redefine la competencia en el sector.",
-      "por_que_importa": "Entender cómo una empresa extiende su ventaja competitiva más allá de su producto original es un caso de estrategia de plataforma aplicable a cualquier negocio tecnológico.",
+      "titulo_es": "Nvidia expande su ventaja competitiva en IA más allá de las GPUs hacia la infraestructura de centros de datos",
+      "resumen": "Nvidia está redefiniendo su propuesta de valor en el mercado de IA al optimizar la eficiencia de los sistemas de data center mediante gestión inteligente del tráfico de datos, en lugar de simplemente aumentar la potencia de procesamiento. Esta estrategia de integración vertical en la infraestructura de IA refuerza su posición dominante en la cadena de valor tecnológica. El movimiento señala un nuevo frente competitivo donde la arquitectura de sistemas completos importa tanto como el hardware individual.",
+      "por_que_importa": "Entender cómo Nvidia construye ventajas competitivas sistémicas —no solo de producto— es un caso de manual sobre estrategia de plataformas e innovación en modelos de negocio de infraestructura tecnológica.",
       "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 2,
-      "categoria": "Estrategia",
-      "titulo_es": "Los fabricantes de autos chinos siguen la apuesta de Tesla y se lanzan al negocio de los robots humanoides",
-      "resumen": "Empresas automotrices chinas como BYD, Chery y GAC están invirtiendo en robots humanoides, replicando la diversificación estratégica de Tesla con Optimus. El avance tecnológico reciente hizo que la promesa de rentabilidad en robótica parezca más cercana. El movimiento representa una reconversión de capacidades de manufactura hacia nuevos mercados.",
-      "por_que_importa": "Es un caso de libro sobre cómo empresas incumbentes de un sector tradicional diversifican hacia nuevos negocios usando activos existentes, una estrategia relevante para estudiar creación de valor corporativo.",
-      "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "Sony Music y Warner demandan a Anthropic por uso no autorizado de contenido protegido para entrenar modelos de IA",
+      "resumen": "Las principales discográficas del mundo presentaron una demanda de amplio alcance contra Anthropic, empresa desarrolladora del modelo de IA Claude, acusándola de utilizar masivamente material con derechos de autor sin autorización ni compensación. El caso es uno de los más amplios en su tipo y pone el foco en la reproducción literal de letras protegidas por parte del modelo. La resolución de este litigio podría establecer precedentes clave sobre el uso de datos para entrenamiento de IA a nivel global.",
+      "por_que_importa": "El debate sobre propiedad intelectual y datos de entrenamiento es central para cualquier empresa que construya sobre IA; entender sus implicancias legales y estratégicas es esencial para quienes diseñan negocios en este ecosistema.",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 7,
-      "categoria": "Estrategia",
-      "titulo_es": "Las empresas de IA de código abierto se convirtieron en los blancos de adquisición más codiciados de Silicon Valley",
-      "resumen": "El modelo open-weight —liberar los pesos de los modelos de IA— está atrayendo grandes volúmenes de capital y el interés de las Big Tech como estrategia de adquisición de talento y tecnología. El artículo analiza por qué regalar modelos puede ser un negocio más rentable que venderlos. La tendencia está redefiniendo la competencia en el ecosistema de IA fundacional.",
-      "por_que_importa": "Comprender por qué 'dar gratis' puede ser una estrategia de negocio ganadora es clave para analizar modelos de monetización en plataformas y ecosistemas digitales.",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 8,
+      "indice": 1,
       "categoria": "Global",
-      "titulo_es": "Cómo Suecia construyó uno de los ecosistemas de startups más dinámicos de Europa",
-      "resumen": "Sophia Bendz, socia de Cherry Ventures, analiza los factores que convirtieron a Suecia en una potencia de startups europea: política pública, cultura de riesgo, educación técnica y redes de mentores. El episodio del podcast Equity desglosa métricas y casos concretos del ecosistema sueco. Es una hoja de ruta comparable a lo que Argentina y LatAm buscan desarrollar.",
-      "por_que_importa": "Los casos de construcción de ecosistemas exitosos en mercados no anglosajones ofrecen lecciones directamente aplicables para quienes piensan en política de innovación o emprendimiento en LatAm.",
-      "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+      "titulo_es": "En Europa, el debate sobre IA converge en una pregunta clave: ¿quién tiene el control real?",
+      "resumen": "En la conferencia TechBBQ en los países nórdicos, inversores, fundadores y operadores europeos debatieron cómo garantizar que los humanos mantengan agencia efectiva frente a sistemas de IA cada vez más autónomos. El evento reflejó una preocupación creciente en el ecosistema europeo por la gobernanza y el diseño responsable de la IA, más allá del cumplimiento regulatorio. Las conversaciones apuntaron a cómo las organizaciones pueden estructurarse internamente para no perder capacidad de decisión ante la automatización.",
+      "por_que_importa": "La pregunta sobre gobernanza y control de la IA no es solo filosófica: define cómo se diseñan productos, equipos y estrategias en empresas que adoptan estas tecnologías, algo directamente aplicable al contexto de LatAm.",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 15,
+      "indice": 3,
       "categoria": "Producto",
-      "titulo_es": "Una startup belga lanza una moto eléctrica modular con 120 litros de carga para redefinir la movilidad urbana de trabajo",
-      "resumen": "Any, una startup belga, presentó la LUV1, una motocicleta eléctrica con espacio de carga modular de 120 litros diseñada para uso laboral —desde equipamiento técnico hasta mascotas. El modelo apunta a un segmento desatendido entre las motos de reparto y los autos utilitarios. La propuesta de valor se basa en modularidad y adaptabilidad según el caso de uso.",
-      "por_que_importa": "La LUV1 es un ejemplo concreto de innovación de producto por segmentación: identificar un nicho mal servido entre dos categorías existentes, algo aplicable a cualquier proceso de diseño de nuevos negocios.",
-      "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 17,
-      "categoria": "Global",
-      "titulo_es": "El financiamiento global a startups de tecnología espacial alcanza un récord histórico de USD 20.300 millones en 2026",
-      "resumen": "Según datos de Crunchbase, el financiamiento acumulado en el año a startups del sector espacial y satelital ya superó los USD 20.300 millones, el máximo histórico registrado. El crecimiento está impulsado por aplicaciones comerciales como conectividad, observación terrestre y defensa. El sector combina innovación de producto con nuevos modelos de negocio B2B y B2G.",
-      "por_que_importa": "El auge del espacio comercial abre oportunidades concretas para startups de LatAm en conectividad rural y observación satelital, sectores donde la región tiene demanda real sin cubrir.",
-      "link": "https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 13,
-      "categoria": "Global",
-      "titulo_es": "Anthropic gana en los tribunales: un juez federal frena la clasificación del gobierno como 'riesgo de cadena de suministro'",
-      "resumen": "Un juez federal estadounidense dictaminó que la administración Trump etiquetó ilegalmente a Anthropic como riesgo de cadena de suministro para el Pentágono. La decisión es la primera victoria judicial de la empresa y puede afectar el acceso de múltiples compañías de IA a contratos gubernamentales. El caso sigue activo con una segunda demanda en curso.",
-      "por_que_importa": "La regulación y el riesgo político son variables estratégicas críticas para cualquier empresa de IA; este caso muestra cómo el entorno institucional puede condicionar modelos de negocio enteros.",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 11,
-      "categoria": "Estrategia",
-      "titulo_es": "Apple TV+ vuelve a subir sus precios: ahora cuesta USD 14,99 por mes",
-      "resumen": "Apple aumentó el precio de su servicio de streaming de USD 12,99 a USD 14,99 mensuales, el segundo incremento en dos años. La medida se da en un contexto de consolidación del mercado de streaming donde la mayoría de los actores buscan rentabilidad sobre crecimiento de usuarios. Apple TV+ sigue siendo el servicio con menor catálogo entre los grandes.",
-      "por_que_importa": "El movimiento de Apple ilustra el viraje estratégico de la industria del streaming: de escalar a cualquier costo hacia modelos sostenibles, un debate central en negocios digitales por suscripción.",
-      "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Producto",
-      "titulo_es": "El navegador Brave incorpora alias de email para proteger la privacidad al registrarse en sitios web",
-      "resumen": "Brave anunció soporte nativo para alias de correo electrónico, permitiendo a sus usuarios registrarse en servicios sin exponer su dirección real. La función ya existe en productos como Apple Hide My Email o SimpleLogin, pero Brave la integra directamente en el navegador sin costo adicional. Es parte de una estrategia de diferenciación centrada en privacidad frente a Chrome.",
-      "por_que_importa": "El caso Brave es un ejemplo de cómo una empresa puede diferenciarse en un mercado maduro y dominado por un gigante (Google) apostando a un atributo de valor específico: la privacidad como producto.",
-      "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "titulo_es": "Las microdramas atrapan a figuras de Hollywood: un nuevo modelo de negocio para contenido en formato ultra-corto",
+      "resumen": "Celebridades de Hollywood están apostando por aplicaciones de microdramas —series de episodios de menos de dos minutos optimizadas para móvil— como nuevo formato de distribución y monetización de contenido. El modelo, que ya domina mercados asiáticos, está ganando tracción en Occidente como alternativa a los contratos millonarios del cine y las plataformas tradicionales. Representa una innovación en el modelo de negocio del entretenimiento, con nuevas dinámicas de producción, distribución directa y monetización por consumo fragmentado.",
+      "por_que_importa": "Los microdramas ilustran cómo cambian los modelos de negocio en industrias establecidas cuando emergen nuevos comportamientos de consumo, un patrón de innovación disruptiva relevante para analizar en cualquier sector.",
+      "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
       "fuente": "TechCrunch"
     }
   ]
