@@ -1,40 +1,94 @@
 {
-  "titular_del_dia": "La IA en el centro del debate: entre el control corporativo, los derechos de autor y la ventaja infraestructural de Nvidia",
+  "titular_del_dia": "La IA redefine la infraestructura tecnológica global: de chips a robots, las grandes apuestas estratégicas que marcan el rumbo",
   "items": [
     {
       "indice": 5,
-      "categoria": "Tendencias",
-      "titulo_es": "Nvidia expande su ventaja competitiva en IA más allá de las GPUs hacia la infraestructura de centros de datos",
-      "resumen": "Nvidia está redefiniendo su propuesta de valor en el mercado de IA al optimizar la eficiencia de los sistemas de data center mediante gestión inteligente del tráfico de datos, en lugar de simplemente aumentar la potencia de procesamiento. Esta estrategia de integración vertical en la infraestructura de IA refuerza su posición dominante en la cadena de valor tecnológica. El movimiento señala un nuevo frente competitivo donde la arquitectura de sistemas completos importa tanto como el hardware individual.",
-      "por_que_importa": "Entender cómo Nvidia construye ventajas competitivas sistémicas —no solo de producto— es un caso de manual sobre estrategia de plataformas e innovación en modelos de negocio de infraestructura tecnológica.",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "categoria": "Global",
+      "titulo_es": "La inversión de Nvidia en MediaTek por USD 3.500 M revela su estrategia para mantenerse central en la era de los chips propios de Big Tech",
+      "resumen": "Nvidia anunció una inversión de USD 3.500 millones en el fabricante taiwanés MediaTek, apuesta que busca asegurar su relevancia en la cadena de infraestructura de IA mientras gigantes como Google, Amazon y Microsoft desarrollan sus propios chips. El movimiento muestra cómo Nvidia está pivotando de ser solo proveedor de GPUs a construir alianzas estratégicas en hardware. Es un caso de libro sobre cómo una empresa líder anticipa la erosión de su ventaja competitiva y reacciona con inversión en el ecosistema.",
+      "por_que_importa": "Entender cómo Nvidia gestiona su posición dominante ante la amenaza de integración vertical de sus clientes es un ejemplo clásico de estrategia de innovación defensiva con implicancias directas para cualquier negocio tecnológico.",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 0,
+      "indice": 13,
+      "categoria": "Estrategia",
+      "titulo_es": "Caterpillar aplica décadas de automatización minera para acelerar su despliegue de IA en operaciones industriales",
+      "resumen": "Caterpillar, con más de 30 años automatizando maquinaria pesada en minas remotas, está transfiriendo ese conocimiento acumulado hacia su estrategia de implementación de inteligencia artificial en sus operaciones. La compañía argumenta que los aprendizajes de operar máquinas autónomas en entornos hostiles y sin conectividad confiable son directamente aplicables a los desafíos de escalar IA en contextos industriales reales. Es un caso concreto de innovación corporativa que parte de activos y capacidades existentes.",
+      "por_que_importa": "Ilustra cómo la innovación corporativa exitosa frecuentemente no parte de cero, sino de reutilizar capacidades organizacionales preexistentes, un concepto clave en estrategia de innovación y transformación digital.",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
       "categoria": "Tendencias",
-      "titulo_es": "Sony Music y Warner demandan a Anthropic por uso no autorizado de contenido protegido para entrenar modelos de IA",
-      "resumen": "Las principales discográficas del mundo presentaron una demanda de amplio alcance contra Anthropic, empresa desarrolladora del modelo de IA Claude, acusándola de utilizar masivamente material con derechos de autor sin autorización ni compensación. El caso es uno de los más amplios en su tipo y pone el foco en la reproducción literal de letras protegidas por parte del modelo. La resolución de este litigio podría establecer precedentes clave sobre el uso de datos para entrenamiento de IA a nivel global.",
-      "por_que_importa": "El debate sobre propiedad intelectual y datos de entrenamiento es central para cualquier empresa que construya sobre IA; entender sus implicancias legales y estratégicas es esencial para quienes diseñan negocios en este ecosistema.",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "titulo_es": "EE.UU. cierra el mercado a drones y robots extranjeros, pero China apuesta a la escala global para sortear las barreras",
+      "resumen": "El gobierno de EE.UU. está imponiendo restricciones crecientes a drones y robots de fabricación extranjera, apuntando principalmente a empresas chinas. Sin embargo, analistas advierten que la escala productiva de China le permite redirigir su oferta hacia mercados de América Latina, África y Sudeste Asiático, donde las barreras arancelarias estadounidenses no aplican. Para LatAm, esto significa una mayor disponibilidad de hardware robótico chino a precios competitivos en los próximos años.",
+      "por_que_importa": "Las tensiones geopolíticas en tecnología crean oportunidades y riesgos concretos para la región: LatAm puede convertirse en terreno de expansión de ecosistemas tecnológicos alternativos, lo que afecta decisiones de negocio y política pública de innovación.",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 9,
+      "categoria": "Producto",
+      "titulo_es": "Grindr apuesta a convertirse en un 'super app' para hombres gay: IA, salud y un tier premium de USD 350 como ejes del modelo",
+      "resumen": "El CEO de Grindr, George Arison, explicó la estrategia para transformar la app de citas en una plataforma integral que incluye servicios de salud, comunidad y funciones potenciadas por IA, con un tier EDGE de más de USD 350 anuales como apuesta de monetización premium. La compañía busca combatir el 'Grindr discount' que aplica el mercado de capitales a su valuación frente a otras plataformas de consumo. El caso muestra el desafío de expandir la propuesta de valor de un producto de nicho hacia una plataforma de mayor alcance.",
+      "por_que_importa": "Es un caso vigente de estrategia de plataforma y expansión de modelo de negocio: cómo una app con un propósito específico intenta crecer hacia el espacio de los 'super apps', una discusión muy relevante en el ecosistema de producto y negocios digitales.",
+      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 12,
+      "categoria": "Tendencias",
+      "titulo_es": "Los robotaxis tienen un costo humano oculto: el análisis que cuestiona la narrativa del transporte autónomo",
+      "resumen": "Un informe de TechCrunch Mobility examina las consecuencias laborales y sociales del despliegue masivo de robotaxis, más allá de los titulares sobre autonomía tecnológica. El análisis detalla cómo el modelo de negocio del transporte autónomo desplaza empleos de conductores mientras transfiere nuevos costos operativos hacia trabajadores remotos de monitoreo, muchos de ellos en países de bajo costo. Para LatAm, esta dinámica tiene implicancias directas en el futuro del empleo en movilidad.",
+      "por_que_importa": "El futuro del trabajo en contextos de automatización es uno de los temas más urgentes para quienes diseñan negocios o políticas de innovación en la región, y este caso aporta datos concretos sobre cómo se distribuyen realmente los costos y beneficios.",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "La IA está cambiando el mercado de herramientas de hackeo gubernamentales y puede relanzar el debate sobre backdoors en dispositivos",
+      "resumen": "Investigadores y analistas de seguridad advierten que la IA está acelerando la detección y explotación de vulnerabilidades de software, lo que reduce la vida útil de los exploits que utilizan gobiernos para espionaje y vigilancia. Esto podría encarecer y limitar el uso de spyware como Pegasus, pero también generar presión política renovada para que los estados exijan puertas traseras en dispositivos y plataformas. El artículo cruza innovación tecnológica con regulación y geopolítica digital.",
+      "por_que_importa": "La intersección entre capacidades de IA, seguridad digital y regulación estatal define cada vez más el entorno en el que operan las empresas tecnológicas, un marco que todo innovador necesita comprender para anticipar riesgos y oportunidades.",
+      "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
-      "categoria": "Global",
-      "titulo_es": "En Europa, el debate sobre IA converge en una pregunta clave: ¿quién tiene el control real?",
-      "resumen": "En la conferencia TechBBQ en los países nórdicos, inversores, fundadores y operadores europeos debatieron cómo garantizar que los humanos mantengan agencia efectiva frente a sistemas de IA cada vez más autónomos. El evento reflejó una preocupación creciente en el ecosistema europeo por la gobernanza y el diseño responsable de la IA, más allá del cumplimiento regulatorio. Las conversaciones apuntaron a cómo las organizaciones pueden estructurarse internamente para no perder capacidad de decisión ante la automatización.",
-      "por_que_importa": "La pregunta sobre gobernanza y control de la IA no es solo filosófica: define cómo se diseñan productos, equipos y estrategias en empresas que adoptan estas tecnologías, algo directamente aplicable al contexto de LatAm.",
-      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "categoria": "Estrategia",
+      "titulo_es": "Tim Cook se despide de Apple y posiciona a John Ternus como sucesor centrado en el producto",
+      "resumen": "En su memo de despedida como CEO de Apple, Tim Cook presentó a John Ternus como un líder con perfil de 'product builder', con experiencia directa en iPhone, Mac y AirPods. El mensaje buscó marcar una continuidad cultural en la empresa, destacando la construcción de producto como valor central frente a perfiles más financieros o de ventas. La transición de liderazgo en la compañía más valiosa del mundo es un caso de estudio en gestión del cambio y sucesión estratégica.",
+      "por_que_importa": "Analizar cómo Apple gestiona su transición de liderazgo y qué perfil elige para conducir su etapa siguiente revela mucho sobre cómo las empresas más innovadoras piensan la relación entre cultura, producto y estrategia.",
+      "link": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 3,
       "categoria": "Producto",
-      "titulo_es": "Las microdramas atrapan a figuras de Hollywood: un nuevo modelo de negocio para contenido en formato ultra-corto",
-      "resumen": "Celebridades de Hollywood están apostando por aplicaciones de microdramas —series de episodios de menos de dos minutos optimizadas para móvil— como nuevo formato de distribución y monetización de contenido. El modelo, que ya domina mercados asiáticos, está ganando tracción en Occidente como alternativa a los contratos millonarios del cine y las plataformas tradicionales. Representa una innovación en el modelo de negocio del entretenimiento, con nuevas dinámicas de producción, distribución directa y monetización por consumo fragmentado.",
-      "por_que_importa": "Los microdramas ilustran cómo cambian los modelos de negocio en industrias establecidas cuando emergen nuevos comportamientos de consumo, un patrón de innovación disruptiva relevante para analizar en cualquier sector.",
-      "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "titulo_es": "Clipto: la startup de búsqueda de video con IA alcanzó USD 15 M de ARR y rentabilidad en tres años",
+      "resumen": "Clipto, una startup de tres años que aplica IA para buscar y analizar contenido dentro de terabytes de video, alcanzó USD 15 millones de ingresos anuales recurrentes y rentabilidad antes de levantar su última ronda de USD 15 millones, que la valúa en USD 250 millones. El modelo apunta a clientes corporativos que gestionan grandes archivos de video —medios, legales, entretenimiento— y necesitan búsqueda semántica avanzada. Es un ejemplo de startup B2B que prioriza fundamentos de negocio sobre crecimiento acelerado.",
+      "por_que_importa": "El camino de Clipto —rentabilidad antes de levantar capital significativo— ilustra una filosofía de construcción de negocio que contrasta con el modelo de 'crecer primero, monetizar después', una discusión central en cualquier curso de nuevos negocios.",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Producto",
+      "titulo_es": "Circleback, el asistente de reuniones con IA, lanza un tier gratuito para ampliar su base de usuarios",
+      "resumen": "Circleback, herramienta de toma de notas automática en reuniones basada en IA, incorporó un nivel gratuito a su oferta y rediseñó sus planes pagos desde USD 14 por mes. La decisión es parte de una estrategia de adquisición de usuarios por la vía freemium en un mercado que incluye competidores como Otter.ai, Fireflies y Notion AI. El movimiento refleja la presión competitiva creciente en el segmento de productividad con IA.",
+      "por_que_importa": "El diseño de modelos freemium y la elección del momento adecuado para lanzarlos es una decisión de producto y go-to-market que enfrenta cualquier startup de SaaS, y este caso ofrece un ejemplo concreto y reciente.",
+      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Estrategia",
+      "titulo_es": "MapQuest sube al primer puesto de navegación en EE.UU. tras negarse a renombrar el Lago Ontario por orden presidencial",
+      "resumen": "MapQuest, aplicación de navegación considerada obsoleta frente a Google Maps y Waze, escaló al primer lugar en descargas en EE.UU. tras anunciar públicamente que no acataría la orden del gobierno de Trump de renombrar el Lago Ontario en sus mapas. La decisión generó un fenómeno viral que convirtió una toma de postura institucional en una campaña de marketing orgánica masiva. El caso ilustra cómo los valores de marca pueden convertirse en ventaja competitiva inesperada.",
+      "por_que_importa": "Es un ejemplo contemporáneo de cómo una decisión ética o política de una empresa puede transformarse en diferenciación estratégica y reactivar productos que parecían fuera del mercado, algo relevante para pensar en posicionamiento y cultura organizacional.",
+      "link": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
       "fuente": "TechCrunch"
     }
   ]
