@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "La IA redefine la infraestructura tecnológica global: de chips a robots, las grandes apuestas estratégicas que marcan el rumbo",
+  "titular_del_dia": "IA en el centro: desde herramientas militares hasta regulación de perfiles falsos, el debate sobre el uso real de la IA escala globalmente",
   "items": [
     {
-      "indice": 5,
+      "indice": 11,
       "categoria": "Global",
-      "titulo_es": "La inversión de Nvidia en MediaTek por USD 3.500 M revela su estrategia para mantenerse central en la era de los chips propios de Big Tech",
-      "resumen": "Nvidia anunció una inversión de USD 3.500 millones en el fabricante taiwanés MediaTek, apuesta que busca asegurar su relevancia en la cadena de infraestructura de IA mientras gigantes como Google, Amazon y Microsoft desarrollan sus propios chips. El movimiento muestra cómo Nvidia está pivotando de ser solo proveedor de GPUs a construir alianzas estratégicas en hardware. Es un caso de libro sobre cómo una empresa líder anticipa la erosión de su ventaja competitiva y reacciona con inversión en el ecosistema.",
-      "por_que_importa": "Entender cómo Nvidia gestiona su posición dominante ante la amenaza de integración vertical de sus clientes es un ejemplo clásico de estrategia de innovación defensiva con implicancias directas para cualquier negocio tecnológico.",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "titulo_es": "El Pentágono integra versiones propias de ChatGPT y Grok a su portal central de herramientas de IA",
+      "resumen": "El Departamento de Defensa de EE.UU. sumó versiones de ChatGPT (OpenAI) y Grok (xAI de SpaceX) a su plataforma interna de IA, donde ya operaba Gemini de Google. La iniciativa consolida un portal único para que el personal militar acceda a múltiples modelos de lenguaje en entornos seguros. Es uno de los despliegues institucionales de IA más grandes del mundo en términos de escala organizacional.",
+      "por_que_importa": "Ilustra cómo las grandes organizaciones resuelven la adopción de IA a escala: no eligiendo un solo proveedor, sino construyendo una capa de acceso unificado, un modelo de estrategia de producto que cualquier empresa grande puede replicar.",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 13,
+      "categoria": "Tendencias",
+      "titulo_es": "Instagram limita el alcance de perfiles de IA que no se identifican como tales",
+      "resumen": "Meta anunció restricciones para perfiles generados por IA en Instagram que no declaran explícitamente su naturaleza artificial, reduciendo su distribución orgánica. La medida responde a una creciente presión de usuarios y reguladores ante la proliferación de 'influencers' y cuentas automatizadas no etiquetadas. Es una de las primeras acciones concretas de una plataforma masiva para regular la identidad de agentes de IA en redes sociales.",
+      "por_que_importa": "Define un nuevo campo de juego para estrategias de contenido y marketing digital: las reglas sobre qué puede hacer un agente de IA en plataformas sociales impactarán directamente en cómo las empresas de LatAm diseñen sus estrategias de presencia digital.",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
       "categoria": "Estrategia",
-      "titulo_es": "Caterpillar aplica décadas de automatización minera para acelerar su despliegue de IA en operaciones industriales",
-      "resumen": "Caterpillar, con más de 30 años automatizando maquinaria pesada en minas remotas, está transfiriendo ese conocimiento acumulado hacia su estrategia de implementación de inteligencia artificial en sus operaciones. La compañía argumenta que los aprendizajes de operar máquinas autónomas en entornos hostiles y sin conectividad confiable son directamente aplicables a los desafíos de escalar IA en contextos industriales reales. Es un caso concreto de innovación corporativa que parte de activos y capacidades existentes.",
-      "por_que_importa": "Ilustra cómo la innovación corporativa exitosa frecuentemente no parte de cero, sino de reutilizar capacidades organizacionales preexistentes, un concepto clave en estrategia de innovación y transformación digital.",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "titulo_es": "Waymo expande sus robotaxis a Denver, San Diego y Tampa siguiendo su modelo de escalada gradual",
+      "resumen": "Waymo anunció el lanzamiento de su servicio de robotaxis en tres nuevas ciudades estadounidenses, incorporando usuarios de forma progresiva según su playbook comercial habitual. La expansión sigue una estrategia de rampa lenta: acceso por invitación, operación restringida y aprendizaje iterativo antes de abrir el servicio masivamente. La empresa consolida así su posición como el único operador de vehículos autónomos comerciales a escala en el mundo.",
+      "por_que_importa": "El modelo de expansión de Waymo es un caso de manual sobre cómo escalar un producto de alta complejidad regulatoria y técnica: ideal para analizar estrategias de go-to-market en industrias con fricción institucional, algo muy relevante para mercados como el argentino.",
+      "link": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 8,
-      "categoria": "Tendencias",
-      "titulo_es": "EE.UU. cierra el mercado a drones y robots extranjeros, pero China apuesta a la escala global para sortear las barreras",
-      "resumen": "El gobierno de EE.UU. está imponiendo restricciones crecientes a drones y robots de fabricación extranjera, apuntando principalmente a empresas chinas. Sin embargo, analistas advierten que la escala productiva de China le permite redirigir su oferta hacia mercados de América Latina, África y Sudeste Asiático, donde las barreras arancelarias estadounidenses no aplican. Para LatAm, esto significa una mayor disponibilidad de hardware robótico chino a precios competitivos en los próximos años.",
-      "por_que_importa": "Las tensiones geopolíticas en tecnología crean oportunidades y riesgos concretos para la región: LatAm puede convertirse en terreno de expansión de ecosistemas tecnológicos alternativos, lo que afecta decisiones de negocio y política pública de innovación.",
-      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 9,
-      "categoria": "Producto",
-      "titulo_es": "Grindr apuesta a convertirse en un 'super app' para hombres gay: IA, salud y un tier premium de USD 350 como ejes del modelo",
-      "resumen": "El CEO de Grindr, George Arison, explicó la estrategia para transformar la app de citas en una plataforma integral que incluye servicios de salud, comunidad y funciones potenciadas por IA, con un tier EDGE de más de USD 350 anuales como apuesta de monetización premium. La compañía busca combatir el 'Grindr discount' que aplica el mercado de capitales a su valuación frente a otras plataformas de consumo. El caso muestra el desafío de expandir la propuesta de valor de un producto de nicho hacia una plataforma de mayor alcance.",
-      "por_que_importa": "Es un caso vigente de estrategia de plataforma y expansión de modelo de negocio: cómo una app con un propósito específico intenta crecer hacia el espacio de los 'super apps', una discusión muy relevante en el ecosistema de producto y negocios digitales.",
-      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 12,
-      "categoria": "Tendencias",
-      "titulo_es": "Los robotaxis tienen un costo humano oculto: el análisis que cuestiona la narrativa del transporte autónomo",
-      "resumen": "Un informe de TechCrunch Mobility examina las consecuencias laborales y sociales del despliegue masivo de robotaxis, más allá de los titulares sobre autonomía tecnológica. El análisis detalla cómo el modelo de negocio del transporte autónomo desplaza empleos de conductores mientras transfiere nuevos costos operativos hacia trabajadores remotos de monitoreo, muchos de ellos en países de bajo costo. Para LatAm, esta dinámica tiene implicancias directas en el futuro del empleo en movilidad.",
-      "por_que_importa": "El futuro del trabajo en contextos de automatización es uno de los temas más urgentes para quienes diseñan negocios o políticas de innovación en la región, y este caso aporta datos concretos sobre cómo se distribuyen realmente los costos y beneficios.",
-      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Tendencias",
-      "titulo_es": "La IA está cambiando el mercado de herramientas de hackeo gubernamentales y puede relanzar el debate sobre backdoors en dispositivos",
-      "resumen": "Investigadores y analistas de seguridad advierten que la IA está acelerando la detección y explotación de vulnerabilidades de software, lo que reduce la vida útil de los exploits que utilizan gobiernos para espionaje y vigilancia. Esto podría encarecer y limitar el uso de spyware como Pegasus, pero también generar presión política renovada para que los estados exijan puertas traseras en dispositivos y plataformas. El artículo cruza innovación tecnológica con regulación y geopolítica digital.",
-      "por_que_importa": "La intersección entre capacidades de IA, seguridad digital y regulación estatal define cada vez más el entorno en el que operan las empresas tecnológicas, un marco que todo innovador necesita comprender para anticipar riesgos y oportunidades.",
-      "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
+      "indice": 10,
       "categoria": "Estrategia",
-      "titulo_es": "Tim Cook se despide de Apple y posiciona a John Ternus como sucesor centrado en el producto",
-      "resumen": "En su memo de despedida como CEO de Apple, Tim Cook presentó a John Ternus como un líder con perfil de 'product builder', con experiencia directa en iPhone, Mac y AirPods. El mensaje buscó marcar una continuidad cultural en la empresa, destacando la construcción de producto como valor central frente a perfiles más financieros o de ventas. La transición de liderazgo en la compañía más valiosa del mundo es un caso de estudio en gestión del cambio y sucesión estratégica.",
-      "por_que_importa": "Analizar cómo Apple gestiona su transición de liderazgo y qué perfil elige para conducir su etapa siguiente revela mucho sobre cómo las empresas más innovadoras piensan la relación entre cultura, producto y estrategia.",
-      "link": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+      "titulo_es": "La FTC demanda a Amazon por cobrar cargos publicitarios ocultos a las empresas que usan su plataforma",
+      "resumen": "La Comisión Federal de Comercio de EE.UU., junto a 22 estados, presentó una demanda contra Amazon acusándola de aplicar de forma encubierta sobrecargos en su sistema de publicidad a vendedores terceros. La acusación sostiene que Amazon habría inflado artificialmente los costos de advertising sin informarlo a los anunciantes. Es la última de una serie de acciones antimonopolio contra la compañía en los últimos años.",
+      "por_que_importa": "Pone en el centro el debate sobre el poder de las plataformas como intermediarios comerciales: cualquier empresa que venda o anuncie en marketplaces digitales —tendencia central en LatAm— necesita entender cómo se estructuran y regulan estos modelos de negocio.",
+      "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 3,
-      "categoria": "Producto",
-      "titulo_es": "Clipto: la startup de búsqueda de video con IA alcanzó USD 15 M de ARR y rentabilidad en tres años",
-      "resumen": "Clipto, una startup de tres años que aplica IA para buscar y analizar contenido dentro de terabytes de video, alcanzó USD 15 millones de ingresos anuales recurrentes y rentabilidad antes de levantar su última ronda de USD 15 millones, que la valúa en USD 250 millones. El modelo apunta a clientes corporativos que gestionan grandes archivos de video —medios, legales, entretenimiento— y necesitan búsqueda semántica avanzada. Es un ejemplo de startup B2B que prioriza fundamentos de negocio sobre crecimiento acelerado.",
-      "por_que_importa": "El camino de Clipto —rentabilidad antes de levantar capital significativo— ilustra una filosofía de construcción de negocio que contrasta con el modelo de 'crecer primero, monetizar después', una discusión central en cualquier curso de nuevos negocios.",
-      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "indice": 14,
+      "categoria": "Tendencias",
+      "titulo_es": "La salida de Tim Cook como CEO de Apple desencadena una ola de cambios en la cúpula directiva",
+      "resumen": "Tras la renuncia de Tim Cook como CEO de Apple, Phil Schiller, máximo responsable del App Store y figura clave en la estrategia de plataformas de la compañía, anunció su inminente retiro. La salida de Schiller se enmarca en una renovación generacional más amplia en el liderazgo de Apple. El cambio llega en un momento crítico para la empresa, que enfrenta presiones regulatorias globales sobre su ecosistema de aplicaciones.",
+      "por_que_importa": "Las transiciones de liderazgo en empresas tecnológicas de referencia mundial son oportunidades para analizar cómo se gestiona la continuidad estratégica y cultural en organizaciones de innovación a gran escala.",
+      "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 7,
-      "categoria": "Producto",
-      "titulo_es": "Circleback, el asistente de reuniones con IA, lanza un tier gratuito para ampliar su base de usuarios",
-      "resumen": "Circleback, herramienta de toma de notas automática en reuniones basada en IA, incorporó un nivel gratuito a su oferta y rediseñó sus planes pagos desde USD 14 por mes. La decisión es parte de una estrategia de adquisición de usuarios por la vía freemium en un mercado que incluye competidores como Otter.ai, Fireflies y Notion AI. El movimiento refleja la presión competitiva creciente en el segmento de productividad con IA.",
-      "por_que_importa": "El diseño de modelos freemium y la elección del momento adecuado para lanzarlos es una decisión de producto y go-to-market que enfrenta cualquier startup de SaaS, y este caso ofrece un ejemplo concreto y reciente.",
-      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "indice": 2,
+      "categoria": "Estrategia",
+      "titulo_es": "Unacademy, la edtech india valuada en más de USD 3.000 M, se vende por apenas el 6% de su valor pico",
+      "resumen": "La startup de educación online Unacademy fue adquirida por su rival upGrad por USD 206 millones, un 94% por debajo de su valuación máxima. Su co-fundador reconoció públicamente que la empresa 'recaudó en el pico y vendió en una fracción de eso', sin intentar maquillar la realidad. El caso expone las consecuencias de escalar sobre valuaciones infladas durante el boom de edtech post-pandemia.",
+      "por_que_importa": "Es un caso de estudio sobre los riesgos de crecer traccionado por capital en lugar de por fundamentos de negocio, con lecciones directas para emprendedores y analistas de startups en LatAm que vivieron dinámicas similares.",
+      "link": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
       "fuente": "TechCrunch"
+    },
+    {
+      "indice": 17,
+      "categoria": "Producto",
+      "titulo_es": "Un ex estudiante de Harvard Law crea Blue Voice, un asistente de IA especializado para fuerzas policiales",
+      "resumen": "Blue Voice es una herramienta de IA vertical entrenada en leyes departamentales, ordenanzas locales y protocolos internos de cada fuerza policial, información que los modelos generalistas como ChatGPT no pueden acceder públicamente. El fundador, con 6 millones de dólares recaudados, apunta a replicar el modelo de Harvey AI —el asistente legal para abogados— pero para oficiales de policía. El producto ilustra la tendencia de construir modelos de IA especializados sobre bases de datos propietarias.",
+      "por_que_importa": "Demuestra una estrategia de producto concreta y replicable: tomar un modelo de IA genérico, especializarlo con datos verticales propietarios y dirigirlo a un segmento profesional con necesidades no resueltas, algo aplicable a múltiples sectores en Argentina y LatAm.",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 20,
+      "categoria": "Tendencias",
+      "titulo_es": "El financiamiento en proptech se mantiene, pero los inversores apuestan cada vez más por IA aplicada al real estate",
+      "resumen": "Según Crunchbase, el sector proptech sostiene niveles de inversión estables, pero el capital se está concentrando en startups que aplican IA a construcción, gestión de propiedades y eficiencia operativa del sector inmobiliario. El análisis muestra un giro desde soluciones de marketplace hacia herramientas de automatización y predicción. La tendencia coincide con el crecimiento de startups de construcción industrializada y gestión de activos en LatAm.",
+      "por_que_importa": "Permite entender hacia dónde se está moviendo la innovación en uno de los sectores económicos más grandes de la región, con implicancias directas para quienes piensen en nuevos negocios en real estate o construcción.",
+      "link": "https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/",
+      "fuente": "Crunchbase News"
     },
     {
       "indice": 6,
-      "categoria": "Estrategia",
-      "titulo_es": "MapQuest sube al primer puesto de navegación en EE.UU. tras negarse a renombrar el Lago Ontario por orden presidencial",
-      "resumen": "MapQuest, aplicación de navegación considerada obsoleta frente a Google Maps y Waze, escaló al primer lugar en descargas en EE.UU. tras anunciar públicamente que no acataría la orden del gobierno de Trump de renombrar el Lago Ontario en sus mapas. La decisión generó un fenómeno viral que convirtió una toma de postura institucional en una campaña de marketing orgánica masiva. El caso ilustra cómo los valores de marca pueden convertirse en ventaja competitiva inesperada.",
-      "por_que_importa": "Es un ejemplo contemporáneo de cómo una decisión ética o política de una empresa puede transformarse en diferenciación estratégica y reactivar productos que parecían fuera del mercado, algo relevante para pensar en posicionamiento y cultura organizacional.",
-      "link": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
+      "categoria": "Global",
+      "titulo_es": "Apple presenta evidencia de que un ex empleado destruyó pruebas de haber filtrado datos internos a OpenAI",
+      "resumen": "Apple asegura tener evidencia de que un ex empleado destruyó deliberadamente archivos luego de enterarse de que estaba siendo investigado por el robo de información confidencial de la compañía, presuntamente destinada a OpenAI. El caso expone los riesgos de seguridad interna en empresas tecnológicas que operan en mercados altamente competitivos. Es el primer caso de alto perfil que involucra a OpenAI como posible receptor de información robada de un competidor.",
+      "por_que_importa": "Abre el debate sobre propiedad intelectual, contratos de confidencialidad y gobernanza del talento en empresas de IA, temas críticos para cualquier organización que innove con tecnología propietaria.",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
       "fuente": "TechCrunch"
+    },
+    {
+      "indice": 21,
+      "categoria": "Tendencias",
+      "titulo_es": "La inversión en biotech se mantiene estable pese al boom de la IA, que no desplazó capitales del sector",
+      "resumen": "Un análisis de Crunchbase revela que el financiamiento global en startups de biotecnología se mantuvo en niveles constantes durante los últimos años, sin ser desplazado por el flujo de capital hacia IA. El sector muestra resiliencia y atrae a inversores que buscan diversificación fuera del ecosistema tecnológico puro. La tendencia sugiere que biotech e IA están evolucionando como sectores complementarios más que competitivos.",
+      "por_que_importa": "Para estudiantes de innovación, entender que no todos los sectores responden igual a las modas de inversión es clave para identificar oportunidades reales de negocio más allá del hype tecnológico del momento.",
+      "link": "https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/",
+      "fuente": "Crunchbase News"
     }
   ]
 }
