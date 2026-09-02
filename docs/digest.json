@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "IA en el centro: desde herramientas militares hasta regulación de perfiles falsos, el debate sobre el uso real de la IA escala globalmente",
+  "titular_del_dia": "Uber recorta 3.300 empleos y la IA redefine herramientas de trabajo: la automatización reorganiza las grandes empresas",
   "items": [
     {
-      "indice": 11,
-      "categoria": "Global",
-      "titulo_es": "El Pentágono integra versiones propias de ChatGPT y Grok a su portal central de herramientas de IA",
-      "resumen": "El Departamento de Defensa de EE.UU. sumó versiones de ChatGPT (OpenAI) y Grok (xAI de SpaceX) a su plataforma interna de IA, donde ya operaba Gemini de Google. La iniciativa consolida un portal único para que el personal militar acceda a múltiples modelos de lenguaje en entornos seguros. Es uno de los despliegues institucionales de IA más grandes del mundo en términos de escala organizacional.",
-      "por_que_importa": "Ilustra cómo las grandes organizaciones resuelven la adopción de IA a escala: no eligiendo un solo proveedor, sino construyendo una capa de acceso unificado, un modelo de estrategia de producto que cualquier empresa grande puede replicar.",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 13,
-      "categoria": "Tendencias",
-      "titulo_es": "Instagram limita el alcance de perfiles de IA que no se identifican como tales",
-      "resumen": "Meta anunció restricciones para perfiles generados por IA en Instagram que no declaran explícitamente su naturaleza artificial, reduciendo su distribución orgánica. La medida responde a una creciente presión de usuarios y reguladores ante la proliferación de 'influencers' y cuentas automatizadas no etiquetadas. Es una de las primeras acciones concretas de una plataforma masiva para regular la identidad de agentes de IA en redes sociales.",
-      "por_que_importa": "Define un nuevo campo de juego para estrategias de contenido y marketing digital: las reglas sobre qué puede hacer un agente de IA en plataformas sociales impactarán directamente en cómo las empresas de LatAm diseñen sus estrategias de presencia digital.",
-      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
+      "indice": 5,
       "categoria": "Estrategia",
-      "titulo_es": "Waymo expande sus robotaxis a Denver, San Diego y Tampa siguiendo su modelo de escalada gradual",
-      "resumen": "Waymo anunció el lanzamiento de su servicio de robotaxis en tres nuevas ciudades estadounidenses, incorporando usuarios de forma progresiva según su playbook comercial habitual. La expansión sigue una estrategia de rampa lenta: acceso por invitación, operación restringida y aprendizaje iterativo antes de abrir el servicio masivamente. La empresa consolida así su posición como el único operador de vehículos autónomos comerciales a escala en el mundo.",
-      "por_que_importa": "El modelo de expansión de Waymo es un caso de manual sobre cómo escalar un producto de alta complejidad regulatoria y técnica: ideal para analizar estrategias de go-to-market en industrias con fricción institucional, algo muy relevante para mercados como el argentino.",
-      "link": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
-      "categoria": "Estrategia",
-      "titulo_es": "La FTC demanda a Amazon por cobrar cargos publicitarios ocultos a las empresas que usan su plataforma",
-      "resumen": "La Comisión Federal de Comercio de EE.UU., junto a 22 estados, presentó una demanda contra Amazon acusándola de aplicar de forma encubierta sobrecargos en su sistema de publicidad a vendedores terceros. La acusación sostiene que Amazon habría inflado artificialmente los costos de advertising sin informarlo a los anunciantes. Es la última de una serie de acciones antimonopolio contra la compañía en los últimos años.",
-      "por_que_importa": "Pone en el centro el debate sobre el poder de las plataformas como intermediarios comerciales: cualquier empresa que venda o anuncie en marketplaces digitales —tendencia central en LatAm— necesita entender cómo se estructuran y regulan estos modelos de negocio.",
-      "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 14,
-      "categoria": "Tendencias",
-      "titulo_es": "La salida de Tim Cook como CEO de Apple desencadena una ola de cambios en la cúpula directiva",
-      "resumen": "Tras la renuncia de Tim Cook como CEO de Apple, Phil Schiller, máximo responsable del App Store y figura clave en la estrategia de plataformas de la compañía, anunció su inminente retiro. La salida de Schiller se enmarca en una renovación generacional más amplia en el liderazgo de Apple. El cambio llega en un momento crítico para la empresa, que enfrenta presiones regulatorias globales sobre su ecosistema de aplicaciones.",
-      "por_que_importa": "Las transiciones de liderazgo en empresas tecnológicas de referencia mundial son oportunidades para analizar cómo se gestiona la continuidad estratégica y cultural en organizaciones de innovación a gran escala.",
-      "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
-      "categoria": "Estrategia",
-      "titulo_es": "Unacademy, la edtech india valuada en más de USD 3.000 M, se vende por apenas el 6% de su valor pico",
-      "resumen": "La startup de educación online Unacademy fue adquirida por su rival upGrad por USD 206 millones, un 94% por debajo de su valuación máxima. Su co-fundador reconoció públicamente que la empresa 'recaudó en el pico y vendió en una fracción de eso', sin intentar maquillar la realidad. El caso expone las consecuencias de escalar sobre valuaciones infladas durante el boom de edtech post-pandemia.",
-      "por_que_importa": "Es un caso de estudio sobre los riesgos de crecer traccionado por capital en lugar de por fundamentos de negocio, con lecciones directas para emprendedores y analistas de startups en LatAm que vivieron dinámicas similares.",
-      "link": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 17,
-      "categoria": "Producto",
-      "titulo_es": "Un ex estudiante de Harvard Law crea Blue Voice, un asistente de IA especializado para fuerzas policiales",
-      "resumen": "Blue Voice es una herramienta de IA vertical entrenada en leyes departamentales, ordenanzas locales y protocolos internos de cada fuerza policial, información que los modelos generalistas como ChatGPT no pueden acceder públicamente. El fundador, con 6 millones de dólares recaudados, apunta a replicar el modelo de Harvey AI —el asistente legal para abogados— pero para oficiales de policía. El producto ilustra la tendencia de construir modelos de IA especializados sobre bases de datos propietarias.",
-      "por_que_importa": "Demuestra una estrategia de producto concreta y replicable: tomar un modelo de IA genérico, especializarlo con datos verticales propietarios y dirigirlo a un segmento profesional con necesidades no resueltas, algo aplicable a múltiples sectores en Argentina y LatAm.",
-      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "titulo_es": "Uber despide al 10% de su plantilla global para reducir capas de management e invertir en robosaxi",
+      "resumen": "Uber eliminará 3.300 puestos de trabajo a nivel mundial en una reestructuración que busca achatar su estructura organizacional y redirigir recursos hacia ride-sharing, delivery y vehículos autónomos. El movimiento señala un cambio estratégico hacia operaciones más eficientes y apuesta tecnológica de largo plazo. Es uno de los recortes corporativos más grandes del sector tech en 2026.",
+      "por_que_importa": "Es un caso concreto de cómo la automatización y los nuevos modelos de negocio (robosaxi) presionan las estructuras organizacionales tradicionales, un tema central en cualquier discusión sobre futuro del trabajo e innovación corporativa.",
+      "link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 20,
-      "categoria": "Tendencias",
-      "titulo_es": "El financiamiento en proptech se mantiene, pero los inversores apuestan cada vez más por IA aplicada al real estate",
-      "resumen": "Según Crunchbase, el sector proptech sostiene niveles de inversión estables, pero el capital se está concentrando en startups que aplican IA a construcción, gestión de propiedades y eficiencia operativa del sector inmobiliario. El análisis muestra un giro desde soluciones de marketplace hacia herramientas de automatización y predicción. La tendencia coincide con el crecimiento de startups de construcción industrializada y gestión de activos en LatAm.",
-      "por_que_importa": "Permite entender hacia dónde se está moviendo la innovación en uno de los sectores económicos más grandes de la región, con implicancias directas para quienes piensen en nuevos negocios en real estate o construcción.",
-      "link": "https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 6,
-      "categoria": "Global",
-      "titulo_es": "Apple presenta evidencia de que un ex empleado destruyó pruebas de haber filtrado datos internos a OpenAI",
-      "resumen": "Apple asegura tener evidencia de que un ex empleado destruyó deliberadamente archivos luego de enterarse de que estaba siendo investigado por el robo de información confidencial de la compañía, presuntamente destinada a OpenAI. El caso expone los riesgos de seguridad interna en empresas tecnológicas que operan en mercados altamente competitivos. Es el primer caso de alto perfil que involucra a OpenAI como posible receptor de información robada de un competidor.",
-      "por_que_importa": "Abre el debate sobre propiedad intelectual, contratos de confidencialidad y gobernanza del talento en empresas de IA, temas críticos para cualquier organización que innove con tecnología propietaria.",
-      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "categoria": "Estrategia",
+      "titulo_es": "Waymo sale a defenderse antes del lanzamiento del Cybercab de Tesla y cuestiona la seguridad de la IA pura",
+      "resumen": "Waymo argumentó públicamente que los vehículos totalmente autónomos requieren una combinación de sensores y que los sistemas de IA de extremo a extremo, como el que usa Tesla, no son suficientemente seguros. El movimiento ocurre días antes del lanzamiento comercial del Cybercab, el robotaxi de Tesla. La disputa técnica esconde una batalla de posicionamiento estratégico en un mercado de movilidad autónoma que vale billones.",
+      "por_que_importa": "Ilustra cómo la estrategia de producto y la narrativa pública son armas competitivas en mercados emergentes de alta tecnología, algo directamente aplicable al análisis de industrias disruptivas.",
+      "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 21,
+      "indice": 18,
+      "categoria": "Producto",
+      "titulo_es": "Google lanza 'Pics', su respuesta con IA generativa a Canva y Adobe para diseño sin conocimiento técnico",
+      "resumen": "Google Pics es una herramienta de diseño visual donde el usuario describe lo que quiere en lenguaje natural y la IA genera el resultado, prescindiendo del proceso tradicional de diseño. Apunta directamente al mercado que dominan Canva y Adobe, con un enfoque nativo de IA. El movimiento consolida la tendencia de grandes plataformas de reemplazar flujos de trabajo creativos con interfaces conversacionales.",
+      "por_que_importa": "Muestra cómo la IA generativa está destruyendo y recreando categorías de software establecidas, un patrón de innovación disruptiva que los estudiantes de producto y estrategia deben saber leer.",
+      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
       "categoria": "Tendencias",
-      "titulo_es": "La inversión en biotech se mantiene estable pese al boom de la IA, que no desplazó capitales del sector",
-      "resumen": "Un análisis de Crunchbase revela que el financiamiento global en startups de biotecnología se mantuvo en niveles constantes durante los últimos años, sin ser desplazado por el flujo de capital hacia IA. El sector muestra resiliencia y atrae a inversores que buscan diversificación fuera del ecosistema tecnológico puro. La tendencia sugiere que biotech e IA están evolucionando como sectores complementarios más que competitivos.",
-      "por_que_importa": "Para estudiantes de innovación, entender que no todos los sectores responden igual a las modas de inversión es clave para identificar oportunidades reales de negocio más allá del hype tecnológico del momento.",
-      "link": "https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/",
+      "titulo_es": "OpenAI prepara 'Astra', un modelo de IA especializado en ciberseguridad con capacidades ofensivas sin precedentes",
+      "resumen": "OpenAI presentó Astra, su nuevo LLM con capacidades críticas en ciberseguridad, describiendo las precauciones que tomará antes de su lanzamiento dado que el modelo demostró ser muy efectivo para comprometer sistemas informáticos. La noticia abre un debate sobre la gobernanza de modelos de IA de alto riesgo y la responsabilidad de los laboratorios. Es el primer modelo de OpenAI explícitamente diseñado con aplicaciones en seguridad ofensiva.",
+      "por_que_importa": "La IA con capacidades ofensivas en ciberseguridad tiene implicancias directas para empresas, gobiernos y startups de la región que deben planificar su postura de seguridad digital.",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 19,
+      "categoria": "Producto",
+      "titulo_es": "ChatGPT Health integra historiales clínicos de Epic para que médicos accedan a datos de pacientes en tiempo real",
+      "resumen": "OpenAI anunció la integración de ChatGPT Health con Epic, el sistema de registros médicos más usado en hospitales de EE.UU., permitiendo a los clínicos importar datos de pacientes con acceso de solo lectura. La integración convierte a ChatGPT en una herramienta clínica operativa dentro de flujos de trabajo hospitalarios reales. Es el paso más concreto de OpenAI hacia la aplicación de IA en salud institucional.",
+      "por_que_importa": "La integración de IA en sistemas de salud existentes es un modelo de go-to-market relevante para estudiantes interesados en healthtech y en cómo la IA penetra industrias reguladas.",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "LatAm",
+      "titulo_es": "Startup brasileña desarrolla IA para priorizar estudios médicos por urgencia y reducir tiempos de diagnóstico radiológico",
+      "resumen": "Una empresa de tecnología brasileña creó un sistema de IA que analiza imágenes médicas y las prioriza según su probabilidad de mostrar anomalías, ayudando a radiólogos a gestionar su carga de trabajo de manera más eficiente. La herramienta apunta a reducir los tiempos de diagnóstico en sistemas de salud con alta demanda. Es un ejemplo de healthtech aplicado al contexto latinoamericano, donde la escasez de especialistas es un problema estructural.",
+      "por_que_importa": "Muestra cómo startups de LatAm están resolviendo problemas locales reales con IA, un modelo de innovación orientado al impacto que es directamente relevante para la región.",
+      "link": "https://contxto.com/en/healthtech/brazilian-technology-aims-to-reduce-time-required-to-analyze-medical-images/",
+      "fuente": "Contxto"
+    },
+    {
+      "indice": 23,
+      "categoria": "LatAm",
+      "titulo_es": "Félix, startup de remesas por WhatsApp para latinos en EE.UU., capta USD 200 millones en una ronda Serie C",
+      "resumen": "Félix, plataforma de remesas basada en WhatsApp orientada a inmigrantes latinoamericanos en Estados Unidos, cerró una Serie C de USD 200 millones co-liderada por Andreessen Horowitz y General Catalyst. El modelo combina IA con una interfaz familiar (WhatsApp) para resolver el envío de dinero transfronterizo en un mercado históricamente subestimado tecnológicamente. El caso ilustra cómo la adopción masiva de mensajería puede ser un canal de distribución financiera en LatAm.",
+      "por_que_importa": "Félix es un ejemplo sobresaliente de cómo diseñar un producto para una audiencia latinoamericana específica aprovechando infraestructura existente, con implicancias directas para quienes piensan en modelos de negocio para la región.",
+      "link": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/",
       "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 4,
+      "categoria": "Producto",
+      "titulo_es": "Adobe integra Express, Premiere y Acrobat directamente dentro de Slack para flujos de trabajo creativos",
+      "resumen": "Adobe anunció que sus principales herramientas creativas estarán disponibles de forma nativa dentro de Slack, eliminando la necesidad de cambiar entre aplicaciones para tareas de diseño, edición de video y gestión documental. El movimiento responde a la tendencia de embedded tools dentro de plataformas de colaboración y compite indirectamente con la estrategia de Google Workspace. Es parte de una reconfiguración más amplia de cómo se distribuye y usa el software profesional.",
+      "por_que_importa": "Ilustra la estrategia de distribución vía integración en plataformas de terceros, un modelo cada vez más usado por empresas de software que quiere que los estudiantes de producto y estrategia incorporen.",
+      "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 15,
+      "categoria": "Tendencias",
+      "titulo_es": "Anthropic lanza Fable 5.1 con menor costo por token y menos restricciones en sus salvaguardas de seguridad",
+      "resumen": "Anthropic actualizó su modelo Fable con mejoras orientadas a reducir el costo de uso y disminuir los falsos positivos en sus sistemas de seguridad, que bloqueaban respuestas legítimas. La actualización busca hacer el modelo más competitivo frente a GPT y Gemini en entornos de producción empresarial. El trade-off entre seguridad y usabilidad sigue siendo uno de los ejes centrales de la carrera entre laboratorios de IA.",
+      "por_que_importa": "Entender cómo los laboratorios de IA calibran seguridad, costo y performance es clave para quienes evalúan qué tecnología adoptar en productos y empresas.",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 13,
+      "categoria": "Estrategia",
+      "titulo_es": "X Money enfrenta su primera crisis de seguridad: atacantes apuntan a cuentas de usuarios tras el lanzamiento del servicio de pagos",
+      "resumen": "X (ex Twitter) reportó una oleada de correos no solicitados de restablecimiento de contraseña que vincula al reciente lanzamiento de X Money, su nuevo servicio de pagos. La empresa investiga si se trata de un ataque coordinado dirigido a comprometer cuentas con acceso a funciones financieras. El incidente pone en evidencia los riesgos de escalar hacia servicios financieros sin la infraestructura de seguridad adecuada.",
+      "por_que_importa": "Es un caso real de los desafíos estratégicos y operativos de diversificar un modelo de negocio hacia servicios financieros, con lecciones directas sobre producto, confianza del usuario y gestión de riesgos.",
+      "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+      "fuente": "TechCrunch"
     }
   ]
 }
