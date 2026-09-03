@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "Uber recorta 3.300 empleos y la IA redefine herramientas de trabajo: la automatización reorganiza las grandes empresas",
+  "titular_del_dia": "Nvidia compra Hugging Face por USD 12.900 millones: la IA de código abierto entra en una nueva era de consolidación",
   "items": [
     {
-      "indice": 5,
-      "categoria": "Estrategia",
-      "titulo_es": "Uber despide al 10% de su plantilla global para reducir capas de management e invertir en robosaxi",
-      "resumen": "Uber eliminará 3.300 puestos de trabajo a nivel mundial en una reestructuración que busca achatar su estructura organizacional y redirigir recursos hacia ride-sharing, delivery y vehículos autónomos. El movimiento señala un cambio estratégico hacia operaciones más eficientes y apuesta tecnológica de largo plazo. Es uno de los recortes corporativos más grandes del sector tech en 2026.",
-      "por_que_importa": "Es un caso concreto de cómo la automatización y los nuevos modelos de negocio (robosaxi) presionan las estructuras organizacionales tradicionales, un tema central en cualquier discusión sobre futuro del trabajo e innovación corporativa.",
-      "link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+      "indice": 2,
+      "categoria": "Global",
+      "titulo_es": "Nvidia adquiere Hugging Face por USD 12.900 millones y redefine el ecosistema de IA abierta",
+      "resumen": "Nvidia confirmó la compra de Hugging Face, la plataforma que aloja más de 3 millones de modelos de IA y es usada por más de 18 millones de desarrolladores en todo el mundo. La operación consolida el control de Nvidia sobre la infraestructura crítica de hardware y ahora también sobre la capa de modelos y comunidad de IA abierta. Es uno de los movimientos de M&A más significativos en la historia reciente de la inteligencia artificial.",
+      "por_que_importa": "Quien domine la infraestructura y los modelos base de IA condiciona toda la cadena de valor: entender esta jugada estratégica es esencial para cualquiera que piense en productos o negocios digitales.",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 20,
-      "categoria": "Estrategia",
-      "titulo_es": "Waymo sale a defenderse antes del lanzamiento del Cybercab de Tesla y cuestiona la seguridad de la IA pura",
-      "resumen": "Waymo argumentó públicamente que los vehículos totalmente autónomos requieren una combinación de sensores y que los sistemas de IA de extremo a extremo, como el que usa Tesla, no son suficientemente seguros. El movimiento ocurre días antes del lanzamiento comercial del Cybercab, el robotaxi de Tesla. La disputa técnica esconde una batalla de posicionamiento estratégico en un mercado de movilidad autónoma que vale billones.",
-      "por_que_importa": "Ilustra cómo la estrategia de producto y la narrativa pública son armas competitivas en mercados emergentes de alta tecnología, algo directamente aplicable al análisis de industrias disruptivas.",
-      "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Producto",
-      "titulo_es": "Google lanza 'Pics', su respuesta con IA generativa a Canva y Adobe para diseño sin conocimiento técnico",
-      "resumen": "Google Pics es una herramienta de diseño visual donde el usuario describe lo que quiere en lenguaje natural y la IA genera el resultado, prescindiendo del proceso tradicional de diseño. Apunta directamente al mercado que dominan Canva y Adobe, con un enfoque nativo de IA. El movimiento consolida la tendencia de grandes plataformas de reemplazar flujos de trabajo creativos con interfaces conversacionales.",
-      "por_que_importa": "Muestra cómo la IA generativa está destruyendo y recreando categorías de software establecidas, un patrón de innovación disruptiva que los estudiantes de producto y estrategia deben saber leer.",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 11,
+      "indice": 8,
       "categoria": "Tendencias",
-      "titulo_es": "OpenAI prepara 'Astra', un modelo de IA especializado en ciberseguridad con capacidades ofensivas sin precedentes",
-      "resumen": "OpenAI presentó Astra, su nuevo LLM con capacidades críticas en ciberseguridad, describiendo las precauciones que tomará antes de su lanzamiento dado que el modelo demostró ser muy efectivo para comprometer sistemas informáticos. La noticia abre un debate sobre la gobernanza de modelos de IA de alto riesgo y la responsabilidad de los laboratorios. Es el primer modelo de OpenAI explícitamente diseñado con aplicaciones en seguridad ofensiva.",
-      "por_que_importa": "La IA con capacidades ofensivas en ciberseguridad tiene implicancias directas para empresas, gobiernos y startups de la región que deben planificar su postura de seguridad digital.",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "titulo_es": "El nuevo modelo de razonamiento de OpenAI preocupa a expertos en seguridad de IA",
+      "resumen": "OpenAI presentó 'Astra', un modelo que usa una técnica llamada 'recurrent depth' que le permite operar fuera del pensamiento secuencial que caracteriza a los modelos de razonamiento actuales. Expertos en seguridad alertan que esta capacidad reduce la previsibilidad del comportamiento del modelo y dificulta su supervisión. El avance reabre el debate sobre los límites del desarrollo de IA sin salvaguardas suficientes.",
+      "por_que_importa": "La tensión entre velocidad de innovación y seguridad en IA es uno de los dilemas estratégicos centrales del sector; comprenderlo es clave para diseñar productos y políticas responsables.",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 19,
-      "categoria": "Producto",
-      "titulo_es": "ChatGPT Health integra historiales clínicos de Epic para que médicos accedan a datos de pacientes en tiempo real",
-      "resumen": "OpenAI anunció la integración de ChatGPT Health con Epic, el sistema de registros médicos más usado en hospitales de EE.UU., permitiendo a los clínicos importar datos de pacientes con acceso de solo lectura. La integración convierte a ChatGPT en una herramienta clínica operativa dentro de flujos de trabajo hospitalarios reales. Es el paso más concreto de OpenAI hacia la aplicación de IA en salud institucional.",
-      "por_que_importa": "La integración de IA en sistemas de salud existentes es un modelo de go-to-market relevante para estudiantes interesados en healthtech y en cómo la IA penetra industrias reguladas.",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "indice": 7,
+      "categoria": "Estrategia",
+      "titulo_es": "Google evita la ruptura de su negocio publicitario pero deberá cambiar cómo opera",
+      "resumen": "Un juez estadounidense descartó desintegrar el negocio de publicidad de Google, pero ordenó modificaciones estructurales en su funcionamiento para favorecer a competidores. La resolución pone límites concretos al poder de mercado de Google en el ecosistema de ad-tech sin llegar al remedio más drástico que pedía el gobierno. El fallo tendrá impacto directo en las estrategias de monetización digital de miles de empresas y startups a nivel global.",
+      "por_que_importa": "Las decisiones regulatorias sobre grandes plataformas reconfiguran las reglas de juego para todos los negocios digitales, incluyendo los de LatAm que dependen de publicidad programática.",
+      "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 1,
-      "categoria": "LatAm",
-      "titulo_es": "Startup brasileña desarrolla IA para priorizar estudios médicos por urgencia y reducir tiempos de diagnóstico radiológico",
-      "resumen": "Una empresa de tecnología brasileña creó un sistema de IA que analiza imágenes médicas y las prioriza según su probabilidad de mostrar anomalías, ayudando a radiólogos a gestionar su carga de trabajo de manera más eficiente. La herramienta apunta a reducir los tiempos de diagnóstico en sistemas de salud con alta demanda. Es un ejemplo de healthtech aplicado al contexto latinoamericano, donde la escasez de especialistas es un problema estructural.",
-      "por_que_importa": "Muestra cómo startups de LatAm están resolviendo problemas locales reales con IA, un modelo de innovación orientado al impacto que es directamente relevante para la región.",
-      "link": "https://contxto.com/en/healthtech/brazilian-technology-aims-to-reduce-time-required-to-analyze-medical-images/",
-      "fuente": "Contxto"
+      "indice": 14,
+      "categoria": "Tendencias",
+      "titulo_es": "El gobierno de EE.UU. apoya a OpenAI en el debate sobre entrenamiento de IA con material con copyright",
+      "resumen": "El gobierno estadounidense presentó su posición a favor de OpenAI en el litigio sobre el uso de contenido con derechos de autor para entrenar modelos de lenguaje. El argumento central es que EE.UU. tiene un interés estratégico en liderar la industria de IA a nivel global. La decisión establece un precedente con implicancias directas para cómo se regulará el entrenamiento de modelos en otros países, incluidos los de América Latina.",
+      "por_que_importa": "La propiedad intelectual en la era de la IA es un campo de batalla regulatorio que definirá quién puede construir modelos competitivos y bajo qué condiciones.",
+      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 23,
-      "categoria": "LatAm",
-      "titulo_es": "Félix, startup de remesas por WhatsApp para latinos en EE.UU., capta USD 200 millones en una ronda Serie C",
-      "resumen": "Félix, plataforma de remesas basada en WhatsApp orientada a inmigrantes latinoamericanos en Estados Unidos, cerró una Serie C de USD 200 millones co-liderada por Andreessen Horowitz y General Catalyst. El modelo combina IA con una interfaz familiar (WhatsApp) para resolver el envío de dinero transfronterizo en un mercado históricamente subestimado tecnológicamente. El caso ilustra cómo la adopción masiva de mensajería puede ser un canal de distribución financiera en LatAm.",
-      "por_que_importa": "Félix es un ejemplo sobresaliente de cómo diseñar un producto para una audiencia latinoamericana específica aprovechando infraestructura existente, con implicancias directas para quienes piensan en modelos de negocio para la región.",
-      "link": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 4,
+      "indice": 3,
       "categoria": "Producto",
-      "titulo_es": "Adobe integra Express, Premiere y Acrobat directamente dentro de Slack para flujos de trabajo creativos",
-      "resumen": "Adobe anunció que sus principales herramientas creativas estarán disponibles de forma nativa dentro de Slack, eliminando la necesidad de cambiar entre aplicaciones para tareas de diseño, edición de video y gestión documental. El movimiento responde a la tendencia de embedded tools dentro de plataformas de colaboración y compite indirectamente con la estrategia de Google Workspace. Es parte de una reconfiguración más amplia de cómo se distribuye y usa el software profesional.",
-      "por_que_importa": "Ilustra la estrategia de distribución vía integración en plataformas de terceros, un modelo cada vez más usado por empresas de software que quiere que los estudiantes de producto y estrategia incorporen.",
-      "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+      "titulo_es": "Zoox, la robotaxi de Amazon, llega al aeropuerto de Las Vegas y escala su servicio comercial",
+      "resumen": "Zoox, subsidiaria de Amazon, expandió su servicio de robotaxis al aeropuerto de Las Vegas, pocas semanas después de comenzar a cobrar por sus viajes. Los aeropuertos son destinos críticos para la viabilidad económica de los servicios de movilidad autónoma por su alta demanda predecible. El movimiento marca un hito en la transición de la movilidad autónoma de piloto experimental a negocio con modelo de ingresos real.",
+      "por_que_importa": "El caso Zoox ilustra cómo una corporación integra innovación profunda en hardware, software y operaciones para construir un nuevo modelo de negocio desde adentro.",
+      "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 17,
+      "categoria": "Tendencias",
+      "titulo_es": "Jio apuesta a convertir computadoras viejas en PCs con IA por menos de USD 11 al mes",
+      "resumen": "Jio, el conglomerado tecnológico del hombre más rico de India, lanzó una propuesta para transformar computadoras obsoletas en equipos con capacidades de IA por aproximadamente USD 11 mensuales durante dos meses. La iniciativa apunta a democratizar el acceso a herramientas de IA en mercados emergentes con parque tecnológico envejecido. El modelo es relevante para economías como las de LatAm, donde la renovación de hardware es una barrera real para la adopción de IA.",
+      "por_que_importa": "Los modelos de negocio que democratizan tecnología en mercados emergentes son exactamente el tipo de innovación que puede replicarse o adaptarse en Argentina y la región.",
+      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 15,
       "categoria": "Tendencias",
-      "titulo_es": "Anthropic lanza Fable 5.1 con menor costo por token y menos restricciones en sus salvaguardas de seguridad",
-      "resumen": "Anthropic actualizó su modelo Fable con mejoras orientadas a reducir el costo de uso y disminuir los falsos positivos en sus sistemas de seguridad, que bloqueaban respuestas legítimas. La actualización busca hacer el modelo más competitivo frente a GPT y Gemini en entornos de producción empresarial. El trade-off entre seguridad y usabilidad sigue siendo uno de los ejes centrales de la carrera entre laboratorios de IA.",
-      "por_que_importa": "Entender cómo los laboratorios de IA calibran seguridad, costo y performance es clave para quienes evalúan qué tecnología adoptar en productos y empresas.",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "titulo_es": "Google compra 400 MW de energía geotérmica avanzada para alimentar sus centros de datos de IA",
+      "resumen": "Google firmó un acuerdo con Fervo Energy para adquirir 400 MW de energía geotérmica mejorada en Utah, con opción a escalar hasta 1 gigavatio. El acuerdo responde a la creciente demanda energética de los centros de datos de IA, que presiona a las grandes tecnológicas a buscar fuentes limpias y confiables. La energía geotérmica mejorada, a diferencia de la solar o eólica, ofrece generación continua sin depender del clima.",
+      "por_que_importa": "La infraestructura energética es una restricción estratégica real para escalar IA; entender esta capa es fundamental para comprender los límites y oportunidades del negocio de datos.",
+      "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 13,
+      "categoria": "Producto",
+      "titulo_es": "X migra los pagos a creadores en EE.UU. a su propio sistema X Money, reemplazando a Stripe",
+      "resumen": "X (ex Twitter) anunció que los pagos a creadores de contenido en Estados Unidos pasarán a procesarse a través de X Money, su plataforma de pagos propia, dejando atrás la integración con Stripe. El movimiento es parte de la estrategia de Elon Musk de convertir a X en una 'super app' financiera. La transición muestra cómo las plataformas buscan capturar el margen de los servicios financieros que antes tercerizaban.",
+      "por_que_importa": "La verticalización de pagos dentro de plataformas de contenido es un patrón de negocio creciente que tiene implicancias directas para los modelos de monetización de creadores en LatAm.",
+      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Tendencias",
+      "titulo_es": "La seguridad de agentes de IA se convierte en mercado: HiddenLayer recauda USD 100 millones",
+      "resumen": "HiddenLayer, especializada en seguridad para sistemas de IA, cerró una ronda de USD 100 millones en respuesta a la demanda corporativa de herramientas que monitoreen agentes de IA, sus herramientas y complementos. El crecimiento de agentes autónomos en empresas expone nuevas superficies de ataque que los sistemas de ciberseguridad tradicionales no cubren. El surgimiento de esta categoría señala que la adopción empresarial de IA está madurando hacia un uso real con riesgos operativos concretos.",
+      "por_que_importa": "Entender qué nuevas categorías de negocio genera la adopción masiva de IA —como la seguridad de agentes— es esencial para identificar oportunidades de innovación en el ecosistema.",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 9,
       "categoria": "Estrategia",
-      "titulo_es": "X Money enfrenta su primera crisis de seguridad: atacantes apuntan a cuentas de usuarios tras el lanzamiento del servicio de pagos",
-      "resumen": "X (ex Twitter) reportó una oleada de correos no solicitados de restablecimiento de contraseña que vincula al reciente lanzamiento de X Money, su nuevo servicio de pagos. La empresa investiga si se trata de un ataque coordinado dirigido a comprometer cuentas con acceso a funciones financieras. El incidente pone en evidencia los riesgos de escalar hacia servicios financieros sin la infraestructura de seguridad adecuada.",
-      "por_que_importa": "Es un caso real de los desafíos estratégicos y operativos de diversificar un modelo de negocio hacia servicios financieros, con lecciones directas sobre producto, confianza del usuario y gestión de riesgos.",
-      "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+      "titulo_es": "MapQuest llega al número 1 del App Store de EE.UU. al negarse a renombrar el Golfo de México",
+      "resumen": "La aplicación de mapas MapQuest escaló hasta el primer puesto en la App Store de EE.UU. tras negarse a adoptar el nombre 'Lake America' impuesto por la administración Trump para el Golfo de México. Más de la mitad de sus descargas de 2026 se concentraron en apenas seis días luego de que la decisión se viralizara. El caso ilustra cómo una postura de valores puede convertirse en un diferenciador competitivo y motor de crecimiento inesperado.",
+      "por_que_importa": "Es un caso concreto de cómo las decisiones de producto vinculadas a valores generan efectos de red y tracción orgánica, un fenómeno cada vez más relevante en la estrategia de marcas digitales.",
+      "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
       "fuente": "TechCrunch"
     }
   ]
