@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "Nvidia compra Hugging Face por USD 12.900 millones: la IA de código abierto entra en una nueva era de consolidación",
+  "titular_del_dia": "OpenAI lanza Astra y Tesla despliega el Cybercab: dos apuestas radicales que redefinen industrias enteras",
   "items": [
     {
-      "indice": 2,
-      "categoria": "Global",
-      "titulo_es": "Nvidia adquiere Hugging Face por USD 12.900 millones y redefine el ecosistema de IA abierta",
-      "resumen": "Nvidia confirmó la compra de Hugging Face, la plataforma que aloja más de 3 millones de modelos de IA y es usada por más de 18 millones de desarrolladores en todo el mundo. La operación consolida el control de Nvidia sobre la infraestructura crítica de hardware y ahora también sobre la capa de modelos y comunidad de IA abierta. Es uno de los movimientos de M&A más significativos en la historia reciente de la inteligencia artificial.",
-      "por_que_importa": "Quien domine la infraestructura y los modelos base de IA condiciona toda la cadena de valor: entender esta jugada estratégica es esencial para cualquiera que piense en productos o negocios digitales.",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 8,
-      "categoria": "Tendencias",
-      "titulo_es": "El nuevo modelo de razonamiento de OpenAI preocupa a expertos en seguridad de IA",
-      "resumen": "OpenAI presentó 'Astra', un modelo que usa una técnica llamada 'recurrent depth' que le permite operar fuera del pensamiento secuencial que caracteriza a los modelos de razonamiento actuales. Expertos en seguridad alertan que esta capacidad reduce la previsibilidad del comportamiento del modelo y dificulta su supervisión. El avance reabre el debate sobre los límites del desarrollo de IA sin salvaguardas suficientes.",
-      "por_que_importa": "La tensión entre velocidad de innovación y seguridad en IA es uno de los dilemas estratégicos centrales del sector; comprenderlo es clave para diseñar productos y políticas responsables.",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 7,
-      "categoria": "Estrategia",
-      "titulo_es": "Google evita la ruptura de su negocio publicitario pero deberá cambiar cómo opera",
-      "resumen": "Un juez estadounidense descartó desintegrar el negocio de publicidad de Google, pero ordenó modificaciones estructurales en su funcionamiento para favorecer a competidores. La resolución pone límites concretos al poder de mercado de Google en el ecosistema de ad-tech sin llegar al remedio más drástico que pedía el gobierno. El fallo tendrá impacto directo en las estrategias de monetización digital de miles de empresas y startups a nivel global.",
-      "por_que_importa": "Las decisiones regulatorias sobre grandes plataformas reconfiguran las reglas de juego para todos los negocios digitales, incluyendo los de LatAm que dependen de publicidad programática.",
-      "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 14,
-      "categoria": "Tendencias",
-      "titulo_es": "El gobierno de EE.UU. apoya a OpenAI en el debate sobre entrenamiento de IA con material con copyright",
-      "resumen": "El gobierno estadounidense presentó su posición a favor de OpenAI en el litigio sobre el uso de contenido con derechos de autor para entrenar modelos de lenguaje. El argumento central es que EE.UU. tiene un interés estratégico en liderar la industria de IA a nivel global. La decisión establece un precedente con implicancias directas para cómo se regulará el entrenamiento de modelos en otros países, incluidos los de América Latina.",
-      "por_que_importa": "La propiedad intelectual en la era de la IA es un campo de batalla regulatorio que definirá quién puede construir modelos competitivos y bajo qué condiciones.",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 3,
-      "categoria": "Producto",
-      "titulo_es": "Zoox, la robotaxi de Amazon, llega al aeropuerto de Las Vegas y escala su servicio comercial",
-      "resumen": "Zoox, subsidiaria de Amazon, expandió su servicio de robotaxis al aeropuerto de Las Vegas, pocas semanas después de comenzar a cobrar por sus viajes. Los aeropuertos son destinos críticos para la viabilidad económica de los servicios de movilidad autónoma por su alta demanda predecible. El movimiento marca un hito en la transición de la movilidad autónoma de piloto experimental a negocio con modelo de ingresos real.",
-      "por_que_importa": "El caso Zoox ilustra cómo una corporación integra innovación profunda en hardware, software y operaciones para construir un nuevo modelo de negocio desde adentro.",
-      "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 17,
-      "categoria": "Tendencias",
-      "titulo_es": "Jio apuesta a convertir computadoras viejas en PCs con IA por menos de USD 11 al mes",
-      "resumen": "Jio, el conglomerado tecnológico del hombre más rico de India, lanzó una propuesta para transformar computadoras obsoletas en equipos con capacidades de IA por aproximadamente USD 11 mensuales durante dos meses. La iniciativa apunta a democratizar el acceso a herramientas de IA en mercados emergentes con parque tecnológico envejecido. El modelo es relevante para economías como las de LatAm, donde la renovación de hardware es una barrera real para la adopción de IA.",
-      "por_que_importa": "Los modelos de negocio que democratizan tecnología en mercados emergentes son exactamente el tipo de innovación que puede replicarse o adaptarse en Argentina y la región.",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 15,
-      "categoria": "Tendencias",
-      "titulo_es": "Google compra 400 MW de energía geotérmica avanzada para alimentar sus centros de datos de IA",
-      "resumen": "Google firmó un acuerdo con Fervo Energy para adquirir 400 MW de energía geotérmica mejorada en Utah, con opción a escalar hasta 1 gigavatio. El acuerdo responde a la creciente demanda energética de los centros de datos de IA, que presiona a las grandes tecnológicas a buscar fuentes limpias y confiables. La energía geotérmica mejorada, a diferencia de la solar o eólica, ofrece generación continua sin depender del clima.",
-      "por_que_importa": "La infraestructura energética es una restricción estratégica real para escalar IA; entender esta capa es fundamental para comprender los límites y oportunidades del negocio de datos.",
-      "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 13,
-      "categoria": "Producto",
-      "titulo_es": "X migra los pagos a creadores en EE.UU. a su propio sistema X Money, reemplazando a Stripe",
-      "resumen": "X (ex Twitter) anunció que los pagos a creadores de contenido en Estados Unidos pasarán a procesarse a través de X Money, su plataforma de pagos propia, dejando atrás la integración con Stripe. El movimiento es parte de la estrategia de Elon Musk de convertir a X en una 'super app' financiera. La transición muestra cómo las plataformas buscan capturar el margen de los servicios financieros que antes tercerizaban.",
-      "por_que_importa": "La verticalización de pagos dentro de plataformas de contenido es un patrón de negocio creciente que tiene implicancias directas para los modelos de monetización de creadores en LatAm.",
-      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Tendencias",
-      "titulo_es": "La seguridad de agentes de IA se convierte en mercado: HiddenLayer recauda USD 100 millones",
-      "resumen": "HiddenLayer, especializada en seguridad para sistemas de IA, cerró una ronda de USD 100 millones en respuesta a la demanda corporativa de herramientas que monitoreen agentes de IA, sus herramientas y complementos. El crecimiento de agentes autónomos en empresas expone nuevas superficies de ataque que los sistemas de ciberseguridad tradicionales no cubren. El surgimiento de esta categoría señala que la adopción empresarial de IA está madurando hacia un uso real con riesgos operativos concretos.",
-      "por_que_importa": "Entender qué nuevas categorías de negocio genera la adopción masiva de IA —como la seguridad de agentes— es esencial para identificar oportunidades de innovación en el ecosistema.",
-      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "categoria": "Global",
+      "titulo_es": "OpenAI lanza Astra, su nuevo modelo de agentes para navegadores y computadoras",
+      "resumen": "OpenAI presentó Astra, un modelo diseñado para operar agentes en browsers y sistemas operativos con mayor velocidad y precisión que sus predecesores. La compañía lo describe como una nueva frontera en el uso autónomo de computadoras. El lanzamiento llega en un contexto de intensa competencia entre labs de IA por el segmento de agentes de software.",
+      "por_que_importa": "Los agentes de IA que operan interfaces digitales son una de las apuestas más disruptivas para el futuro del trabajo y los modelos de negocio: entender cómo se posiciona OpenAI en esta carrera es clave para quienes diseñan productos o estrategias digitales.",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 9,
       "categoria": "Estrategia",
-      "titulo_es": "MapQuest llega al número 1 del App Store de EE.UU. al negarse a renombrar el Golfo de México",
-      "resumen": "La aplicación de mapas MapQuest escaló hasta el primer puesto en la App Store de EE.UU. tras negarse a adoptar el nombre 'Lake America' impuesto por la administración Trump para el Golfo de México. Más de la mitad de sus descargas de 2026 se concentraron en apenas seis días luego de que la decisión se viralizara. El caso ilustra cómo una postura de valores puede convertirse en un diferenciador competitivo y motor de crecimiento inesperado.",
-      "por_que_importa": "Es un caso concreto de cómo las decisiones de producto vinculadas a valores generan efectos de red y tracción orgánica, un fenómeno cada vez más relevante en la estrategia de marcas digitales.",
-      "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "titulo_es": "El Cybercab de Tesla: un momento bisagra que puede cambiar el modelo de negocio de la empresa para siempre",
+      "resumen": "Tesla lanzó formalmente el Cybercab, un vehículo de dos plazas sin volante ni pedales destinado a operar como taxi autónomo. El modelo representa un giro estratégico profundo: de fabricante de autos a operador de movilidad-como-servicio. Pocas horas después del lanzamiento, el gobierno federal de EE.UU. abrió una investigación sobre el despliegue.",
+      "por_que_importa": "Es un caso de manual sobre cómo una empresa pivot-ea su modelo de negocio central: pasar de vender vehículos a vender movilidad como servicio implica una transformación completa de propuesta de valor, operaciones y regulación.",
+      "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
       "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Estrategia",
+      "titulo_es": "Tesla busca operadores privados para gestionar flotas de Cybercab: ¿un nuevo modelo de franquicia de movilidad?",
+      "resumen": "Tesla publicó un formulario en su sitio web para identificar personas interesadas en comprar y operar flotas de Cybercab. El movimiento sugiere que la compañía exploraría un modelo híbrido donde terceros gestionan la operación bajo su plataforma tecnológica. Es una señal concreta de cómo Tesla imagina la distribución de su negocio de movilidad autónoma.",
+      "por_que_importa": "El diseño de modelos de negocio con operadores terceros —similar a lo que hizo Uber o Amazon con sus redes logísticas— es una estrategia de escalamiento que estudiantes de innovación deben saber analizar.",
+      "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
+      "categoria": "Tendencias",
+      "titulo_es": "La IA rompe los patrones de compra empresarial y hace que el ARR de las startups sea más volátil que nunca",
+      "resumen": "Una nueva investigación muestra que la irrupción de la IA está fragmentando los ciclos de compra tradicionales en empresas B2B, haciendo que el Annual Recurring Revenue —métrica central para evaluar salud de una startup SaaS— sea menos predecible y estable. Las startups aún no encontraron modelos de monetización adaptados a esta nueva dinámica. El estudio señala que los compradores corporativos experimentan más, contratan más corto y cambian más rápido.",
+      "por_que_importa": "Para quienes quieran construir o analizar startups B2B, entender por qué el modelo SaaS clásico está bajo presión en la era de la IA es fundamental para pensar nuevas estrategias de producto y pricing.",
+      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 13,
+      "categoria": "Producto",
+      "titulo_es": "Meta ofrece un descuento del 95% a usuarios que permitan que sus datos entrenen su nuevo modelo de IA",
+      "resumen": "Para su nuevo modelo Muse Spark —orientado a agentes de código y otras tareas autónomas— Meta implementó un esquema donde los usuarios reciben descuentos promedio del 95% a cambio de que sus interacciones se usen para entrenar versiones futuras del modelo. Es una estrategia de datos-por-precio que revela cómo los labs buscan acelerar el flywheel de mejora de modelos sin depender solo de datasets sintéticos.",
+      "por_que_importa": "Este mecanismo ilustra un modelo de negocio poco convencional en IA donde el usuario paga con datos en lugar de dinero: un patrón que plantea preguntas éticas y estratégicas relevantes para diseñadores de productos digitales.",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Producto",
+      "titulo_es": "Google integra funciones de voz con IA en Gmail, Docs y Keep para búsqueda y redacción conversacional",
+      "resumen": "Google lanzó nuevas funciones de voz impulsadas por IA en sus herramientas de productividad más usadas: Gmail, Google Docs y Keep. Los usuarios podrán buscar correos, redactar documentos y tomar notas mediante comandos conversacionales en lenguaje natural. Es parte de la estrategia de Google de incrustar IA generativa en toda su suite de trabajo.",
+      "por_que_importa": "La integración de IA conversacional en herramientas de uso masivo como Gmail anticipa cómo cambiará la interfaz de trabajo cotidiana, con implicancias directas para el diseño de productos y la productividad organizacional.",
+      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "Por qué los menús generados con IA generan rechazo: el problema de la homogeneidad estética en el contenido artificial",
+      "resumen": "Un análisis de TechCrunch examina por qué los restaurantes que usan IA generativa para crear imágenes de sus menús generan reacción negativa en los clientes, incluso cuando estos no pueden identificar exactamente qué está mal. El fenómeno apunta a una 'sameness problem': los modelos tienden a producir contenido visualmente similar y genérico. El caso ilustra los límites actuales de la IA generativa para reemplazar criterio estético y contexto cultural.",
+      "por_que_importa": "Entender cuándo la IA generativa agrega valor y cuándo destruye percepción de marca es una pregunta estratégica crítica para cualquier equipo de producto o marketing que esté considerando adoptar estas herramientas.",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 19,
+      "categoria": "Tendencias",
+      "titulo_es": "Google lanza WeatherNext 3, su nuevo modelo de predicción climática con IA que se integrará a Maps y Search",
+      "resumen": "Google presentó WeatherNext 3, un modelo meteorológico basado en deep learning que promete mayor precisión en predicciones climáticas locales. El modelo se integrará directamente en Google Search, Google Maps y otras superficies de usuario. Representa la última ola de una transformación más amplia en meteorología impulsada por técnicas de aprendizaje profundo.",
+      "por_que_importa": "La aplicación de IA a dominios científicos como la meteorología —con impacto directo en agricultura, logística y planificación urbana— es un ejemplo concreto de cómo la IA crea nuevo valor en sectores tradicionales relevantes para LatAm.",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
+      "categoria": "Global",
+      "titulo_es": "Las utilities energéticas se alían con startups de fusión nuclear ante la demanda disparada por centros de datos de IA",
+      "resumen": "El crecimiento explosivo de los centros de datos para IA está poniendo bajo presión extrema a las redes eléctricas en EE.UU. y Europa, lo que está llevando a las distribuidoras energéticas a firmar acuerdos con startups de fusión nuclear como Realta Fusion. El patrón muestra cómo una tendencia tecnológica —la IA— genera demanda en sectores completamente distintos y acelera la búsqueda de innovación energética.",
+      "por_que_importa": "La conexión entre IA, infraestructura energética e innovación en sectores tradicionales es un caso de estudio sobre externalidades de plataformas tecnológicas que tiene implicancias directas para pensar el desarrollo de IA en LatAm.",
+      "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Endeavor Argentina abre la convocatoria para la 8ª edición de WE, su programa de aceleración para fundadoras",
+      "resumen": "Endeavor Argentina lanza la octava edición de WE (Women Entrepreneurs), su programa de acompañamiento para mujeres que están construyendo compañías de alto impacto. Después de siete ediciones, el programa consolida su presencia en el ecosistema emprendedor local como una de las iniciativas más reconocidas de desarrollo de liderazgo femenino en negocios. No se especificaron criterios de selección ni fechas límite en el extracto disponible.",
+      "por_que_importa": "Para estudiantes y jóvenes profesionales del ecosistema argentino, conocer los programas de Endeavor es relevante tanto como participantes potenciales como para entender cómo se estructuran iniciativas de desarrollo emprendedor a escala regional.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-programa-mujeres-emprendedoras-fundadoras-we-endeavor/",
+      "fuente": "Endeavor Argentina"
     }
   ]
 }
