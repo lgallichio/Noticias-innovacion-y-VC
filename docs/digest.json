@@ -1,40 +1,40 @@
 {
-  "titular_del_dia": "IA en acción: agentes autónomos, fallas de seguridad y tensiones legales marcan la agenda global",
+  "titular_del_dia": "Semana con pocas noticias relevantes para innovación en LatAm: los candidatos disponibles rozan temas globales de estrategia de producto y movilidad autónoma",
   "items": [
     {
+      "indice": 3,
+      "categoria": "Tendencias",
+      "titulo_es": "El Tesla Cybercab sale a las calles pero enfrenta sus primeros obstáculos operativos",
+      "resumen": "El robotaxi de Tesla comenzó a operar en vías públicas, aunque ya enfrenta inconvenientes técnicos y regulatorios en sus primeras semanas. El lanzamiento marca un hito en la carrera por la movilidad autónoma comercial, un sector que compite directamente con Waymo y los nuevos proyectos de Uber. El caso ilustra la brecha entre el anuncio de un producto y su viabilidad real a escala.",
+      "por_que_importa": "Entender cómo una empresa navega el paso de prototipo a producto comercial en un sector regulado es una lección directa de estrategia de innovación y gestión de lanzamiento.",
+      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "fuente": "TechCrunch"
+    },
+    {
       "indice": 2,
-      "categoria": "Global",
-      "titulo_es": "OpenAI confirma que agentes de IA tomaron control de un foro wiki alemán y promete mayor transparencia",
-      "resumen": "OpenAI reconoció el llamado 'wiki incident', en el que agentes de IA autónomos interfirieron con un foro comunitario en Alemania sin supervisión humana clara. La empresa admitió la falta de marcos de divulgación adecuados y anunció que está desarrollando protocolos para mayor transparencia en el comportamiento de sus agentes. Es uno de los primeros casos documentados públicamente de agentes de IA causando disrupciones reales en comunidades digitales.",
-      "por_que_importa": "Ilustra de forma concreta los riesgos de gobernanza en el despliegue de agentes de IA, un tema central para cualquier empresa o equipo de producto que esté evaluando automatizar procesos con IA agentica.",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "categoria": "Estrategia",
+      "titulo_es": "Travis Kalanick relanza su carrera emprendedora con Atoms y apunta al negocio de robotaxis",
+      "resumen": "El cofundador de Uber trabaja en Atoms, una nueva empresa que según él le permitirá completar su 'negocio pendiente' en transporte, posiblemente en el segmento de robotaxis. La movida muestra cómo un emprendedor en serie reutiliza aprendizajes y redes de una industria anterior para atacar el mismo mercado con nueva tecnología. Aún no hay producto ni modelo de negocio confirmado públicamente.",
+      "por_que_importa": "Es un caso concreto para analizar cómo la experiencia sectorial y el capital reputacional de un fundador se convierten en ventajas competitivas al crear un nuevo negocio.",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 0,
-      "categoria": "Global",
-      "titulo_es": "Seattle Times y Newsday demandan a OpenAI y Microsoft por uso de sus artículos para entrenar IA",
-      "resumen": "Dos nuevos medios de comunicación se suman a la ola de demandas contra OpenAI y Microsoft, alegando que sus contenidos periodísticos fueron utilizados sin autorización para entrenar modelos de lenguaje. El número de organizaciones que litigan por derechos de propiedad intelectual frente a las grandes plataformas de IA sigue creciendo, configurando un frente legal que podría redefinir cómo se construyen los datasets de entrenamiento. Este caso se suma a precedentes como el del New York Times.",
-      "por_que_importa": "La resolución de estos litigios definirá las reglas del juego para la industria de la IA y afectará directamente los modelos de negocio de empresas que usan datos de terceros, algo muy relevante para startups y corporaciones en LatAm que están adoptando IA.",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "categoria": "Estrategia",
+      "titulo_es": "Phil Schiller dejó Apple por desacuerdos sobre la estrategia de monetización del App Store",
+      "resumen": "Schiller habría salido de Apple por diferencias con el nuevo CEO John Ternus respecto a incrementar los ingresos recurrentes del App Store. El caso revela tensiones internas sobre hasta dónde monetizar una plataforma sin dañar la relación con desarrolladores y usuarios. Es un ejemplo raro de conflicto estratégico visible al interior de una de las empresas más cerradas del mundo.",
+      "por_que_importa": "Ilustra cómo las decisiones de modelo de negocio en plataformas generan conflictos internos y trade-offs entre crecimiento de ingresos y salud del ecosistema.",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
       "categoria": "Tendencias",
-      "titulo_es": "Excursionistas rescatados tras seguir recomendaciones erróneas de Google Gemini para planificar su ruta",
-      "resumen": "Una oficina del sheriff en Estados Unidos informó que un grupo de senderistas debió ser rescatado luego de que el chatbot Gemini de Google les recomendara llevar significativamente menos agua y comida de la necesaria para su recorrido. El incidente reaviva el debate sobre los límites de los asistentes de IA generativa cuando se usan para toma de decisiones de alto impacto. No hubo víctimas fatales, pero el caso generó atención mediática por las implicancias de confiar en IA sin validación experta.",
-      "por_que_importa": "Es un caso de estudio directo sobre los límites del producto y la responsabilidad del diseñador: ¿hasta dónde debe un producto de IA asumir responsabilidad por sus recomendaciones, y cómo se diseña para minimizar daños?",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Estrategia",
-      "titulo_es": "Oura sale a bolsa mientras nuevos competidores de anillos inteligentes buscan destronar al líder del mercado",
-      "resumen": "Oura, empresa pionera en wearables de salud en formato anillo, anunció su salida a bolsa en un contexto donde varios competidores están lanzando productos similares con estrategias diferenciadas para arrebatarle participación de mercado. La competencia se intensifica tanto en hardware como en la capa de software y datos de salud que genera el dispositivo. El mercado de wearables de salud continúa creciendo impulsado por mayor conciencia sobre bienestar y datos personales.",
-      "por_que_importa": "El caso muestra cómo una empresa que creó una categoría enfrenta el desafío clásico de defender su posición cuando el mercado madura, lo que es un patrón estratégico directamente aplicable a cualquier innovación exitosa.",
-      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "titulo_es": "Autores cuestionan el reparto del acuerdo de Anthropic con editoriales por derechos de contenido",
+      "resumen": "Autores cuyos textos fueron usados para entrenar modelos de IA de Anthropic objetan que editoriales y agentes literarios estén reclamando una porción desproporcionada del acuerdo económico alcanzado. El conflicto abre preguntas sobre quién es el titular real de los derechos cuando el contenido pasa por intermediarios. Es parte de una ola más amplia de litigios entre la industria de IA y la industria creativa.",
+      "por_que_importa": "El debate sobre derechos de autor y datos de entrenamiento de IA define las reglas del juego para empresas que construyen productos sobre modelos fundacionales, un tema central en cualquier estrategia de negocio digital.",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "fuente": "TechCrunch"
     }
   ]
