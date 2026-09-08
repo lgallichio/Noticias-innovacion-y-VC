@@ -1,40 +1,40 @@
 {
-  "titular_del_dia": "Semana con pocas noticias relevantes para innovación en LatAm: los candidatos disponibles rozan temas globales de estrategia de producto y movilidad autónoma",
+  "titular_del_dia": "IA aplicada a sectores físicos: construcción, aeroespacial y energía nuclear marcan la agenda de innovación global",
   "items": [
     {
-      "indice": 3,
+      "indice": 4,
+      "categoria": "Producto",
+      "titulo_es": "NavigateAI lleva copilots de IA a la obra: cómo resolver la escasez de mano de obra en construcción",
+      "resumen": "NavigateAI, fundada por Eric Wu (ex-CEO de Opendoor), desarrolla asistentes de IA que proveen información en tiempo real y manos libres a trabajadores de la construcción, apuntando a un sector con crónica falta de mano de obra calificada. El modelo busca aumentar la productividad de trabajadores existentes en lugar de reemplazarlos. La construcción es uno de los sectores menos digitalizados del mundo, lo que abre una oportunidad enorme en LatAm donde el déficit habitacional y de infraestructura es crítico.",
+      "por_que_importa": "Ilustra cómo aplicar IA generativa a industrias tradicionales con problemas estructurales de productividad, un patrón de innovación directamente replicable en Argentina y la región.",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
       "categoria": "Tendencias",
-      "titulo_es": "El Tesla Cybercab sale a las calles pero enfrenta sus primeros obstáculos operativos",
-      "resumen": "El robotaxi de Tesla comenzó a operar en vías públicas, aunque ya enfrenta inconvenientes técnicos y regulatorios en sus primeras semanas. El lanzamiento marca un hito en la carrera por la movilidad autónoma comercial, un sector que compite directamente con Waymo y los nuevos proyectos de Uber. El caso ilustra la brecha entre el anuncio de un producto y su viabilidad real a escala.",
-      "por_que_importa": "Entender cómo una empresa navega el paso de prototipo a producto comercial en un sector regulado es una lección directa de estrategia de innovación y gestión de lanzamiento.",
-      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "titulo_es": "Glosario esencial de IA: los términos clave que todo profesional de negocios debería conocer",
+      "resumen": "TechCrunch publicó un glosario actualizado con definiciones de los conceptos más relevantes del ecosistema de inteligencia artificial, desde alucinaciones hasta recurrencia opaca. El recurso está orientado a quienes trabajan en negocios y producto, no solo a perfiles técnicos. En un contexto donde la IA domina la agenda de estrategia empresarial, manejar el vocabulario es condición mínima para participar de las conversaciones.",
+      "por_que_importa": "Tener dominio del lenguaje de IA es hoy una competencia básica para cualquier estudiante de innovación que quiera trabajar en producto, estrategia o consultoría.",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 2,
       "categoria": "Estrategia",
-      "titulo_es": "Travis Kalanick relanza su carrera emprendedora con Atoms y apunta al negocio de robotaxis",
-      "resumen": "El cofundador de Uber trabaja en Atoms, una nueva empresa que según él le permitirá completar su 'negocio pendiente' en transporte, posiblemente en el segmento de robotaxis. La movida muestra cómo un emprendedor en serie reutiliza aprendizajes y redes de una industria anterior para atacar el mismo mercado con nueva tecnología. Aún no hay producto ni modelo de negocio confirmado públicamente.",
-      "por_que_importa": "Es un caso concreto para analizar cómo la experiencia sectorial y el capital reputacional de un fundador se convierten en ventajas competitivas al crear un nuevo negocio.",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "titulo_es": "Poseidon Aerospace apuesta por drones de carga sin piloto para rediseñar la economía del transporte aéreo",
+      "resumen": "Poseidon Aerospace está desarrollando aeronaves de carga no tripuladas con el objetivo de eliminar el costo del piloto, uno de los mayores gastos operativos de la aviación comercial. La propuesta de valor no es tecnológica en sí misma sino de modelo de negocio: bajar el break-even del flete aéreo para rutas que hoy no son viables. El modelo tiene implicancias directas para logística en regiones geográficamente complejas como la Patagonia o el interior de Brasil.",
+      "por_que_importa": "Es un caso claro de cómo rediseñar la economía de un sector quitando un insumo clave, un ejercicio de pensamiento estratégico aplicable a múltiples industrias en LatAm.",
+      "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 0,
+      "indice": 6,
       "categoria": "Estrategia",
-      "titulo_es": "Phil Schiller dejó Apple por desacuerdos sobre la estrategia de monetización del App Store",
-      "resumen": "Schiller habría salido de Apple por diferencias con el nuevo CEO John Ternus respecto a incrementar los ingresos recurrentes del App Store. El caso revela tensiones internas sobre hasta dónde monetizar una plataforma sin dañar la relación con desarrolladores y usuarios. Es un ejemplo raro de conflicto estratégico visible al interior de una de las empresas más cerradas del mundo.",
-      "por_que_importa": "Ilustra cómo las decisiones de modelo de negocio en plataformas generan conflictos internos y trade-offs entre crecimiento de ingresos y salud del ecosistema.",
-      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Tendencias",
-      "titulo_es": "Autores cuestionan el reparto del acuerdo de Anthropic con editoriales por derechos de contenido",
-      "resumen": "Autores cuyos textos fueron usados para entrenar modelos de IA de Anthropic objetan que editoriales y agentes literarios estén reclamando una porción desproporcionada del acuerdo económico alcanzado. El conflicto abre preguntas sobre quién es el titular real de los derechos cuando el contenido pasa por intermediarios. Es parte de una ola más amplia de litigios entre la industria de IA y la industria creativa.",
-      "por_que_importa": "El debate sobre derechos de autor y datos de entrenamiento de IA define las reglas del juego para empresas que construyen productos sobre modelos fundacionales, un tema central en cualquier estrategia de negocio digital.",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "titulo_es": "Nuevo documental sobre Elizabeth Holmes ofrece acceso inédito a la fundadora de Theranos",
+      "resumen": "El documental 'You Can See Everything', dirigido por Nathan Fielder y Lance Oppenheimer, se estrenó en el Festival de Telluride con acceso directo a Elizabeth Holmes, fundadora de Theranos. El caso Theranos sigue siendo uno de los estudios más citados sobre los riesgos del storytelling como estrategia de negocio sin sustento en producto real. La nueva perspectiva promete agregar capas al análisis de cómo se construyó y colapsó uno de los fraudes corporativos más estudiados en escuelas de negocios.",
+      "por_que_importa": "El caso Theranos es referencia obligada en cursos de ética empresarial e innovación; este documental puede aportar material nuevo para analizar narrativa, liderazgo y gobernanza.",
+      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
       "fuente": "TechCrunch"
     }
   ]
