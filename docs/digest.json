@@ -1,40 +1,94 @@
 {
-  "titular_del_dia": "IA aplicada a sectores físicos: construcción, aeroespacial y energía nuclear marcan la agenda de innovación global",
+  "titular_del_dia": "La IA redefine productos de consumo y seguridad empresarial: de asistentes de compras a agentes personales con acceso total",
   "items": [
     {
-      "indice": 4,
+      "indice": 13,
       "categoria": "Producto",
-      "titulo_es": "NavigateAI lleva copilots de IA a la obra: cómo resolver la escasez de mano de obra en construcción",
-      "resumen": "NavigateAI, fundada por Eric Wu (ex-CEO de Opendoor), desarrolla asistentes de IA que proveen información en tiempo real y manos libres a trabajadores de la construcción, apuntando a un sector con crónica falta de mano de obra calificada. El modelo busca aumentar la productividad de trabajadores existentes en lugar de reemplazarlos. La construcción es uno de los sectores menos digitalizados del mundo, lo que abre una oportunidad enorme en LatAm donde el déficit habitacional y de infraestructura es crítico.",
-      "por_que_importa": "Ilustra cómo aplicar IA generativa a industrias tradicionales con problemas estructurales de productividad, un patrón de innovación directamente replicable en Argentina y la región.",
-      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "titulo_es": "Meta lanza Muse, su agente de IA personal con acceso a email, calendario y pagos",
+      "resumen": "Meta presentó Muse, un agente de IA conversacional que solicita acceso a correo, calendario, servicios de salud y pagos del usuario. Es la apuesta de IA de consumo más ambiciosa de la empresa hasta el momento. El lanzamiento plantea una pregunta estratégica central: ¿los usuarios confiarán en Meta con ese nivel de datos?",
+      "por_que_importa": "Muse representa un nuevo modelo de producto donde el valor proviene del acceso a datos personales integrados, un desafío de diseño, estrategia y confianza que cualquier innovador de producto necesita entender.",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 5,
-      "categoria": "Tendencias",
-      "titulo_es": "Glosario esencial de IA: los términos clave que todo profesional de negocios debería conocer",
-      "resumen": "TechCrunch publicó un glosario actualizado con definiciones de los conceptos más relevantes del ecosistema de inteligencia artificial, desde alucinaciones hasta recurrencia opaca. El recurso está orientado a quienes trabajan en negocios y producto, no solo a perfiles técnicos. En un contexto donde la IA domina la agenda de estrategia empresarial, manejar el vocabulario es condición mínima para participar de las conversaciones.",
-      "por_que_importa": "Tener dominio del lenguaje de IA es hoy una competencia básica para cualquier estudiante de innovación que quiera trabajar en producto, estrategia o consultoría.",
-      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "indice": 16,
+      "categoria": "Estrategia",
+      "titulo_es": "Google Cloud se asocia con Accenture para acelerar la adopción empresarial de IA",
+      "resumen": "Google Cloud anunció una alianza con Accenture para desplegar IA en empresas usando ingenieros especializados en implementación directa. La estrategia apunta a superar los cuellos de botella de adopción que frenan a los clientes corporativos. El movimiento refleja que el verdadero desafío ya no es construir modelos sino lograr que las organizaciones los usen.",
+      "por_que_importa": "Ilustra un patrón clave de innovación corporativa: la brecha entre tecnología disponible y adopción real, y cómo las empresas grandes están apostando a partnerships de implementación para cerrarla.",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 19,
+      "categoria": "Global",
+      "titulo_es": "Mistral recauda €3.000 millones: la IA soberana se convierte en negocio de escala",
+      "resumen": "El laboratorio francés Mistral AI cerró una Serie D de €3.000 millones liderada por Samsung, PSG Equity y Scaleup Europe, alcanzando una valuación de €21.000 millones. El hito consolida el concepto de 'IA soberana' —modelos desarrollados fuera de EE.UU. como alternativa estratégica para gobiernos y empresas. Es considerada la ronda de IA europea más grande de la historia.",
+      "por_que_importa": "La IA soberana es una tendencia con implicancias directas para LatAm: gobiernos y empresas de la región enfrentan la misma pregunta sobre dependencia tecnológica versus autonomía estratégica.",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 2,
-      "categoria": "Estrategia",
-      "titulo_es": "Poseidon Aerospace apuesta por drones de carga sin piloto para rediseñar la economía del transporte aéreo",
-      "resumen": "Poseidon Aerospace está desarrollando aeronaves de carga no tripuladas con el objetivo de eliminar el costo del piloto, uno de los mayores gastos operativos de la aviación comercial. La propuesta de valor no es tecnológica en sí misma sino de modelo de negocio: bajar el break-even del flete aéreo para rutas que hoy no son viables. El modelo tiene implicancias directas para logística en regiones geográficamente complejas como la Patagonia o el interior de Brasil.",
-      "por_que_importa": "Es un caso claro de cómo rediseñar la economía de un sector quitando un insumo clave, un ejercicio de pensamiento estratégico aplicable a múltiples industrias en LatAm.",
-      "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "categoria": "Producto",
+      "titulo_es": "Instacart integra un asistente de IA conversacional llamado Clementine para compras de supermercado",
+      "resumen": "Instacart lanzó Clementine, un asistente de IA embebido en su app que permite hacer compras de supermercado mediante conversación natural. El producto sigue la tendencia de plataformas de e-commerce que incorporan interfaces conversacionales como capa principal de experiencia. Es un caso concreto de cómo la IA transforma el funnel de conversión en retail.",
+      "por_que_importa": "Muestra cómo empresas de comercio digital están rediseñando su experiencia de producto alrededor de IA generativa, un patrón replicable en marketplaces y apps de LatAm.",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 6,
       "categoria": "Estrategia",
-      "titulo_es": "Nuevo documental sobre Elizabeth Holmes ofrece acceso inédito a la fundadora de Theranos",
-      "resumen": "El documental 'You Can See Everything', dirigido por Nathan Fielder y Lance Oppenheimer, se estrenó en el Festival de Telluride con acceso directo a Elizabeth Holmes, fundadora de Theranos. El caso Theranos sigue siendo uno de los estudios más citados sobre los riesgos del storytelling como estrategia de negocio sin sustento en producto real. La nueva perspectiva promete agregar capas al análisis de cómo se construyó y colapsó uno de los fraudes corporativos más estudiados en escuelas de negocios.",
-      "por_que_importa": "El caso Theranos es referencia obligada en cursos de ética empresarial e innovación; este documental puede aportar material nuevo para analizar narrativa, liderazgo y gobernanza.",
-      "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "titulo_es": "Suno reemplaza sus modelos de IA musical por uno entrenado solo con música con licencia",
+      "resumen": "Frente a múltiples demandas de derechos de autor, Suno lanzó Suno v6, su nuevo modelo de generación musical entrenado exclusivamente con música licenciada. El cambio representa un pivote estratégico forzado por el entorno legal, pero también una potencial ventaja competitiva a largo plazo. El caso ilustra cómo la propiedad intelectual está redefiniendo los modelos de negocio de IA generativa.",
+      "por_que_importa": "Es un caso de libro sobre cómo las restricciones regulatorias y legales obligan a innovar en el modelo de negocio, algo central para emprendedores que trabajan con IA y contenido.",
+      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 3,
+      "categoria": "Estrategia",
+      "titulo_es": "Autonomy pivota de autos eléctricos a nafta para mantener vivo el modelo de suscripción de vehículos",
+      "resumen": "Autonomy, la startup de suscripciones de autos fundada por Scott Painter (creador de TrueCar), cambió su foco de vehículos eléctricos a autos de combustión interna para sostener su modelo de negocio. El pivote responde a la desaceleración del mercado EV y muestra resiliencia en la búsqueda de product-market fit. La propuesta de valor —suscribirse a un auto y cancelar cuando quieras— se mantiene intacta.",
+      "por_que_importa": "Un ejemplo concreto y reciente de pivote estratégico: cuándo mantener la visión y cuándo cambiar el vehículo (literalmente) para llegar a ella.",
+      "link": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 15,
+      "categoria": "Global",
+      "titulo_es": "Un matemático de NYU acusa a OpenAI de jugar sucio en la competencia por resolver un problema de $1 millón",
+      "resumen": "Un matemático de la NYU denunció que OpenAI actuó de manera desleal en torno al Premio del Milenio Navier-Stokes, que ofrece $1 millón al primero en resolver el problema. La disputa expone tensiones entre instituciones académicas y laboratorios de IA que compiten por los mismos problemas científicos de frontera. El caso abre preguntas sobre ética, crédito intelectual y los límites de la competencia en IA.",
+      "por_que_importa": "Plantea dilemas éticos y de gobernanza en IA que son cada vez más relevantes para quienes piensan en innovación responsable y en cómo las grandes empresas tecnológicas interactúan con la academia.",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Global",
+      "titulo_es": "Besxar construye una fábrica orbital de semiconductores a bordo de cohetes Falcon 9",
+      "resumen": "La startup Besxar está desarrollando instalaciones de manufactura de chips en el espacio, lanzadas en cohetes Falcon 9 de SpaceX, para fabricar semiconductores en órbita y traerlos de regreso. El modelo aprovecha condiciones únicas del espacio —microgravedad y vacío— para producir chips imposibles de fabricar en tierra. Es un ejemplo extremo de innovación en modelos de manufactura y cadena de suministro.",
+      "por_que_importa": "Ilustra cómo la convergencia de acceso espacial abaratado e innovación de manufactura puede crear categorías de negocio completamente nuevas, un ejercicio de pensamiento estratégico sobre industrias emergentes.",
+      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
+      "categoria": "Tendencias",
+      "titulo_es": "Cognition alcanza valuación de $48.000 millones: los inversores apuestan a que la IA para código no tiene un único ganador",
+      "resumen": "Cognition, empresa de IA para programación, fue valuada en $48.000 millones, superando el múltiplo que tenía Cursor antes de ser adquirida por SpaceX. El dato señala que los inversores creen que el mercado de herramientas de IA para desarrollo de software tendrá múltiples actores relevantes, no un monopolio. El segmento de 'AI coding' se consolida como uno de los más competitivos de la industria.",
+      "por_que_importa": "Entender la dinámica competitiva de mercados de herramientas para desarrolladores es clave para quienes piensan en estrategia de producto en un ecosistema donde la IA está rehaciendo cómo se construye software.",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "Sequoia apuesta por Cymphony ante los nuevos riesgos de seguridad que crean los agentes de IA empresarial",
+      "resumen": "Cymphony, una startup de ciberseguridad enfocada en los riesgos que generan los agentes de IA autónomos dentro de empresas, cerró una Serie A de $25 millones co-liderada por Sequoia y SMBC Fin Atlas, con una valuación superior a $100 millones. El producto responde a una brecha emergente: cuanto más poder tienen los agentes de IA, mayor es la superficie de ataque corporativa. Es un caso de innovación impulsada por el propio avance tecnológico que busca resolver.",
+      "por_que_importa": "Muestra cómo cada ola tecnológica crea nuevas categorías de negocio adyacentes —en este caso, seguridad— y cómo identificar esas brechas es una habilidad estratégica central para innovadores.",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
       "fuente": "TechCrunch"
     }
   ]
