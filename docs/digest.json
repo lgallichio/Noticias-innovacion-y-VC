@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "La IA redefine productos de consumo y seguridad empresarial: de asistentes de compras a agentes personales con acceso total",
+  "titular_del_dia": "Apple lanza su primer iPhone plegable y lleva la IA ambiental al Apple Watch, redefiniendo la estrategia de producto en hardware",
   "items": [
     {
-      "indice": 13,
-      "categoria": "Producto",
-      "titulo_es": "Meta lanza Muse, su agente de IA personal con acceso a email, calendario y pagos",
-      "resumen": "Meta presentó Muse, un agente de IA conversacional que solicita acceso a correo, calendario, servicios de salud y pagos del usuario. Es la apuesta de IA de consumo más ambiciosa de la empresa hasta el momento. El lanzamiento plantea una pregunta estratégica central: ¿los usuarios confiarán en Meta con ese nivel de datos?",
-      "por_que_importa": "Muse representa un nuevo modelo de producto donde el valor proviene del acceso a datos personales integrados, un desafío de diseño, estrategia y confianza que cualquier innovador de producto necesita entender.",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 16,
+      "indice": 11,
       "categoria": "Estrategia",
-      "titulo_es": "Google Cloud se asocia con Accenture para acelerar la adopción empresarial de IA",
-      "resumen": "Google Cloud anunció una alianza con Accenture para desplegar IA en empresas usando ingenieros especializados en implementación directa. La estrategia apunta a superar los cuellos de botella de adopción que frenan a los clientes corporativos. El movimiento refleja que el verdadero desafío ya no es construir modelos sino lograr que las organizaciones los usen.",
-      "por_que_importa": "Ilustra un patrón clave de innovación corporativa: la brecha entre tecnología disponible y adopción real, y cómo las empresas grandes están apostando a partnerships de implementación para cerrarla.",
-      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 19,
-      "categoria": "Global",
-      "titulo_es": "Mistral recauda €3.000 millones: la IA soberana se convierte en negocio de escala",
-      "resumen": "El laboratorio francés Mistral AI cerró una Serie D de €3.000 millones liderada por Samsung, PSG Equity y Scaleup Europe, alcanzando una valuación de €21.000 millones. El hito consolida el concepto de 'IA soberana' —modelos desarrollados fuera de EE.UU. como alternativa estratégica para gobiernos y empresas. Es considerada la ronda de IA europea más grande de la historia.",
-      "por_que_importa": "La IA soberana es una tendencia con implicancias directas para LatAm: gobiernos y empresas de la región enfrentan la misma pregunta sobre dependencia tecnológica versus autonomía estratégica.",
-      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
-      "categoria": "Producto",
-      "titulo_es": "Instacart integra un asistente de IA conversacional llamado Clementine para compras de supermercado",
-      "resumen": "Instacart lanzó Clementine, un asistente de IA embebido en su app que permite hacer compras de supermercado mediante conversación natural. El producto sigue la tendencia de plataformas de e-commerce que incorporan interfaces conversacionales como capa principal de experiencia. Es un caso concreto de cómo la IA transforma el funnel de conversión en retail.",
-      "por_que_importa": "Muestra cómo empresas de comercio digital están rediseñando su experiencia de producto alrededor de IA generativa, un patrón replicable en marketplaces y apps de LatAm.",
-      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Estrategia",
-      "titulo_es": "Suno reemplaza sus modelos de IA musical por uno entrenado solo con música con licencia",
-      "resumen": "Frente a múltiples demandas de derechos de autor, Suno lanzó Suno v6, su nuevo modelo de generación musical entrenado exclusivamente con música licenciada. El cambio representa un pivote estratégico forzado por el entorno legal, pero también una potencial ventaja competitiva a largo plazo. El caso ilustra cómo la propiedad intelectual está redefiniendo los modelos de negocio de IA generativa.",
-      "por_que_importa": "Es un caso de libro sobre cómo las restricciones regulatorias y legales obligan a innovar en el modelo de negocio, algo central para emprendedores que trabajan con IA y contenido.",
-      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 3,
-      "categoria": "Estrategia",
-      "titulo_es": "Autonomy pivota de autos eléctricos a nafta para mantener vivo el modelo de suscripción de vehículos",
-      "resumen": "Autonomy, la startup de suscripciones de autos fundada por Scott Painter (creador de TrueCar), cambió su foco de vehículos eléctricos a autos de combustión interna para sostener su modelo de negocio. El pivote responde a la desaceleración del mercado EV y muestra resiliencia en la búsqueda de product-market fit. La propuesta de valor —suscribirse a un auto y cancelar cuando quieras— se mantiene intacta.",
-      "por_que_importa": "Un ejemplo concreto y reciente de pivote estratégico: cuándo mantener la visión y cuándo cambiar el vehículo (literalmente) para llegar a ella.",
-      "link": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
+      "titulo_es": "El nuevo CEO de Apple revive la estrategia de Steve Jobs para defender al iPhone en la era de la IA",
+      "resumen": "John Ternus, en su primer keynote como CEO de Apple, articuló una visión estratégica clara: el iPhone sigue siendo el núcleo del ecosistema de la compañía, en contraste con quienes especulaban sobre su declive frente a nuevos dispositivos de IA. La estrategia apunta a integrar inteligencia artificial profundamente en el hardware existente en lugar de apostar por dispositivos radicalmente nuevos. El enfoque recuerda al 'hub digital' que Jobs defendió en 2001 alrededor del Mac.",
+      "por_que_importa": "Es un caso de libro sobre cómo una empresa madura define y comunica su estrategia de producto ante disrupciones tecnológicas, algo central para quienes estudian innovación corporativa.",
+      "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 15,
+      "categoria": "Producto",
+      "titulo_es": "Apple usó IA y manufactura aditiva para diseñar la bisagra de su primer iPhone plegable",
+      "resumen": "Apple reveló que el proceso de ingeniería de la bisagra del iPhone Duo —su primer teléfono plegable— incorporó inteligencia artificial para optimizar el diseño mecánico junto con impresión 3D para acelerar la iteración de prototipos. Este caso ilustra cómo la IA está transformando el proceso de desarrollo de hardware, no solo de software. Es uno de los primeros ejemplos públicos de una empresa de consumo masivo aplicando IA generativa directamente al diseño industrial.",
+      "por_que_importa": "Muestra una aplicación concreta de IA en desarrollo de producto físico, un área donde el impacto suele ser menos visible pero enormemente estratégico.",
+      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 12,
+      "categoria": "Tendencias",
+      "titulo_es": "El Apple Watch que escucha tus conversaciones y las resume: IA ambiental y nuevas tensiones sobre privacidad",
+      "resumen": "Las nuevas funciones de 'Audio Intelligence' del Apple Watch Serie 12 permiten transcribir y resumir conversaciones recientes sin grabar audio en bruto, según Apple. El lanzamiento abre un debate sobre consentimiento y vigilancia pasiva que va más allá del gadget: normaliza la idea de tecnología siempre activa en contextos cotidianos. Reguladores y académicos ya anticipan revisiones a marcos de privacidad como el GDPR y sus equivalentes latinoamericanos.",
+      "por_que_importa": "La tensión entre valor para el usuario y privacidad es un dilema de diseño de producto y regulación que cualquier innovador en LatAm necesita entender hoy.",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 21,
+      "categoria": "Ecosistema AR | LatAm",
+      "titulo_es": "Cómo medir un ecosistema de innovación: las lecciones de Corea del Sur para América Latina",
+      "resumen": "Alberto Onetti, chairman de Mind the Bridge, analiza cómo Corea del Sur se convirtió en el octavo ecosistema de innovación más grande del mundo mediante inversión pública sostenida, desarrollo de startups y políticas de internacionalización. El artículo propone métricas concretas para evaluar ecosistemas nacionales, relevantes para comparar el avance de Argentina, Brasil o Colombia. El caso coreano destaca la articulación entre universidades, corporaciones y Estado como palanca clave.",
+      "por_que_importa": "Ofrece un marco analítico replicable para evaluar el ecosistema argentino y latinoamericano, útil tanto para investigación académica como para diseño de política pública.",
+      "link": "https://news.crunchbase.com/venture/measure-innovation-ecosystem-south-korea-onetti-mind-the-bridge/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 9,
+      "categoria": "Tendencias",
+      "titulo_es": "OpenAI suma a su directorio a un investigador de alineación de IA, acercando la seguridad al núcleo estratégico",
+      "resumen": "Paul Christiano, uno de los investigadores más influyentes en alineación de IA y reconocido por posiciones cautelosas sobre los riesgos de sistemas avanzados, se incorpora al directorio de la OpenAI Foundation. El movimiento señala un giro en la gobernanza de la organización luego de años de tensiones internas sobre velocidad versus seguridad en el desarrollo. Es una decisión con implicancias directas en cómo la IA será regulada y desplegada globalmente, incluyendo en LatAm.",
+      "por_que_importa": "La gobernanza de las empresas de IA define qué productos llegan al mercado y bajo qué condiciones: entender este tablero es clave para cualquier estratega de negocios digitales.",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
       "categoria": "Global",
-      "titulo_es": "Un matemático de NYU acusa a OpenAI de jugar sucio en la competencia por resolver un problema de $1 millón",
-      "resumen": "Un matemático de la NYU denunció que OpenAI actuó de manera desleal en torno al Premio del Milenio Navier-Stokes, que ofrece $1 millón al primero en resolver el problema. La disputa expone tensiones entre instituciones académicas y laboratorios de IA que compiten por los mismos problemas científicos de frontera. El caso abre preguntas sobre ética, crédito intelectual y los límites de la competencia en IA.",
-      "por_que_importa": "Plantea dilemas éticos y de gobernanza en IA que son cada vez más relevantes para quienes piensan en innovación responsable y en cómo las grandes empresas tecnológicas interactúan con la academia.",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "titulo_es": "Google cierra su mayor acuerdo de créditos de carbono de metano en arrozales con una startup india",
+      "resumen": "Google firmó un acuerdo de cuatro años con Mitti Labs, startup india especializada en reducción de emisiones de metano en cultivos de arroz, cubriendo cerca de 100.000 hectáreas en tres estados del país. Es el acuerdo de créditos de carbono de este tipo más grande suscripto por Google hasta la fecha. El modelo combina tecnología de medición satelital con incentivos económicos para pequeños agricultores, un esquema potencialmente replicable en zonas arroceras de LatAm como el NEA argentino o el sur de Brasil.",
+      "por_que_importa": "Ilustra cómo los mercados de carbono y la tecnología climática están creando nuevos modelos de negocio con escala global, con alta relevancia para la agroindustria regional.",
+      "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 10,
+      "categoria": "Tendencias",
+      "titulo_es": "Massachusetts regula los centros de datos con exigencias de energía limpia: una tendencia que avanza en EE.UU.",
+      "resumen": "Massachusetts se convirtió en el tercer estado norteamericano en menos de tres meses en imponer restricciones ambientales al desarrollo de data centers, exigiendo requisitos de energía renovable y eficiencia hídrica. La regulación responde al crecimiento explosivo de la demanda eléctrica impulsada por cargas de IA. La tendencia tiene implicancias directas para Argentina y LatAm, donde la expansión de infraestructura de IA podría enfrentar marcos regulatorios similares o encontrar ventajas comparativas en energía renovable.",
+      "por_que_importa": "La infraestructura energética se está convirtiendo en una variable estratégica para la IA y los negocios digitales, incluso en decisiones de localización de inversiones en la región.",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 20,
+      "categoria": "Producto",
+      "titulo_es": "Apple lanza una herramienta para verificar si una foto fue editada con IA",
+      "resumen": "Apple Reference Image es una nueva función que permite a los usuarios verificar si una imagen tomada con iPhone fue alterada, incluyendo modificaciones generadas por IA, comparando versiones del archivo. El lanzamiento responde a la creciente preocupación por la autenticidad visual en contextos periodísticos, legales y comerciales. Es parte de una tendencia más amplia de herramientas de 'proveniencia digital' que buscan contrarrestar la desinformación generada por IA.",
+      "por_que_importa": "La confianza en el contenido digital es un problema de diseño de producto y de negocios que afecta desde medios hasta e-commerce y servicios legales en la región.",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 5,
-      "categoria": "Global",
-      "titulo_es": "Besxar construye una fábrica orbital de semiconductores a bordo de cohetes Falcon 9",
-      "resumen": "La startup Besxar está desarrollando instalaciones de manufactura de chips en el espacio, lanzadas en cohetes Falcon 9 de SpaceX, para fabricar semiconductores en órbita y traerlos de regreso. El modelo aprovecha condiciones únicas del espacio —microgravedad y vacío— para producir chips imposibles de fabricar en tierra. Es un ejemplo extremo de innovación en modelos de manufactura y cadena de suministro.",
-      "por_que_importa": "Ilustra cómo la convergencia de acceso espacial abaratado e innovación de manufactura puede crear categorías de negocio completamente nuevas, un ejercicio de pensamiento estratégico sobre industrias emergentes.",
-      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "categoria": "Estrategia",
+      "titulo_es": "Fundadores y fondos europeos presionan para que el estatuto 'EU Inc' no se diluya en las negociaciones",
+      "resumen": "Una carta abierta firmada por fundadores de unicornios y grandes inversores europeos advierte a legisladores de la UE que el nuevo estatus corporativo paneuropeo 'EU Inc' —pensado para simplificar la creación de empresas transfronterizas— no debe quedar vacío de contenido por presiones de estados miembro. La iniciativa busca reducir la fricción legal y fiscal que lleva a startups europeas a incorporarse en Delaware o el Reino Unido. El debate ofrece un espejo para analizar los marcos regulatorios que afectan al ecosistema emprendedor en Argentina y LatAm.",
+      "por_que_importa": "El diseño institucional y regulatorio es tan determinante para la innovación como la tecnología misma, y este caso europeo es un laboratorio de política pública para la región.",
+      "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 11,
+      "indice": 2,
       "categoria": "Tendencias",
-      "titulo_es": "Cognition alcanza valuación de $48.000 millones: los inversores apuestan a que la IA para código no tiene un único ganador",
-      "resumen": "Cognition, empresa de IA para programación, fue valuada en $48.000 millones, superando el múltiplo que tenía Cursor antes de ser adquirida por SpaceX. El dato señala que los inversores creen que el mercado de herramientas de IA para desarrollo de software tendrá múltiples actores relevantes, no un monopolio. El segmento de 'AI coding' se consolida como uno de los más competitivos de la industria.",
-      "por_que_importa": "Entender la dinámica competitiva de mercados de herramientas para desarrolladores es clave para quienes piensan en estrategia de producto en un ecosistema donde la IA está rehaciendo cómo se construye software.",
-      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Tendencias",
-      "titulo_es": "Sequoia apuesta por Cymphony ante los nuevos riesgos de seguridad que crean los agentes de IA empresarial",
-      "resumen": "Cymphony, una startup de ciberseguridad enfocada en los riesgos que generan los agentes de IA autónomos dentro de empresas, cerró una Serie A de $25 millones co-liderada por Sequoia y SMBC Fin Atlas, con una valuación superior a $100 millones. El producto responde a una brecha emergente: cuanto más poder tienen los agentes de IA, mayor es la superficie de ataque corporativa. Es un caso de innovación impulsada por el propio avance tecnológico que busca resolver.",
-      "por_que_importa": "Muestra cómo cada ola tecnológica crea nuevas categorías de negocio adyacentes —en este caso, seguridad— y cómo identificar esas brechas es una habilidad estratégica central para innovadores.",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "titulo_es": "Brecha masiva en IDScan expone más de 150 millones de licencias de conducir y documentos de identidad",
+      "resumen": "IDScan, empresa líder en verificación de identidad digital, confirmó una filtración que comprometió nombres completos, licencias de conducir y otros documentos de identidad de más de 150 millones de personas. El incidente es uno de los más grandes registrados en el sector de identidad digital y pone en cuestión los modelos de centralización de datos sensibles. Para el ecosistema fintech y de identidad digital en LatAm —donde la verificación remota creció exponencialmente desde 2020— el caso es una alerta sobre arquitectura de datos y gestión de riesgo.",
+      "por_que_importa": "La seguridad en identidad digital no es solo un problema técnico sino un riesgo de modelo de negocio crítico para cualquier empresa que opere con datos de usuarios en la región.",
+      "link": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
       "fuente": "TechCrunch"
     }
   ]
