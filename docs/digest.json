@@ -1,94 +1,49 @@
 {
-  "titular_del_dia": "El costo oculto de la IA en las empresas: $3.000 por ingeniero al mes pone en jaque la viabilidad del despliegue a escala",
+  "titular_del_dia": "Los líderes de IA proponen frenar el ritmo de desarrollo: ¿regulación voluntaria o nueva era de la industria?",
   "items": [
     {
-      "indice": 0,
-      "categoria": "LatAm",
-      "titulo_es": "El costo de correr IA en producción llega a $3.000 por ingeniero al mes: Latinoamérica como hub de soluciones",
-      "resumen": "Según un análisis de Gorilla Logic, el verdadero costo de la IA ya no está en el entrenamiento de modelos sino en su operación continua, con cifras que alcanzan los $3.000 mensuales por ingeniero. La firma, con fuerte presencia en LatAm, posiciona a la región como un centro de innovación para resolver este problema de eficiencia. El debate cambia el foco de 'adoptar IA' a 'cómo sostenerla económicamente'.",
-      "por_que_importa": "Entender el costo real de escalar IA es clave para cualquier estudiante que quiera diseñar modelos de negocio viables alrededor de estas tecnologías.",
-      "link": "https://contxto.com/en/latin-america/gorilla-logic-puts-latin-america-at-the-center-of-the-debate-as-an-ai-innovation-hub/",
-      "fuente": "Contxto"
-    },
-    {
-      "indice": 16,
-      "categoria": "Estrategia",
-      "titulo_es": "Solo dos ventajas competitivas realmente funcionan en la era de la IA",
-      "resumen": "SC Moatti de Mighty Capital argumenta con datos que la IA por sí sola dejó de ser un diferenciador sostenible para las startups. Las únicas dos 'fosas' que resisten son el contra-posicionamiento (ofrecer algo que los líderes no pueden copiar sin canibalizar su negocio) y las economías de red. El análisis desafía la narrativa de que tener el mejor modelo es suficiente para ganar un mercado.",
-      "por_que_importa": "Este marco estratégico es directamente aplicable al diseño de nuevos negocios y es una herramienta concreta para pensar diferenciación en cualquier proyecto de innovación.",
-      "link": "https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 1,
+      "indice": 3,
       "categoria": "Tendencias",
-      "titulo_es": "La IA da peores consejos laborales a empleados con menos poder jerárquico, según un estudio",
-      "resumen": "Una investigación reciente encontró que ChatGPT y otros LLMs tienden a dar recomendaciones más conservadoras y menos favorables a trabajadores de menor rango cuando se les presentan conflictos laborales. El fenómeno plantea un riesgo concreto de amplificar desigualdades existentes en el lugar de trabajo. El hallazgo es relevante dado el creciente uso de IA como 'coach privado' entre empleados.",
-      "por_que_importa": "Muestra que la adopción de IA en organizaciones tiene implicancias éticas y de gestión que los líderes de innovación deben anticipar y diseñar activamente.",
-      "link": "https://contxto.com/en/artificial-intelligence/ai-gives-worse-workplace-advice-to-employees-with-less-power-study-finds/",
-      "fuente": "Contxto"
-    },
-    {
-      "indice": 17,
-      "categoria": "Producto",
-      "titulo_es": "Cómo invertir el modelo de reclutamiento: la startup que hace que los empleadores apliquen a los candidatos",
-      "resumen": "Incredible Health, fundada por la médica reconvertida en emprendedora Iman Abuzeid, invierte la lógica tradicional del reclutamiento de salud: son los empleadores quienes aplican a los profesionales de salud y no al revés. La plataforma ataca la crisis de personal sanitario en EE.UU. rediseñando la experiencia desde el lado de la oferta de talento. Es un caso concreto de innovación de modelo de negocio en un mercado con fricción estructural.",
-      "por_que_importa": "Ilustra cómo replantear quién tiene el poder en una transacción puede ser en sí mismo el producto, una lección directa de diseño de plataformas y estrategia de entrada al mercado.",
-      "link": "https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 2,
-      "categoria": "Producto",
-      "titulo_es": "Effie.ai apuesta a cerrar la brecha entre probar IA y operarla en retail",
-      "resumen": "Effie.ai, startup de herramientas de IA agéntica para ejecución en retail, identifica como su principal problema de mercado la distancia entre los pilotos exitosos de IA y su implementación real en operaciones. La compañía suma a Nataliia Freidrich como asesora de estrategia con más de 15 años de experiencia en el sector. El caso ilustra un patrón frecuente en adopción corporativa de IA: el abismo entre la prueba de concepto y el escalado.",
-      "por_que_importa": "El 'valley of death' entre el piloto y la operación real es uno de los problemas centrales de la innovación corporativa, y este caso lo ilustra con un vertical concreto.",
-      "link": "https://contxto.com/en/artificial-intelligence/effie-ai-is-betting-on-closing-the-gap-between-testing-ai-and-actually-running-it-in-retail/",
-      "fuente": "Contxto"
-    },
-    {
-      "indice": 10,
-      "categoria": "Producto",
-      "titulo_es": "Roblox integra IA para crear juegos y los abre a plataformas externas",
-      "resumen": "En su conferencia anual de desarrolladores (RDC 2026), Roblox anunció herramientas de creación de juegos asistidas por IA, nuevas capacidades para NPCs y, lo más significativo, la posibilidad de que los juegos creados en Roblox corran fuera de su plataforma. Este último movimiento cambia el modelo de plataforma cerrada hacia un ecosistema más abierto, con implicancias para su estrategia de monetización y retención de creadores.",
-      "por_que_importa": "La decisión de abrir la plataforma es un movimiento estratégico relevante para analizar cómo las plataformas de contenido gestionan la tensión entre control del ecosistema y crecimiento.",
-      "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Tendencias",
-      "titulo_es": "El conflicto entre OpenAI y matemáticos profesionales escala: 25 académicos firman carta abierta",
-      "resumen": "Veinticinco matemáticos de primer nivel firmaron una carta abierta acusando a OpenAI de amenazar su trabajo intelectual, en un conflicto que se intensifica en torno al uso de producción matemática para entrenar modelos. La disputa pone en el centro el debate sobre propiedad intelectual, crédito académico y los límites del entrenamiento de IA con trabajo especializado. Es uno de los casos más concretos de tensión entre la industria de IA y comunidades de conocimiento.",
-      "por_que_importa": "El caso anticipa regulaciones y disputas legales que van a moldear cómo las empresas pueden (o no) construir productos de IA, una variable estratégica clave para cualquier nuevo negocio en el sector.",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "titulo_es": "El CEO de Anthropic propone un plan para desacelerar el desarrollo de la IA de frontera",
+      "resumen": "Dario Amodei de Anthropic y Sam Altman de OpenAI coinciden en la necesidad de 'pausar la frontera' del desarrollo de IA. El plan implica coordinación entre laboratorios líderes para limitar voluntariamente el ritmo de avance de los modelos más potentes. Es una señal de madurez estratégica inédita en una industria que hasta ahora priorizó la velocidad sobre todo.",
+      "por_que_importa": "Entender por qué las empresas más competitivas del mundo podrían elegir frenar voluntariamente es una lección clave de estrategia, regulación y gestión del riesgo tecnológico.",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 5,
-      "categoria": "Global",
-      "titulo_es": "El CEO de Y Combinator propone que laboratorios de IA abierta de EE.UU. 'destilen' modelos frontier americanos",
-      "resumen": "Garry Tan, presidente de Y Combinator, propuso públicamente que los laboratorios de IA open-weight estadounidenses apliquen técnicas de destilación sobre modelos frontier de EE.UU., replicando la estrategia que hizo conocido a DeepSeek. El objetivo es construir un ecosistema de modelos abiertos americanos que compita con las alternativas chinas de bajo costo. La propuesta tiene implicancias directas sobre la estructura de costos y el acceso a modelos avanzados para startups.",
-      "por_que_importa": "Si esta tendencia prospera, democratizaría el acceso a capacidades de IA avanzadas para startups latinoamericanas que hoy dependen de APIs costosas de modelos cerrados.",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "categoria": "Producto",
+      "titulo_es": "Revolut confirma una filtración de datos de clientes mediante solicitudes gubernamentales falsas",
+      "resumen": "Revolut, una de las fintech más grandes del mundo con fuerte presencia en LatAm, confirmó una brecha de seguridad originada en solicitudes fraudulentas que simulaban ser de organismos gubernamentales. La empresa notificó a los clientes afectados y a reguladores financieros. El incidente expone una vulnerabilidad crítica en los procesos de verificación de identidad institucional de las fintech.",
+      "por_que_importa": "Para quienes diseñan productos financieros digitales en la región, este caso ilustra cómo los vectores de ataque más sofisticados ya no son técnicos sino de ingeniería social a escala institucional.",
+      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 13,
+      "indice": 0,
       "categoria": "Estrategia",
-      "titulo_es": "Crisis de gobernanza en Automattic: Matt Mullenweg anuncia su regreso al control tras ser suspendido por el directorio",
-      "resumen": "Matt Mullenweg, fundador de Automattic (la empresa detrás de WordPress.com), comunicó a sus empleados vía Slack que retoma el control de la compañía, días después de que el directorio lo pusiera en licencia. El episodio expone una fractura severa entre fundador y junta directiva en una de las empresas de infraestructura web más importantes del mundo. La compañía no confirmó oficialmente el mensaje al cierre de la nota.",
-      "por_que_importa": "Es un caso de libro sobre tensiones de gobernanza fundador-board, un tema central en el ciclo de vida de cualquier empresa que escala y atrae capital externo.",
-      "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "titulo_es": "Startups de fusión nuclear buscan nuevos socios en el sector de defensa",
+      "resumen": "Varias startups de energía de fusión están cerrando acuerdos con organismos de defensa de EE.UU., reviviendo un vínculo histórico entre seguridad nacional y desarrollo energético de frontera. La tendencia muestra cómo el sector público de defensa se convierte en un early adopter y financiador estratégico de tecnologías de alto riesgo. Este modelo de desarrollo conjunto público-privado podría ofrecer lecciones para sectores de deeptech en LatAm.",
+      "por_que_importa": "El caso ilustra cómo las startups de deeptech encuentran tracción y financiamiento a través de alianzas no convencionales, un modelo cada vez más relevante para ecosistemas emergentes.",
+      "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 9,
-      "categoria": "Global",
-      "titulo_es": "Moonshot AI, creadora del modelo Kimi, apunta a $2.000 millones en ingresos anuales",
-      "resumen": "Moonshot AI, el laboratorio chino detrás del modelo Kimi K3, proyecta alcanzar $2.000 millones en ingresos anuales, según datos de uso en OpenRouter que muestran 300.000 millones de tokens generados diariamente. El dato es relevante porque muestra que la competencia en modelos de IA ya no es solo técnica sino de escala de adopción y monetización. K3 compite directamente con los modelos de OpenAI y Anthropic en benchmarks de razonamiento.",
-      "por_que_importa": "Ilustra cómo la carrera de IA se está convirtiendo en una guerra de modelos de negocio y escala de distribución, no solo de capacidad técnica, un insight directo para quienes piensan estrategia en el sector.",
-      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "indice": 1,
+      "categoria": "Estrategia",
+      "titulo_es": "Automattic confirma el regreso de Mullenweg como CEO tras un intento de destitución por parte del directorio",
+      "resumen": "Mullenweg retoma el cargo de presidente y CEO de Automattic —empresa detrás de WordPress— luego de un conflicto interno con su propio directorio que intentó desplazarlo. La compañía informó que cuenta con 'el apoyo total del directorio'. El episodio reaviva el debate sobre la gobernanza de empresas tecnológicas fundadas por sus creadores y los límites del poder del fundador frente a inversores.",
+      "por_que_importa": "La tensión entre fundadores y directorios es un tema central en el diseño de estructuras de gobierno para startups en crecimiento, con implicancias directas para emprendedores de la región.",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 2,
+      "categoria": "Tendencias",
+      "titulo_es": "Sam Altman descarta la salida a bolsa de OpenAI en 2026",
+      "resumen": "A pesar de haber presentado una solicitud confidencial de IPO, el CEO de OpenAI afirmó que cotizar en bolsa este año sería 'imprudente'. La declaración refleja la complejidad de la transición de OpenAI hacia una estructura con fines de lucro mientras gestiona su valoración récord y sus tensiones de gobernanza. La decisión postergada mantiene a OpenAI fuera del escrutinio público por al menos otro año.",
+      "por_que_importa": "El proceso de OpenAI hacia una estructura corporativa tradicional es un caso de estudio único sobre cómo las organizaciones de misión crítica gestionan la presión entre impacto, escala y rentabilidad.",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
       "fuente": "TechCrunch"
     }
   ]
