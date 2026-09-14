@@ -1,50 +1,95 @@
 {
-  "titular_del_dia": "Los líderes de IA proponen frenar el ritmo de desarrollo: ¿regulación voluntaria o nueva era de la industria?",
+  "titular_del_dia": "IA como amenaza y oportunidad para los builders: el dilema de construir sobre plataformas que te pueden reemplazar",
   "items": [
     {
-      "indice": 3,
-      "categoria": "Tendencias",
-      "titulo_es": "El CEO de Anthropic propone un plan para desacelerar el desarrollo de la IA de frontera",
-      "resumen": "Dario Amodei de Anthropic y Sam Altman de OpenAI coinciden en la necesidad de 'pausar la frontera' del desarrollo de IA. El plan implica coordinación entre laboratorios líderes para limitar voluntariamente el ritmo de avance de los modelos más potentes. Es una señal de madurez estratégica inédita en una industria que hasta ahora priorizó la velocidad sobre todo.",
-      "por_que_importa": "Entender por qué las empresas más competitivas del mundo podrían elegir frenar voluntariamente es una lección clave de estrategia, regulación y gestión del riesgo tecnológico.",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "indice": 2,
+      "categoria": "Estrategia",
+      "titulo_es": "¿Qué pasa cuando OpenAI lanza exactamente lo que vos estás construyendo?",
+      "resumen": "El panel de TechCrunch Disrupt 2026 aborda el riesgo central de toda startup de IA: que los modelos fundacionales evolucionen y absorban tu propuesta de valor. La pregunta clave no es si va a pasar, sino cómo diseñar un negocio que genere valor duradero más allá del modelo subyacente. Es uno de los dilemas estratégicos más urgentes del ecosistema emprendedor actual.",
+      "por_que_importa": "Todo emprendedor o product manager que trabaje sobre APIs de IA necesita entender cómo diferenciarse cuando el proveedor se convierte en competidor directo.",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 5,
+      "indice": 3,
       "categoria": "Producto",
-      "titulo_es": "Revolut confirma una filtración de datos de clientes mediante solicitudes gubernamentales falsas",
-      "resumen": "Revolut, una de las fintech más grandes del mundo con fuerte presencia en LatAm, confirmó una brecha de seguridad originada en solicitudes fraudulentas que simulaban ser de organismos gubernamentales. La empresa notificó a los clientes afectados y a reguladores financieros. El incidente expone una vulnerabilidad crítica en los procesos de verificación de identidad institucional de las fintech.",
-      "por_que_importa": "Para quienes diseñan productos financieros digitales en la región, este caso ilustra cómo los vectores de ataque más sofisticados ya no son técnicos sino de ingeniería social a escala institucional.",
-      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "titulo_es": "Superhuman adquiere Fathom para avanzar hacia plataformas de trabajo agéntico",
+      "resumen": "Superhuman, la app de email de alta productividad, incorporó a Fathom, un notetaker de reuniones respaldado por Y Combinator con más de 400.000 usuarios activos mensuales. El movimiento refleja una tendencia clara: las plataformas de productividad están integrando capacidades agénticas para gestionar flujos de trabajo completos, no solo tareas aisladas. Es un caso concreto de consolidación de producto impulsada por la evolución de la IA.",
+      "por_que_importa": "Ilustra cómo las empresas de producto están reposicionando su estrategia ante la irrupción de los agentes de IA, un tema central para quienes piensan en diseño de negocios y desarrollo de producto.",
+      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "Waymo expande su servicio de robotaxis a Las Vegas: ya opera en 15 mercados comerciales",
+      "resumen": "Waymo abre operaciones en Las Vegas, su mercado número 15 de robotaxis comerciales, consolidando su posición como líder indiscutido en movilidad autónoma. La expansión sostenida muestra que el modelo de negocio de transporte sin conductor está madurando más allá de las fases piloto. Es una señal relevante para pensar en cómo la autonomía redefine industrias tradicionales de servicios.",
+      "por_que_importa": "La escalabilidad de Waymo es un caso de estudio en cómo se construye un nuevo modelo de negocio disruptivo en una industria regulada, con implicancias directas para la movilidad en ciudades latinoamericanas.",
+      "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 12,
+      "categoria": "Tendencias",
+      "titulo_es": "Lyft entra al negocio de robotaxis: la batalla por la movilidad autónoma se intensifica",
+      "resumen": "Lyft anunció su ingreso al mercado de robotaxis, compitiendo directamente con Waymo y otras plataformas de movilidad autónoma. El movimiento marca un giro estratégico para una empresa que hasta ahora dependía de conductores humanos, y refleja la presión competitiva que ejerce la IA sobre los modelos de negocio de plataformas. La noticia se combina con la expansión de Waymo para señalar un punto de inflexión en la industria.",
+      "por_que_importa": "Es un ejemplo claro de cómo una empresa incumbente responde a la disrupción tecnológica rediseñando su modelo de negocio, algo directamente aplicable al análisis de innovación corporativa.",
+      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 9,
       "categoria": "Estrategia",
-      "titulo_es": "Startups de fusión nuclear buscan nuevos socios en el sector de defensa",
-      "resumen": "Varias startups de energía de fusión están cerrando acuerdos con organismos de defensa de EE.UU., reviviendo un vínculo histórico entre seguridad nacional y desarrollo energético de frontera. La tendencia muestra cómo el sector público de defensa se convierte en un early adopter y financiador estratégico de tecnologías de alto riesgo. Este modelo de desarrollo conjunto público-privado podría ofrecer lecciones para sectores de deeptech en LatAm.",
-      "por_que_importa": "El caso ilustra cómo las startups de deeptech encuentran tracción y financiamiento a través de alianzas no convencionales, un modelo cada vez más relevante para ecosistemas emergentes.",
+      "titulo_es": "Los 9 startups más prometedores del último Demo Day de Y Combinator, según inversores",
+      "resumen": "Inversores de venture capital seleccionaron los proyectos más destacados del batch de verano 2026 de YC, que incluyó desde reactores nucleares flotantes hasta chips cerebrales. El listado funciona como un mapa de las apuestas tecnológicas más arriesgadas y potencialmente transformadoras del momento. Más allá de las valuaciones, lo relevante es qué problemas están eligiendo resolver los mejores emprendedores del mundo.",
+      "por_que_importa": "Ver qué categorías de problemas atraen a los mejores fundadores y evaluadores del ecosistema global ayuda a entender hacia dónde se mueve la frontera de la innovación.",
+      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 10,
+      "categoria": "Tendencias",
+      "titulo_es": "La industria de la IA reaviva el debate sobre riesgos existenciales: qué hay detrás de las nuevas advertencias",
+      "resumen": "Referentes del sector volvieron a poner sobre la mesa los riesgos de largo plazo de la inteligencia artificial general, generando un debate renovado sobre regulación, seguridad y responsabilidad corporativa. El análisis del podcast Equity de TechCrunch desglosa qué motiva estas advertencias y qué intereses hay en juego. El tema cruza política pública, estrategia empresarial y ética tecnológica.",
+      "por_que_importa": "Comprender el debate sobre gobernanza de IA es esencial para cualquier profesional que vaya a trabajar con estas tecnologías o diseñar políticas de innovación en la región.",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 13,
+      "categoria": "Tendencias",
+      "titulo_es": "Startups de fusión nuclear firman acuerdos con el sector de defensa y buscan nuevos modelos de negocio",
+      "resumen": "Empresas que trabajan en energía de fusión están cerrando alianzas con actores del mundo de la defensa, reviviendo un vínculo histórico entre tecnología de vanguardia y seguridad nacional. Esta dinámica abre nuevos canales de financiamiento y desarrollo para tecnologías de largo plazo que difícilmente encontrarían mercado comercial a corto plazo. Es un caso de cómo el contexto geopolítico redefine las condiciones para la innovación profunda.",
+      "por_que_importa": "Muestra cómo las startups deeptech encuentran modelos alternativos de sustentabilidad más allá del mercado de consumo, una lección relevante para pensar en innovación en sectores estratégicos.",
       "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Producto",
+      "titulo_es": "Un ex ejecutivo de Spotify apuesta por apps musicales sin IA generativa como propuesta de diferenciación",
+      "resumen": "A Vinyl Bar in Shibuya, startup fundada por un ex directivo de Spotify, lanza aplicaciones musicales experimentales que involucran activamente al usuario en la creación, sin depender de prompts de IA. La propuesta es deliberadamente contracultural en un mercado dominado por la generación automática de contenido. Es un caso interesante de posicionamiento de producto basado en la experiencia del usuario y no en la tecnología subyacente.",
+      "por_que_importa": "Desafía el supuesto de que toda innovación en producto debe incorporar IA generativa, e invita a pensar en diferenciación desde la experiencia y el diseño.",
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 1,
       "categoria": "Estrategia",
-      "titulo_es": "Automattic confirma el regreso de Mullenweg como CEO tras un intento de destitución por parte del directorio",
-      "resumen": "Mullenweg retoma el cargo de presidente y CEO de Automattic —empresa detrás de WordPress— luego de un conflicto interno con su propio directorio que intentó desplazarlo. La compañía informó que cuenta con 'el apoyo total del directorio'. El episodio reaviva el debate sobre la gobernanza de empresas tecnológicas fundadas por sus creadores y los límites del poder del fundador frente a inversores.",
-      "por_que_importa": "La tensión entre fundadores y directorios es un tema central en el diseño de estructuras de gobierno para startups en crecimiento, con implicancias directas para emprendedores de la región.",
-      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "titulo_es": "Crisis de gobernanza en Automattic: el directorio sale tras el fallido intento de desplazar al CEO Matt Mullenweg",
+      "resumen": "El directorio de Automattic, empresa detrás de WordPress.com, fue removido días después de haber votado para suspender al CEO Matt Mullenweg. El episodio expone una crisis aguda de gobernanza corporativa en una de las compañías más influyentes del ecosistema open source. El conflicto entre fundadores y estructuras de control es uno de los temas más recurrentes en empresas tecnológicas de alto crecimiento.",
+      "por_que_importa": "Es un caso real y reciente de tensión entre fundadores y directorios, fundamental para entender los desafíos de gobernanza en organizaciones innovadoras.",
+      "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "Sam Altman descarta la salida a bolsa de OpenAI en 2026",
-      "resumen": "A pesar de haber presentado una solicitud confidencial de IPO, el CEO de OpenAI afirmó que cotizar en bolsa este año sería 'imprudente'. La declaración refleja la complejidad de la transición de OpenAI hacia una estructura con fines de lucro mientras gestiona su valoración récord y sus tensiones de gobernanza. La decisión postergada mantiene a OpenAI fuera del escrutinio público por al menos otro año.",
-      "por_que_importa": "El proceso de OpenAI hacia una estructura corporativa tradicional es un caso de estudio único sobre cómo las organizaciones de misión crítica gestionan la presión entre impacto, escala y rentabilidad.",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "fuente": "TechCrunch"
+      "indice": 15,
+      "categoria": "Estrategia",
+      "titulo_es": "Equity muerto en el cap table: el problema legal que complica el crecimiento de las startups",
+      "resumen": "El estándar de vesting de cuatro años puede dejar a cofundadores que se fueron con participaciones accionarias significativas, generando conflictos de control y complicando rondas futuras. El artículo analiza los mecanismos legales disponibles para recuperar esas acciones y cómo diseñar estructuras más robustas desde el inicio. Es un problema práctico y frecuente que pocas veces se discute abiertamente en la formación emprendedora.",
+      "por_que_importa": "Entender el diseño del cap table y el vesting es esencial para cualquier persona que quiera fundar una startup o trabajar en una, especialmente en etapas tempranas.",
+      "link": "https://news.crunchbase.com/startups/cap-table-dead-weight-avoiding-litigation-siegel-grellas/",
+      "fuente": "Crunchbase News"
     }
   ]
 }
