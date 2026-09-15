@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "IA como amenaza y oportunidad para los builders: el dilema de construir sobre plataformas que te pueden reemplazar",
+  "titular_del_dia": "Salesforce y Nvidia lanzan un modelo de IA especializado en ventas que desafía a los grandes laboratorios de IA",
   "items": [
     {
-      "indice": 2,
-      "categoria": "Estrategia",
-      "titulo_es": "¿Qué pasa cuando OpenAI lanza exactamente lo que vos estás construyendo?",
-      "resumen": "El panel de TechCrunch Disrupt 2026 aborda el riesgo central de toda startup de IA: que los modelos fundacionales evolucionen y absorban tu propuesta de valor. La pregunta clave no es si va a pasar, sino cómo diseñar un negocio que genere valor duradero más allá del modelo subyacente. Es uno de los dilemas estratégicos más urgentes del ecosistema emprendedor actual.",
-      "por_que_importa": "Todo emprendedor o product manager que trabaje sobre APIs de IA necesita entender cómo diferenciarse cuando el proveedor se convierte en competidor directo.",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 3,
-      "categoria": "Producto",
-      "titulo_es": "Superhuman adquiere Fathom para avanzar hacia plataformas de trabajo agéntico",
-      "resumen": "Superhuman, la app de email de alta productividad, incorporó a Fathom, un notetaker de reuniones respaldado por Y Combinator con más de 400.000 usuarios activos mensuales. El movimiento refleja una tendencia clara: las plataformas de productividad están integrando capacidades agénticas para gestionar flujos de trabajo completos, no solo tareas aisladas. Es un caso concreto de consolidación de producto impulsada por la evolución de la IA.",
-      "por_que_importa": "Ilustra cómo las empresas de producto están reposicionando su estrategia ante la irrupción de los agentes de IA, un tema central para quienes piensan en diseño de negocios y desarrollo de producto.",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "indice": 11,
+      "categoria": "Tendencias",
+      "titulo_es": "Salesforce y Nvidia lanzan Koa, un modelo de razonamiento especializado en ventas y marketing que compite con los grandes labs de IA",
+      "resumen": "Salesforce Koa está construido sobre el modelo open-weight Nemotron de Nvidia y fue entrenado específicamente para tareas de ventas, marketing y atención al cliente. El lanzamiento marca una tendencia clara: grandes empresas de software que dejan de depender de OpenAI o Anthropic y construyen sus propios modelos verticales. Esto presiona directamente el modelo de negocio de los laboratorios de IA generalistas.",
+      "por_que_importa": "Ilustra cómo la estrategia de producto en IA está evolucionando hacia modelos verticales especializados, un patrón clave para entender dónde se creará valor en los próximos años.",
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 0,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Lebane: cómo una startup argentina pasó de vender un contrato sin producto a procesar US$1.500 millones anuales en cinco años",
+      "resumen": "El caso de Lebane describe un recorrido de cero a escala significativa en el mercado argentino, partiendo de una venta pre-producto y llegando a mover US$1.500 millones al año en cinco años. La nota, publicada por Endeavor Argentina, analiza las decisiones estratégicas detrás del crecimiento. Es un caso concreto de construcción de empresa desde tracción temprana hasta operación a gran escala.",
+      "por_que_importa": "Es un caso local de estrategia de go-to-market y escalado que permite entender cómo se construye un negocio de alto impacto en el ecosistema argentino.",
+      "link": "https://www.endeavor.org.ar/de-vender-un-contrato-sin-producto-a-mover-us1-500-millones-al-ano/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
+      "indice": 1,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Experiencia Endeavor NOA reunió a más de 4.000 personas en Jujuy y visibilizó el ecosistema emprendedor del norte argentino",
+      "resumen": "El evento realizado en Jujuy convocó a más de 4.000 inscriptos y puso en foco el talento emprendedor del NOA, una región históricamente subrepresentada en el ecosistema de innovación argentino. La iniciativa forma parte del esfuerzo de Endeavor por descentralizar el ecosistema de startups más allá de Buenos Aires. Es una señal de que el emprendimiento de alto impacto está ganando presencia en el interior del país.",
+      "por_que_importa": "Muestra cómo el ecosistema de innovación argentino se está expandiendo hacia regiones no tradicionales, un dato relevante para pensar en oportunidades de negocio fuera de los centros urbanos.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-experiencia-endeavor-noa-jujuay-norte-argentino-2026/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
+      "indice": 2,
+      "categoria": "Estrategia",
+      "titulo_es": "El dilema estratégico de las startups de IA: ¿qué pasa cuando OpenAI lanza exactamente lo que vos estabas construyendo?",
+      "resumen": "La pregunta central que plantea esta sesión de TechCrunch Disrupt 2026 es cómo una empresa de IA puede seguir generando valor cuando los modelos fundacionales evolucionan y absorben funcionalidades que antes eran diferenciales. El debate toca directamente la sostenibilidad de las ventajas competitivas en capas de aplicación sobre modelos de terceros. Es una de las tensiones estratégicas más importantes del ecosistema de IA en este momento.",
+      "por_que_importa": "Plantea uno de los problemas de estrategia de producto más urgentes para cualquiera que esté pensando en construir sobre IA, relevante tanto para startups locales como globales.",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "fuente": "TechCrunch Venture"
+    },
+    {
+      "indice": 8,
       "categoria": "Tendencias",
-      "titulo_es": "Waymo expande su servicio de robotaxis a Las Vegas: ya opera en 15 mercados comerciales",
-      "resumen": "Waymo abre operaciones en Las Vegas, su mercado número 15 de robotaxis comerciales, consolidando su posición como líder indiscutido en movilidad autónoma. La expansión sostenida muestra que el modelo de negocio de transporte sin conductor está madurando más allá de las fases piloto. Es una señal relevante para pensar en cómo la autonomía redefine industrias tradicionales de servicios.",
-      "por_que_importa": "La escalabilidad de Waymo es un caso de estudio en cómo se construye un nuevo modelo de negocio disruptivo en una industria regulada, con implicancias directas para la movilidad en ciudades latinoamericanas.",
+      "titulo_es": "Una startup fundada por ex Anthropic desarrolla seguros para controlar agentes de IA que actúan de forma autónoma",
+      "resumen": "Artificial Intelligence Underwriting Company (AIUC), fundada por un ex contratante temprano de Anthropic y el ex COO de METR, levantó US$40 millones en una Serie A liderada por Ribbit Capital para ofrecer seguros y mecanismos de control sobre agentes de IA autónomos. El modelo de negocio apunta a un problema emergente: qué sucede cuando un agente de IA toma decisiones incorrectas con consecuencias reales para las empresas. Es un ejemplo de nuevo modelo de negocio que surge directamente de los riesgos de la IA.",
+      "por_que_importa": "Muestra cómo los riesgos de la IA generan nuevas categorías de negocio —como el underwriting de IA— que estudiantes de innovación deberían empezar a mapear.",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Global",
+      "titulo_es": "India introduce comisiones en pagos digitales UPI para transacciones grandes, cambiando el modelo que inspiró a toda LatAm",
+      "resumen": "Desde el 15 de octubre, India aplicará una comisión del 0,4% a comercios en transacciones UPI que superen cierto monto, poniendo fin al modelo de pagos digitales gratuito que convirtió a UPI en referencia global. UPI procesa miles de millones de transacciones al mes y fue uno de los modelos que inspiraron iniciativas de pagos instantáneos en América Latina, incluyendo Pix en Brasil y discusiones similares en Argentina. El cambio abre el debate sobre la sostenibilidad de infraestructuras de pago públicas y gratuitas.",
+      "por_que_importa": "Es directamente relevante para entender los modelos de negocio detrás de las infraestructuras de pagos digitales, un tema central en la agenda fintech de LatAm.",
+      "link": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 23,
+      "categoria": "Tendencias",
+      "titulo_es": "Waymo expande su servicio de robotaxis a Las Vegas, llegando a su mercado comercial número 15 en Estados Unidos",
+      "resumen": "Waymo, la empresa de vehículos autónomos de Alphabet, abrió su servicio de robotaxis en Las Vegas, convirtiéndola en su decimoquinto mercado comercial activo en EE.UU. La expansión continua es relevante no solo como caso de movilidad autónoma sino como modelo de escalado geográfico de un servicio basado en infraestructura tecnológica intensiva. Las Vegas representa un caso de uso particular por su alta densidad turística y tráfico predecible.",
+      "por_que_importa": "La velocidad de expansión de Waymo es un caso de estudio en estrategia de escala para servicios de plataforma con alta intensidad de capital.",
       "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 12,
+      "indice": 22,
       "categoria": "Tendencias",
-      "titulo_es": "Lyft entra al negocio de robotaxis: la batalla por la movilidad autónoma se intensifica",
-      "resumen": "Lyft anunció su ingreso al mercado de robotaxis, compitiendo directamente con Waymo y otras plataformas de movilidad autónoma. El movimiento marca un giro estratégico para una empresa que hasta ahora dependía de conductores humanos, y refleja la presión competitiva que ejerce la IA sobre los modelos de negocio de plataformas. La noticia se combina con la expansión de Waymo para señalar un punto de inflexión en la industria.",
-      "por_que_importa": "Es un ejemplo claro de cómo una empresa incumbente responde a la disrupción tecnológica rediseñando su modelo de negocio, algo directamente aplicable al análisis de innovación corporativa.",
-      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "titulo_es": "Microsoft publicó un código de conducta para sus modelos de IA: no hackear sistemas, no engañar humanos, apoyar el florecimiento humano",
+      "resumen": "Microsoft formalizó un conjunto de principios que sus modelos de IA deben respetar, incluyendo no comprometer sistemas, no manipular a personas y priorizar el apoyo a los humanos por sobre su reemplazo. El documento marca una tendencia creciente de gobernanza corporativa de IA que va más allá de la regulación estatal. Es una respuesta a presiones regulatorias y a la proliferación de agentes autónomos en entornos empresariales.",
+      "por_que_importa": "La gobernanza de IA está pasando de ser un tema académico a una decisión de producto y estrategia empresarial que cualquier innovador necesita entender.",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 9,
+      "indice": 16,
       "categoria": "Estrategia",
-      "titulo_es": "Los 9 startups más prometedores del último Demo Day de Y Combinator, según inversores",
-      "resumen": "Inversores de venture capital seleccionaron los proyectos más destacados del batch de verano 2026 de YC, que incluyó desde reactores nucleares flotantes hasta chips cerebrales. El listado funciona como un mapa de las apuestas tecnológicas más arriesgadas y potencialmente transformadoras del momento. Más allá de las valuaciones, lo relevante es qué problemas están eligiendo resolver los mejores emprendedores del mundo.",
-      "por_que_importa": "Ver qué categorías de problemas atraen a los mejores fundadores y evaluadores del ecosistema global ayuda a entender hacia dónde se mueve la frontera de la innovación.",
-      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "titulo_es": "Amazon Prime Video incorpora clips de noticias cortas para competir con TikTok y captar audiencias jóvenes",
+      "resumen": "Prime Video lanzó una sección de clips de noticias locales y nacionales en formato corto, sumándose a otras plataformas de streaming que experimentan con video de formato breve para atraer a usuarios más jóvenes. La movida representa una extensión del modelo de negocio de Amazon más allá del entretenimiento largo, y entra en competencia directa con TikTok y YouTube Shorts en el segmento de noticias. Es un ejemplo claro de cómo plataformas consolidadas adaptan su producto ante cambios en el comportamiento del consumidor.",
+      "por_que_importa": "Muestra cómo empresas de plataforma redefinen su propuesta de valor frente a nuevos competidores, un patrón de estrategia de innovación aplicable a cualquier industria.",
+      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 10,
+      "indice": 18,
       "categoria": "Tendencias",
-      "titulo_es": "La industria de la IA reaviva el debate sobre riesgos existenciales: qué hay detrás de las nuevas advertencias",
-      "resumen": "Referentes del sector volvieron a poner sobre la mesa los riesgos de largo plazo de la inteligencia artificial general, generando un debate renovado sobre regulación, seguridad y responsabilidad corporativa. El análisis del podcast Equity de TechCrunch desglosa qué motiva estas advertencias y qué intereses hay en juego. El tema cruza política pública, estrategia empresarial y ética tecnológica.",
-      "por_que_importa": "Comprender el debate sobre gobernanza de IA es esencial para cualquier profesional que vaya a trabajar con estas tecnologías o diseñar políticas de innovación en la región.",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "titulo_es": "Volkswagen presenta un EV experimental con eficiencia récord incorporando una idea de diseño modular inspirada en Slate",
+      "resumen": "Volkswagen mostró un vehículo eléctrico conceptual que duplica la eficiencia energética del Lucid Air, actualmente el auto de producción más eficiente del mercado, tomando prestada una filosofía de diseño minimalista y modular similar a la de la startup Slate. El caso ilustra cómo grandes fabricantes incorporan ideas de startups disruptivas en su proceso de innovación de producto. No es un gadget de consumo masivo sino un prototipo que define la dirección estratégica de la compañía.",
+      "por_que_importa": "Es un ejemplo de cómo la innovación de producto en incumbentes se nutre de ideas de startups, un patrón central en los estudios de innovación corporativa.",
+      "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
       "fuente": "TechCrunch"
-    },
-    {
-      "indice": 13,
-      "categoria": "Tendencias",
-      "titulo_es": "Startups de fusión nuclear firman acuerdos con el sector de defensa y buscan nuevos modelos de negocio",
-      "resumen": "Empresas que trabajan en energía de fusión están cerrando alianzas con actores del mundo de la defensa, reviviendo un vínculo histórico entre tecnología de vanguardia y seguridad nacional. Esta dinámica abre nuevos canales de financiamiento y desarrollo para tecnologías de largo plazo que difícilmente encontrarían mercado comercial a corto plazo. Es un caso de cómo el contexto geopolítico redefine las condiciones para la innovación profunda.",
-      "por_que_importa": "Muestra cómo las startups deeptech encuentran modelos alternativos de sustentabilidad más allá del mercado de consumo, una lección relevante para pensar en innovación en sectores estratégicos.",
-      "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Producto",
-      "titulo_es": "Un ex ejecutivo de Spotify apuesta por apps musicales sin IA generativa como propuesta de diferenciación",
-      "resumen": "A Vinyl Bar in Shibuya, startup fundada por un ex directivo de Spotify, lanza aplicaciones musicales experimentales que involucran activamente al usuario en la creación, sin depender de prompts de IA. La propuesta es deliberadamente contracultural en un mercado dominado por la generación automática de contenido. Es un caso interesante de posicionamiento de producto basado en la experiencia del usuario y no en la tecnología subyacente.",
-      "por_que_importa": "Desafía el supuesto de que toda innovación en producto debe incorporar IA generativa, e invita a pensar en diferenciación desde la experiencia y el diseño.",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Estrategia",
-      "titulo_es": "Crisis de gobernanza en Automattic: el directorio sale tras el fallido intento de desplazar al CEO Matt Mullenweg",
-      "resumen": "El directorio de Automattic, empresa detrás de WordPress.com, fue removido días después de haber votado para suspender al CEO Matt Mullenweg. El episodio expone una crisis aguda de gobernanza corporativa en una de las compañías más influyentes del ecosistema open source. El conflicto entre fundadores y estructuras de control es uno de los temas más recurrentes en empresas tecnológicas de alto crecimiento.",
-      "por_que_importa": "Es un caso real y reciente de tensión entre fundadores y directorios, fundamental para entender los desafíos de gobernanza en organizaciones innovadoras.",
-      "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 15,
-      "categoria": "Estrategia",
-      "titulo_es": "Equity muerto en el cap table: el problema legal que complica el crecimiento de las startups",
-      "resumen": "El estándar de vesting de cuatro años puede dejar a cofundadores que se fueron con participaciones accionarias significativas, generando conflictos de control y complicando rondas futuras. El artículo analiza los mecanismos legales disponibles para recuperar esas acciones y cómo diseñar estructuras más robustas desde el inicio. Es un problema práctico y frecuente que pocas veces se discute abiertamente en la formación emprendedora.",
-      "por_que_importa": "Entender el diseño del cap table y el vesting es esencial para cualquier persona que quiera fundar una startup o trabajar en una, especialmente en etapas tempranas.",
-      "link": "https://news.crunchbase.com/startups/cap-table-dead-weight-avoiding-litigation-siegel-grellas/",
-      "fuente": "Crunchbase News"
     }
   ]
 }
