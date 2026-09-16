@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "Salesforce y Nvidia lanzan un modelo de IA especializado en ventas que desafía a los grandes laboratorios de IA",
+  "titular_del_dia": "La IA redefine la logística, el comercio y los modelos de negocio: casos y tendencias clave para LatAm",
   "items": [
+    {
+      "indice": 0,
+      "categoria": "LatAm",
+      "titulo_es": "Por qué la próxima década del transporte de carga en América Latina se ganará con datos, no con diésel",
+      "resumen": "El sector de logística terrestre en LatAm enfrenta una transformación estructural: las empresas que integren datos en tiempo real (rutas, precios de combustible, aduanas) a sus operaciones tendrán ventaja competitiva sobre las que sigan gestionando flotas de forma reactiva. El artículo argumenta que la digitalización del despacho y la gestión de flota es el próximo gran diferenciador en un mercado fragmentado y volátil. La región mueve billones de dólares en carga terrestre, pero la mayoría de los operadores aún operan con información incompleta y procesos manuales.",
+      "por_que_importa": "Es un caso concreto de transformación digital en una industria tradicional latinoamericana, con implicancias directas para quienes quieran innovar en logística, supply chain o movilidad en la región.",
+      "link": "https://contxto.com/en/transportation/why-the-next-decade-of-trucking-will-be-won-on-data-not-diesel/",
+      "fuente": "Contxto"
+    },
+    {
+      "indice": 13,
+      "categoria": "Producto",
+      "titulo_es": "Meta lanza un servidor MCP para que agentes de IA configuren y gestionen WhatsApp Business automáticamente",
+      "resumen": "Meta presentó un servidor MCP (Model Context Protocol) para WhatsApp Business que permite a desarrolladores usar agentes de IA como Claude, Cursor o ChatGPT para automatizar tareas de configuración, plantillas de mensajes, pruebas y resolución de problemas. La herramienta reduce la fricción técnica para empresas que quieren integrar WhatsApp Business en sus flujos de trabajo. Dado que WhatsApp domina la comunicación empresarial en LatAm, esta actualización tiene impacto directo en cómo pymes y grandes empresas de la región gestionan su canal de atención al cliente.",
+      "por_que_importa": "WhatsApp es el principal canal de ventas y atención al cliente para millones de empresas en Argentina y LatAm, y esta automatización con IA cambia concretamente cómo se construyen productos y procesos sobre esa plataforma.",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 19,
+      "categoria": "Estrategia",
+      "titulo_es": "Meta lanza 'Meta One': un plan de suscripción que integra IA en Facebook, Instagram y WhatsApp",
+      "resumen": "Meta presentó Meta One, un nuevo modelo de suscripción que empaqueta acceso ampliado a sus herramientas de IA con funciones premium en sus tres plataformas principales. La movida representa un giro estratégico hacia la monetización directa del usuario vía IA, en lugar de depender exclusivamente de publicidad. Es un caso de estudio sobre cómo una plataforma madura introduce un nuevo modelo de negocio a partir de capacidades de IA.",
+      "por_que_importa": "Meta es uno de los principales canales de marketing y comercio digital en LatAm, y este cambio en su modelo de monetización afecta directamente las estrategias de empresas y emprendedores que operan en sus plataformas.",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "fuente": "TechCrunch"
+    },
     {
       "indice": 11,
       "categoria": "Tendencias",
-      "titulo_es": "Salesforce y Nvidia lanzan Koa, un modelo de razonamiento especializado en ventas y marketing que compite con los grandes labs de IA",
-      "resumen": "Salesforce Koa está construido sobre el modelo open-weight Nemotron de Nvidia y fue entrenado específicamente para tareas de ventas, marketing y atención al cliente. El lanzamiento marca una tendencia clara: grandes empresas de software que dejan de depender de OpenAI o Anthropic y construyen sus propios modelos verticales. Esto presiona directamente el modelo de negocio de los laboratorios de IA generalistas.",
-      "por_que_importa": "Ilustra cómo la estrategia de producto en IA está evolucionando hacia modelos verticales especializados, un patrón clave para entender dónde se creará valor en los próximos años.",
-      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "titulo_es": "Jensen Huang (Nvidia) rechaza la regulación de IA y defiende que la seguridad debe quedar en manos de cada empresa",
+      "resumen": "En declaraciones públicas, el CEO de Nvidia argumentó que la IA no es una 'mente alienígena' sino hardware y software, y que la seguridad puede ser gestionada por cada desarrollador de productos sin necesidad de regulación estatal. La postura contrasta con los marcos regulatorios en desarrollo en la Unión Europea y varios países de LatAm. El debate sobre quién regula la IA —gobiernos o industria— tiene consecuencias directas para empresas y startups que desarrollan productos basados en estos modelos.",
+      "por_que_importa": "La postura de uno de los actores más influyentes del ecosistema de IA define el marco en el que se desarrollarán productos y regulaciones que afectarán a emprendedores y empresas en todo el mundo, incluida la región.",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 0,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Lebane: cómo una startup argentina pasó de vender un contrato sin producto a procesar US$1.500 millones anuales en cinco años",
-      "resumen": "El caso de Lebane describe un recorrido de cero a escala significativa en el mercado argentino, partiendo de una venta pre-producto y llegando a mover US$1.500 millones al año en cinco años. La nota, publicada por Endeavor Argentina, analiza las decisiones estratégicas detrás del crecimiento. Es un caso concreto de construcción de empresa desde tracción temprana hasta operación a gran escala.",
-      "por_que_importa": "Es un caso local de estrategia de go-to-market y escalado que permite entender cómo se construye un negocio de alto impacto en el ecosistema argentino.",
-      "link": "https://www.endeavor.org.ar/de-vender-un-contrato-sin-producto-a-mover-us1-500-millones-al-ano/",
-      "fuente": "Endeavor Argentina"
+      "indice": 14,
+      "categoria": "Tendencias",
+      "titulo_es": "El cementerio de la IA: los proyectos y startups de inteligencia artificial que fracasaron en 2026",
+      "resumen": "TechCrunch publicó un registro actualizado de proyectos de IA que fueron cancelados, no cumplieron expectativas o cerraron, incluyendo el retraso del AI de Siri de Apple y el fallido lanzamiento del 'super app' de OpenAI. El listado ofrece patrones comunes de fracaso: promesas excesivas, problemas de producto-mercado y errores de ejecución. Es una fuente de aprendizaje concreta sobre qué no funciona en la comercialización de IA.",
+      "por_que_importa": "Estudiar los fracasos de IA es tan valioso como estudiar los éxitos: permite identificar patrones de error en estrategia de producto e innovación que son aplicables a cualquier emprendimiento tecnológico.",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 1,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Experiencia Endeavor NOA reunió a más de 4.000 personas en Jujuy y visibilizó el ecosistema emprendedor del norte argentino",
-      "resumen": "El evento realizado en Jujuy convocó a más de 4.000 inscriptos y puso en foco el talento emprendedor del NOA, una región históricamente subrepresentada en el ecosistema de innovación argentino. La iniciativa forma parte del esfuerzo de Endeavor por descentralizar el ecosistema de startups más allá de Buenos Aires. Es una señal de que el emprendimiento de alto impacto está ganando presencia en el interior del país.",
-      "por_que_importa": "Muestra cómo el ecosistema de innovación argentino se está expandiendo hacia regiones no tradicionales, un dato relevante para pensar en oportunidades de negocio fuera de los centros urbanos.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-experiencia-endeavor-noa-jujuay-norte-argentino-2026/",
-      "fuente": "Endeavor Argentina"
+      "indice": 15,
+      "categoria": "Tendencias",
+      "titulo_es": "Los centros de datos de IA en EE.UU. podrían consumir más gas natural que Alemania y Japón juntos para 2035",
+      "resumen": "Un nuevo análisis proyecta que el crecimiento de la infraestructura de IA llevará a los data centers estadounidenses a convertirse en uno de los mayores consumidores de gas natural del mundo, superando países industrializados enteros. El fenómeno plantea tensiones entre la expansión de la IA y los objetivos climáticos globales. Para LatAm, que alberga centros de datos regionales y evalúa su propia infraestructura de IA, la ecuación energética es un factor estratégico clave.",
+      "por_que_importa": "La sostenibilidad energética de la infraestructura de IA es una variable que toda empresa o gobierno que planifique adopción de IA a escala debe considerar, especialmente en mercados emergentes como el argentino.",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 2,
+      "indice": 9,
+      "categoria": "Global",
+      "titulo_es": "Fluxnium: la startup de energía limpia que desarrolló fibras para extraer uranio directamente del agua de mar",
+      "resumen": "Fluxnium presentó una tecnología de fibras capaces de extraer uranio disuelto en el océano, una fuente que —según la empresa— podría proveer combustible nuclear por 50.000 años. La innovación apunta a desacoplar la energía nuclear de la minería tradicional de uranio, con potencial para reducir costos y dependencias geopolíticas. Es un caso de deeptech con implicancias para la transición energética global.",
+      "por_que_importa": "La búsqueda de nuevas fuentes de energía limpia y escalable es una de las áreas de mayor innovación y oportunidad de negocio a nivel global, con potencial impacto en mercados como el argentino, que debate su matriz energética.",
+      "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 10,
       "categoria": "Estrategia",
-      "titulo_es": "El dilema estratégico de las startups de IA: ¿qué pasa cuando OpenAI lanza exactamente lo que vos estabas construyendo?",
-      "resumen": "La pregunta central que plantea esta sesión de TechCrunch Disrupt 2026 es cómo una empresa de IA puede seguir generando valor cuando los modelos fundacionales evolucionan y absorben funcionalidades que antes eran diferenciales. El debate toca directamente la sostenibilidad de las ventajas competitivas en capas de aplicación sobre modelos de terceros. Es una de las tensiones estratégicas más importantes del ecosistema de IA en este momento.",
-      "por_que_importa": "Plantea uno de los problemas de estrategia de producto más urgentes para cualquiera que esté pensando en construir sobre IA, relevante tanto para startups locales como globales.",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "fuente": "TechCrunch Venture"
+      "titulo_es": "Amazon lanza Alexa+ en India con soporte en hindi: una apuesta por la localización de asistentes de IA",
+      "resumen": "Amazon expandió Alexa+ —su versión mejorada del asistente de voz— al mercado indio con capacidad de conversación en hindi, en un período de acceso anticipado para todos los usuarios. La estrategia ilustra cómo las grandes plataformas de IA adaptan sus productos a idiomas y contextos culturales locales para ganar mercados emergentes. El caso es relevante para entender cómo se localiza IA en mercados de habla no inglesa, algo directamente aplicable a LatAm.",
+      "por_que_importa": "La localización de IA al español y contextos latinoamericanos sigue siendo un desafío y una oportunidad: el modelo de expansión de Amazon en India es un caso de estudio concreto sobre cómo escalar productos de IA en mercados no anglófonos.",
+      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "fuente": "TechCrunch"
     },
     {
       "indice": 8,
-      "categoria": "Tendencias",
-      "titulo_es": "Una startup fundada por ex Anthropic desarrolla seguros para controlar agentes de IA que actúan de forma autónoma",
-      "resumen": "Artificial Intelligence Underwriting Company (AIUC), fundada por un ex contratante temprano de Anthropic y el ex COO de METR, levantó US$40 millones en una Serie A liderada por Ribbit Capital para ofrecer seguros y mecanismos de control sobre agentes de IA autónomos. El modelo de negocio apunta a un problema emergente: qué sucede cuando un agente de IA toma decisiones incorrectas con consecuencias reales para las empresas. Es un ejemplo de nuevo modelo de negocio que surge directamente de los riesgos de la IA.",
-      "por_que_importa": "Muestra cómo los riesgos de la IA generan nuevas categorías de negocio —como el underwriting de IA— que estudiantes de innovación deberían empezar a mapear.",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
       "categoria": "Global",
-      "titulo_es": "India introduce comisiones en pagos digitales UPI para transacciones grandes, cambiando el modelo que inspiró a toda LatAm",
-      "resumen": "Desde el 15 de octubre, India aplicará una comisión del 0,4% a comercios en transacciones UPI que superen cierto monto, poniendo fin al modelo de pagos digitales gratuito que convirtió a UPI en referencia global. UPI procesa miles de millones de transacciones al mes y fue uno de los modelos que inspiraron iniciativas de pagos instantáneos en América Latina, incluyendo Pix en Brasil y discusiones similares en Argentina. El cambio abre el debate sobre la sostenibilidad de infraestructuras de pago públicas y gratuitas.",
-      "por_que_importa": "Es directamente relevante para entender los modelos de negocio detrás de las infraestructuras de pagos digitales, un tema central en la agenda fintech de LatAm.",
-      "link": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+      "titulo_es": "La startup de IA del ex CEO de Infosys suma otros 53 millones de dólares y ya tiene contratos enterprise de siete cifras",
+      "resumen": "La startup de IA fundada por el ex director de Infosys, con base en Palo Alto, anunció una nueva ronda de 53 millones de dólares y reveló haber cerrado múltiples contratos empresariales de más de un millón de dólares cada uno en sus primeros meses de operación. El caso ilustra la velocidad con que startups de IA con fundadores de alta credibilidad pueden conseguir tracción enterprise. El modelo de negocio B2B con contratos grandes es una de las rutas más sólidas para startups de IA en la actualidad.",
+      "por_que_importa": "El patrón de go-to-market enterprise que muestra esta startup —credenciales del fundador + producto de IA + contratos grandes desde el inicio— es un modelo de negocio relevante para entender cómo se construyen negocios de IA con tracción rápida.",
+      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 23,
+      "indice": 21,
       "categoria": "Tendencias",
-      "titulo_es": "Waymo expande su servicio de robotaxis a Las Vegas, llegando a su mercado comercial número 15 en Estados Unidos",
-      "resumen": "Waymo, la empresa de vehículos autónomos de Alphabet, abrió su servicio de robotaxis en Las Vegas, convirtiéndola en su decimoquinto mercado comercial activo en EE.UU. La expansión continua es relevante no solo como caso de movilidad autónoma sino como modelo de escalado geográfico de un servicio basado en infraestructura tecnológica intensiva. Las Vegas representa un caso de uso particular por su alta densidad turística y tráfico predecible.",
-      "por_que_importa": "La velocidad de expansión de Waymo es un caso de estudio en estrategia de escala para servicios de plataforma con alta intensidad de capital.",
-      "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 22,
-      "categoria": "Tendencias",
-      "titulo_es": "Microsoft publicó un código de conducta para sus modelos de IA: no hackear sistemas, no engañar humanos, apoyar el florecimiento humano",
-      "resumen": "Microsoft formalizó un conjunto de principios que sus modelos de IA deben respetar, incluyendo no comprometer sistemas, no manipular a personas y priorizar el apoyo a los humanos por sobre su reemplazo. El documento marca una tendencia creciente de gobernanza corporativa de IA que va más allá de la regulación estatal. Es una respuesta a presiones regulatorias y a la proliferación de agentes autónomos en entornos empresariales.",
-      "por_que_importa": "La gobernanza de IA está pasando de ser un tema académico a una decisión de producto y estrategia empresarial que cualquier innovador necesita entender.",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 16,
-      "categoria": "Estrategia",
-      "titulo_es": "Amazon Prime Video incorpora clips de noticias cortas para competir con TikTok y captar audiencias jóvenes",
-      "resumen": "Prime Video lanzó una sección de clips de noticias locales y nacionales en formato corto, sumándose a otras plataformas de streaming que experimentan con video de formato breve para atraer a usuarios más jóvenes. La movida representa una extensión del modelo de negocio de Amazon más allá del entretenimiento largo, y entra en competencia directa con TikTok y YouTube Shorts en el segmento de noticias. Es un ejemplo claro de cómo plataformas consolidadas adaptan su producto ante cambios en el comportamiento del consumidor.",
-      "por_que_importa": "Muestra cómo empresas de plataforma redefinen su propuesta de valor frente a nuevos competidores, un patrón de estrategia de innovación aplicable a cualquier industria.",
-      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Tendencias",
-      "titulo_es": "Volkswagen presenta un EV experimental con eficiencia récord incorporando una idea de diseño modular inspirada en Slate",
-      "resumen": "Volkswagen mostró un vehículo eléctrico conceptual que duplica la eficiencia energética del Lucid Air, actualmente el auto de producción más eficiente del mercado, tomando prestada una filosofía de diseño minimalista y modular similar a la de la startup Slate. El caso ilustra cómo grandes fabricantes incorporan ideas de startups disruptivas en su proceso de innovación de producto. No es un gadget de consumo masivo sino un prototipo que define la dirección estratégica de la compañía.",
-      "por_que_importa": "Es un ejemplo de cómo la innovación de producto en incumbentes se nutre de ideas de startups, un patrón central en los estudios de innovación corporativa.",
-      "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "titulo_es": "Los peores hackeos y brechas de datos del 2026: un repaso de los incidentes de ciberseguridad más graves del año",
+      "resumen": "TechCrunch compiló los incidentes de seguridad más dañinos de 2026, incluyendo la filtración masiva de DOGE, compromisos de infraestructura crítica y el hackeo de sistemas de vigilancia federal en EE.UU. El artículo documenta patrones de ataque y vulnerabilidades sistémicas en organizaciones públicas y privadas. La ciberseguridad se consolida como una dimensión ineludible de cualquier estrategia de transformación digital.",
+      "por_que_importa": "Para quienes estudian innovación y transformación digital, entender el panorama de riesgos de ciberseguridad es esencial: toda empresa que digitalice procesos debe incorporar seguridad como parte de su estrategia de producto y operaciones.",
+      "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
       "fuente": "TechCrunch"
     }
   ]
