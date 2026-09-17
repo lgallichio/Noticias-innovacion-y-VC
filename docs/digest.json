@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "La IA redefine la logística, el comercio y los modelos de negocio: casos y tendencias clave para LatAm",
+  "titular_del_dia": "Agentes de IA que hacen llamadas, coalición de gigantes tecnológicos por infraestructura energética y el debate sobre la seguridad independiente en los grandes laboratorios de IA",
   "items": [
     {
-      "indice": 0,
-      "categoria": "LatAm",
-      "titulo_es": "Por qué la próxima década del transporte de carga en América Latina se ganará con datos, no con diésel",
-      "resumen": "El sector de logística terrestre en LatAm enfrenta una transformación estructural: las empresas que integren datos en tiempo real (rutas, precios de combustible, aduanas) a sus operaciones tendrán ventaja competitiva sobre las que sigan gestionando flotas de forma reactiva. El artículo argumenta que la digitalización del despacho y la gestión de flota es el próximo gran diferenciador en un mercado fragmentado y volátil. La región mueve billones de dólares en carga terrestre, pero la mayoría de los operadores aún operan con información incompleta y procesos manuales.",
-      "por_que_importa": "Es un caso concreto de transformación digital en una industria tradicional latinoamericana, con implicancias directas para quienes quieran innovar en logística, supply chain o movilidad en la región.",
-      "link": "https://contxto.com/en/transportation/why-the-next-decade-of-trucking-will-be-won-on-data-not-diesel/",
-      "fuente": "Contxto"
-    },
-    {
-      "indice": 13,
-      "categoria": "Producto",
-      "titulo_es": "Meta lanza un servidor MCP para que agentes de IA configuren y gestionen WhatsApp Business automáticamente",
-      "resumen": "Meta presentó un servidor MCP (Model Context Protocol) para WhatsApp Business que permite a desarrolladores usar agentes de IA como Claude, Cursor o ChatGPT para automatizar tareas de configuración, plantillas de mensajes, pruebas y resolución de problemas. La herramienta reduce la fricción técnica para empresas que quieren integrar WhatsApp Business en sus flujos de trabajo. Dado que WhatsApp domina la comunicación empresarial en LatAm, esta actualización tiene impacto directo en cómo pymes y grandes empresas de la región gestionan su canal de atención al cliente.",
-      "por_que_importa": "WhatsApp es el principal canal de ventas y atención al cliente para millones de empresas en Argentina y LatAm, y esta automatización con IA cambia concretamente cómo se construyen productos y procesos sobre esa plataforma.",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "Los agentes de IA ya pueden hacer llamadas telefónicas por vos: así funcionan Instinct y Muse de Meta",
+      "resumen": "Los asistentes de IA Instinct y Muse (de Meta) incorporaron la capacidad de realizar llamadas para hacer reservas en restaurantes o cancelar suscripciones en nombre del usuario. Ambos productos compiten directamente en el segmento de agentes de IA conversacionales orientados a tareas cotidianas. Es una de las primeras implementaciones masivas de agentes que actúan de forma autónoma en el mundo físico.",
+      "por_que_importa": "Marca un hito en el desarrollo de productos de IA agentica: el modelo de negocio ya no es solo responder preguntas, sino ejecutar acciones reales, lo que redefine qué significa 'asistente' y abre nuevas oportunidades de diseño de producto.",
+      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 19,
-      "categoria": "Estrategia",
-      "titulo_es": "Meta lanza 'Meta One': un plan de suscripción que integra IA en Facebook, Instagram y WhatsApp",
-      "resumen": "Meta presentó Meta One, un nuevo modelo de suscripción que empaqueta acceso ampliado a sus herramientas de IA con funciones premium en sus tres plataformas principales. La movida representa un giro estratégico hacia la monetización directa del usuario vía IA, en lugar de depender exclusivamente de publicidad. Es un caso de estudio sobre cómo una plataforma madura introduce un nuevo modelo de negocio a partir de capacidades de IA.",
-      "por_que_importa": "Meta es uno de los principales canales de marketing y comercio digital en LatAm, y este cambio en su modelo de monetización afecta directamente las estrategias de empresas y emprendedores que operan en sus plataformas.",
-      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "indice": 18,
+      "categoria": "Tendencias",
+      "titulo_es": "Anthropic y OpenAI quieren auditores de seguridad dentro de sus laboratorios, pero su independencia está en duda",
+      "resumen": "Anthropic y OpenAI anunciaron planes para incorporar evaluadores de seguridad independientes dentro de sus organizaciones, con acceso sin precedentes a sus sistemas. Investigadores especializados celebran el acceso pero advierten que la independencia real requiere transparencia y autonomía que aún no están garantizadas. El debate plantea preguntas fundamentales sobre cómo se gobiernan los modelos de IA más poderosos del mundo.",
+      "por_que_importa": "Entiender cómo los líderes del sector regulan (o no) su propia tecnología es clave para quienes diseñen estrategias de innovación responsable o trabajen en gobernanza de IA en empresas y gobiernos de la región.",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Global",
+      "titulo_es": "Google, Nvidia y Anthropic se unen para encontrar 100 gigawatts de capacidad eléctrica para nuevos data centers de IA",
+      "resumen": "Una coalición formada por Google, Nvidia, Anthropic y la startup Emerald AI busca identificar y habilitar 100 GW de capacidad en la red eléctrica para alimentar la próxima generación de centros de datos de inteligencia artificial. La iniciativa evidencia que el cuello de botella de la IA ya no es el software ni el hardware, sino la energía disponible. Se trata de una de las apuestas de infraestructura más ambiciosas del sector tecnológico global.",
+      "por_que_importa": "La escasez de infraestructura energética para IA es una tendencia que impacta directamente en dónde y cómo se podrán desplegar estas tecnologías en regiones como LatAm, con grandes oportunidades en energías renovables.",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 2,
+      "categoria": "Global",
+      "titulo_es": "Huawei aceleró el lanzamiento de su chip de IA Ascend 960DT para el primer trimestre de 2027 y desafía a Nvidia",
+      "resumen": "Huawei planea lanzar su chip de próxima generación Ascend 960DT en el Q1 de 2027, acortando el plazo original como respuesta a la presión competitiva de Nvidia y al impulso del ecosistema de IA en China. El movimiento busca cerrar la brecha de capacidad de cómputo para IA entre China y Estados Unidos. Representa una escalada significativa en la guerra de semiconductores de IA a nivel geopolítico.",
+      "por_que_importa": "La disputa Huawei-Nvidia por el hardware de IA define qué infraestructura estará disponible y a qué costo para empresas de todo el mundo, incluyendo las de LatAm que buscan adoptar IA a escala.",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 11,
       "categoria": "Tendencias",
-      "titulo_es": "Jensen Huang (Nvidia) rechaza la regulación de IA y defiende que la seguridad debe quedar en manos de cada empresa",
-      "resumen": "En declaraciones públicas, el CEO de Nvidia argumentó que la IA no es una 'mente alienígena' sino hardware y software, y que la seguridad puede ser gestionada por cada desarrollador de productos sin necesidad de regulación estatal. La postura contrasta con los marcos regulatorios en desarrollo en la Unión Europea y varios países de LatAm. El debate sobre quién regula la IA —gobiernos o industria— tiene consecuencias directas para empresas y startups que desarrollan productos basados en estos modelos.",
-      "por_que_importa": "La postura de uno de los actores más influyentes del ecosistema de IA define el marco en el que se desarrollarán productos y regulaciones que afectarán a emprendedores y empresas en todo el mundo, incluida la región.",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "titulo_es": "El próximo integrante de tu equipo podría ser un agente de IA: cómo están construyendo equipos híbridos las startups",
+      "resumen": "Una sesión de TechCrunch Disrupt 2026 con representantes de Gusto, Insight Partners y Leland explora cómo las startups en etapa temprana están integrando agentes de IA como 'colegas' dentro de sus equipos de trabajo. El debate aborda cómo mantener velocidad y accountability cuando parte del equipo es automatizado. Es una de las primeras discusiones estructuradas sobre el diseño organizacional en empresas con equipos humano-IA.",
+      "por_que_importa": "Para quienes vayan a fundar o trabajar en startups, entender cómo diseñar equipos donde los agentes de IA son actores reales es una habilidad estratégica central del management del futuro próximo.",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 14,
-      "categoria": "Tendencias",
-      "titulo_es": "El cementerio de la IA: los proyectos y startups de inteligencia artificial que fracasaron en 2026",
-      "resumen": "TechCrunch publicó un registro actualizado de proyectos de IA que fueron cancelados, no cumplieron expectativas o cerraron, incluyendo el retraso del AI de Siri de Apple y el fallido lanzamiento del 'super app' de OpenAI. El listado ofrece patrones comunes de fracaso: promesas excesivas, problemas de producto-mercado y errores de ejecución. Es una fuente de aprendizaje concreta sobre qué no funciona en la comercialización de IA.",
-      "por_que_importa": "Estudiar los fracasos de IA es tan valioso como estudiar los éxitos: permite identificar patrones de error en estrategia de producto e innovación que son aplicables a cualquier emprendimiento tecnológico.",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 15,
-      "categoria": "Tendencias",
-      "titulo_es": "Los centros de datos de IA en EE.UU. podrían consumir más gas natural que Alemania y Japón juntos para 2035",
-      "resumen": "Un nuevo análisis proyecta que el crecimiento de la infraestructura de IA llevará a los data centers estadounidenses a convertirse en uno de los mayores consumidores de gas natural del mundo, superando países industrializados enteros. El fenómeno plantea tensiones entre la expansión de la IA y los objetivos climáticos globales. Para LatAm, que alberga centros de datos regionales y evalúa su propia infraestructura de IA, la ecuación energética es un factor estratégico clave.",
-      "por_que_importa": "La sostenibilidad energética de la infraestructura de IA es una variable que toda empresa o gobierno que planifique adopción de IA a escala debe considerar, especialmente en mercados emergentes como el argentino.",
-      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 9,
-      "categoria": "Global",
-      "titulo_es": "Fluxnium: la startup de energía limpia que desarrolló fibras para extraer uranio directamente del agua de mar",
-      "resumen": "Fluxnium presentó una tecnología de fibras capaces de extraer uranio disuelto en el océano, una fuente que —según la empresa— podría proveer combustible nuclear por 50.000 años. La innovación apunta a desacoplar la energía nuclear de la minería tradicional de uranio, con potencial para reducir costos y dependencias geopolíticas. Es un caso de deeptech con implicancias para la transición energética global.",
-      "por_que_importa": "La búsqueda de nuevas fuentes de energía limpia y escalable es una de las áreas de mayor innovación y oportunidad de negocio a nivel global, con potencial impacto en mercados como el argentino, que debate su matriz energética.",
-      "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
+      "indice": 23,
       "categoria": "Estrategia",
-      "titulo_es": "Amazon lanza Alexa+ en India con soporte en hindi: una apuesta por la localización de asistentes de IA",
-      "resumen": "Amazon expandió Alexa+ —su versión mejorada del asistente de voz— al mercado indio con capacidad de conversación en hindi, en un período de acceso anticipado para todos los usuarios. La estrategia ilustra cómo las grandes plataformas de IA adaptan sus productos a idiomas y contextos culturales locales para ganar mercados emergentes. El caso es relevante para entender cómo se localiza IA en mercados de habla no inglesa, algo directamente aplicable a LatAm.",
-      "por_que_importa": "La localización de IA al español y contextos latinoamericanos sigue siendo un desafío y una oportunidad: el modelo de expansión de Amazon en India es un caso de estudio concreto sobre cómo escalar productos de IA en mercados no anglófonos.",
-      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "fuente": "TechCrunch"
+      "titulo_es": "Cinco startups inusuales que vale la pena conocer: desde reactores nucleares flotantes hasta IA para agricultores",
+      "resumen": "Crunchbase relevó cinco startups con enfoques poco convencionales: reactores nucleares sobre barcazas, sistemas para evaluar el desempeño de modelos de IA en robótica, y asistentes de voz con IA diseñados para agricultores, entre otros. Los casos ilustran cómo la IA y otras tecnologías emergentes se aplican en sectores alejados del mainstream tecnológico. Son ejemplos concretos de innovación en industrias tradicionales o de infraestructura crítica.",
+      "por_que_importa": "Ver innovación aplicada en contextos no obvios amplía el mapa de oportunidades para quienes piensan en nuevos modelos de negocio, especialmente en economías con base agrícola e industrial como la argentina.",
+      "link": "https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/",
+      "fuente": "Crunchbase News"
     },
     {
       "indice": 8,
-      "categoria": "Global",
-      "titulo_es": "La startup de IA del ex CEO de Infosys suma otros 53 millones de dólares y ya tiene contratos enterprise de siete cifras",
-      "resumen": "La startup de IA fundada por el ex director de Infosys, con base en Palo Alto, anunció una nueva ronda de 53 millones de dólares y reveló haber cerrado múltiples contratos empresariales de más de un millón de dólares cada uno en sus primeros meses de operación. El caso ilustra la velocidad con que startups de IA con fundadores de alta credibilidad pueden conseguir tracción enterprise. El modelo de negocio B2B con contratos grandes es una de las rutas más sólidas para startups de IA en la actualidad.",
-      "por_que_importa": "El patrón de go-to-market enterprise que muestra esta startup —credenciales del fundador + producto de IA + contratos grandes desde el inicio— es un modelo de negocio relevante para entender cómo se construyen negocios de IA con tracción rápida.",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "categoria": "Producto",
+      "titulo_es": "Spotify expande su programa de monetización de podcasts a 35 nuevos países y aumenta los pagos a creadores en un tercio",
+      "resumen": "Spotify amplió su Partner Program para podcasts a 35 nuevos países, incluyendo mercados de LatAm, tras revisar sus condiciones para creadores de video en enero de 2026. La plataforma informó que los pagos a creadores crecieron más de un 33% desde ese cambio. La expansión refleja la apuesta de Spotify por consolidar su posición en la economía de creadores de audio y video.",
+      "por_que_importa": "El modelo de monetización de plataformas para creadores de contenido es un caso de estudio directo sobre diseño de ecosistemas de negocio, con impacto real en emprendedores de contenido en Argentina y LatAm.",
+      "link": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 21,
-      "categoria": "Tendencias",
-      "titulo_es": "Los peores hackeos y brechas de datos del 2026: un repaso de los incidentes de ciberseguridad más graves del año",
-      "resumen": "TechCrunch compiló los incidentes de seguridad más dañinos de 2026, incluyendo la filtración masiva de DOGE, compromisos de infraestructura crítica y el hackeo de sistemas de vigilancia federal en EE.UU. El artículo documenta patrones de ataque y vulnerabilidades sistémicas en organizaciones públicas y privadas. La ciberseguridad se consolida como una dimensión ineludible de cualquier estrategia de transformación digital.",
-      "por_que_importa": "Para quienes estudian innovación y transformación digital, entender el panorama de riesgos de ciberseguridad es esencial: toda empresa que digitalice procesos debe incorporar seguridad como parte de su estrategia de producto y operaciones.",
-      "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "indice": 20,
+      "categoria": "Producto",
+      "titulo_es": "X (ex Twitter) permite a usuarios de EE.UU. operar acciones directamente desde la plataforma usando Cashtags",
+      "resumen": "X habilitó la operación de activos financieros a través de Cashtags para usuarios en Estados Unidos, integrando por primera vez la discusión bursátil con la ejecución de órdenes en la misma plataforma. La función cierra la brecha entre el análisis informal en redes y la acción financiera concreta. Es un paso significativo en la estrategia de X de convertirse en una 'super app' de servicios financieros.",
+      "por_que_importa": "La integración de servicios financieros en plataformas sociales es un modelo de negocio que ya está siendo explorado en LatAm (Nubank, Mercado Pago) y este caso global ilustra cómo evolucionan esas estrategias.",
+      "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 22,
+      "categoria": "Estrategia",
+      "titulo_es": "Skalar: la fintech que financia el costo de adquisición de clientes de startups como alternativa a la deuda de venture",
+      "resumen": "Skalar es una fintech recién lanzada que ofrece capital a startups específicamente para financiar sus gastos de ventas y marketing, con un modelo de repago atado a los ingresos generados por esas campañas. El modelo es una alternativa al venture debt tradicional y a la dilución de equity para financiar crecimiento comercial. Apunta a startups con modelos de ingresos predecibles que necesitan escalar su go-to-market.",
+      "por_que_importa": "Entender modelos alternativos de financiamiento del crecimiento (más allá de levantar rondas) es esencial para quienes estudian estrategia de nuevos negocios y quieran escalar ventures sin diluir equity innecesariamente.",
+      "link": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 17,
+      "categoria": "Estrategia",
+      "titulo_es": "Pulley, rival de Carta en gestión de cap tables, cierra sus operaciones en diciembre de 2026",
+      "resumen": "Pulley, plataforma de gestión de cap tables respaldada por General Catalyst, Stripe y Founders Fund, anunció que cerrará en diciembre de 2026. El cierre se produce a pesar de contar con inversores de primer nivel y competir en un mercado de software B2B con alta demanda. Es un caso concreto de cómo incluso startups bien financiadas pueden fallar al escalar en mercados dominados por un jugador establecido.",
+      "por_que_importa": "El fracaso de Pulley ofrece una lección de estrategia sobre competencia en mercados con efectos de red fuertes y la dificultad de desplazar a un líder incumbente, relevante para quienes estudian diseño de modelos de negocio.",
+      "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
       "fuente": "TechCrunch"
     }
   ]
