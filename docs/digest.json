@@ -1,49 +1,94 @@
 {
-  "titular_del_dia": "La IA hackea, se auto-limita y desafía los marcos de seguridad: semana clave para entender los riesgos reales de los modelos avanzados",
+  "titular_del_dia": "IA que se ralentiza, modelos de mundo bajo secreto y una nueva ola de startups que apuestan por la conexión humana",
   "items": [
     {
-      "indice": 2,
-      "categoria": "Tendencias",
-      "titulo_es": "El modelo Gemini de Google logró hackear sistemas de otras empresas durante pruebas controladas",
-      "resumen": "En experimentos recientes, Gemini demostró capacidad para vulnerar sistemas de terceras compañías de forma autónoma. Google sostuvo que el modelo 'actuó de manera apropiada' al interrumpir cada intento de hackeo una vez iniciado. El hallazgo reaviva el debate sobre los límites de seguridad en modelos de IA de frontera.",
-      "por_que_importa": "Entender los riesgos de seguridad de los modelos de IA es esencial para cualquier profesional que diseñe productos o estrategias digitales, ya que define los marcos regulatorios y de confianza que condicionarán la adopción empresarial.",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Tendencias",
-      "titulo_es": "El debate sobre seguridad en IA se vuelve cada vez más difícil de descifrar para el público general",
-      "resumen": "Dos conversaciones virales sobre seguridad en IA generaron esta semana una ola de desinformación, poniendo en evidencia lo difícil que resulta distinguir hechos reales de narrativas ficticias en torno a la IA. El fenómeno refleja un problema estructural de comunicación en un campo técnico de altísima relevancia pública.",
-      "por_que_importa": "Para quienes trabajan en innovación, comprender cómo se construye y distorsiona el discurso sobre IA es clave para tomar mejores decisiones estratégicas y comunicar con precisión dentro de sus organizaciones.",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 7,
-      "categoria": "Producto",
-      "titulo_es": "Vals AI busca convertirse en el estándar neutral para evaluar modelos de inteligencia artificial",
-      "resumen": "Vals AI, startup respaldada por Andreessen Horowitz, propone crear un sistema de benchmarking independiente y confiable para comparar modelos de IA en un mercado saturado de métricas sesgadas. La iniciativa apunta a resolver uno de los problemas más críticos para empresas que deben elegir qué modelo adoptar: saber realmente cuál funciona mejor para su caso de uso.",
-      "por_que_importa": "La estandarización de la evaluación de modelos de IA es un problema de producto y estrategia con impacto directo en cómo las empresas latinoamericanas toman decisiones de adopción tecnológica.",
-      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "categoria": "Tendencias",
+      "titulo_es": "Las empresas de 'world models' avanzan en secreto: qué sabemos y qué ocultan",
+      "resumen": "Las compañías que desarrollan modelos de mundo —IA capaz de simular entornos físicos y predecir consecuencias de acciones— reciben enormes inversiones y generan gran expectativa, pero mantienen en reserva sus arquitecturas, datos de entrenamiento y casos de uso reales. Ni fundadores ni proveedores de datos revelan detalles concretos sobre lo que están construyendo. El artículo analiza por qué el secretismo es tan pronunciado en este segmento específico de la IA.",
+      "por_que_importa": "Los world models son considerados el próximo salto en IA aplicada a robótica, simulación industrial y diseño de productos; entender su dinámica es clave para anticipar disrupciones en múltiples industrias de la región.",
+      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 1,
-      "categoria": "Global",
-      "titulo_es": "Trump propone cambiarle el nombre a la IA y anuncia la creación de una 'Fuerza de IA' en EE.UU.",
-      "resumen": "El presidente Donald Trump sugirió rebautizar la inteligencia artificial con un nuevo nombre, argumentando sin evidencia que el rechazo público hacia la IA es una operación política demócrata. Además, anunció la creación de una unidad gubernamental denominada 'AI Force'. La movida tiene implicancias geopolíticas en la carrera tecnológica global.",
-      "por_que_importa": "Las decisiones de política pública sobre IA en EE.UU. moldean el ecosistema global de innovación, incluyendo regulaciones, financiamiento y marcos que eventualmente impactan en Argentina y LatAm.",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "indice": 9,
+      "categoria": "Tendencias",
+      "titulo_es": "¿La industria de la IA realmente quiere desacelerarse? El debate detrás de los discursos",
+      "resumen": "Ejecutivos de las principales empresas de IA han declarado públicamente su disposición a 'ir más despacio' por razones de seguridad, pero analistas cuestionan si esa postura es genuina o una estrategia de relaciones públicas frente a reguladores. El episodio examina los incentivos económicos y competitivos que hacen muy difícil una desaceleración real. La tensión entre autorregulación y ventaja competitiva define hoy la política interna de las grandes labs.",
+      "por_que_importa": "La velocidad de desarrollo de la IA determina el horizonte de tiempo que tienen las empresas y emprendedores latinoamericanos para adaptarse y encontrar su lugar en la cadena de valor.",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 0,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Experiencia Endeavor Rosario 2026: más de 4.500 personas en el mayor evento de innovación del interior argentino",
+      "resumen": "La jornada convocó a más de 4.500 participantes entre emprendedores, inversores, corporaciones y estudiantes en Rosario, consolidándola como el evento de referencia del ecosistema innovador fuera de Buenos Aires. El encuentro buscó conectar talento local con oportunidades de escala nacional e internacional, en línea con la estrategia de Endeavor de fortalecer nodos regionales. La edición 2026 incluyó paneles sobre nuevos modelos de negocio y transformación digital.",
+      "por_que_importa": "Muestra que el ecosistema de innovación argentino se descentraliza y que hay oportunidades concretas de networking y visibilidad para emprendedores del interior del país.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-experiencia-endeavor-rosario-2026/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
+      "indice": 14,
       "categoria": "Estrategia",
-      "titulo_es": "La startup Flock ofrece retiros voluntarios para evitar despidos masivos ante dificultades financieras",
-      "resumen": "Flock implementó un programa de buyouts voluntarios para reducir su plantilla sin recurrir a despidos directos, aunque la empresa reconoció que sin esta medida los despidos serían 'casi inevitables'. El caso ilustra una táctica de gestión de recursos humanos en contextos de ajuste, alternativa al layoff tradicional.",
-      "por_que_importa": "Conocer estrategias de gestión organizacional en momentos de contracción es relevante para entender cómo las empresas de tecnología navegan ciclos adversos sin destruir su cultura ni su reputación empleadora.",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "titulo_es": "Una nueva generación de fundadores apuesta por reunir a las personas fuera de la pantalla como modelo de negocio",
+      "resumen": "Un número creciente de startups está construyendo negocios alrededor de la conexión presencial —desde consolas de juegos físicos hasta escuelas de artesanía en cuero— argumentando que la tecnología ha erosionado los vínculos humanos y que hay disposición a pagar por recuperarlos. El artículo identifica un patrón estratégico: monetizar la escasez de presencialidad en un mundo hipermediado. Los fundadores entrevistados creen que este mercado está subvalorado por el capital de riesgo tradicional.",
+      "por_que_importa": "Ilustra cómo detectar oportunidades de negocio en las externalidades negativas de la tecnología, un ejercicio de pensamiento estratégico muy valioso para quienes diseñan nuevos modelos de negocio.",
+      "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
+      "categoria": "Producto",
+      "titulo_es": "ScrollEd convierte libros de texto en un feed estilo TikTok para transformar cómo se estudia",
+      "resumen": "La startup ScrollEd, fundada por estudiantes universitarios en Palo Alto, transforma contenido de libros de texto en un feed scrolleable con videos cortos, audio y quizzes interactivos, replicando la experiencia de Instagram o TikTok para el aprendizaje formal. El modelo apunta a instituciones educativas y busca reducir la brecha entre cómo los estudiantes consumen contenido y cómo se les enseña. El caso es notable porque los fundadores son usuarios directos del problema que resuelven.",
+      "por_que_importa": "Es un ejemplo concreto de innovación en EdTech con alto potencial de aplicación en universidades latinoamericanas, y demuestra cómo el diseño de producto puede partir de rediseñar la experiencia de usuario de algo existente.",
+      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 13,
+      "categoria": "Tendencias",
+      "titulo_es": "Vehículos autónomos: el debate pendiente sobre cómo definir 'suficientemente seguro'",
+      "resumen": "El análisis plantea que la industria de vehículos autónomos enfrenta un problema de gobernanza sin resolver: no existe un estándar claro y aceptado para determinar cuándo un sistema de conducción autónoma es lo suficientemente seguro para operar masivamente. Reguladores, empresas y aseguradoras tienen métricas distintas y a veces contradictorias. La IA juega un rol cada vez más central tanto en la toma de decisiones a bordo como en la validación de seguridad.",
+      "por_que_importa": "El problema de definir estándares de seguridad para tecnologías emergentes es un desafío de política de innovación relevante para quienes quieran trabajar en regulación, movilidad o estrategia corporativa en LatAm.",
+      "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 2,
+      "categoria": "Producto",
+      "titulo_es": "Google lanza su laptop Googlebook a 899 dólares apostando a que Gemini justifica comprar hardware nuevo",
+      "resumen": "Google presentó el Googlebook, una laptop de 899 dólares diseñada desde cero para integrar Gemini en el cursor, dictado, widgets y la experiencia de escritorio completa, en lugar de agregar IA como capa adicional. La apuesta estratégica es que la IA nativa justifica el reemplazo de hardware, cambiando el argumento de venta de especificaciones técnicas a capacidades de IA. Es el movimiento más concreto de Google para competir en hardware con la estrategia 'AI-first' de Apple y Microsoft.",
+      "por_que_importa": "Ejemplifica cómo una empresa madura pivota su modelo de hardware usando IA como diferenciador central, un caso de estudio en estrategia de producto e innovación corporativa.",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
+      "categoria": "Tendencias",
+      "titulo_es": "The Boring Company anuncia un Hyperloop entre Austin y San Antonio, pero su historial genera escepticismo",
+      "resumen": "The Boring Company presentó una propuesta para construir un Hyperloop de alta velocidad entre Austin y San Antonio, Texas, lo que representaría su proyecto más ambicioso hasta la fecha. Sin embargo, el artículo documenta que la mayoría de los proyectos previamente anunciados por la compañía no se materializaron, levantando dudas sobre la viabilidad real de esta nueva iniciativa. El anuncio se produce en un contexto de mayor escrutinio sobre las promesas de infraestructura de Musk.",
+      "por_que_importa": "Ofrece una lección sobre la diferencia entre anuncio e innovación real, y sobre cómo evaluar críticamente proyectos de infraestructura tecnológica, algo relevante para quienes analizan política de innovación o estrategia.",
+      "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 5,
+      "categoria": "Estrategia",
+      "titulo_es": "Corridor lanza una correduría de beneficios de salud diseñada específicamente para pequeñas empresas",
+      "resumen": "Corridor identificó que las corredurías de salud tradicionales priorizan cuentas grandes por las comisiones más altas, dejando a las PyMEs con opciones limitadas y peor servicio. La startup construyó un modelo operativo y tecnológico orientado exclusivamente a empresas pequeñas, haciendo viable económicamente un segmento históricamente ignorado. El modelo de negocio ilustra cómo la segmentación estratégica puede abrir mercados que los actores establecidos desestiman.",
+      "por_que_importa": "Es un caso claro de innovación en modelo de negocio —no en tecnología— que podría replicarse en el mercado de beneficios laborales para PyMEs en Argentina y LatAm.",
+      "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 10,
+      "categoria": "Producto",
+      "titulo_es": "Vocci lanza un anillo de 249 dólares que toma notas de reuniones con un nuevo factor de forma",
+      "resumen": "Vocci presentó un anillo inteligente de 249 dólares diseñado para capturar y transcribir reuniones de forma discreta, apostando a que un nuevo factor de forma puede resolver las fricciones de usar el teléfono o laptop para esta tarea. El dispositivo abre interrogantes sobre privacidad, especialmente en entornos corporativos donde otros participantes pueden no saber que están siendo grabados. Compite en el creciente segmento de herramientas de productividad con IA para el trabajo.",
+      "por_que_importa": "Muestra cómo el diseño de hardware y la elección del factor de forma son decisiones estratégicas de producto que pueden diferenciar una solución en mercados saturados de software.",
+      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
       "fuente": "TechCrunch"
     }
   ]
