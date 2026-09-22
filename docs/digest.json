@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "IA que se ralentiza, modelos de mundo bajo secreto y una nueva ola de startups que apuestan por la conexión humana",
+  "titular_del_dia": "IA que reemplaza roles y plataformas que compiten: la batalla por el control del agente inteligente ya comenzó",
   "items": [
     {
-      "indice": 7,
-      "categoria": "Tendencias",
-      "titulo_es": "Las empresas de 'world models' avanzan en secreto: qué sabemos y qué ocultan",
-      "resumen": "Las compañías que desarrollan modelos de mundo —IA capaz de simular entornos físicos y predecir consecuencias de acciones— reciben enormes inversiones y generan gran expectativa, pero mantienen en reserva sus arquitecturas, datos de entrenamiento y casos de uso reales. Ni fundadores ni proveedores de datos revelan detalles concretos sobre lo que están construyendo. El artículo analiza por qué el secretismo es tan pronunciado en este segmento específico de la IA.",
-      "por_que_importa": "Los world models son considerados el próximo salto en IA aplicada a robótica, simulación industrial y diseño de productos; entender su dinámica es clave para anticipar disrupciones en múltiples industrias de la región.",
-      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "indice": 15,
+      "categoria": "Global",
+      "titulo_es": "Muse, el agente de IA de Meta, supera en descargas al lanzamiento móvil de ChatGPT",
+      "resumen": "Según datos de Appfigures, Muse acumuló más descargas y usuarios activos diarios en EE.UU. y Canadá que ChatGPT en el mismo período tras su debut móvil. El agente de Meta apunta a competir directamente con OpenAI en el segmento de asistentes de IA de uso masivo. La velocidad de adopción sugiere que la guerra de plataformas de IA ingresa a una nueva fase.",
+      "por_que_importa": "Entender qué determina la adopción masiva de un producto de IA es clave para quien diseñe estrategias de producto o nuevos negocios en la era de los agentes.",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 9,
-      "categoria": "Tendencias",
-      "titulo_es": "¿La industria de la IA realmente quiere desacelerarse? El debate detrás de los discursos",
-      "resumen": "Ejecutivos de las principales empresas de IA han declarado públicamente su disposición a 'ir más despacio' por razones de seguridad, pero analistas cuestionan si esa postura es genuina o una estrategia de relaciones públicas frente a reguladores. El episodio examina los incentivos económicos y competitivos que hacen muy difícil una desaceleración real. La tensión entre autorregulación y ventaja competitiva define hoy la política interna de las grandes labs.",
-      "por_que_importa": "La velocidad de desarrollo de la IA determina el horizonte de tiempo que tienen las empresas y emprendedores latinoamericanos para adaptarse y encontrar su lugar en la cadena de valor.",
-      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Experiencia Endeavor Rosario 2026: más de 4.500 personas en el mayor evento de innovación del interior argentino",
-      "resumen": "La jornada convocó a más de 4.500 participantes entre emprendedores, inversores, corporaciones y estudiantes en Rosario, consolidándola como el evento de referencia del ecosistema innovador fuera de Buenos Aires. El encuentro buscó conectar talento local con oportunidades de escala nacional e internacional, en línea con la estrategia de Endeavor de fortalecer nodos regionales. La edición 2026 incluyó paneles sobre nuevos modelos de negocio y transformación digital.",
-      "por_que_importa": "Muestra que el ecosistema de innovación argentino se descentraliza y que hay oportunidades concretas de networking y visibilidad para emprendedores del interior del país.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-experiencia-endeavor-rosario-2026/",
-      "fuente": "Endeavor Argentina"
-    },
-    {
-      "indice": 14,
+      "indice": 17,
       "categoria": "Estrategia",
-      "titulo_es": "Una nueva generación de fundadores apuesta por reunir a las personas fuera de la pantalla como modelo de negocio",
-      "resumen": "Un número creciente de startups está construyendo negocios alrededor de la conexión presencial —desde consolas de juegos físicos hasta escuelas de artesanía en cuero— argumentando que la tecnología ha erosionado los vínculos humanos y que hay disposición a pagar por recuperarlos. El artículo identifica un patrón estratégico: monetizar la escasez de presencialidad en un mundo hipermediado. Los fundadores entrevistados creen que este mercado está subvalorado por el capital de riesgo tradicional.",
-      "por_que_importa": "Ilustra cómo detectar oportunidades de negocio en las externalidades negativas de la tecnología, un ejercicio de pensamiento estratégico muy valioso para quienes diseñan nuevos modelos de negocio.",
-      "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "titulo_es": "Amazon bloqueó a Muse, el agente de IA de Meta, para que no opere en su plataforma",
+      "resumen": "Amazon impidió que el agente Muse de Meta acceda a Amazon.com, en un movimiento que evidencia cómo las grandes plataformas usan el control de acceso como arma competitiva. Amazon posee sus propios modelos de IA y una de las infraestructuras de inferencia más grandes de internet. El caso ilustra el nuevo campo de batalla: quién controla los datos y los puntos de acceso en el ecosistema de agentes.",
+      "por_que_importa": "La disputa entre Meta y Amazon anticipa cómo los modelos de negocio basados en agentes de IA chocarán con las estrategias de plataforma existentes, un dilema central para cualquier estudiante de estrategia digital.",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 11,
+      "indice": 20,
       "categoria": "Producto",
-      "titulo_es": "ScrollEd convierte libros de texto en un feed estilo TikTok para transformar cómo se estudia",
-      "resumen": "La startup ScrollEd, fundada por estudiantes universitarios en Palo Alto, transforma contenido de libros de texto en un feed scrolleable con videos cortos, audio y quizzes interactivos, replicando la experiencia de Instagram o TikTok para el aprendizaje formal. El modelo apunta a instituciones educativas y busca reducir la brecha entre cómo los estudiantes consumen contenido y cómo se les enseña. El caso es notable porque los fundadores son usuarios directos del problema que resuelven.",
-      "por_que_importa": "Es un ejemplo concreto de innovación en EdTech con alto potencial de aplicación en universidades latinoamericanas, y demuestra cómo el diseño de producto puede partir de rediseñar la experiencia de usuario de algo existente.",
-      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "titulo_es": "Tabby: una ex contadora usa IA para hacer obsoleta la contabilidad manual",
+      "resumen": "Tabby es una interfaz de contabilidad en tiempo real que procesa documentos de clientes y entrega datos actualizados de pérdidas y ganancias de forma automática. Su fundadora, ex contadora, diseñó el producto desde adentro del problema que resuelve. El caso ilustra cómo la IA aplicada a procesos profesionales tradicionales puede redefinir roles enteros.",
+      "por_que_importa": "Es un ejemplo concreto de cómo un founder con conocimiento sectorial profundo puede usar IA para transformar un mercado establecido, una lección directa para quienes piensen en nuevos negocios.",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 13,
       "categoria": "Tendencias",
-      "titulo_es": "Vehículos autónomos: el debate pendiente sobre cómo definir 'suficientemente seguro'",
-      "resumen": "El análisis plantea que la industria de vehículos autónomos enfrenta un problema de gobernanza sin resolver: no existe un estándar claro y aceptado para determinar cuándo un sistema de conducción autónoma es lo suficientemente seguro para operar masivamente. Reguladores, empresas y aseguradoras tienen métricas distintas y a veces contradictorias. La IA juega un rol cada vez más central tanto en la toma de decisiones a bordo como en la validación de seguridad.",
-      "por_que_importa": "El problema de definir estándares de seguridad para tecnologías emergentes es un desafío de política de innovación relevante para quienes quieran trabajar en regulación, movilidad o estrategia corporativa en LatAm.",
-      "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 2,
-      "categoria": "Producto",
-      "titulo_es": "Google lanza su laptop Googlebook a 899 dólares apostando a que Gemini justifica comprar hardware nuevo",
-      "resumen": "Google presentó el Googlebook, una laptop de 899 dólares diseñada desde cero para integrar Gemini en el cursor, dictado, widgets y la experiencia de escritorio completa, en lugar de agregar IA como capa adicional. La apuesta estratégica es que la IA nativa justifica el reemplazo de hardware, cambiando el argumento de venta de especificaciones técnicas a capacidades de IA. Es el movimiento más concreto de Google para competir en hardware con la estrategia 'AI-first' de Apple y Microsoft.",
-      "por_que_importa": "Ejemplifica cómo una empresa madura pivota su modelo de hardware usando IA como diferenciador central, un caso de estudio en estrategia de producto e innovación corporativa.",
-      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 8,
-      "categoria": "Tendencias",
-      "titulo_es": "The Boring Company anuncia un Hyperloop entre Austin y San Antonio, pero su historial genera escepticismo",
-      "resumen": "The Boring Company presentó una propuesta para construir un Hyperloop de alta velocidad entre Austin y San Antonio, Texas, lo que representaría su proyecto más ambicioso hasta la fecha. Sin embargo, el artículo documenta que la mayoría de los proyectos previamente anunciados por la compañía no se materializaron, levantando dudas sobre la viabilidad real de esta nueva iniciativa. El anuncio se produce en un contexto de mayor escrutinio sobre las promesas de infraestructura de Musk.",
-      "por_que_importa": "Ofrece una lección sobre la diferencia entre anuncio e innovación real, y sobre cómo evaluar críticamente proyectos de infraestructura tecnológica, algo relevante para quienes analizan política de innovación o estrategia.",
-      "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Estrategia",
-      "titulo_es": "Corridor lanza una correduría de beneficios de salud diseñada específicamente para pequeñas empresas",
-      "resumen": "Corridor identificó que las corredurías de salud tradicionales priorizan cuentas grandes por las comisiones más altas, dejando a las PyMEs con opciones limitadas y peor servicio. La startup construyó un modelo operativo y tecnológico orientado exclusivamente a empresas pequeñas, haciendo viable económicamente un segmento históricamente ignorado. El modelo de negocio ilustra cómo la segmentación estratégica puede abrir mercados que los actores establecidos desestiman.",
-      "por_que_importa": "Es un caso claro de innovación en modelo de negocio —no en tecnología— que podría replicarse en el mercado de beneficios laborales para PyMEs en Argentina y LatAm.",
-      "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "titulo_es": "OpenAI forma un grupo asesor de matemáticas mientras su IA resuelve más de 100 problemas abiertos",
+      "resumen": "OpenAI anunció la creación de un comité asesor matemático luego de que sus modelos demostraran capacidad para resolver más de 100 problemas matemáticos abiertos. El grupo no tendrá potestad para redirigir la investigación en curso, lo que revela tensiones entre rigor académico y velocidad comercial. El avance posiciona a la IA como herramienta de descubrimiento científico, no solo de automatización.",
+      "por_que_importa": "La capacidad de IA para resolver problemas abiertos cambia el paradigma de I+D en empresas y universidades, algo con implicancias directas para quienes trabajen en innovación corporativa o investigación aplicada.",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 10,
-      "categoria": "Producto",
-      "titulo_es": "Vocci lanza un anillo de 249 dólares que toma notas de reuniones con un nuevo factor de forma",
-      "resumen": "Vocci presentó un anillo inteligente de 249 dólares diseñado para capturar y transcribir reuniones de forma discreta, apostando a que un nuevo factor de forma puede resolver las fricciones de usar el teléfono o laptop para esta tarea. El dispositivo abre interrogantes sobre privacidad, especialmente en entornos corporativos donde otros participantes pueden no saber que están siendo grabados. Compite en el creciente segmento de herramientas de productividad con IA para el trabajo.",
-      "por_que_importa": "Muestra cómo el diseño de hardware y la elección del factor de forma son decisiones estratégicas de producto que pueden diferenciar una solución en mercados saturados de software.",
-      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "categoria": "Estrategia",
+      "titulo_es": "Meta impulsa la primera planta comercial de reciclaje de plástico de MacroCycle con un acuerdo estratégico",
+      "resumen": "Meta firmó un acuerdo con la startup MacroCycle para financiar la construcción de su primera planta comercial de reciclaje de plástico. El deal ilustra cómo las grandes tecnológicas usan sus cadenas de suministro y compromisos de sostenibilidad para impulsar startups de tecnología limpia. MacroCycle convierte plásticos difíciles de reciclar en materiales de alta calidad.",
+      "por_que_importa": "El modelo de corporación como cliente ancla que financia la escala de una startup es una estrategia replicable, relevante para quienes estudien alianzas corporativas e innovación abierta.",
+      "link": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 12,
+      "categoria": "Estrategia",
+      "titulo_es": "El arquitecto de las Apple Stores cuestiona la apuesta de Silicon Valley por el shopping con IA",
+      "resumen": "Ron Johnson, quien diseñó el modelo de tiendas físicas de Apple, argumenta que el diferencial de Apple siempre fueron las personas, no la tecnología. En ese marco, cuestiona la narrativa de que los agentes de IA reemplazarán la experiencia de compra presencial. Su posición ofrece una contraperspectiva basada en evidencia sobre el rol humano en el comercio.",
+      "por_que_importa": "Cuestionar el hype con argumentos basados en experiencia real de construcción de negocios es un ejercicio crítico que todo estudiante de innovación debería practicar.",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Endeavor Argentina lanza un bootcamp de ventas para startups tecnológicas",
+      "resumen": "Endeavor Argentina pone en marcha el Sales Bootcamp, un programa orientado a ayudar a startups tecnológicas a estructurar y escalar sus procesos comerciales. La iniciativa responde a una necesidad detectada en el ecosistema local: muchos founders dominan el producto pero tienen dificultades para vender. No se anunciaron aranceles ni fechas de convocatoria en el resumen disponible.",
+      "por_que_importa": "Las capacidades de go-to-market son tan críticas como el desarrollo de producto, y un programa de Endeavor en Argentina es una oportunidad concreta para el ecosistema local.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-endeavor-lanza-sales-bootcamp-un-programa-para-ayudar-a-startups-tecnologicas-a-vender-mas-y-mejor/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
+      "indice": 1,
+      "categoria": "Ecosistema AR",
+      "titulo_es": "Más de 4.500 personas participaron de la Experiencia Endeavor Rosario 2026",
+      "resumen": "La jornada anual de Endeavor en Rosario reunió a más de 4.500 personas con foco en conectar talento, ideas y oportunidades de negocio en el interior del país. El evento consolida a Rosario como uno de los nodos del ecosistema de innovación argentino fuera de Buenos Aires. No se especifican speakers ni casos destacados en el resumen disponible.",
+      "por_que_importa": "El crecimiento del ecosistema emprendedor en ciudades del interior es una señal de descentralización relevante para quienes piensen en innovación más allá de CABA.",
+      "link": "https://www.endeavor.org.ar/blog-article-novedades-experiencia-endeavor-rosario-2026/",
+      "fuente": "Endeavor Argentina"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "Breakthrough Energy de Bill Gates apuesta por 21 startups para definir el futuro energético",
+      "resumen": "El fondo de energía limpia de Bill Gates seleccionó 21 startups que, según sus inversores, serán clave para gestionar la próxima gran ola de electrificación global, que superaría en escala a la demanda actual de data centers de IA. El portfolio incluye tecnologías de almacenamiento, generación y eficiencia energética. La tesis subyacente es que la demanda de energía se acelerará más rápido de lo que el mercado anticipa.",
+      "por_que_importa": "La transición energética es uno de los mayores espacios de innovación y nuevos negocios de la próxima década, con implicancias directas para LatAm dado su potencial en renovables.",
+      "link": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Tendencias",
+      "titulo_es": "X implementa transparencia para avisar a usuarios cuándo gobiernos ordenaron limitar sus publicaciones",
+      "resumen": "X expandió su herramienta 'Under the Hood' para notificar a los usuarios cuando una publicación fue silenciada o retirada por exigencia de un gobierno, indicando además qué país realizó la solicitud. La medida aumenta la visibilidad sobre censura y presión regulatoria en plataformas digitales. Es un movimiento con implicancias directas para mercados como Argentina y LatAm, donde la regulación de plataformas es creciente.",
+      "por_que_importa": "La tensión entre plataformas digitales, regulación estatal y libertad de expresión es un eje estratégico que afecta cómo las empresas diseñan sus productos y gestionan su relación con gobiernos.",
+      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
       "fuente": "TechCrunch"
     }
   ]
