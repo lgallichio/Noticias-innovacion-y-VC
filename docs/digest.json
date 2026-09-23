@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "IA que reemplaza roles y plataformas que compiten: la batalla por el control del agente inteligente ya comenzó",
+  "titular_del_dia": "YouTube y Spotify redefinen la personalización algorítmica con IA: el usuario toma el control",
   "items": [
     {
-      "indice": 15,
-      "categoria": "Global",
-      "titulo_es": "Muse, el agente de IA de Meta, supera en descargas al lanzamiento móvil de ChatGPT",
-      "resumen": "Según datos de Appfigures, Muse acumuló más descargas y usuarios activos diarios en EE.UU. y Canadá que ChatGPT en el mismo período tras su debut móvil. El agente de Meta apunta a competir directamente con OpenAI en el segmento de asistentes de IA de uso masivo. La velocidad de adopción sugiere que la guerra de plataformas de IA ingresa a una nueva fase.",
-      "por_que_importa": "Entender qué determina la adopción masiva de un producto de IA es clave para quien diseñe estrategias de producto o nuevos negocios en la era de los agentes.",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 17,
-      "categoria": "Estrategia",
-      "titulo_es": "Amazon bloqueó a Muse, el agente de IA de Meta, para que no opere en su plataforma",
-      "resumen": "Amazon impidió que el agente Muse de Meta acceda a Amazon.com, en un movimiento que evidencia cómo las grandes plataformas usan el control de acceso como arma competitiva. Amazon posee sus propios modelos de IA y una de las infraestructuras de inferencia más grandes de internet. El caso ilustra el nuevo campo de batalla: quién controla los datos y los puntos de acceso en el ecosistema de agentes.",
-      "por_que_importa": "La disputa entre Meta y Amazon anticipa cómo los modelos de negocio basados en agentes de IA chocarán con las estrategias de plataforma existentes, un dilema central para cualquier estudiante de estrategia digital.",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 20,
-      "categoria": "Producto",
-      "titulo_es": "Tabby: una ex contadora usa IA para hacer obsoleta la contabilidad manual",
-      "resumen": "Tabby es una interfaz de contabilidad en tiempo real que procesa documentos de clientes y entrega datos actualizados de pérdidas y ganancias de forma automática. Su fundadora, ex contadora, diseñó el producto desde adentro del problema que resuelve. El caso ilustra cómo la IA aplicada a procesos profesionales tradicionales puede redefinir roles enteros.",
-      "por_que_importa": "Es un ejemplo concreto de cómo un founder con conocimiento sectorial profundo puede usar IA para transformar un mercado establecido, una lección directa para quienes piensen en nuevos negocios.",
-      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 13,
-      "categoria": "Tendencias",
-      "titulo_es": "OpenAI forma un grupo asesor de matemáticas mientras su IA resuelve más de 100 problemas abiertos",
-      "resumen": "OpenAI anunció la creación de un comité asesor matemático luego de que sus modelos demostraran capacidad para resolver más de 100 problemas matemáticos abiertos. El grupo no tendrá potestad para redirigir la investigación en curso, lo que revela tensiones entre rigor académico y velocidad comercial. El avance posiciona a la IA como herramienta de descubrimiento científico, no solo de automatización.",
-      "por_que_importa": "La capacidad de IA para resolver problemas abiertos cambia el paradigma de I+D en empresas y universidades, algo con implicancias directas para quienes trabajen en innovación corporativa o investigación aplicada.",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 10,
-      "categoria": "Estrategia",
-      "titulo_es": "Meta impulsa la primera planta comercial de reciclaje de plástico de MacroCycle con un acuerdo estratégico",
-      "resumen": "Meta firmó un acuerdo con la startup MacroCycle para financiar la construcción de su primera planta comercial de reciclaje de plástico. El deal ilustra cómo las grandes tecnológicas usan sus cadenas de suministro y compromisos de sostenibilidad para impulsar startups de tecnología limpia. MacroCycle convierte plásticos difíciles de reciclar en materiales de alta calidad.",
-      "por_que_importa": "El modelo de corporación como cliente ancla que financia la escala de una startup es una estrategia replicable, relevante para quienes estudien alianzas corporativas e innovación abierta.",
-      "link": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+      "categoria": "Producto",
+      "titulo_es": "YouTube permite construir tu propio algoritmo de recomendaciones usando IA generativa",
+      "resumen": "YouTube lanzó feeds personalizados donde los usuarios describen en lenguaje natural qué contenido quieren ver y Gemini construye un algoritmo a medida. Es un giro radical en el modelo de recomendación: en lugar de inferir preferencias, el sistema las recibe explícitamente. La función representa un cambio de paradigma en cómo las plataformas equilibran control del usuario y retención.",
+      "por_que_importa": "Ilustra una tendencia clave de diseño de producto: ceder control al usuario como estrategia de diferenciación y fidelización, algo directamente aplicable a cualquier plataforma digital.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 12,
-      "categoria": "Estrategia",
-      "titulo_es": "El arquitecto de las Apple Stores cuestiona la apuesta de Silicon Valley por el shopping con IA",
-      "resumen": "Ron Johnson, quien diseñó el modelo de tiendas físicas de Apple, argumenta que el diferencial de Apple siempre fueron las personas, no la tecnología. En ese marco, cuestiona la narrativa de que los agentes de IA reemplazarán la experiencia de compra presencial. Su posición ofrece una contraperspectiva basada en evidencia sobre el rol humano en el comercio.",
-      "por_que_importa": "Cuestionar el hype con argumentos basados en experiencia real de construcción de negocios es un ejercicio crítico que todo estudiante de innovación debería practicar.",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "indice": 8,
+      "categoria": "Producto",
+      "titulo_es": "YouTube incorpora A/B testing de videos, miniaturas dinámicas y doblaje en vivo con IA para creadores",
+      "resumen": "En su evento Made On YouTube, la plataforma anunció un paquete de herramientas basadas en IA generativa que permiten a creadores experimentar con distintas miniaturas de forma automática, doblar contenido en tiempo real a otros idiomas y testear variantes de video. Las herramientas buscan reducir la fricción del proceso creativo y maximizar el alcance sin trabajo adicional. Es el movimiento más ambicioso de YouTube para retener a creadores profesionales frente a TikTok y otras plataformas.",
+      "por_que_importa": "Muestra cómo la IA se integra en flujos de trabajo creativos reales, un caso concreto de transformación del modelo de negocio de plataformas de contenido con implicancias para creadores en LatAm.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 0,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Endeavor Argentina lanza un bootcamp de ventas para startups tecnológicas",
-      "resumen": "Endeavor Argentina pone en marcha el Sales Bootcamp, un programa orientado a ayudar a startups tecnológicas a estructurar y escalar sus procesos comerciales. La iniciativa responde a una necesidad detectada en el ecosistema local: muchos founders dominan el producto pero tienen dificultades para vender. No se anunciaron aranceles ni fechas de convocatoria en el resumen disponible.",
-      "por_que_importa": "Las capacidades de go-to-market son tan críticas como el desarrollo de producto, y un programa de Endeavor en Argentina es una oportunidad concreta para el ecosistema local.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-endeavor-lanza-sales-bootcamp-un-programa-para-ayudar-a-startups-tecnologicas-a-vender-mas-y-mejor/",
-      "fuente": "Endeavor Argentina"
+      "indice": 14,
+      "categoria": "Producto",
+      "titulo_es": "Spotify lanza 'Taste Profile': los usuarios pueden ver y editar cómo el algoritmo los entiende",
+      "resumen": "Spotify está habilitando para usuarios Premium en EE.UU. una vista que muestra cómo la plataforma categoriza sus gustos musicales, con la posibilidad de ajustarlos en lenguaje natural. La iniciativa responde a años de críticas sobre la opacidad de los algoritmos de recomendación. Junto con el movimiento de YouTube, señala una tendencia de industria hacia la 'algoritmia explicable y editable'.",
+      "por_que_importa": "La transparencia algorítmica como estrategia de producto es una tendencia emergente que cualquier diseñador de plataformas digitales en la región debería incorporar a su radar.",
+      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
+      "categoria": "Estrategia",
+      "titulo_es": "YouTube expande su apuesta al comercio electrónico con 'Ask YouTube', un asistente de IA para compras",
+      "resumen": "La nueva función permite a los usuarios comparar productos directamente dentro de videos de YouTube usando un asistente de IA. La plataforma busca capturar parte del flujo de intención de compra que hoy pasa por Google Shopping, Amazon y TikTok Shop. Es la apuesta más concreta de YouTube por convertirse en un canal de venta, no solo de descubrimiento.",
+      "por_que_importa": "El social commerce combinado con IA es uno de los modelos de negocio con mayor crecimiento en LatAm, y este caso muestra cómo una plataforma global redefine su propuesta de valor.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 19,
+      "categoria": "Tendencias",
+      "titulo_es": "El primer ministro de Grecia admite que ningún gobierno está preparado para el impacto de la IA",
+      "resumen": "En una entrevista con TechCrunch durante una misión comercial, Kyriakos Mitsotakis reconoció abiertamente que los Estados están 'peleando la batalla de ayer' frente a la velocidad de cambio que impone la IA. Señaló que la brecha entre la capacidad regulatoria y el avance tecnológico es estructural, no coyuntural. Es un testimonio inusualmente honesto de un líder político sobre las limitaciones del sector público ante la transformación digital.",
+      "por_que_importa": "El debate sobre política pública e IA es urgente también en Argentina y LatAm; entender cómo otros gobiernos reconocen sus propias limitaciones ayuda a pensar qué rol puede jugar la innovación privada.",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "fuente": "TechCrunch"
     },
     {
       "indice": 1,
-      "categoria": "Ecosistema AR",
-      "titulo_es": "Más de 4.500 personas participaron de la Experiencia Endeavor Rosario 2026",
-      "resumen": "La jornada anual de Endeavor en Rosario reunió a más de 4.500 personas con foco en conectar talento, ideas y oportunidades de negocio en el interior del país. El evento consolida a Rosario como uno de los nodos del ecosistema de innovación argentino fuera de Buenos Aires. No se especifican speakers ni casos destacados en el resumen disponible.",
-      "por_que_importa": "El crecimiento del ecosistema emprendedor en ciudades del interior es una señal de descentralización relevante para quienes piensen en innovación más allá de CABA.",
-      "link": "https://www.endeavor.org.ar/blog-article-novedades-experiencia-endeavor-rosario-2026/",
-      "fuente": "Endeavor Argentina"
+      "categoria": "Tendencias",
+      "titulo_es": "a16z lanza una escuela propia para graduados de secundaria como alternativa a la universidad tradicional",
+      "resumen": "Andreessen Horowitz está creando una academia para jóvenes talentosos recién egresados del secundario, posicionada entre una escuela técnica, Y Combinator y la Thiel Fellowship. La iniciativa cuestiona directamente el modelo universitario como puerta de entrada al ecosistema emprendedor y tecnológico. a16z apuesta a que el acceso temprano al ecosistema de startups puede reemplazar —o superar— la formación universitaria convencional.",
+      "por_que_importa": "Plantea una pregunta estratégica directa para estudiantes universitarios: ¿qué valor diferencial aporta la universidad frente a ecosistemas de formación alternativos impulsados por actores privados?",
+      "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+      "fuente": "TechCrunch Venture"
+    },
+    {
+      "indice": 0,
+      "categoria": "Estrategia",
+      "titulo_es": "Soteris lanza herramienta de IA para identificar pólizas de seguro que destruyen valor dentro de portafolios rentables",
+      "resumen": "La startup Soteris desarrolló una solución de inteligencia artificial que permite a aseguradoras detectar pólizas individualmente deficitarias dentro de portafolios que son rentables en términos agregados. El problema apunta a una falla clásica de gestión: la rentabilidad promedio puede ocultar pérdidas estructurales en segmentos específicos. La herramienta tiene aplicaciones directas en underwriting, pricing y gestión de riesgo.",
+      "por_que_importa": "Es un caso de IA aplicada a un problema de negocio concreto en insurtech, sector con fuerte crecimiento en LatAm y alta oportunidad de innovación en Argentina.",
+      "link": "https://contxto.com/en/insurtech/soteris-launches-ai-tool-to-identify-insurance-policies-that-reduce-profits/",
+      "fuente": "Contxto"
+    },
+    {
+      "indice": 15,
+      "categoria": "Producto",
+      "titulo_es": "LinkedIn incorpora herramientas para combatir perfiles falsos y trayectorias laborales inventadas",
+      "resumen": "La red profesional está lanzando un sistema de verificación donde los propios contactos pueden avalar experiencias laborales de colegas, y las empresas tendrán más control sobre cuentas que las mencionan falsamente. La iniciativa responde a un problema creciente de fraude de identidad profesional potenciado por IA generativa. Es un movimiento estratégico para reforzar la credibilidad de la plataforma, que es su principal activo diferencial frente a otras redes.",
+      "por_que_importa": "La confianza como infraestructura de producto es un desafío crítico en la era de la IA generativa, relevante para cualquiera que diseñe plataformas o comunidades profesionales.",
+      "link": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 16,
+      "categoria": "Estrategia",
+      "titulo_es": "PitPro pone en operación su primer robot para cambio de neumáticos en Canadá: cuatro ruedas en menos de 15 minutos",
+      "resumen": "La startup PitPro activó su primer sistema automatizado de cambio de neumáticos en un taller canadiense, con capacidad para completar el servicio en menos de 15 minutos. El modelo apunta a reemplazar mano de obra técnica en un servicio de alta frecuencia y bajo margen. Es un ejemplo de automatización robótica aplicada a servicios del mundo físico, lejos del hype de los grandes modelos de lenguaje.",
+      "por_que_importa": "Ilustra cómo la automatización avanza sobre servicios físicos tradicionales, un patrón que se replicará en LatAm y genera preguntas estratégicas sobre nuevos modelos de negocio en sectores maduros.",
+      "link": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
+      "fuente": "TechCrunch"
     },
     {
       "indice": 7,
       "categoria": "Tendencias",
-      "titulo_es": "Breakthrough Energy de Bill Gates apuesta por 21 startups para definir el futuro energético",
-      "resumen": "El fondo de energía limpia de Bill Gates seleccionó 21 startups que, según sus inversores, serán clave para gestionar la próxima gran ola de electrificación global, que superaría en escala a la demanda actual de data centers de IA. El portfolio incluye tecnologías de almacenamiento, generación y eficiencia energética. La tesis subyacente es que la demanda de energía se acelerará más rápido de lo que el mercado anticipa.",
-      "por_que_importa": "La transición energética es uno de los mayores espacios de innovación y nuevos negocios de la próxima década, con implicancias directas para LatAm dado su potencial en renovables.",
-      "link": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Tendencias",
-      "titulo_es": "X implementa transparencia para avisar a usuarios cuándo gobiernos ordenaron limitar sus publicaciones",
-      "resumen": "X expandió su herramienta 'Under the Hood' para notificar a los usuarios cuando una publicación fue silenciada o retirada por exigencia de un gobierno, indicando además qué país realizó la solicitud. La medida aumenta la visibilidad sobre censura y presión regulatoria en plataformas digitales. Es un movimiento con implicancias directas para mercados como Argentina y LatAm, donde la regulación de plataformas es creciente.",
-      "por_que_importa": "La tensión entre plataformas digitales, regulación estatal y libertad de expresión es un eje estratégico que afecta cómo las empresas diseñan sus productos y gestionan su relación con gobiernos.",
-      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "titulo_es": "YouTube lanza 'Short Series' para contenido episódico en formato corto, siguiendo el auge de las microdramaserie",
+      "resumen": "YouTube introdujo una función que permite a creadores publicar contenido episódico dentro de Shorts, compitiendo directamente con aplicaciones de microdrama que ganan popularidad en Asia y están llegando a Occidente. La plataforma apuesta a que el storytelling episódico en formato vertical tiene potencial de retención superior al contenido corto aislado. Es una respuesta estratégica a apps como DramaBox o ReelShort que están capturando audiencias jóvenes.",
+      "por_que_importa": "El formato de microdramas episódicos es una tendencia de consumo de contenido con fuerte penetración potencial en LatAm, relevante para estrategias de contenido, entretenimiento y marketing digital.",
+      "link": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
       "fuente": "TechCrunch"
     }
   ]
