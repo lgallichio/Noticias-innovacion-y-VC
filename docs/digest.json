@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "YouTube y Spotify redefinen la personalización algorítmica con IA: el usuario toma el control",
+  "titular_del_dia": "La IA escala de experimento a operación: agentes autónomos transforman sectores enteros mientras crecen las preguntas sobre gobernanza y riesgos",
   "items": [
     {
-      "indice": 10,
-      "categoria": "Producto",
-      "titulo_es": "YouTube permite construir tu propio algoritmo de recomendaciones usando IA generativa",
-      "resumen": "YouTube lanzó feeds personalizados donde los usuarios describen en lenguaje natural qué contenido quieren ver y Gemini construye un algoritmo a medida. Es un giro radical en el modelo de recomendación: en lugar de inferir preferencias, el sistema las recibe explícitamente. La función representa un cambio de paradigma en cómo las plataformas equilibran control del usuario y retención.",
-      "por_que_importa": "Ilustra una tendencia clave de diseño de producto: ceder control al usuario como estrategia de diferenciación y fidelización, algo directamente aplicable a cualquier plataforma digital.",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 8,
+      "categoria": "Global",
+      "titulo_es": "Meta apuesta todo a Muse: su agente de IA llega a lentes, wearables y el centro de su ecosistema",
+      "resumen": "En su conferencia anual Connect 2026, Mark Zuckerberg presentó Muse como el eje central de la estrategia de Meta, expandiendo el agente a sus lentes de IA y nuevos dispositivos wearables. La movida señala un giro de Meta desde plataformas sociales hacia sistemas de agentes ambientales integrados en el hardware cotidiano. Es la apuesta más concreta hasta ahora de una big tech por distribuir agentes de IA fuera de la pantalla del celular.",
+      "por_que_importa": "Entender cómo Meta construye un ecosistema de agentes físicos y digitales es clave para pensar la estrategia de plataforma en la próxima era de la computación.",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 21,
       "categoria": "Producto",
-      "titulo_es": "YouTube incorpora A/B testing de videos, miniaturas dinámicas y doblaje en vivo con IA para creadores",
-      "resumen": "En su evento Made On YouTube, la plataforma anunció un paquete de herramientas basadas en IA generativa que permiten a creadores experimentar con distintas miniaturas de forma automática, doblar contenido en tiempo real a otros idiomas y testear variantes de video. Las herramientas buscan reducir la fricción del proceso creativo y maximizar el alcance sin trabajo adicional. Es el movimiento más ambicioso de YouTube para retener a creadores profesionales frente a TikTok y otras plataformas.",
-      "por_que_importa": "Muestra cómo la IA se integra en flujos de trabajo creativos reales, un caso concreto de transformación del modelo de negocio de plataformas de contenido con implicancias para creadores en LatAm.",
-      "link": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+      "titulo_es": "ChatGPT suma agentes por voz en su app móvil: los usuarios ya pueden delegar tareas complejas desde el teléfono",
+      "resumen": "OpenAI lanzó la pestaña 'Work' en la app móvil de ChatGPT, disponible para suscriptores Pro y Plus, que permite ejecutar tareas agénticas mediante comandos de voz. La función extiende las capacidades de agentes —antes limitadas al escritorio— al uso móvil cotidiano. Es uno de los despliegues más masivos de IA agéntica en un producto de consumo hasta la fecha.",
+      "por_que_importa": "Marca el momento en que la IA agéntica deja de ser una demo y se convierte en una interfaz de trabajo real para millones de personas, con implicancias directas para el futuro del trabajo en LatAm.",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 14,
-      "categoria": "Producto",
-      "titulo_es": "Spotify lanza 'Taste Profile': los usuarios pueden ver y editar cómo el algoritmo los entiende",
-      "resumen": "Spotify está habilitando para usuarios Premium en EE.UU. una vista que muestra cómo la plataforma categoriza sus gustos musicales, con la posibilidad de ajustarlos en lenguaje natural. La iniciativa responde a años de críticas sobre la opacidad de los algoritmos de recomendación. Junto con el movimiento de YouTube, señala una tendencia de industria hacia la 'algoritmia explicable y editable'.",
-      "por_que_importa": "La transparencia algorítmica como estrategia de producto es una tendencia emergente que cualquier diseñador de plataformas digitales en la región debería incorporar a su radar.",
-      "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 11,
-      "categoria": "Estrategia",
-      "titulo_es": "YouTube expande su apuesta al comercio electrónico con 'Ask YouTube', un asistente de IA para compras",
-      "resumen": "La nueva función permite a los usuarios comparar productos directamente dentro de videos de YouTube usando un asistente de IA. La plataforma busca capturar parte del flujo de intención de compra que hoy pasa por Google Shopping, Amazon y TikTok Shop. Es la apuesta más concreta de YouTube por convertirse en un canal de venta, no solo de descubrimiento.",
-      "por_que_importa": "El social commerce combinado con IA es uno de los modelos de negocio con mayor crecimiento en LatAm, y este caso muestra cómo una plataforma global redefine su propuesta de valor.",
-      "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 19,
+      "indice": 13,
       "categoria": "Tendencias",
-      "titulo_es": "El primer ministro de Grecia admite que ningún gobierno está preparado para el impacto de la IA",
-      "resumen": "En una entrevista con TechCrunch durante una misión comercial, Kyriakos Mitsotakis reconoció abiertamente que los Estados están 'peleando la batalla de ayer' frente a la velocidad de cambio que impone la IA. Señaló que la brecha entre la capacidad regulatoria y el avance tecnológico es estructural, no coyuntural. Es un testimonio inusualmente honesto de un líder político sobre las limitaciones del sector público ante la transformación digital.",
-      "por_que_importa": "El debate sobre política pública e IA es urgente también en Argentina y LatAm; entender cómo otros gobiernos reconocen sus propias limitaciones ayuda a pensar qué rol puede jugar la innovación privada.",
-      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "titulo_es": "Anthropic revela que su laboratorio de biología con IA ya produjo un hallazgo significativo, pero mantiene humanos en el proceso",
+      "resumen": "Anthropic anunció que su laboratorio de biología asistido por IA —donde Claude colabora con científicos— ya generó un descubrimiento relevante, aunque la empresa no adelantó detalles. Lo más destacado: la compañía decidió deliberadamente no dejar a Claude operar de forma autónoma en el laboratorio; los humanos siguen supervisando cada paso. El caso ilustra el debate sobre cuánta autonomía darle a los agentes de IA en contextos de alto riesgo.",
+      "por_que_importa": "Es un caso concreto de cómo diseñar la colaboración humano-agente en innovación científica, una tensión central para cualquier organización que quiera usar IA responsablemente.",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
       "fuente": "TechCrunch"
-    },
-    {
-      "indice": 1,
-      "categoria": "Tendencias",
-      "titulo_es": "a16z lanza una escuela propia para graduados de secundaria como alternativa a la universidad tradicional",
-      "resumen": "Andreessen Horowitz está creando una academia para jóvenes talentosos recién egresados del secundario, posicionada entre una escuela técnica, Y Combinator y la Thiel Fellowship. La iniciativa cuestiona directamente el modelo universitario como puerta de entrada al ecosistema emprendedor y tecnológico. a16z apuesta a que el acceso temprano al ecosistema de startups puede reemplazar —o superar— la formación universitaria convencional.",
-      "por_que_importa": "Plantea una pregunta estratégica directa para estudiantes universitarios: ¿qué valor diferencial aporta la universidad frente a ecosistemas de formación alternativos impulsados por actores privados?",
-      "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
-      "fuente": "TechCrunch Venture"
     },
     {
       "indice": 0,
-      "categoria": "Estrategia",
-      "titulo_es": "Soteris lanza herramienta de IA para identificar pólizas de seguro que destruyen valor dentro de portafolios rentables",
-      "resumen": "La startup Soteris desarrolló una solución de inteligencia artificial que permite a aseguradoras detectar pólizas individualmente deficitarias dentro de portafolios que son rentables en términos agregados. El problema apunta a una falla clásica de gestión: la rentabilidad promedio puede ocultar pérdidas estructurales en segmentos específicos. La herramienta tiene aplicaciones directas en underwriting, pricing y gestión de riesgo.",
-      "por_que_importa": "Es un caso de IA aplicada a un problema de negocio concreto en insurtech, sector con fuerte crecimiento en LatAm y alta oportunidad de innovación en Argentina.",
-      "link": "https://contxto.com/en/insurtech/soteris-launches-ai-tool-to-identify-insurance-policies-that-reduce-profits/",
+      "categoria": "LatAm",
+      "titulo_es": "El sector asegurador adopta IA en operaciones, pero el verdadero desafío es escalarla",
+      "resumen": "Según un análisis de Contxto con foco en LatAm, las aseguradoras ya integraron IA en suscripción, evaluación de riesgos, gestión de siniestros y atención al cliente, pero el reto ahora es pasar de pilotos aislados a implementación a escala. El artículo identifica barreras como la calidad de datos, la integración con sistemas legacy y la resistencia organizacional. El sector insurtech en la región muestra uno de los ritmos de adopción de IA más acelerados.",
+      "por_que_importa": "El caso del seguro es un modelo de cómo industrias tradicionales en LatAm enfrentan la transición de 'experimentar con IA' a 'transformar el negocio con IA', una tensión que estudiantes de innovación van a encontrar en cualquier corporación.",
+      "link": "https://contxto.com/en/insurtech/the-insurance-industry-is-bringing-ai-into-its-operations-but-the-challenge-now-is-scaling-it/",
       "fuente": "Contxto"
     },
     {
-      "indice": 15,
+      "indice": 4,
       "categoria": "Producto",
-      "titulo_es": "LinkedIn incorpora herramientas para combatir perfiles falsos y trayectorias laborales inventadas",
-      "resumen": "La red profesional está lanzando un sistema de verificación donde los propios contactos pueden avalar experiencias laborales de colegas, y las empresas tendrán más control sobre cuentas que las mencionan falsamente. La iniciativa responde a un problema creciente de fraude de identidad profesional potenciado por IA generativa. Es un movimiento estratégico para reforzar la credibilidad de la plataforma, que es su principal activo diferencial frente a otras redes.",
-      "por_que_importa": "La confianza como infraestructura de producto es un desafío crítico en la era de la IA generativa, relevante para cualquiera que diseñe plataformas o comunidades profesionales.",
-      "link": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
+      "titulo_es": "Ando busca reemplazar a Slack con una plataforma de mensajería diseñada para equipos híbridos de humanos y agentes de IA",
+      "resumen": "Ando es una startup que construye una herramienta de comunicación de equipos pensada desde cero para que humanos y agentes de IA trabajen en el mismo hilo de conversación. Recaudó 20 millones de dólares en rondas pre-seed y seed lideradas por Accel, Index Ventures y Emergence. La propuesta de valor central es que las herramientas actuales como Slack fueron diseñadas solo para humanos y no están preparadas para flujos de trabajo agénticos.",
+      "por_que_importa": "Es un ejemplo de cómo la irrupción de agentes de IA no solo cambia procesos sino que abre oportunidades para rediseñar categorías de producto enteras desde cero.",
+      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 16,
-      "categoria": "Estrategia",
-      "titulo_es": "PitPro pone en operación su primer robot para cambio de neumáticos en Canadá: cuatro ruedas en menos de 15 minutos",
-      "resumen": "La startup PitPro activó su primer sistema automatizado de cambio de neumáticos en un taller canadiense, con capacidad para completar el servicio en menos de 15 minutos. El modelo apunta a reemplazar mano de obra técnica en un servicio de alta frecuencia y bajo margen. Es un ejemplo de automatización robótica aplicada a servicios del mundo físico, lejos del hype de los grandes modelos de lenguaje.",
-      "por_que_importa": "Ilustra cómo la automatización avanza sobre servicios físicos tradicionales, un patrón que se replicará en LatAm y genera preguntas estratégicas sobre nuevos modelos de negocio en sectores maduros.",
-      "link": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
+      "indice": 22,
+      "categoria": "Tendencias",
+      "titulo_es": "Incluso quienes usan IA todos los días expresan preocupación: el malestar no desaparece con mayor exposición",
+      "resumen": "Un nuevo reporte revela que el nivel de inquietud sobre la IA no disminuye entre los usuarios frecuentes, desafiando la hipótesis de que 'más uso genera más confianza'. Los datos muestran que la exposición constante coexiste con demandas sostenidas de mayor regulación. El hallazgo tiene implicancias para empresas que asumen que la adopción masiva resolverá sola las fricciones sociales.",
+      "por_que_importa": "Para quienes diseñan productos o estrategias de IA, ignorar la dimensión de confianza y gobernanza es un error estratégico, no solo ético.",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 7,
+      "categoria": "Global",
+      "titulo_es": "Australia investiga a OpenAI por un hackeo a un sitio de salud gubernamental: primer caso conocido contra una agencia estatal",
+      "resumen": "El gobierno australiano abrió una investigación formal para determinar si OpenAI violó la ley al producirse una brecha de seguridad en un sitio web de salud pública. Es el primer incidente documentado que involucra a OpenAI con una agencia gubernamental, y el primer ministro prometió responsabilizar a la empresa. El caso abre un precedente sobre la responsabilidad legal de las compañías de IA cuando sus sistemas comprometen infraestructura crítica.",
+      "por_que_importa": "Señala el inicio de una nueva etapa regulatoria en la que los estados comienzan a aplicar consecuencias legales concretas a las big tech de IA, algo que llegará a LatAm con distintos tiempos.",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 17,
+      "categoria": "Estrategia",
+      "titulo_es": "Modal Motors desarrolla motores eléctricos sin tierras raras para drones y robots, buscando independencia de China",
+      "resumen": "La startup Modal Motors está diseñando motores eléctricos pequeños y livianos que no requieren imanes de tierras raras, apuntando a drones, ventiladores y robots. La propuesta responde directamente a la dependencia global de componentes chinos en la cadena de manufactura de hardware. Es un caso de innovación en manufactura motivada tanto por oportunidad tecnológica como por geopolítica.",
+      "por_que_importa": "Ilustra cómo las tensiones geopolíticas crean espacios de innovación y nuevos negocios para startups que apuestan a la resiliencia de cadenas de suministro, una tendencia relevante también para la industria latinoamericana.",
+      "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 27,
       "categoria": "Tendencias",
-      "titulo_es": "YouTube lanza 'Short Series' para contenido episódico en formato corto, siguiendo el auge de las microdramaserie",
-      "resumen": "YouTube introdujo una función que permite a creadores publicar contenido episódico dentro de Shorts, compitiendo directamente con aplicaciones de microdrama que ganan popularidad en Asia y están llegando a Occidente. La plataforma apuesta a que el storytelling episódico en formato vertical tiene potencial de retención superior al contenido corto aislado. Es una respuesta estratégica a apps como DramaBox o ReelShort que están capturando audiencias jóvenes.",
-      "por_que_importa": "El formato de microdramas episódicos es una tendencia de consumo de contenido con fuerte penetración potencial en LatAm, relevante para estrategias de contenido, entretenimiento y marketing digital.",
-      "link": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
+      "titulo_es": "Los agentes de IA como nueva identidad empresarial: emerge un mapa de seguridad específico para controlar su acceso",
+      "resumen": "Un análisis en Crunchbase describe cómo los agentes de IA que acceden a datos y sistemas empresariales están creando una nueva categoría de 'identidad activa' que los modelos tradicionales de ciberseguridad no contemplan. Esto está generando un nicho de soluciones especializadas en permisos, monitoreo y gobernanza de agentes. La tendencia apunta a que cada empresa que despliegue agentes necesitará repensar su arquitectura de seguridad.",
+      "por_que_importa": "Para quienes diseñan estrategias de transformación digital, entender la seguridad de agentes no es un tema técnico secundario sino una condición habilitante para escalar.",
+      "link": "https://news.crunchbase.com/ma/emerging-map-ai-agentic-security-sagie/",
+      "fuente": "Crunchbase News"
+    },
+    {
+      "indice": 18,
+      "categoria": "Estrategia",
+      "titulo_es": "Disney sube precios en streaming y explora nuevos modelos de negocio más allá de las suscripciones",
+      "resumen": "Disney+ y Hulu anunciaron nuevos aumentos de precios, sumándose a una tendencia generalizada de inflación en el sector streaming. Al mismo tiempo, Disney estaría evaluando modelos alternativos de expansión del negocio más allá del modelo de suscripción puro. El caso muestra las tensiones estratégicas de un modelo de negocio maduro que busca crecer sin depender solo del aumento de tarifas.",
+      "por_que_importa": "Es un caso de estudio sobre los límites del modelo de suscripción y cómo empresas establecidas enfrentan la presión de innovar en su modelo de negocio cuando el crecimiento orgánico se agota.",
+      "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
       "fuente": "TechCrunch"
     }
   ]
