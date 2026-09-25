@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "La IA escala de experimento a operación: agentes autónomos transforman sectores enteros mientras crecen las preguntas sobre gobernanza y riesgos",
+  "titular_del_dia": "La IA rediseña el trabajo y el hardware: despidos tech récord mientras las máquinas aprenden a diseñar sus propios chips",
   "items": [
     {
-      "indice": 8,
-      "categoria": "Global",
-      "titulo_es": "Meta apuesta todo a Muse: su agente de IA llega a lentes, wearables y el centro de su ecosistema",
-      "resumen": "En su conferencia anual Connect 2026, Mark Zuckerberg presentó Muse como el eje central de la estrategia de Meta, expandiendo el agente a sus lentes de IA y nuevos dispositivos wearables. La movida señala un giro de Meta desde plataformas sociales hacia sistemas de agentes ambientales integrados en el hardware cotidiano. Es la apuesta más concreta hasta ahora de una big tech por distribuir agentes de IA fuera de la pantalla del celular.",
-      "por_que_importa": "Entender cómo Meta construye un ecosistema de agentes físicos y digitales es clave para pensar la estrategia de plataforma en la próxima era de la computación.",
-      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 21,
-      "categoria": "Producto",
-      "titulo_es": "ChatGPT suma agentes por voz en su app móvil: los usuarios ya pueden delegar tareas complejas desde el teléfono",
-      "resumen": "OpenAI lanzó la pestaña 'Work' en la app móvil de ChatGPT, disponible para suscriptores Pro y Plus, que permite ejecutar tareas agénticas mediante comandos de voz. La función extiende las capacidades de agentes —antes limitadas al escritorio— al uso móvil cotidiano. Es uno de los despliegues más masivos de IA agéntica en un producto de consumo hasta la fecha.",
-      "por_que_importa": "Marca el momento en que la IA agéntica deja de ser una demo y se convierte en una interfaz de trabajo real para millones de personas, con implicancias directas para el futuro del trabajo en LatAm.",
-      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 13,
       "categoria": "Tendencias",
-      "titulo_es": "Anthropic revela que su laboratorio de biología con IA ya produjo un hallazgo significativo, pero mantiene humanos en el proceso",
-      "resumen": "Anthropic anunció que su laboratorio de biología asistido por IA —donde Claude colabora con científicos— ya generó un descubrimiento relevante, aunque la empresa no adelantó detalles. Lo más destacado: la compañía decidió deliberadamente no dejar a Claude operar de forma autónoma en el laboratorio; los humanos siguen supervisando cada paso. El caso ilustra el debate sobre cuánta autonomía darle a los agentes de IA en contextos de alto riesgo.",
-      "por_que_importa": "Es un caso concreto de cómo diseñar la colaboración humano-agente en innovación científica, una tensión central para cualquier organización que quiera usar IA responsablemente.",
-      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "fuente": "TechCrunch"
+      "titulo_es": "Los despidos en tecnología superan los niveles de 2025 mientras las empresas redirigen inversión hacia IA",
+      "resumen": "Entre enero y agosto de 2026, los despidos en el sector tech de EE.UU. alcanzaron al menos 94.046 personas, un 16,8% más que en el mismo período de 2025. La tendencia refleja una reconfiguración estructural: grandes compañías como Oracle, Meta y Amazon reducen plantillas tradicionales para reasignar recursos a iniciativas de inteligencia artificial. No se trata de una crisis sectorial, sino de una transformación deliberada del modelo operativo.",
+      "por_que_importa": "Entender que la IA no solo crea empleos sino que destruye otros en simultáneo es clave para cualquier estudiante que piense estrategia de negocios o el futuro del trabajo en LatAm.",
+      "link": "https://news.crunchbase.com/layoffs/2026-layoff-numbers-rise-ai-shift-orcl-meta-amzn/",
+      "fuente": "Crunchbase News"
     },
     {
-      "indice": 0,
-      "categoria": "LatAm",
-      "titulo_es": "El sector asegurador adopta IA en operaciones, pero el verdadero desafío es escalarla",
-      "resumen": "Según un análisis de Contxto con foco en LatAm, las aseguradoras ya integraron IA en suscripción, evaluación de riesgos, gestión de siniestros y atención al cliente, pero el reto ahora es pasar de pilotos aislados a implementación a escala. El artículo identifica barreras como la calidad de datos, la integración con sistemas legacy y la resistencia organizacional. El sector insurtech en la región muestra uno de los ritmos de adopción de IA más acelerados.",
-      "por_que_importa": "El caso del seguro es un modelo de cómo industrias tradicionales en LatAm enfrentan la transición de 'experimentar con IA' a 'transformar el negocio con IA', una tensión que estudiantes de innovación van a encontrar en cualquier corporación.",
-      "link": "https://contxto.com/en/insurtech/the-insurance-industry-is-bringing-ai-into-its-operations-but-the-challenge-now-is-scaling-it/",
-      "fuente": "Contxto"
-    },
-    {
-      "indice": 4,
-      "categoria": "Producto",
-      "titulo_es": "Ando busca reemplazar a Slack con una plataforma de mensajería diseñada para equipos híbridos de humanos y agentes de IA",
-      "resumen": "Ando es una startup que construye una herramienta de comunicación de equipos pensada desde cero para que humanos y agentes de IA trabajen en el mismo hilo de conversación. Recaudó 20 millones de dólares en rondas pre-seed y seed lideradas por Accel, Index Ventures y Emergence. La propuesta de valor central es que las herramientas actuales como Slack fueron diseñadas solo para humanos y no están preparadas para flujos de trabajo agénticos.",
-      "por_que_importa": "Es un ejemplo de cómo la irrupción de agentes de IA no solo cambia procesos sino que abre oportunidades para rediseñar categorías de producto enteras desde cero.",
-      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 22,
+      "indice": 1,
       "categoria": "Tendencias",
-      "titulo_es": "Incluso quienes usan IA todos los días expresan preocupación: el malestar no desaparece con mayor exposición",
-      "resumen": "Un nuevo reporte revela que el nivel de inquietud sobre la IA no disminuye entre los usuarios frecuentes, desafiando la hipótesis de que 'más uso genera más confianza'. Los datos muestran que la exposición constante coexiste con demandas sostenidas de mayor regulación. El hallazgo tiene implicancias para empresas que asumen que la adopción masiva resolverá sola las fricciones sociales.",
-      "por_que_importa": "Para quienes diseñan productos o estrategias de IA, ignorar la dimensión de confianza y gobernanza es un error estratégico, no solo ético.",
-      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 7,
-      "categoria": "Global",
-      "titulo_es": "Australia investiga a OpenAI por un hackeo a un sitio de salud gubernamental: primer caso conocido contra una agencia estatal",
-      "resumen": "El gobierno australiano abrió una investigación formal para determinar si OpenAI violó la ley al producirse una brecha de seguridad en un sitio web de salud pública. Es el primer incidente documentado que involucra a OpenAI con una agencia gubernamental, y el primer ministro prometió responsabilizar a la empresa. El caso abre un precedente sobre la responsabilidad legal de las compañías de IA cuando sus sistemas comprometen infraestructura crítica.",
-      "por_que_importa": "Señala el inicio de una nueva etapa regulatoria en la que los estados comienzan a aplicar consecuencias legales concretas a las big tech de IA, algo que llegará a LatAm con distintos tiempos.",
-      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "titulo_es": "IA que diseña su propio hardware: la nueva frontera donde el software decide cómo se construye el chip",
+      "resumen": "Las co-fundadoras de Ricursive Intelligence, Anna Goldie y Azalia Mirhoseini —pioneras en el uso de IA para diseño de chips en Google—, presentarán en TechCrunch Disrupt 2026 su visión sobre el 'loop cerrado' entre IA y desarrollo de semiconductores. La idea central es que los sistemas de IA ya pueden optimizar el diseño del hardware que los ejecuta, comprimiendo años de ciclos de ingeniería. Esta capacidad podría acelerar exponencialmente el ritmo de progreso computacional.",
+      "por_que_importa": "Comprender que la IA está empezando a auto-optimizar su propia infraestructura cambia radicalmente cualquier análisis de ventaja competitiva tecnológica a mediano plazo.",
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 17,
       "categoria": "Estrategia",
-      "titulo_es": "Modal Motors desarrolla motores eléctricos sin tierras raras para drones y robots, buscando independencia de China",
-      "resumen": "La startup Modal Motors está diseñando motores eléctricos pequeños y livianos que no requieren imanes de tierras raras, apuntando a drones, ventiladores y robots. La propuesta responde directamente a la dependencia global de componentes chinos en la cadena de manufactura de hardware. Es un caso de innovación en manufactura motivada tanto por oportunidad tecnológica como por geopolítica.",
-      "por_que_importa": "Ilustra cómo las tensiones geopolíticas crean espacios de innovación y nuevos negocios para startups que apuestan a la resiliencia de cadenas de suministro, una tendencia relevante también para la industria latinoamericana.",
-      "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "titulo_es": "El CEO de ElevenLabs habla sobre márgenes, salida a bolsa y por qué las empresas deberían decirte que estás hablando con un bot",
+      "resumen": "ElevenLabs, valuada en aproximadamente 22.000 millones de dólares, potencia la voz de IA en miles de llamadas de atención al cliente. Su CEO argumenta que las empresas deberían revelar cuando el interlocutor es una IA —al menos hasta que los usuarios lo prefieran—, planteando una discusión estratégica sobre confianza, adopción y diseño de experiencia. La compañía aún no definió timing para su IPO pero confirma márgenes saludables.",
+      "por_que_importa": "El caso ilustra cómo las decisiones de producto y transparencia impactan directamente en la estrategia de go-to-market de empresas de IA aplicada a servicios.",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 27,
-      "categoria": "Tendencias",
-      "titulo_es": "Los agentes de IA como nueva identidad empresarial: emerge un mapa de seguridad específico para controlar su acceso",
-      "resumen": "Un análisis en Crunchbase describe cómo los agentes de IA que acceden a datos y sistemas empresariales están creando una nueva categoría de 'identidad activa' que los modelos tradicionales de ciberseguridad no contemplan. Esto está generando un nicho de soluciones especializadas en permisos, monitoreo y gobernanza de agentes. La tendencia apunta a que cada empresa que despliegue agentes necesitará repensar su arquitectura de seguridad.",
-      "por_que_importa": "Para quienes diseñan estrategias de transformación digital, entender la seguridad de agentes no es un tema técnico secundario sino una condición habilitante para escalar.",
-      "link": "https://news.crunchbase.com/ma/emerging-map-ai-agentic-security-sagie/",
-      "fuente": "Crunchbase News"
+      "indice": 19,
+      "categoria": "Producto",
+      "titulo_es": "Google prueba que Gemini llame por vos a empresas y gestione trámites en tu nombre",
+      "resumen": "Google está probando una función en la que Gemini realiza llamadas telefónicas a negocios en nombre del usuario, comenzando con propietarios de Pixel 11 en EE.UU. con suscripción Gemini. El sistema negocia, consulta disponibilidad o gestiona reservas de forma autónoma. Es uno de los primeros casos masivos de agentes de IA actuando en el mundo real en representación de personas.",
+      "por_que_importa": "Este es un ejemplo concreto de agentes de IA en acción que redefine la interfaz entre usuarios y empresas, con implicancias directas para cualquier negocio que dependa de contacto telefónico con clientes.",
+      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "fuente": "TechCrunch"
     },
     {
-      "indice": 18,
+      "indice": 11,
+      "categoria": "Producto",
+      "titulo_es": "Feather apuesta al 'Android de la robótica': una plataforma abierta y personalizable para desarrolladores",
+      "resumen": "La startup Feather lanzó una plataforma robótica de 30.000 dólares diseñada específicamente para desarrolladores de software, apostando por la customización y la apertura como diferencial —al estilo Android frente a iOS en su momento. La analogía estratégica es deliberada: buscan crear un ecosistema donde terceros construyan aplicaciones sobre hardware estándar. Es una apuesta de plataforma en un sector dominado por soluciones verticalmente integradas.",
+      "por_que_importa": "La lógica de plataforma abierta vs. ecosistema cerrado es uno de los patrones estratégicos más importantes en innovación, y Feather la replica en robótica con potencial de impacto industrial en LatAm.",
+      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
       "categoria": "Estrategia",
-      "titulo_es": "Disney sube precios en streaming y explora nuevos modelos de negocio más allá de las suscripciones",
-      "resumen": "Disney+ y Hulu anunciaron nuevos aumentos de precios, sumándose a una tendencia generalizada de inflación en el sector streaming. Al mismo tiempo, Disney estaría evaluando modelos alternativos de expansión del negocio más allá del modelo de suscripción puro. El caso muestra las tensiones estratégicas de un modelo de negocio maduro que busca crecer sin depender solo del aumento de tarifas.",
-      "por_que_importa": "Es un caso de estudio sobre los límites del modelo de suscripción y cómo empresas establecidas enfrentan la presión de innovar en su modelo de negocio cuando el crecimiento orgánico se agota.",
-      "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+      "titulo_es": "Waymo acelera su expansión: la flota en Texas creció 49% en un mes",
+      "resumen": "Los datos de flota de Waymo muestran una expansión del 49% en Texas en el último mes, con otros mercados también en crecimiento acelerado. La compañía está pasando de fase piloto a escala operativa real, con miles de viajes autónomos diarios. El ritmo de crecimiento sugiere que el modelo de negocio de robotaxis está superando la barrera de la viabilidad comercial.",
+      "por_que_importa": "El caso Waymo es un ejemplo de cómo escalar un modelo de negocio basado en tecnología profunda, con lecciones directas sobre timing de mercado y expansión geográfica.",
+      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 14,
+      "categoria": "Estrategia",
+      "titulo_es": "Databricks compra Row Zero y anuncia que seguirá adquiriendo startups para ampliar su plataforma de datos",
+      "resumen": "Databricks adquirió Row Zero, una startup de hojas de cálculo en la nube, sumando otra compra a su activa estrategia de M&A en 2026. La compañía declaró abiertamente que está buscando más startups para incorporar a su ecosistema de datos e IA. La movida responde a una lógica de expansión de plataforma: sumar capacidades adyacentes para retener usuarios dentro del stack de Databricks.",
+      "por_que_importa": "Aunque la noticia involucra M&A, el ángulo relevante es la estrategia de construcción de plataforma mediante adquisiciones, un patrón clave en innovación corporativa.",
+      "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 8,
+      "categoria": "Producto",
+      "titulo_es": "Nexterity automatiza la parte más peligrosa de la instalación de tuberías industriales con un robot portátil",
+      "resumen": "La startup Nexterity desarrolló un robot capaz de apretar o aflojar cuatro pernos simultáneamente en instalaciones de tuberías industriales —una tarea actualmente manual, lenta y de alto riesgo para los trabajadores. El equipo entra en un maletín Pelican, lo que lo hace deployable en campo sin infraestructura adicional. Apunta a sectores como petróleo, gas y construcción industrial.",
+      "por_que_importa": "Es un ejemplo claro de innovación en automatización industrial aplicada a industrias intensivas en mano de obra presentes en toda LatAm, como energía y construcción.",
+      "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 10,
+      "categoria": "Producto",
+      "titulo_es": "PrismML lleva modelos de lenguaje compactos a anteojos inteligentes con chips Qualcomm",
+      "resumen": "PrismML integró sus LLMs de pequeño tamaño ('tiny LLMs') en anteojos inteligentes con procesadores Qualcomm, apostando a una IA que corre en el dispositivo sin depender de la nube. El objetivo más amplio de la empresa es democratizar modelos de IA de pesos abiertos que aprovechen el poder de cómputo ya disponible en hardware de consumo. La apuesta desafía el modelo centralizado de procesamiento en servidores.",
+      "por_que_importa": "La tendencia de IA en el edge —procesada localmente en el dispositivo— tiene implicancias de privacidad, costos y acceso que son especialmente relevantes para mercados emergentes como LatAm.",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 3,
+      "categoria": "Producto",
+      "titulo_es": "Meadow: un teléfono inteligente sin redes sociales ni navegación, para quienes quieren desconectarse a medias",
+      "resumen": "Meadow es un smartphone diseñado para quienes quieren prescindir de redes sociales y navegación web sin renunciar a funciones esenciales como llamadas, mapas y mensajería. Su fundador, de 25 años, lo enmarca no como tecnofobia sino como diseño intencional de experiencia. El producto apunta a un segmento creciente que busca límites deliberados con la tecnología.",
+      "por_que_importa": "Es un caso de nicho que ilustra cómo identificar tensiones culturales emergentes —en este caso el 'tech fatigue'— y convertirlas en oportunidades de producto diferenciado.",
+      "link": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
       "fuente": "TechCrunch"
     }
   ]
