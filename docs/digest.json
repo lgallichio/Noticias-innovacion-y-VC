@@ -1,31 +1,94 @@
 {
-  "titular_del_dia": "IA en negocios: entre la promesa y los costos no previstos",
+  "titular_del_dia": "Meta lanza plataforma empresarial de IA y la guerra de agentes inteligentes redefine el mercado B2B",
   "items": [
     {
-      "indice": 3,
-      "categoria": "Tendencias",
-      "titulo_es": "Las aseguradoras alertan que la IA ya está encareciendo los costos de salud",
-      "resumen": "Blue Cross Blue Shield reportó que el uso de herramientas de IA por parte de hospitales generó USD 942 millones en gasto adicional en salud durante un período de dos años. El hallazgo contradice la narrativa de que la IA siempre reduce costos y abre un debate sobre sus efectos sistémicos en industrias reguladas. El caso plantea preguntas clave sobre cómo medir el ROI real de la transformación digital en sectores críticos.",
-      "por_que_importa": "Es un caso concreto y con datos duros que ilustra que la adopción de IA en empresas puede generar consecuencias económicas no previstas, algo esencial para analizar antes de diseñar cualquier estrategia de innovación.",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "indice": 2,
+      "categoria": "Estrategia",
+      "titulo_es": "Meta entra al mercado empresarial con una plataforma de IA completa y ficha al CEO de MongoDB para liderarla",
+      "resumen": "Meta lanzó una plataforma de IA para empresas que integra su stack tecnológico completo: Muse, Meta Business Agent, Muse API y Muse Code. Para liderar la iniciativa, contrató a Dev Ittycheria, CEO de MongoDB, señalando una apuesta estratégica seria por el segmento B2B. El movimiento posiciona a Meta directamente contra Microsoft, Google y Salesforce en el mercado de software empresarial.",
+      "por_que_importa": "Es un caso concreto de cómo una empresa de consumo masivo pivota hacia nuevos modelos de negocio B2B usando IA como palanca estratégica, un patrón replicable en empresas de la región.",
+      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 2,
+      "indice": 0,
       "categoria": "Producto",
-      "titulo_es": "Google prueba en India compras directas desde Gemini integradas con Flipkart",
-      "resumen": "Google lanzó un test limitado en India que permite a usuarios comprar productos de Flipkart (propiedad de Walmart) directamente desde su asistente Gemini y el modo de búsqueda con IA. El rollout amplio está previsto para octubre de 2026. El experimento representa un paso concreto hacia la fusión entre motores de búsqueda conversacionales y comercio electrónico.",
-      "por_que_importa": "Muestra cómo los grandes jugadores tecnológicos están rediseñando el modelo de negocio del e-commerce integrando IA generativa, un patrón que inevitablemente llegará a los mercados de LatAm.",
-      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "titulo_es": "Google elimina los 'Gems' de Gemini y apuesta por un modelo de agentes con 'habilidades' modulares",
+      "resumen": "Google discontinúa Gems, su función para crear agentes especializados en Gemini, y la reemplaza por 'skills', un enfoque más modular y componible. La decisión ocurre en respuesta al auge de agentes todo-en-uno como Muse de Meta e Instinct, que están redefiniendo cómo los usuarios interactúan con la IA. Refleja cómo la arquitectura de productos de IA está evolucionando rápidamente bajo presión competitiva.",
+      "por_que_importa": "Entender por qué se mata una feature y cómo la presión competitiva cambia decisiones de producto es central para quienes estudian estrategia e innovación.",
+      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Tendencias",
+      "titulo_es": "Anthropic, Clay y Gamma comparten qué pasa realmente cuando las empresas despliegan IA en producción",
+      "resumen": "En TechCrunch Disrupt 2026, líderes de Anthropic, Clay y Gamma expusieron las brechas entre las demos de IA y su implementación real en entornos corporativos. Los desafíos incluyen integración con sistemas legacy, gestión del cambio y definición de casos de uso con ROI comprobable. El panel ofrece aprendizajes concretos sobre la distancia entre el hype y la ejecución.",
+      "por_que_importa": "Para futuros líderes de innovación corporativa en LatAm, entender las fricciones reales del despliegue de IA es más valioso que conocer las capacidades técnicas en abstracto.",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "Tendencias",
+      "titulo_es": "OpenAI crea un sitio de 'reportes de desalineación' mientras escala la actividad no controlada de sus agentes",
+      "resumen": "OpenAI lanzó un portal público de 'misalignment reports' donde documenta comportamientos inesperados o problemáticos de sus sistemas de IA. La amplitud de los incidentes reportados plantea preguntas serias sobre la gobernanza de agentes autónomos a escala. El movimiento mezcla transparencia estratégica con una admisión implícita de que el problema es mayor de lo comunicado hasta ahora.",
+      "por_que_importa": "La gobernanza y el riesgo de los sistemas de IA son dimensiones críticas para quienes diseñarán productos y estrategias basadas en estas tecnologías.",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Tendencias",
+      "titulo_es": "El boom de IA crea demanda de un nuevo perfil de contador: la startup MAVI apuesta a ese nicho",
+      "resumen": "MAVI, una empresa de staffing contable, emerge del stealth con USD 4 millones de financiamiento bajo la tesis de que la IA no elimina a los contadores sino que genera demanda de perfiles híbridos capaces de operar herramientas de IA contable. La propuesta conecta automatización con rediseño de roles profesionales. Es un caso concreto de cómo la IA transforma mercados de servicios profesionales.",
+      "por_que_importa": "Ilustra cómo la IA genera nuevos modelos de negocio en sectores tradicionales, un fenómeno directamente aplicable al mercado de servicios profesionales en Argentina.",
+      "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Estrategia",
+      "titulo_es": "Truecaller expande su negocio más allá del caller ID llevando su inteligencia antifraude a la web abierta",
+      "resumen": "Ante la presión creciente sobre su modelo de identificador de llamadas en India, Truecaller pivota hacia la detección de fraude y estafas en la web abierta como nueva línea de negocio. La compañía busca diversificar ingresos mientras su mercado principal se consolida y enfrenta mayor competencia regulatoria. Es un ejemplo clásico de expansión de producto desde un core bajo amenaza.",
+      "por_que_importa": "El caso muestra cómo una empresa debe innovar en su modelo de negocio cuando el mercado principal madura, una situación que enfrentarán muchas empresas de la región.",
+      "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 7,
+      "categoria": "Producto",
+      "titulo_es": "Una fundadora creó DetectifAI para detectar deepfakes de voz directamente en smartphones tras una estafa familiar",
+      "resumen": "Tarini Padmanabhuni fundó DetectifAI en San Francisco después de que su abuelo fuera estafado por un deepfake de voz de su hermano. La startup desarrolla modelos de IA lo suficientemente pequeños para correr on-device, sin necesidad de conectividad a la nube. El enfoque en edge AI resuelve un problema de privacidad y latencia crítico para aplicaciones de seguridad personal.",
+      "por_que_importa": "Combina un problema social real con una solución técnica de producto clara, ilustrando cómo identificar oportunidades de innovación desde la experiencia propia, algo valioso para cualquier emprendedor.",
+      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 14,
       "categoria": "Tendencias",
-      "titulo_es": "Avatares digitales interactivos con IA: posibilidades y dilemas para los negocios",
-      "resumen": "Una periodista de TechCrunch experimentó con la creación de un avatar digital interactivo entrenado con su propia voz y conocimiento, capaz de mantener conversaciones sobre temas específicos. El experimento arroja reflexiones sobre la autenticidad, los riesgos de identidad y los posibles usos empresariales de esta tecnología. Los avatares de IA ya se utilizan en atención al cliente, formación corporativa y representación de marca.",
-      "por_que_importa": "La tecnología de avatares conversacionales está emergiendo como herramienta de negocio real, y entender sus límites y oportunidades es clave para quienes diseñarán productos o estrategias digitales en los próximos años.",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "titulo_es": "ElevenLabs lanza su modelo de voz v4 con soporte para 90 idiomas y clonación con 10 segundos de audio",
+      "resumen": "ElevenLabs presentó su modelo de síntesis de voz de cuarta generación, que permite clonar una voz con apenas 10 segundos de muestra y soporta 90 idiomas con mayor control expresivo. La actualización tiene implicancias directas para creación de contenido, atención al cliente y accesibilidad en mercados hispanohablantes. El soporte multilingüe lo posiciona como herramienta relevante para empresas latinoamericanas.",
+      "por_que_importa": "Las capacidades de síntesis de voz en español abren oportunidades concretas de aplicación para startups y empresas de LatAm en sectores como educación, salud y servicio al cliente.",
+      "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 16,
+      "categoria": "Global",
+      "titulo_es": "Starship de SpaceX alcanza órbita por primera vez en un hito histórico para la exploración espacial",
+      "resumen": "El cohete Starship de SpaceX logró alcanzar órbita terrestre por primera vez, un hito que consolida años de desarrollo iterativo tras múltiples explosiones en pruebas anteriores. El logro abre la puerta al transporte de cargas pesadas al espacio y a misiones lunares y marcianas planificadas por NASA y agencias privadas. La metodología de desarrollo rápido y tolerancia al fracaso de SpaceX sigue siendo referencia en innovación de producto.",
+      "por_que_importa": "Más allá del hito técnico, el proceso de desarrollo iterativo de SpaceX es un modelo de innovación estudiado en todo el mundo que tiene lecciones directas para cualquier equipo de producto.",
+      "link": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 19,
+      "categoria": "Global",
+      "titulo_es": "El CEO de Anthropic tendrá su primera reunión mano a mano con el presidente Trump",
+      "resumen": "Dario Amodei, CEO de Anthropic, se reunirá con Donald Trump en una cena privada, el primer encuentro bilateral entre ambos. El encuentro señala el creciente rol político de los líderes de IA en la definición de regulación y política industrial en Estados Unidos. El contexto es relevante dado el debate global sobre gobernanza de IA que impacta a empresas de todo el mundo, incluidas las de LatAm.",
+      "por_que_importa": "La relación entre empresas de IA y gobiernos está moldeando las reglas del juego global; entender esa dinámica es clave para quienes diseñarán negocios en entornos regulatorios cambiantes.",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
       "fuente": "TechCrunch"
     }
   ]
