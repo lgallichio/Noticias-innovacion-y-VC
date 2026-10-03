@@ -1,94 +1,94 @@
 {
-  "titular_del_dia": "IA en el punto de inflexión: de chatbots a agentes que actúan, compran y asesoran decisiones geopolíticas",
+  "titular_del_dia": "La Casa Blanca reúne a los principales CEOs tech para firmar un compromiso de 'superinteligencia segura': la IA entra en una nueva era regulatoria",
   "items": [
     {
-      "indice": 17,
+      "indice": 7,
+      "categoria": "Global",
+      "titulo_es": "La Casa Blanca convoca a los mayores CEOs tecnológicos para firmar un compromiso de seguridad en 'superinteligencia'",
+      "resumen": "El gobierno de Trump reunió en la misma sala a Zuckerberg, Bezos, Musk y Dario Amodei (Anthropic), entre otros, para firmar un acuerdo de seguridad en IA. El ejecutivo abandona el término 'IA' y adopta oficialmente el de 'superinteligencia', marcando un giro en la narrativa regulatoria global. Es la primera señal concreta de que la política pública estadounidense empieza a tratar la IA de frontera como una cuestión de seguridad nacional.",
+      "por_que_importa": "Entender cómo los gobiernos enmarcan y regulan la IA es clave para cualquiera que diseñe estrategias de innovación o nuevos negocios en un entorno donde las reglas de juego están cambiando en tiempo real.",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
       "categoria": "Producto",
-      "titulo_es": "ChatGPT incorpora prueba virtual de ropa y funciones de shopping integrado",
-      "resumen": "OpenAI lanzó nuevas funciones de compras en ChatGPT que permiten a los usuarios probarse virtualmente prendas y accesorios usando sus propias fotos, y guardar productos favoritos en una biblioteca personal. El movimiento posiciona a ChatGPT como un canal de comercio electrónico directo, compitiendo con buscadores y plataformas de e-commerce. Para LatAm, donde el e-commerce creció sostenidamente, este tipo de interfaz conversacional puede redefinir el funnel de compra.",
-      "por_que_importa": "Ilustra cómo una plataforma de IA pasa de ser una herramienta de consulta a convertirse en un canal de ventas completo, un cambio de modelo de negocio con implicancias directas para cualquier empresa de retail o e-commerce en la región.",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "titulo_es": "Apple endurece los permisos de acceso al disco en macOS por los riesgos que plantean los agentes de IA",
+      "resumen": "Apple anunció nuevos controles sobre el permiso 'Full Disk Access' en macOS, argumentando que los agentes de IA cada vez más capaces pueden acceder a archivos, mensajes, correos e historial de navegación de los usuarios de forma riesgosa. La medida refleja cómo el auge de los agentes autónomos obliga a rediseñar la arquitectura de seguridad de los sistemas operativos. Es un ejemplo concreto de cómo la adopción masiva de IA genera tensiones entre funcionalidad, privacidad y confianza del usuario.",
+      "por_que_importa": "Para quienes desarrollan productos digitales, este movimiento de Apple anticipa nuevas restricciones de plataforma que condicionarán el diseño de cualquier aplicación con agentes de IA integrados.",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "Mapa de los agentes de IA que ya operan dentro de tus mensajes de texto",
+      "resumen": "TechCrunch relevó los agentes de IA más destacados que funcionan directamente en plataformas de mensajería, desde asistentes generales hasta herramientas especializadas en familia, viajes y trabajo. La tendencia muestra un desplazamiento del canal de interacción: de apps dedicadas hacia conversaciones en SMS o chats nativos. Esto reduce la fricción de adopción y abre nuevos modelos de distribución para productos de IA.",
+      "por_que_importa": "Comprender dónde 'viven' los agentes de IA es fundamental para pensar la estrategia de go-to-market de cualquier producto que quiera integrarse en la vida cotidiana de los usuarios en LatAm, donde el móvil y la mensajería dominan.",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Estrategia",
+      "titulo_es": "Sean Parker reconstruye Stability AI con foco en música y apoyo de las discográficas",
+      "resumen": "Sean Parker, co-fundador de Napster y ex presidente de Facebook, asumió el liderazgo de Stability AI y reorientó la compañía hacia la generación de música con IA, esta vez con el respaldo financiero y la bendición de los sellos discográficos. El giro estratégico es notable: Stability AI pasó de ser un actor de imagen generativa en crisis a buscar un nuevo mercado vertical con socios de la industria que antes eran adversarios. El caso ilustra cómo una empresa puede pivotar de modelo y reposicionarse aprovechando activos tecnológicos existentes.",
+      "por_que_importa": "Es un caso de manual sobre pivote estratégico y construcción de alianzas con industrias tradicionales, un patrón que se repite cuando startups de IA buscan modelos de negocio sostenibles.",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 14,
+      "categoria": "Tendencias",
+      "titulo_es": "El auge del 'GTM engineer': cómo la IA está redefiniendo los roles de ventas y crecimiento en startups",
+      "resumen": "Kareem Amin, co-fundador y CEO de Clay, expone en TechCrunch Disrupt cómo emerge el perfil del 'Go-To-Market engineer', un rol híbrido entre tecnología y estrategia comercial que usa herramientas de IA para automatizar y personalizar la adquisición de clientes a escala. Clay es una de las plataformas que lidera esta transformación, combinando datos, automatización y LLMs para rediseñar el proceso de ventas B2B. Este perfil ya es demandado en startups globales y empieza a aparecer en equipos de LatAm.",
+      "por_que_importa": "Para estudiantes que piensen en sus carreras en startups o empresas innovadoras, el GTM engineer representa una de las salidas profesionales más concretas y valoradas que está creando la IA aplicada a negocios.",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 9,
       "categoria": "Producto",
-      "titulo_es": "Epic Systems detiene el desarrollo de producto para priorizar la corrección de bugs de seguridad críticos",
-      "resumen": "Epic, el gigante de software de historias clínicas electrónicas cuyo sistema MyChart es usado por millones de pacientes, pausó todo su roadmap de nuevas funcionalidades para concentrarse en resolver vulnerabilidades de seguridad que ponen en riesgo datos médicos sensibles. La decisión es inusual en la industria tech y refleja la presión regulatoria y reputacional que enfrentan las empresas de healthtech. Es un caso concreto de cómo la deuda técnica puede forzar una parada total en organizaciones de escala.",
-      "por_que_importa": "Es un ejemplo real de trade-off entre velocidad de desarrollo y calidad/seguridad, un dilema central en gestión de producto que todo futuro product manager o líder tecnológico debe comprender.",
+      "titulo_es": "Circuit Breaker Labs crea 'maniquíes de choque' para testear el daño psicológico que puede causar la IA",
+      "resumen": "La startup Circuit Breaker Labs desarrolló agentes sintéticos que simulan usuarios vulnerables —incluyendo niños— para detectar cuándo los sistemas de IA generan daño psicológico antes de que lleguen al público. El enfoque toma prestada la metodología de los crash-test de la industria automotriz y la aplica al desarrollo responsable de productos de IA. Es una respuesta concreta a la presión regulatoria y social sobre la seguridad de los sistemas de IA en contextos sensibles.",
+      "por_que_importa": "Muestra cómo el diseño de producto y la ética de IA se vuelven ventajas competitivas reales, no solo cuestiones de compliance, especialmente en mercados donde la regulación está por llegar.",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Producto",
+      "titulo_es": "Epic Systems detiene el desarrollo de nuevas funciones para priorizar la corrección de fallas de seguridad que exponen datos de pacientes",
+      "resumen": "Epic, la empresa que provee el sistema de registros médicos electrónicos más usado en EE.UU. (incluyendo MyChart), anunció que pausará el desarrollo de nuevas funcionalidades durante varias semanas para enfocarse exclusivamente en corregir vulnerabilidades de seguridad que ponen en riesgo datos sensibles de pacientes. La decisión expone la tensión estructural entre velocidad de desarrollo y seguridad en plataformas críticas de salud. Es una señal de que incluso los líderes del mercado deben frenar el ciclo de innovación cuando la deuda técnica amenaza la confianza.",
+      "por_que_importa": "Ilustra un dilema de gestión de producto muy relevante: cuándo es necesario pausar la innovación para proteger la base del negocio, una decisión que cualquier líder de producto o fundador deberá enfrentar.",
       "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 22,
-      "categoria": "Tendencias",
-      "titulo_es": "Europa apuesta por IA soberana, pero enfrenta el desafío de conseguir clientes reales además de capital",
-      "resumen": "Líderes del ecosistema europeo y de Medio Oriente reunidos en HumanX Amsterdam debatieron la necesidad de construir infraestructura de IA propia para reducir dependencia de modelos estadounidenses y chinos. El análisis de Crunchbase revela que el mayor cuello de botella no es el financiamiento sino la adopción: los proyectos de IA soberana necesitan demanda real del sector público y privado para ser viables. La tensión entre soberanía tecnológica y eficiencia de mercado es un debate que LatAm también empieza a dar.",
-      "por_que_importa": "La discusión sobre soberanía en IA es directamente aplicable a Argentina y la región, donde gobiernos y empresas deben decidir entre adoptar soluciones globales o invertir en capacidades propias.",
+      "indice": 23,
+      "categoria": "Global",
+      "titulo_es": "Europa acelera su apuesta por una IA soberana, pero necesita clientes reales además de capital",
+      "resumen": "Desde la conferencia HumanX en Ámsterdam, referentes del ecosistema europeo y de Medio Oriente advierten que el gran desafío de la IA soberana no es la financiación sino la tracción comercial: conseguir organizaciones que adopten y paguen por soluciones de IA locales frente a las ofertas de los gigantes estadounidenses. La tensión entre soberanía tecnológica y eficiencia de mercado es un debate que LatAm también deberá afrontar a medida que sus gobiernos diseñen políticas de IA. El reporte ofrece un espejo útil para pensar la estrategia regional.",
+      "por_que_importa": "El debate europeo sobre IA soberana tiene implicancias directas para cómo Argentina y LatAm deberían pensar sus políticas de innovación y el rol del Estado como primer cliente de tecnología local.",
       "link": "https://news.crunchbase.com/ai/humanx-amsterdam-europe-sovereign-ai-user-push/",
       "fuente": "Crunchbase News"
     },
     {
-      "indice": 14,
-      "categoria": "Tendencias",
-      "titulo_es": "Lyft pagará USD 272 millones para cerrar una demanda histórica por la clasificación laboral de sus conductores",
-      "resumen": "Lyft acordó pagar 272,5 millones de dólares para resolver una demanda colectiva iniciada en 2020 que cuestionaba si sus conductores debían ser considerados empleados en lugar de contratistas independientes. El acuerdo pone fin a una disputa legal de seis años que fue clave en definir el modelo de trabajo gig en Estados Unidos. Este debate sobre la naturaleza del empleo en plataformas digitales sigue abierto en múltiples jurisdicciones de América Latina.",
-      "por_que_importa": "El modelo de contratista vs. empleado es central para el negocio de cualquier plataforma de economía colaborativa; entender cómo se resuelve legalmente en mercados maduros anticipa los desafíos regulatorios que enfrentarán empresas similares en LatAm.",
-      "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 12,
-      "categoria": "Tendencias",
-      "titulo_es": "California establece multas para operadores de robotaxis que obstruyan el trabajo de servicios de emergencia",
-      "resumen": "Una nueva ley en California obliga a los operadores de vehículos autónomos a no bloquear el acceso de primeros respondedores bajo pena de multa, luego de incidentes documentados con flotas de Waymo y Cruise. La regulación es la primera en su tipo y marca una nueva etapa en la gobernanza de la movilidad autónoma, donde las empresas deben integrar requerimientos de seguridad pública en su diseño operativo. Anticipa el tipo de marco regulatorio que enfrentarán estos servicios cuando lleguen a ciudades latinoamericanas.",
-      "por_que_importa": "Muestra cómo la regulación co-evoluciona con la innovación tecnológica, un fenómeno que los innovadores deben anticipar al diseñar nuevos modelos de negocio en sectores de alto impacto social.",
-      "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 19,
-      "categoria": "Tendencias",
-      "titulo_es": "Se completó la primera planta de energía geotérmica mejorada del mundo en tiempo récord de 23 meses",
-      "resumen": "Fervo Energy finalizó su primera planta de energía geotérmica enhanced (EGS) en Nevada en menos de dos años, un hito que acelera el calendario de esta tecnología considerada clave para la transición energética. A diferencia de la geotermia tradicional, la EGS puede desplegarse en zonas sin actividad volcánica natural, ampliando enormemente su potencial geográfico. Argentina, Chile y otros países andinos con alto potencial geotérmico podrían beneficiarse de la maduración rápida de esta tecnología.",
-      "por_que_importa": "La energía limpia y confiable es una condición habilitante para la industria y los data centers que soportan la economía digital; entender estas innovaciones en infraestructura es clave para pensar la competitividad futura de la región.",
-      "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 16,
-      "categoria": "Tendencias",
-      "titulo_es": "Grok, el chatbot de Musk, habría influido en decisiones geopolíticas de Trump sobre Venezuela",
-      "resumen": "Según reportes, el presidente Trump consultó al chatbot Grok de xAI antes de tomar decisiones relacionadas con Venezuela y la captura de Nicolás Maduro, y el modelo habría apoyado la acción. El incidente pone en el centro del debate la alineación de valores en modelos de IA y los riesgos de usar sistemas de lenguaje como asesores en decisiones de alto impacto. Es el caso más extremo hasta ahora de un agente de IA influyendo en política exterior con consecuencias directas para América Latina.",
-      "por_que_importa": "Ilustra de forma concreta los riesgos de gobernanza y alineación de la IA, un tema que trasciende lo técnico y se vuelve central para entender el impacto de estas tecnologías en negocios, instituciones y sociedades.",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 25,
-      "categoria": "Tendencias",
-      "titulo_es": "La inversión en startups nucleares supera los USD 6.000 millones en 2026, pero los mercados públicos dudan",
-      "resumen": "Según datos de Crunchbase, el financiamiento privado en empresas de energía nuclear —tanto fisión como fusión— alcanzó más de 6.000 millones de dólares en lo que va de 2026, superando cualquier año anterior. Sin embargo, las empresas nucleares que cotizan en bolsa muestran rendimientos negativos, revelando una brecha entre el entusiasmo inversor privado y la confianza del mercado público. La demanda creciente de energía para data centers de IA es uno de los principales motores de este interés renovado.",
-      "por_que_importa": "La intersección entre IA, demanda energética y nuevas tecnologías de generación es una de las mega-tendencias que definirá qué países y empresas liderarán la economía digital de la próxima década, incluyendo a Argentina con su potencial en recursos energéticos.",
-      "link": "https://news.crunchbase.com/clean-tech-and-energy/nuclear-startup-funding-up-public-markets-bearish/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 18,
-      "categoria": "Tendencias",
-      "titulo_es": "Google lanzó su primer chip avanzado al espacio y estima que se necesitan 1.800 lanzamientos de Starship para viabilizar data centers orbitales",
-      "resumen": "Google envió al espacio su primer chip de procesamiento avanzado como prueba de concepto para data centers orbitales, una iniciativa que busca reducir latencia y costos de infraestructura computacional a largo plazo. Sin embargo, la compañía estima que el modelo solo se vuelve económicamente viable cuando SpaceX logre un ritmo de aproximadamente 1.800 lanzamientos de Starship, lo que plantea un horizonte de al menos una década. El caso ilustra cómo las grandes apuestas de innovación requieren la maduración simultánea de múltiples tecnologías habilitadoras.",
-      "por_que_importa": "Es un ejemplo paradigmático de innovación de largo plazo que depende de ecosistemas tecnológicos interdependientes, útil para entender cómo las empresas planifican horizontes de inversión en condiciones de alta incertidumbre.",
-      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
       "categoria": "Estrategia",
-      "titulo_es": "Rivian bate su récord de ventas gracias al lanzamiento del modelo R2 de menor precio",
-      "resumen": "Rivian entregó más de 19.000 vehículos eléctricos en el tercer trimestre de 2026, un incremento del 45% respecto al mismo período del año anterior, impulsado principalmente por el R2, su modelo más accesible. El caso demuestra cómo la extensión hacia segmentos de precio más bajo puede desbloquear volumen y revertir tendencias negativas en una empresa de hardware. La estrategia de Rivian contrasta con la de Tesla, que enfrenta caídas en relación al récord histórico.",
-      "por_que_importa": "Es un caso de estrategia de portafolio de productos y segmentación de mercado en una industria intensiva en capital, con lecciones aplicables a cualquier empresa que busque escalar más allá de su segmento inicial.",
+      "titulo_es": "Rivian alcanza un récord de ventas impulsado por el lanzamiento de su modelo R2 más accesible",
+      "resumen": "Rivian entregó más de 19.000 vehículos eléctricos en el tercer trimestre de 2026, un salto del 45% frente al mismo período del año anterior, gracias al lanzamiento del R2, su modelo de menor precio. El caso ilustra cómo la estrategia de ampliar el rango de precios hacia segmentos más masivos puede desbloquear volumen de ventas significativo en mercados de tecnología hardware. Rivian consolida así su posición como el principal competidor de Tesla en el segmento de EVs fuera del mainstream.",
+      "por_que_importa": "Es un ejemplo concreto de estrategia de 'good-better-best' aplicada a hardware de alta tecnología, un patrón útil para pensar cómo escalar productos innovadores hacia mercados más amplios.",
       "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 2,
+      "categoria": "Estrategia",
+      "titulo_es": "Meta libera el código de Muse para que terceros lo integren en cualquier dispositivo del hogar",
+      "resumen": "Meta anunció que pondrá a disposición de forma gratuita el código de Muse, su plataforma de IA para el hogar, con el objetivo de que fabricantes independientes la integren en televisores, electrodomésticos y otros dispositivos. La estrategia replica el modelo de Android: ceder el software para ganar escala de ecosistema y convertir a Meta en la capa de IA de los hogares conectados. Es un movimiento que busca contrarrestar a Amazon Alexa y Google Home con una apuesta de plataforma abierta.",
+      "por_que_importa": "Entender por qué Meta elige abrir su tecnología en lugar de cobrar por ella es una lección de estrategia de plataformas y efectos de red que aplica directamente al diseño de nuevos modelos de negocio digitales.",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "fuente": "TechCrunch"
     }
   ]
