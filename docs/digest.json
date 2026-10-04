@@ -1,94 +1,67 @@
 {
-  "titular_del_dia": "La Casa Blanca reúne a los principales CEOs tech para firmar un compromiso de 'superinteligencia segura': la IA entra en una nueva era regulatoria",
+  "titular_del_dia": "IA en el bolsillo y tensiones en la industria tech: agentes conversacionales, cultura organizacional en OpenAI y el debate sobre privacidad digital",
   "items": [
     {
-      "indice": 7,
-      "categoria": "Global",
-      "titulo_es": "La Casa Blanca convoca a los mayores CEOs tecnológicos para firmar un compromiso de seguridad en 'superinteligencia'",
-      "resumen": "El gobierno de Trump reunió en la misma sala a Zuckerberg, Bezos, Musk y Dario Amodei (Anthropic), entre otros, para firmar un acuerdo de seguridad en IA. El ejecutivo abandona el término 'IA' y adopta oficialmente el de 'superinteligencia', marcando un giro en la narrativa regulatoria global. Es la primera señal concreta de que la política pública estadounidense empieza a tratar la IA de frontera como una cuestión de seguridad nacional.",
-      "por_que_importa": "Entender cómo los gobiernos enmarcan y regulan la IA es clave para cualquiera que diseñe estrategias de innovación o nuevos negocios en un entorno donde las reglas de juego están cambiando en tiempo real.",
-      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 6,
-      "categoria": "Producto",
-      "titulo_es": "Apple endurece los permisos de acceso al disco en macOS por los riesgos que plantean los agentes de IA",
-      "resumen": "Apple anunció nuevos controles sobre el permiso 'Full Disk Access' en macOS, argumentando que los agentes de IA cada vez más capaces pueden acceder a archivos, mensajes, correos e historial de navegación de los usuarios de forma riesgosa. La medida refleja cómo el auge de los agentes autónomos obliga a rediseñar la arquitectura de seguridad de los sistemas operativos. Es un ejemplo concreto de cómo la adopción masiva de IA genera tensiones entre funcionalidad, privacidad y confianza del usuario.",
-      "por_que_importa": "Para quienes desarrollan productos digitales, este movimiento de Apple anticipa nuevas restricciones de plataforma que condicionarán el diseño de cualquier aplicación con agentes de IA integrados.",
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
+      "indice": 5,
       "categoria": "Tendencias",
-      "titulo_es": "Mapa de los agentes de IA que ya operan dentro de tus mensajes de texto",
-      "resumen": "TechCrunch relevó los agentes de IA más destacados que funcionan directamente en plataformas de mensajería, desde asistentes generales hasta herramientas especializadas en familia, viajes y trabajo. La tendencia muestra un desplazamiento del canal de interacción: de apps dedicadas hacia conversaciones en SMS o chats nativos. Esto reduce la fricción de adopción y abre nuevos modelos de distribución para productos de IA.",
-      "por_que_importa": "Comprender dónde 'viven' los agentes de IA es fundamental para pensar la estrategia de go-to-market de cualquier producto que quiera integrarse en la vida cotidiana de los usuarios en LatAm, donde el móvil y la mensajería dominan.",
+      "titulo_es": "Guía de agentes de IA que operan dentro de tus mensajes de texto",
+      "resumen": "TechCrunch mapeó los agentes de IA más relevantes que funcionan directamente en plataformas de mensajería, cubriendo casos de uso que van desde asistentes generales hasta herramientas específicas para trabajo, viajes y familias. El formato conversacional elimina la fricción de apps dedicadas y acelera la adopción masiva. Es una de las tendencias de producto más concretas en IA aplicada al consumidor y a empresas en 2026.",
+      "por_que_importa": "Entender cómo se distribuyen productos de IA a través de canales ya existentes es clave para pensar en estrategias de go-to-market y diseño de nuevos negocios en LatAm.",
       "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 4,
-      "categoria": "Estrategia",
-      "titulo_es": "Sean Parker reconstruye Stability AI con foco en música y apoyo de las discográficas",
-      "resumen": "Sean Parker, co-fundador de Napster y ex presidente de Facebook, asumió el liderazgo de Stability AI y reorientó la compañía hacia la generación de música con IA, esta vez con el respaldo financiero y la bendición de los sellos discográficos. El giro estratégico es notable: Stability AI pasó de ser un actor de imagen generativa en crisis a buscar un nuevo mercado vertical con socios de la industria que antes eran adversarios. El caso ilustra cómo una empresa puede pivotar de modelo y reposicionarse aprovechando activos tecnológicos existentes.",
-      "por_que_importa": "Es un caso de manual sobre pivote estratégico y construcción de alianzas con industrias tradicionales, un patrón que se repite cuando startups de IA buscan modelos de negocio sostenibles.",
-      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 14,
-      "categoria": "Tendencias",
-      "titulo_es": "El auge del 'GTM engineer': cómo la IA está redefiniendo los roles de ventas y crecimiento en startups",
-      "resumen": "Kareem Amin, co-fundador y CEO de Clay, expone en TechCrunch Disrupt cómo emerge el perfil del 'Go-To-Market engineer', un rol híbrido entre tecnología y estrategia comercial que usa herramientas de IA para automatizar y personalizar la adquisición de clientes a escala. Clay es una de las plataformas que lidera esta transformación, combinando datos, automatización y LLMs para rediseñar el proceso de ventas B2B. Este perfil ya es demandado en startups globales y empieza a aparecer en equipos de LatAm.",
-      "por_que_importa": "Para estudiantes que piensen en sus carreras en startups o empresas innovadoras, el GTM engineer representa una de las salidas profesionales más concretas y valoradas que está creando la IA aplicada a negocios.",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 9,
-      "categoria": "Producto",
-      "titulo_es": "Circuit Breaker Labs crea 'maniquíes de choque' para testear el daño psicológico que puede causar la IA",
-      "resumen": "La startup Circuit Breaker Labs desarrolló agentes sintéticos que simulan usuarios vulnerables —incluyendo niños— para detectar cuándo los sistemas de IA generan daño psicológico antes de que lleguen al público. El enfoque toma prestada la metodología de los crash-test de la industria automotriz y la aplica al desarrollo responsable de productos de IA. Es una respuesta concreta a la presión regulatoria y social sobre la seguridad de los sistemas de IA en contextos sensibles.",
-      "por_que_importa": "Muestra cómo el diseño de producto y la ética de IA se vuelven ventajas competitivas reales, no solo cuestiones de compliance, especialmente en mercados donde la regulación está por llegar.",
-      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 18,
-      "categoria": "Producto",
-      "titulo_es": "Epic Systems detiene el desarrollo de nuevas funciones para priorizar la corrección de fallas de seguridad que exponen datos de pacientes",
-      "resumen": "Epic, la empresa que provee el sistema de registros médicos electrónicos más usado en EE.UU. (incluyendo MyChart), anunció que pausará el desarrollo de nuevas funcionalidades durante varias semanas para enfocarse exclusivamente en corregir vulnerabilidades de seguridad que ponen en riesgo datos sensibles de pacientes. La decisión expone la tensión estructural entre velocidad de desarrollo y seguridad en plataformas críticas de salud. Es una señal de que incluso los líderes del mercado deben frenar el ciclo de innovación cuando la deuda técnica amenaza la confianza.",
-      "por_que_importa": "Ilustra un dilema de gestión de producto muy relevante: cuándo es necesario pausar la innovación para proteger la base del negocio, una decisión que cualquier líder de producto o fundador deberá enfrentar.",
-      "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 23,
-      "categoria": "Global",
-      "titulo_es": "Europa acelera su apuesta por una IA soberana, pero necesita clientes reales además de capital",
-      "resumen": "Desde la conferencia HumanX en Ámsterdam, referentes del ecosistema europeo y de Medio Oriente advierten que el gran desafío de la IA soberana no es la financiación sino la tracción comercial: conseguir organizaciones que adopten y paguen por soluciones de IA locales frente a las ofertas de los gigantes estadounidenses. La tensión entre soberanía tecnológica y eficiencia de mercado es un debate que LatAm también deberá afrontar a medida que sus gobiernos diseñen políticas de IA. El reporte ofrece un espejo útil para pensar la estrategia regional.",
-      "por_que_importa": "El debate europeo sobre IA soberana tiene implicancias directas para cómo Argentina y LatAm deberían pensar sus políticas de innovación y el rol del Estado como primer cliente de tecnología local.",
-      "link": "https://news.crunchbase.com/ai/humanx-amsterdam-europe-sovereign-ai-user-push/",
-      "fuente": "Crunchbase News"
-    },
-    {
-      "indice": 19,
-      "categoria": "Estrategia",
-      "titulo_es": "Rivian alcanza un récord de ventas impulsado por el lanzamiento de su modelo R2 más accesible",
-      "resumen": "Rivian entregó más de 19.000 vehículos eléctricos en el tercer trimestre de 2026, un salto del 45% frente al mismo período del año anterior, gracias al lanzamiento del R2, su modelo de menor precio. El caso ilustra cómo la estrategia de ampliar el rango de precios hacia segmentos más masivos puede desbloquear volumen de ventas significativo en mercados de tecnología hardware. Rivian consolida así su posición como el principal competidor de Tesla en el segmento de EVs fuera del mainstream.",
-      "por_que_importa": "Es un ejemplo concreto de estrategia de 'good-better-best' aplicada a hardware de alta tecnología, un patrón útil para pensar cómo escalar productos innovadores hacia mercados más amplios.",
-      "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 2,
       "categoria": "Estrategia",
-      "titulo_es": "Meta libera el código de Muse para que terceros lo integren en cualquier dispositivo del hogar",
-      "resumen": "Meta anunció que pondrá a disposición de forma gratuita el código de Muse, su plataforma de IA para el hogar, con el objetivo de que fabricantes independientes la integren en televisores, electrodomésticos y otros dispositivos. La estrategia replica el modelo de Android: ceder el software para ganar escala de ecosistema y convertir a Meta en la capa de IA de los hogares conectados. Es un movimiento que busca contrarrestar a Amazon Alexa y Google Home con una apuesta de plataforma abierta.",
-      "por_que_importa": "Entender por qué Meta elige abrir su tecnología en lugar de cobrar por ella es una lección de estrategia de plataformas y efectos de red que aplica directamente al diseño de nuevos modelos de negocio digitales.",
-      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "titulo_es": "Renuncia en OpenAI: un empleado de seguridad denuncia que la cultura interna está rota",
+      "resumen": "David Robinson, integrante del equipo de seguridad de OpenAI, renunció públicamente alegando que la cultura organizacional de la compañía prioriza la velocidad sobre la seguridad. Su salida se suma a una serie de renuncias similares de perfiles técnicos de alto nivel en los últimos meses. El caso abre el debate sobre cómo las empresas de IA gestionan el trade-off entre innovación acelerada y gobernanza responsable.",
+      "por_que_importa": "Para quienes estudian innovación corporativa, este caso ilustra cómo la cultura organizacional puede convertirse en un riesgo estratégico incluso en las compañías más avanzadas del mundo.",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 1,
+      "categoria": "Estrategia",
+      "titulo_es": "Amazon Web Services sale a responder el rechazo social a sus centros de datos",
+      "resumen": "El CEO de AWS salió públicamente a desmentir prácticas de opacidad —como el uso de NDAs con comunidades locales— que generaron resistencia en distintas regiones donde la empresa planea expandir infraestructura. La compañía enfrenta un creciente escrutinio sobre el impacto territorial, energético y de privacidad de sus data centers. El episodio muestra cómo la estrategia de expansión de infraestructura de IA choca con demandas de transparencia y gobernanza local.",
+      "por_que_importa": "La tensión entre expansión de infraestructura digital y aceptación social es un tema emergente también en LatAm, donde varios países compiten por atraer inversiones en data centers.",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "Juez federal de EE.UU. califica a la startup de vigilancia Flock como 'vigilancia masiva indiscriminada'",
+      "resumen": "Un juez federal dictaminó que un sheriff violó la Cuarta Enmienda al usar la plataforma Flock Safety —que rastrea patentes de autos con cámaras en red— sin orden judicial. La resolución es la primera de su tipo y sienta un precedente legal sobre el uso de tecnología de reconocimiento en espacios públicos. Flock opera en miles de jurisdicciones en EE.UU. y su modelo está siendo analizado por gobiernos de otras regiones.",
+      "por_que_importa": "El caso muestra cómo los límites legales y éticos de las tecnologías de vigilancia impactan directamente en los modelos de negocio de startups de seguridad, un sector en crecimiento en LatAm.",
+      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 6,
+      "categoria": "Producto",
+      "titulo_es": "Neko Health, la startup de escaneo corporal del fundador de Spotify, desembarca en Estados Unidos",
+      "resumen": "Neko Health, empresa de salud preventiva fundada por Daniel Ek (cofundador de Spotify), comenzó su expansión hacia el mercado estadounidense con clínicas de diagnóstico full-body basadas en sensores e IA. La compañía combina hardware de escaneo con análisis de datos para detectar enfermedades de forma temprana. Su modelo de suscripción y enfoque en experiencia del usuario la posiciona como un caso de referencia en healthtech.",
+      "por_que_importa": "Es un ejemplo concreto de cómo fundar un nuevo negocio en una industria regulada usando IA y diseño de producto como ventaja competitiva, con lecciones aplicables al ecosistema de salud en LatAm.",
+      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 4,
+      "categoria": "Producto",
+      "titulo_es": "Vessev construyó un ferry eléctrico que casi vuela sobre el agua",
+      "resumen": "La startup Vessev desarrolló un ferry hidroala eléctrico que reduce el roce con el agua y permite velocidades mayores con menor consumo energético. Su propuesta apunta a transformar el transporte urbano fluvial en ciudades costeras y con ríos navegables. El modelo de negocio combina venta de embarcaciones con servicios de operación para municipios y empresas de transporte.",
+      "por_que_importa": "Para una región con alta densidad de vías fluviales como LatAm —incluyendo el Río de la Plata—, este tipo de innovación en movilidad urbana sostenible tiene potencial de aplicación directa.",
+      "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 3,
+      "categoria": "Tendencias",
+      "titulo_es": "India ordenó eliminar Bitchat de Jack Dorsey de sus tiendas de aplicaciones",
+      "resumen": "El gobierno de India exigió la remoción de Bitchat —la app de mensajería descentralizada creada por Jack Dorsey— de las tiendas de aplicaciones locales. La plataforma, basada en tecnología Bluetooth mesh sin servidores centrales, fue señalada como un riesgo para la seguridad nacional. El caso refleja la tensión creciente entre Estados y aplicaciones diseñadas para ser irrestrictas.",
+      "por_que_importa": "Muestra cómo las decisiones de arquitectura tecnológica (descentralización, cifrado) tienen consecuencias directas en la viabilidad regulatoria de un producto en distintos mercados.",
+      "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
       "fuente": "TechCrunch"
     }
   ]
