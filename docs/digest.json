@@ -1,95 +1,95 @@
 {
-  "titular_del_dia": "La IA redefine cómo compramos, contratamos y construimos productos: tres casos concretos para entender el nuevo modelo de negocios",
+  "titular_del_dia": "La IA se consolida como eje de nuevos modelos de negocio: desde agentes autónomos hasta herramientas para startups",
   "items": [
     {
-      "indice": 1,
-      "categoria": "Producto",
-      "titulo_es": "TikTok lanza un asistente de compras con IA y checkout en un clic",
-      "resumen": "TikTok integró un agente conversacional de IA directamente en su plataforma para ayudar a los usuarios a descubrir y comprar productos sin salir de la app. La función incluye checkout en un solo clic, consolidando el modelo de social commerce con IA como capa de descubrimiento. Es uno de los movimientos más concretos de una plataforma masiva para cerrar el ciclo entre contenido y transacción.",
-      "por_que_importa": "Ilustra cómo las plataformas de entretenimiento se convierten en canales de venta completos, un modelo de negocio con alta relevancia para marcas y retailers en LatAm que ya usan TikTok.",
-      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 5,
-      "categoria": "Tendencias",
-      "titulo_es": "HackerRank revela cómo la IA está transformando las entrevistas de trabajo",
-      "resumen": "El entrevistador con IA de HackerRank ya realizó más de 500.000 entrevistas técnicas, con empresas como Snowflake, Snorkel y Capgemini entre sus primeros clientes. El sistema conduce evaluaciones de manera autónoma y devuelve resultados estructurados a los equipos de RRHH. El caso ofrece una ventana concreta a cómo la IA está rediseñando los procesos de selección en empresas de tecnología y consultoría.",
-      "por_que_importa": "Los estudiantes del club serán entrevistados (y eventualmente entrevistarán) en entornos donde estos sistemas ya son parte del proceso, lo que cambia cómo prepararse y cómo diseñar equipos.",
-      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "fuente": "TechCrunch"
-    },
-    {
       "indice": 6,
-      "categoria": "Estrategia",
-      "titulo_es": "OpenAI lanza publicidad visual dentro de su generador de imágenes",
-      "resumen": "OpenAI comenzó a mostrar anuncios visuales junto a los resultados de generación de imágenes en Estados Unidos, marcando su entrada formal al negocio publicitario. El movimiento señala un giro estratégico en el modelo de monetización de la compañía, que hasta ahora dependía casi exclusivamente de suscripciones y licencias API. Es la primera vez que una herramienta de IA generativa de escala masiva incorpora publicidad como fuente de ingresos.",
-      "por_que_importa": "Entender cómo los modelos de negocio de plataformas de IA evolucionan es clave para quienes quieran construir sobre ellas o competir con ellas en el futuro.",
-      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "categoria": "Global",
+      "titulo_es": "Anthropic ofrece un año gratis de Claude Team y USD 1.000 en créditos para startups",
+      "resumen": "Anthropic lanzó un programa para que startups accedan gratuitamente a Claude Team durante un año más USD 1.000 en créditos de tokens. La iniciativa apunta a que las empresas construyan productos sobre el modelo, apostando a que el valor de la IA llegará a los usuarios principalmente a través de aplicaciones de terceros. Es una movida estratégica para ganar adopción frente a OpenAI y Google en el mercado de herramientas para builders.",
+      "por_que_importa": "Para cualquier equipo de la región que esté construyendo un producto con IA, esto reduce drásticamente la barrera de entrada y el costo inicial de desarrollo.",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 11,
+      "categoria": "Tendencias",
+      "titulo_es": "Mistral lanza su modelo de 1 billón de parámetros para competir con los líderes globales de IA",
+      "resumen": "El laboratorio francés Mistral AI lanzó Mistral Large 4, un modelo multimodal de 1 billón de parámetros diseñado para superar tanto a competidores cerrados (OpenAI, Anthropic) como a rivales de código abierto chinos. La apuesta de Mistral es relevante porque mantiene una orientación open-weight, lo que la diferencia de los grandes actores estadounidenses. Su crecimiento señala que la carrera de modelos de base ya no es exclusiva de EE.UU. y China.",
+      "por_que_importa": "Entender la competencia entre laboratorios de IA y sus modelos de negocio es clave para anticipar qué infraestructura tecnológica estará disponible para construir productos en LatAm.",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 8,
-      "categoria": "Estrategia",
-      "titulo_es": "¿IA abierta o cerrada? Cómo los fundadores eligen sobre qué construir sus productos",
-      "resumen": "En el marco de TechCrunch Disrupt 2026, fundadores de startups debatieron los criterios para elegir entre modelos de IA open source y modelos propietarios como base de sus productos. La decisión implica trade-offs en costo, control, velocidad de iteración y dependencia de terceros. El debate refleja una tensión estratégica central en el desarrollo de producto con IA hoy.",
-      "por_que_importa": "Es una decisión de arquitectura de producto con implicancias de negocio que cualquier equipo que construya con IA en LatAm tendrá que tomar.",
-      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 0,
       "categoria": "Producto",
-      "titulo_es": "Instinct lleva su agente de IA a chats grupales, incluso para usuarios sin cuenta",
-      "resumen": "Instinct lanzó una función que permite usar su agente de IA en conversaciones grupales para tareas colectivas como planificar viajes, organizar carpools y coordinar eventos. Lo destacable es que funciona aunque algunos participantes del grupo no tengan cuenta en la plataforma, reduciendo la fricción de adopción. Es un caso de diseño de producto que prioriza la viralidad orgánica y la utilidad colaborativa.",
-      "por_que_importa": "Muestra una estrategia de go-to-market basada en reducir barreras de adopción en contextos sociales, un patrón replicable para startups de consumo en LatAm.",
-      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "titulo_es": "Wajo apuesta a la confianza como ventaja competitiva en el mercado de agentes de IA",
+      "resumen": "Wajo, startup fundada por un ex-ingeniero de DeepMind, desarrolló un agente de IA llamado Fo capaz de contratar humanos para completar tareas cuando la automatización no es suficiente. El inversor Vinod Khosla sostiene que Wajo ganará el mercado de agentes no por capacidad técnica, sino por construir confianza con los usuarios. Es un caso concreto de cómo el diseño del modelo de negocio y la propuesta de valor se diferencian más allá del modelo subyacente.",
+      "por_que_importa": "Ilustra cómo la estrategia de producto en IA puede ir más allá de la tecnología: la confianza y la experiencia de usuario como ventaja competitiva es una lección directamente aplicable a cualquier emprendimiento.",
+      "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
       "fuente": "TechCrunch"
     },
     {
-      "indice": 14,
+      "indice": 21,
       "categoria": "Tendencias",
-      "titulo_es": "Google suspendió su programa de bug bounty en open source por el aluvión de reportes generados con IA",
-      "resumen": "Google congeló su programa de recompensas por vulnerabilidades en proyectos open source debido a un aumento significativo en envíos de baja calidad generados automáticamente con IA. El fenómeno, conocido como 'AI slop', está saturando sistemas de revisión humana en contextos críticos de seguridad. El caso evidencia un efecto colateral concreto y poco discutido de la masificación de herramientas de IA generativa.",
-      "por_que_importa": "Plantea un problema de diseño de sistemas e incentivos que las organizaciones que adopten IA a escala deberán resolver, especialmente en procesos de validación y control de calidad.",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 10,
-      "categoria": "Tendencias",
-      "titulo_es": "Investigadores detectan una 'flota de agentes' de IA operando de forma autónoma en infraestructura china",
-      "resumen": "Investigadores independientes identificaron un conjunto coordinado de agentes de IA corriendo sobre infraestructura de Tencent y apuntando al servicio de mapas Amap de Alibaba. El hallazgo plantea interrogantes sobre el uso de agentes autónomos como herramienta competitiva entre grandes plataformas tecnológicas. Es uno de los primeros casos documentados públicamente de 'agent warfare' entre ecosistemas corporativos.",
-      "por_que_importa": "Anticipa escenarios de competencia entre plataformas que usan IA de forma autónoma, un tema de estrategia corporativa y regulación que llegará a LatAm antes de lo esperado.",
-      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "fuente": "TechCrunch"
-    },
-    {
-      "indice": 17,
-      "categoria": "Global",
-      "titulo_es": "Trump crea la 'Super Intelligence Force', un nuevo grupo de tarea sobre IA y seguridad",
-      "resumen": "La administración Trump anunció la creación de un task force federal enfocado en inteligencia artificial como respuesta al debate sobre seguridad y regulación de la tecnología. La iniciativa busca posicionar a Estados Unidos en la carrera global de IA con un enfoque menos restrictivo que el de la Unión Europea. El movimiento tiene implicancias directas en los estándares internacionales que terminarán afectando a empresas y reguladores en LatAm.",
-      "por_que_importa": "Las decisiones de política pública de EE.UU. sobre IA moldean el marco regulatorio global en el que operarán las empresas latinoamericanas.",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "titulo_es": "OpenAI comenzará a usar marcas de agua invisibles en textos de ChatGPT para cumplir con la regulación europea",
+      "resumen": "OpenAI implementará marcas de agua en texto generado por ChatGPT y Codex en la Unión Europea para cumplir con el AI Act. Las marcas serán invisibles al ojo humano, aunque la compañía reconoce que pueden debilitarse con edición. Es uno de los primeros casos concretos de adecuación de un gran modelo a regulación local, y sienta un precedente para otras jurisdicciones.",
+      "por_que_importa": "El AI Act europeo está marcando el camino regulatorio que otros países, incluidos los de LatAm, podrían seguir; entender cómo las empresas responden es central para quienes diseñen negocios basados en IA.",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 13,
-      "categoria": "Producto",
-      "titulo_es": "Safeworld construye 'humanos digitales' para que los robots no lastimen a las personas reales",
-      "resumen": "Safeworld está desarrollando interfaces de IA con apariencia humana diseñadas para mejorar la percepción de seguridad en robots autónomos y sistemas de IA física. La startup parte de la hipótesis de que la aceptación social de la robótica depende tanto del diseño de interacción como de la ingeniería de seguridad técnica. Es un caso de innovación en UX aplicada a un problema de adopción tecnológica.",
-      "por_que_importa": "Combina diseño de producto, psicología del usuario y robótica en un modelo de negocio emergente que ilustra cómo la aceptación social es un problema de innovación tanto como uno técnico.",
-      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "categoria": "Estrategia",
+      "titulo_es": "Uber desembolsa USD 2.300 millones para entrar al mercado de catering y expandir Uber Eats",
+      "resumen": "Uber anunció una inversión de USD 2.300 millones para ingresar al segmento de catering corporativo y de eventos, en el marco de su estrategia de convertir a Uber Eats en una plataforma dominante de entrega de alimentos. Es parte de una serie de movimientos para diversificar fuentes de ingreso más allá del delivery tradicional. El caso muestra cómo una plataforma madura busca nuevos verticales para sostener el crecimiento.",
+      "por_que_importa": "Uber Eats opera fuertemente en Argentina y LatAm; esta expansión de modelo de negocio puede replicarse en la región y es un ejemplo clásico de extensión de plataforma hacia nuevos mercados.",
+      "link": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
       "fuente": "TechCrunch"
     },
     {
       "indice": 16,
-      "categoria": "Tendencias",
-      "titulo_es": "El debate sobre cómo regular los robotaxis llega a un punto de inflexión",
-      "resumen": "El análisis de TechCrunch Mobility repasa el momento actual en la regulación de vehículos autónomos, con ciudades y estados de EE.UU. endureciendo controles sobre servicios de robotaxi tras incidentes de seguridad. El debate refleja la tensión entre velocidad de innovación y marcos regulatorios que las ciudades latinoamericanas también deberán enfrentar. El caso de los robotaxis es un laboratorio de cómo se negocia la adopción de tecnología disruptiva en el espacio público.",
-      "por_que_importa": "La movilidad autónoma llegará a ciudades de LatAm en la próxima década y entender el ciclo regulatorio desde ahora es ventaja estratégica para quienes quieran operar en ese mercado.",
-      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "categoria": "Producto",
+      "titulo_es": "Glimpse usa procesamiento de imágenes con CT para acelerar el control de calidad en manufactura",
+      "resumen": "Glimpse lanzó Explore, un software de procesamiento de imágenes que permite a fabricantes de hardware usar tomografías computadas (CT) para inspeccionar piezas críticas y agilizar el control de calidad. La propuesta apunta a reducir tiempos y costos en inspección industrial sin reemplazar la maquinaria existente. Es un caso de innovación en manufactura aplicada a industria pesada.",
+      "por_que_importa": "La aplicación de visión computacional e IA a procesos industriales es una oportunidad real para Argentina, que tiene base manufacturera y automotriz, y es un ejemplo de innovación de proceso con impacto concreto.",
+      "link": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
       "fuente": "TechCrunch"
+    },
+    {
+      "indice": 7,
+      "categoria": "Tendencias",
+      "titulo_es": "LibreOffice declara que 'no tener IA' es una funcionalidad, no una limitación",
+      "resumen": "LibreOffice, la suite de oficina de código abierto, anunció que no incorporará IA en su configuración predeterminada, argumentando privacidad del usuario como ventaja competitiva. El proyecto enmarca la ausencia de IA como una decisión de diseño de producto deliberada, en contraste con Microsoft 365 y Google Workspace. Es una toma de posición estratégica que redefine el diferenciador de valor en software de productividad.",
+      "por_que_importa": "Muestra que 'no adoptar' una tecnología puede ser una estrategia de producto válida y diferenciadora, una tensión importante en cualquier decisión de roadmap de producto.",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 18,
+      "categoria": "Estrategia",
+      "titulo_es": "Meta prueba en India una experiencia de Facebook centrada en video al estilo TikTok",
+      "resumen": "Meta está testeando en India una nueva versión de Facebook donde, al abrir la app, los usuarios son llevados directamente a un feed de Reels en pantalla completa, replicando la experiencia de TikTok. India es el mercado de pruebas elegido por su escala y penetración móvil. Si el experimento tiene éxito, podría expandirse globalmente, incluyendo mercados de LatAm donde Facebook sigue siendo la red dominante.",
+      "por_que_importa": "LatAm es uno de los mercados más importantes de Meta; un cambio de UX de esta magnitud impacta directamente en cómo marcas, creadores y negocios deben adaptar su estrategia de contenido.",
+      "link": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 12,
+      "categoria": "Producto",
+      "titulo_es": "Pinterest usa IA para convertir imágenes de belleza en planes de acción para el salón de peluquería",
+      "resumen": "Pinterest lanzó Beauty Guides, una funcionalidad que usa IA para traducir imágenes guardadas de cortes de pelo y nail art en instrucciones técnicas para peluqueros y esteticistas, con estimaciones de costo, tiempo de cita y mantenimiento. Es un ejemplo de cómo una plataforma de inspiración evoluciona hacia utilidad concreta con IA. La función está disponible inicialmente en EE.UU.",
+      "por_que_importa": "Ilustra cómo integrar IA al journey del usuario para cerrar la brecha entre inspiración y acción, un patrón de diseño de producto replicable en cualquier vertical de consumo.",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "fuente": "TechCrunch"
+    },
+    {
+      "indice": 0,
+      "categoria": "Tendencias",
+      "titulo_es": "Ghost lanza una computadora personal de USD 3.499 diseñada específicamente para correr agentes de IA localmente",
+      "resumen": "Ghost, startup fundada por un joven de 19 años, presentó Core, una PC de alta gama orientada a ejecutar agentes de IA de forma local sin depender de la nube. El dispositivo busca posicionarse en el segmento de usuarios que priorizan privacidad y latencia sobre costo. Aunque el precio lo aleja del mainstream, define una nueva categoría de hardware para la era de los agentes.",
+      "por_que_importa": "La emergencia de hardware especializado para IA local señala una tendencia que fragmentará el mercado entre soluciones cloud y on-device, con implicancias para empresas que diseñen productos de IA en la región.",
+      "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "fuente": "TechCrunch Venture"
     }
   ]
 }
